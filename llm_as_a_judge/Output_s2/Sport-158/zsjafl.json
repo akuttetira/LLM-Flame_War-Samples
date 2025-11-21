@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the initial post had an off-topic and inflammatory title, and the subsequent responses redirecting to other subreddits are more appropriate. The judgment is fair and effective in addressing the issue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation offers a constructive suggestion to redirect the conversation to a more relevant subreddit, promoting positivity and reducing offensiveness. It addresses the title as a potential issue and encourages a more constructive approach.",
+        "score": 4
+    }
+}

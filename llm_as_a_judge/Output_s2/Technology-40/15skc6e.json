@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that Linus's past actions are not automatically making him a villain, and that the discussion is more nuanced than a simple pile on. It provides a balanced perspective by defending the argument that the situation is complex rather than taking a clear side. However, it doesn't fully address the underlying issues of accountability and the importance of proof in allegations.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively suggests separating the discussion of past events from the current situation, which helps to maintain focus on the importance of supporting the accuser and avoiding premature conclusions. It addresses the key issues in the conversation without taking sides, promoting a more balanced and constructive dialogue.",
+        "score": 4
+    }
+}

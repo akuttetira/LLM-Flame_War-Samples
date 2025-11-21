@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument linking /LoveForAnimesexuals and /LoveForLandlords to /LaughingAtPalestine is more convincing, acknowledging the potential for hate and intolerance in these subreddits. It provides a balanced perspective without taking a definitive stance on the correctness of the argument, which is appropriate for a neutral judgment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced perspective, acknowledging that /LoveForAnimesexuals might be an anomaly while suggesting a focus on more obvious hate sub /LoveForLandlords. It steers the conversation towards a more productive direction without dismissing the other sub entirely, maintaining neutrality and fairness.",
+        "score": 4
+    }
+}

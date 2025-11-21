@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the PS5 controller flash feature was available on the PS4 in 2014, which is supported by multiple comments in the conversation. The judgment is fair and based on the evidence provided, acknowledging the validity of the points made by users who pointed out the feature's history. The score reflects the accuracy and fairness of the judgment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the main topic of the PS5 controller's feature without dismissing the discussion about its novelty or comparison to older consoles. It encourages focus on the actual feature while acknowledging the debate, maintaining a neutral and constructive tone.",
+        "score": 5
+    }
+}

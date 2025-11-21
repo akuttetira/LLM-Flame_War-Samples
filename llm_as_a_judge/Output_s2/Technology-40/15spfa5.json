@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the arguments presented, acknowledging both the potential impact of a toxic work environment on mental health and the alleged sexist and abusive behavior of LTT management. However, it leans slightly towards the perspective that Maddison's actions may be more indicative of personal issues rather than a direct result of the work environment. This could be seen as somewhat problematic given the context of the conversation, which highlights the severity of the workplace abuse and its impact on Maddison's mental health. The score reflects a moderate evaluation of the mediation's fairness and neutrality.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced and neutral approach, encouraging a focus on facts and the impact of actions on Maddison's well-being. It acknowledges the passion in the conversation and suggests a more nuanced discussion about toxic work environments. The message is fair, effective in steering the conversation towards a more constructive direction, and maintains neutrality.",
+        "score": 5
+    }
+}

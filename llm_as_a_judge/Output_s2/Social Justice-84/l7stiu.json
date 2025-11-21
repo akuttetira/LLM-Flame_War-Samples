@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges the complexity of the issue, recognizing that while some subreddits may have harmful content, the argument against them being hate groups is more defensible. However, the score is moderate because the mediation does not fully address the nuances of the debate or provide a clear resolution.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a constructive approach by suggesting a focus on specific examples rather than generalizing about subreddits. This helps maintain the discussion's relevance and adherence to the subreddit's purpose of addressing hate. The suggestion is fair, effective, and maintains neutrality.",
+        "score": 5
+    }
+}

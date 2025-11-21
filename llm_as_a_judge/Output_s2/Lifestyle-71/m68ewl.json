@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that victim blaming and invalidation are not acceptable in a support subreddit, aligning with community guidelines. It addresses the key issue of inappropriate behavior while maintaining a neutral stance.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a supportive and neutral message that encourages empathy and mutual respect in the conversation. It focuses on supporting each other rather than policing language, which aligns with the subreddit's intent. The message is clear, concise, and appropriate for the context.",
+        "score": 5
+    }
+}

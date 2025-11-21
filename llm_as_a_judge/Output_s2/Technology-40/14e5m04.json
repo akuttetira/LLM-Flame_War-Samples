@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that user dissatisfaction could impact the IPO but also notes that the blackout was not a failure. It provides a balanced view by not fully endorsing either side but rather suggesting that the user unhappiness argument is more defensible. The mediation is fair, neutral, and effective in guiding the conversation towards a more balanced perspective.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges the passionate discourse around Reddit while encouraging a more constructive and fact-based conversation. It promotes separating personal opinions from platform concerns and focuses on constructive dialogue rather than adversarial exchanges. The approach is fair, neutral, and aims to guide the conversation towards a more productive direction.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue and the validity of both perspectives, which is fair and neutral. However, it doesn't clearly determine who is correct, which is necessary for a judgement type.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation suggests focusing on facts and context, which is appropriate given the conversation's nature. However, it could have been more specific in addressing the underlying issues of personal attacks and misinterpretations. The score reflects a moderate level of effectiveness in steering the conversation towards a more constructive direction.",
+        "score": 3
+    }
+}

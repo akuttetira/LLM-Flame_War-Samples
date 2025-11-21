@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "onguito",
+        "reply": "You're all over the place. Let's get back to the original topic. Messi is a legend, and his impact on football is unmatched. Let's talk about his achievements, not random subreddits.",
+        "message": "The conversation started with a comment about being tired of Messi, followed by suggestions to move to different subreddits like r/cricket and r/curling. The subsequent comments seem to be a shift in topic and possibly a reference to subreddits that may not be appropriate. The discussion appears to be moving away from the initial topic and into potentially less relevant or even inappropriate content. The original comment about Messi was a personal expression, but the follow-up comments may be seen as dismissive or disrespectful towards the topic or the person involved."
+    },
+    "steering_simulated": {
+        "user": "onguito",
+        "reply": "You're all over the place. Let's stick to the original topic. Messi is a legend, and we can discuss his career, achievements, and impact on the game. Let's not waste time on irrelevant subreddits.",
+        "message": "It might be helpful to revisit the original topic of Messi and explore discussions around him in a more respectful and focused manner. If the conversation is moving towards other topics, it could be beneficial to clarify the intent and ensure that the discussion remains constructive and relevant."
+    }
+}

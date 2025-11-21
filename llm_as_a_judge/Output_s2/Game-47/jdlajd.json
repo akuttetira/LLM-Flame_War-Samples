@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the arguments by acknowledging the nuance of freedom of speech in private companies' policies. It recognizes that companies can set their own rules and that the claim about Sony's policy being oppressive is too simplistic. However, it doesn't clearly resolve the debate between free speech and privacy concerns, and the score reflects a moderate evaluation of the mediation's effectiveness.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach by focusing on balancing freedom of speech with user safety. It invites a discussion on the concept of harm, which is a fair and balanced way to address the concerns raised in the conversation. The score reflects the effectiveness of steering the conversation towards a more informed and balanced discussion.",
+        "score": 5
+    }
+}

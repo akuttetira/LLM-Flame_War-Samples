@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "BuckChintheRealtor",
+        "reply": "You're right, we should focus on the game. But let's be real, the match is just a small part of the bigger picture. The politics, the culture, the history\u2014everything around it is as important as the actual play. And if you're not paying attention to the facts, then you're not really paying attention to anything at all.",
+        "message": "The conversation contains opinions and personal views, with some participants expressing strong feelings about football, cultural references, and political topics. While there are elements of disagreement and personal attacks, the main focus is on the football match and related commentary. The discussion can be seen as more in the realm of opinion and debate rather than a clear right or wrong stance."
+    },
+    "steering_simulated": {
+        "user": "BuckChintheRealtor",
+        "reply": "You're right, we should focus on the game. But let's be honest, the match is just a small part of the bigger story. The politics, the cultural references, the personal attacks \u2014 it's all part of the same narrative. If you can't handle the truth, maybe you shouldn't be here. Let's talk football, not the wars between nations.",
+        "message": "It might be helpful to focus more on the football match itself and the game's context, rather than getting sidetracked into personal opinions or cultural references. Keeping the conversation respectful and centered on the sport could help maintain a more constructive dialogue."
+    }
+}

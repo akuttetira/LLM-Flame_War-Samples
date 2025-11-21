@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge the situation by suggesting that the employee who reminded the colleague is more in the right. However, the conversation shows that both parties may have been inappropriate. The mediation does not fully consider the context of the nursing home environment or the potential sensitivity of discussing family relationships. It leans towards one side without fully addressing the nuances of the situation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards the specific behaviors that led to the warning, promoting focus on the issue at hand rather than personal opinions or underlying disagreements. It maintains neutrality and encourages a more constructive dialogue.",
+        "score": 5
+    }
+}

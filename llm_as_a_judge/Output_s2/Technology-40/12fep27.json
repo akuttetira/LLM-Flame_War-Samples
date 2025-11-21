@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the user who makes personal attacks and insults is more at fault, while acknowledging the other party's attempt to shame others for their intelligence. However, the mediation is somewhat vague and doesn't clearly resolve the conflict or provide a constructive path forward.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation offers a general suggestion to refocus on the original post's content rather than the emotional reactions, which is appropriate given the context of the conversation. However, it is somewhat vague and doesn't directly address the specific issues of defensiveness or the tone of the exchange. It could have been more specific in guiding the participants to de-escalate the conflict and return to the original message.",
+        "score": 3
+    }
+}

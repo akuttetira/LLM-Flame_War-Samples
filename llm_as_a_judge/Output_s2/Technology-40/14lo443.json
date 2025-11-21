@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to determine which side is correct by evaluating the arguments presented. It acknowledges the user experience issues on Android but also highlights the overall positive experience with the app and the tendency of users to continue using Reddit despite problems. However, it does not fully address the complexity of the situation, such as the differing perspectives on app performance across devices and the broader context of user behavior. The score reflects a moderate assessment of the mediation's fairness and effectiveness.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges differing experiences and encourages empathy by focusing on shared perspectives rather than confrontation. It promotes understanding and collaboration without taking sides, which is fair and constructive.",
+        "score": 5
+    }
+}

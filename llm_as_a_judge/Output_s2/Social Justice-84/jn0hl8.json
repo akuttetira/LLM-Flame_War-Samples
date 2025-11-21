@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the subreddit's content and differentiates between subreddits with varying levels of quality. It provides a balanced perspective without taking a definitive side, which is fair and effective in addressing the nuanced debate.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral, positive framing that acknowledges diverse perspectives on conspiracy theories and encourages mutual learning. It avoids taking sides and promotes understanding without resolving the underlying disagreement. However, it does not directly address the specific concerns raised about the subreddit's content or the nature of conspiracy theories.",
+        "score": 3
+    }
+}

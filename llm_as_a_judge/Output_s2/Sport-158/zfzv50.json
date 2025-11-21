@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the comment about Asian representation is more relevant to the context of Gon\u00e7alo Ramos's face, while the flippant comment is less related. The judgement is fair and provides a clear assessment of which perspective is more appropriate in the context.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the main topic of Gon\u00e7alo Ramos's achievements in the 2022 World Cup, while dismissing off-topic personal opinions about his appearance. It maintains neutrality and focuses on the intended discussion.",
+        "score": 5
+    }
+}

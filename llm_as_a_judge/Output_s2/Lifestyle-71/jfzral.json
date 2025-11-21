@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that calling out toxic behavior and setting boundaries is the right approach, which aligns with the majority of the conversation where individuals share their experiences of dealing with a mother's harmful behavior. The judgment reflects the consensus in the discussion and provides a clear direction for resolution.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a supportive and neutral response that acknowledges the shared experiences and offers helpful suggestions for addressing the issue. It encourages the participants to consider resources like therapy or support groups, which is a constructive and empathetic approach. However, it does not directly address the core issue of toxic behavior or provide specific strategies for dealing with it, which could have made it more effective.",
+        "score": 3
+    }
+}

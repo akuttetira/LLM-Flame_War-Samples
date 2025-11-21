@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the majority of the conversation involves people sharing experiences of being met with kindness and understanding when making mistakes, which aligns with the supportive and empathetic tone of the discussion. The judgement acknowledges the positive responses and contrasts them with dismissive or mocking comments, which is fair and accurate. However, the mediation could have been more neutral by not explicitly stating which side is 'more in the right' without providing a clear standard for judgment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a positive, supportive message that acknowledges the diverse experiences shared in the conversation and encourages mutual learning and support. It is neutral, fair, and effective in steering the conversation towards a more constructive and empathetic direction.",
+        "score": 5
+    }
+}

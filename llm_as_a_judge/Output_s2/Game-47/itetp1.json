@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the argument about the stock price drop, distinguishing between market fluctuations and intentional manipulation. However, the conversation primarily revolves around stock market speculation and rumors, with no clear dispute or factual claim that can be judged as correct or incorrect. The mediation is somewhat neutral but lacks the context to fully assess the validity of the claims made.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a clear and neutral framework for the conversation, encouraging civility, factual discussion, and discouraging personal attacks or speculation. It effectively steers the conversation back to the main topic without taking sides or imposing a specific viewpoint.",
+        "score": 5
+    }
+}

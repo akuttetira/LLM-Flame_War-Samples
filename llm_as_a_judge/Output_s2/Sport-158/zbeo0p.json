@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person defending the referee's kindness and impartiality is more in the right, as the conversation includes a deleted comment from someone who provides specific information about the referee and his behavior. The other participants engage in aggressive and inflammatory exchanges, which are less substantiated and more disrespectful. The judgment acknowledges the more factual and respectful argument.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards a more respectful and constructive direction by emphasizing civil discourse and focusing on the referee's performance. It addresses the toxic exchange without taking sides and encourages a more productive discussion.",
+        "score": 5
+    }
+}

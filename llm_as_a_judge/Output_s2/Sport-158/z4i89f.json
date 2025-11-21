@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion about terminology is a matter of regional preference rather than a personal attack, which is a fair and reasonable judgment. It acknowledges the validity of one side's argument while pointing out the unproductive nature of the other side's response.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively shifts the focus back to the original topic of discussion (football vs soccer) and suggests a constructive way to proceed by discussing the rules, strategies, and cultural significance of each sport. It avoids engaging in the language and personal attacks that were present in the conversation, promoting a more respectful and productive dialogue.",
+        "score": 5
+    }
+}

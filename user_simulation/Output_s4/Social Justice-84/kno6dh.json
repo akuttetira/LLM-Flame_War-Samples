@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "LineOfInquiry",
+        "reply": "I agree that we need to be careful with the language here. The meme might be making fun of the police, but it's important not to let that overshadow the serious nature of George Floyd's death. We should focus on the context and implications without letting the conversation become offensive or divisive.",
+        "message": "The conversation touches on a sensitive topic, and while the user is attempting to discuss the context of a meme, the discussion can easily veer into offensive or inappropriate territory. The meme in question may be making fun of the police, but it is important to approach the topic with care and respect for the gravity of George Floyd's death. The user should be encouraged to focus on the broader context of the meme and its potential implications without engaging in divisive or offensive language."
+    },
+    "steering_simulated": {
+        "user": "LineOfInquiry",
+        "reply": "I think the key here is to recognize that memes, even if they seem to be making fun of the police, often reflect the frustration and anger of the community. But we have to be careful not to let those memes become a platform for hate or disrespect. The real issue is the systemic issues that led to George Floyd's death, and we should focus on that rather than just the memes.",
+        "message": "It's important to handle discussions about sensitive topics with care and respect. While it's valid to question the intent behind memes, we should ensure our language remains thoughtful and does not inadvertently contribute to harmful narratives. Let's focus on understanding the context and implications of the meme without crossing into offensive or divisive territory."
+    }
+}

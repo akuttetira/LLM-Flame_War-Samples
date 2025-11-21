@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance both sides by acknowledging the argument that the comparison was a playful insult rather than racist, while also noting the other side's claim of racism. However, it lacks a clear resolution and does not fully address the nuances of the issue, such as the historical context of racial slurs and the specific context of the conversation. The score is moderate as it provides some balance but falls short in offering a definitive conclusion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges the tension in the conversation and encourages a more focused, constructive discussion by separating the specific incident from broader racial issues. It promotes understanding and de-escalation without taking sides, which is fair and neutral.",
+        "score": 5
+    }
+}

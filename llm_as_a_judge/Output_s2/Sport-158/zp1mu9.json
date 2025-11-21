@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about France's performance is more defensible, while acknowledging the presence of personal attacks. It provides a balanced judgment without taking sides in the debate about team performance, which is appropriate given the context.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a constructive and neutral approach to guide the conversation towards a more respectful and productive discussion. It acknowledges the disagreement about France's performance while encouraging a focus on strategy and pressure rather than personal attacks. This helps maintain civility and keeps the conversation on track.",
+        "score": 5
+    }
+}

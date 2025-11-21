@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the argument about Germany focusing on politics as a strawman and critiques the oversimplification of their performance. It provides a balanced perspective without taking sides, which is fair and effective.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the main issue in the conversation, which is the shift from discussing football performance to political topics. It suggests a more constructive focus on team strategies and performance, which helps to steer the conversation back to the sport. The response is neutral, fair, and provides a clear direction for the discussion without taking sides.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that the subreddit was a cesspool of hate and violence, and that admins knew about it but did nothing. It also addresses the counterargument that conservatives are responsible for the platform's problems, providing a balanced perspective. However, it could have been more neutral in its evaluation of the two sides without taking a clear stance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced perspective, acknowledging the toxicity of the community while also addressing the role of platform design and algorithms. It encourages a more nuanced discussion rather than taking sides, which is fair and effective. However, it could have been more specific in addressing the issues raised in the conversation.",
+        "score": 4
+    }
+}

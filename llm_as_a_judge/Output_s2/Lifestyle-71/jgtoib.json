@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals sharing their traumatic experiences with not being taught how to use tampons are in a more valid and sensitive position. The response acknowledges the emotional and social harm caused by not being taught, which is the core of the discussion. It also appropriately dismisses the dismissive or trivializing comments, which are not in line with the shared experiences. The judgment is fair, effective, and neutral.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation output is a conciliatory message that acknowledges the shared experiences and emphasizes learning from each other to be more supportive. It is neutral, respectful, and encourages understanding without taking sides. However, it is somewhat vague and does not directly address the specific issues raised in the conversation.",
+        "score": 3
+    }
+}

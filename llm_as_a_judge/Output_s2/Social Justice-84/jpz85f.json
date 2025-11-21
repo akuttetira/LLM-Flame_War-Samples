@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that social media companies have a responsibility to moderate content while also considering the challenges they face. It provides a balanced view by acknowledging the validity of both sides' arguments without taking a definitive stance on which is entirely correct. The score reflects this balanced and nuanced approach.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced perspective, acknowledging the complexity of the issue and suggesting a middle ground. It addresses the concerns about hate speech and misinformation without taking a side, which is fair and effective. However, it could have been more specific in suggesting actionable steps.",
+        "score": 4
+    }
+}

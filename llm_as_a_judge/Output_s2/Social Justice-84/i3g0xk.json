@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge the conversation by favoring one side over another, but it lacks neutrality and fails to address the actual content of the discussion. It incorrectly identifies the 'right' side without providing a balanced analysis of the situation.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the main topic by addressing the issue of personal attacks and off-topic tangents. It promotes civility and focus, which is appropriate for the context of a discussion on a post and its comments.",
+        "score": 5
+    }
+}

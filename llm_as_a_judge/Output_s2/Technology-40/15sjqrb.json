@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion involves a balance between questioning Linus's motives and defending him. The generated output acknowledges that those questioning Linus are more in the right, which is supported by the conversation where multiple users provide evidence and arguments about the company's financial situation and Linus's decisions. However, the mediation could have been more neutral by acknowledging the complexity of the situation and the validity of both sides' perspectives.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively encourages participants to focus on factual evidence and constructive solutions rather than getting entangled in speculation and drama. It prompts a balanced discussion by asking for specific evidence and suggestions for improvement, which is fair and neutral. The score reflects the mediation's ability to steer the conversation towards a more productive and fact-based direction.",
+        "score": 5
+    }
+}

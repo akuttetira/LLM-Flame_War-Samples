@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the perspectives of both parties but leans towards LadyCashier's viewpoint without adequately addressing the nuances of the 'rocking the boat' analogy. It fails to provide a balanced analysis of the arguments and instead offers a subjective judgment that may not fairly represent the complexity of the situation.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges both perspectives, allowing for a respectful dialogue without taking sides. It highlights the importance of context in understanding the phrase 'rocking the boat' and encourages mutual learning. The tone is neutral and supportive, fostering a constructive conversation.",
+        "score": 5
+    }
+}

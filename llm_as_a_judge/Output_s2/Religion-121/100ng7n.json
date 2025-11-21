@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the arguments by acknowledging the controversy around Muhammad's marriage to Aisha, but it fails to address the core ethical and historical concerns. It does not provide a clear resolution or neutral perspective, and the judgment leans towards one side without sufficient evidence or context. The score reflects the lack of neutrality and the failure to fully evaluate both sides of the argument.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards key issues of age of consent and power dynamics, while acknowledging the historical context and evolution of Islamic teachings. It promotes a balanced discussion without taking sides, which is fair and neutral.",
+        "score": 5
+    }
+}

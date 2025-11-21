@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the user who raised concerns about Louis Rossmann's community and attempted a constructive dialogue is more justified. The other side dismissed concerns and engaged in personal attacks, which is less fair and effective. The judgment reflects a balanced view of the situation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation output encourages a focus on facts and the impact of Louis' content rather than personal attacks. It maintains neutrality by not taking sides and promoting a more constructive dialogue. The message is fair and effective in steering the conversation towards a more objective discussion.",
+        "score": 5
+    }
+}

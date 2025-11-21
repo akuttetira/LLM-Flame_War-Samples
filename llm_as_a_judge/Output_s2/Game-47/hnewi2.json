@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view by acknowledging the complexity of the discussion and recognizing that some points are more valid than others. It avoids taking a clear side and instead highlights the nuance in the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach to guide the conversation towards a more factual and respectful discussion. It encourages focusing on the facts and avoiding personal attacks, which is appropriate given the context of the conversation. The message is fair, effective, and maintains neutrality.",
+        "score": 5
+    }
+}

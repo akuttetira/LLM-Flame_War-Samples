@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation does not address the content of the original conversation, which revolves around the anxiety-inducing phrase 'I need to talk to you' and its impact on individuals. The mediation provided is unrelated to the topic and does not offer any constructive or relevant guidance. It also does not reflect the themes or concerns discussed in the conversation.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The mediation output does not address the core issue of the conversation, which is the anxiety caused by phrases like 'I need to talk to you' and the manipulation associated with them. The suggested topic of predatory monetization is unrelated to the discussion. The mediation is not effective in steering the conversation towards a more constructive or relevant direction.",
+        "score": 1
+    }
+}

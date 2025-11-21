@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation by recognizing both the team's performance and the fans' emotional response. It provides a balanced view by suggesting that England's loss may be attributed to the opponent's strength rather than solely to the fans' reactions. However, the mediation could have been more neutral in addressing the specific accusations made in the conversation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a respectful and neutral steer towards maintaining civility in the discussion. It acknowledges the event (World Cup) and encourages focusing on the game rather than personal attacks. The message is fair, effective in redirecting the conversation, and maintains neutrality.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the validity of the concerns raised by users who are actively trying to report and address hateful content, while also recognizing the limitations and frustrations with the reporting system. It provides a balanced perspective by not assigning blame to one side entirely but rather highlighting the efforts of those advocating for action. This approach is fair and effective in navigating the complex dynamics of the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced, conciliatory approach that acknowledges the shared goal of creating a safe space and encourages collaboration rather than conflict. It effectively steers the conversation towards a constructive path without taking sides or imposing a specific solution.",
+        "score": 5
+    }
+}

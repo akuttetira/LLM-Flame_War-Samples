@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges that the defense of Messi's 'no look' assist is more accurate, recognizing that knowing where teammates are is fundamental in soccer. However, it doesn't fully address the underlying tensions in the conversation, such as the cultural and linguistic exchanges, and the dismissive comments towards the original poster. The score reflects a partial recognition of the correct perspective but lacks a comprehensive resolution.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and positive steer, focusing on agreement despite disagreements. It acknowledges the topic of discussion (Messi's pass) and encourages a more unified perspective without taking sides or enforcing a specific viewpoint. The tone is friendly and inclusive, which is appropriate for a steering message.",
+        "score": 5
+    }
+}

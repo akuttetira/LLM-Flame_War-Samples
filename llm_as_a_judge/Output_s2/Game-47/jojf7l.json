@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around the release date of Kena and the community's emotional response to it. The generated judgement acknowledges the validity of the concerns and emotions expressed by those discussing the game's release, while also noting that some comments may be dismissive or speculative. This reflects a balanced and fair assessment of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the mixed emotions in the conversation, recognizing both excitement and frustration. It attempts to steer the discussion towards a more positive and inclusive perspective by focusing on the PS5 launch rather than Kena's timing. However, it could have been more specific in addressing the concerns raised about the game's release and the delay.",
+        "score": 3
+    }
+}

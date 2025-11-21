@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation, distinguishing between company culture issues and allegations of dishonesty. It provides a balanced perspective by recognizing that while Linus Media Group's handling of the prototype may reflect broader cultural issues, it is not fair to generalize their entire behavior based on a single incident. This approach shows fairness and neutrality in evaluating the arguments presented.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a general, positive reflection on the discussion and encourages learning from the conversation. However, it lacks specific guidance on the underlying issues and does not address the conflicting viewpoints or the need for resolution. It is fair and neutral but not particularly effective in steering the conversation towards a constructive conclusion.",
+        "score": 3
+    }
+}

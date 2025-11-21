@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges the validity of the argument that every vote counts, as supported by multiple examples in the conversation. It also addresses the concern about voter suppression and disenfranchisement, which are important issues. However, it doesn't fully resolve the underlying disagreement about the effectiveness of voting in a democratic system. The score is moderate as the mediation provides a balanced perspective but doesn't fully address the core disagreement.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the issue of voter suppression but shifts the focus to making voting more accessible and inclusive, which is a fair and constructive approach. It avoids taking sides in the debate about the importance of individual votes and instead promotes a solution-oriented perspective.",
+        "score": 5
+    }
+}

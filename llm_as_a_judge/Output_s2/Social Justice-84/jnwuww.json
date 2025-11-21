@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue by recognizing that the post could be a bad attempt at humor rather than genuine racism. However, it doesn't fully address the harmful nature of the content or provide a clear resolution. The score reflects a moderate assessment of the mediation's fairness and effectiveness in balancing different viewpoints.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges the consensus on hate speech and shifts the focus to addressing the issue constructively. It avoids taking sides and encourages a collaborative approach, which is fair and neutral. The score reflects the mediation's ability to steer the conversation toward a solution without reinforcing divisive arguments.",
+        "score": 5
+    }
+}

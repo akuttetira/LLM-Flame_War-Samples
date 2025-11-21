@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the arguments against ABA being abusive and traumatic for autistic individuals are more substantiated. The conversation includes credible sources and personal experiences from autistic individuals and advocates highlighting the harmful effects of ABA. While there are valid perspectives on family dynamics and caregiving, the focus on ABA's negative impact is supported by evidence and personal accounts from the autistic community.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and supportive tone, encouraging participants to focus on mutual support and understanding rather than debate. It acknowledges the shared experiences of dealing with controlling family members and promotes kindness and empathy. However, it does not directly address the specific issues of ABA therapy or the emotional impact of living with a controlling relative, which could have been more effectively addressed to ensure the conversation remains constructive and helpful.",
+        "score": 3
+    }
+}

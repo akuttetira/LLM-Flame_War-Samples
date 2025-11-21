@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals criticizing normalmisha for being insensitive and racist are in the right, as their concerns are more relevant and respectful compared to the others who were late and dismissive. The judgment is fair and effective in addressing the core issue of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to steer the conversation towards the main issue by pointing out that normalmisha\u2019s comment was hurtful and racist. However, it lacks specific details about the comment and does not provide clear guidance on how to address the issue. It also makes an assumption about the comment without explicit evidence.",
+        "score": 3
+    }
+}

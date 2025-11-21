@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to address the complex issue of human rights and Islamophobia in the conversation, but it doesn't clearly resolve the underlying tensions or provide a balanced perspective. It acknowledges one side's argument but doesn't fully address the other, leading to a somewhat one-sided judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation output provides a neutral and constructive approach by focusing on the specific incident and the definition of hate speech, while encouraging a discussion without personal attacks. It steers the conversation towards a more productive and respectful direction.",
+        "score": 5
+    }
+}

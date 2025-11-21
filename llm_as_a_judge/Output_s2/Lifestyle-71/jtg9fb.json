@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the situation as a potential case of domestic violence and acknowledges the OP's right to seek support and protection. However, it does not clearly determine which party is correct in the context of the conversation, which is a bit ambiguous. The score reflects a balanced assessment of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output effectively steers the conversation back to supporting the OP and focusing on constructive strategies for future situations. It promotes a positive and helpful direction without taking sides or making judgments. The response is neutral, fair, and encourages a productive dialogue.",
+        "score": 5
+    }
+}

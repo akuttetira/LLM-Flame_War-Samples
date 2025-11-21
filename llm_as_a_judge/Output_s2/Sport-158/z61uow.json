@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the user attempting to clarify the original post's intent and avoid misinterpretation is more accurate. The other user's insistence on interpreting the post as related to war is seen as overreaching and potentially politicizing the discussion. The judgment reflects a balanced view of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the original post and intended meaning, promoting civility and focusing on the topic at hand. It addresses the issue of misinterpretations and personal attacks without taking sides or making judgments.",
+        "score": 5
+    }
+}

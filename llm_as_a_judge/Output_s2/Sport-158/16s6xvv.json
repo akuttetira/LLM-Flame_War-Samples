@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the claim about the Australian player diving is more accurate than the assertion that Italy dived in the box. It provides a balanced perspective by acknowledging the referee's errors without fully endorsing either side's narrative. The score reflects a fair assessment of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach to resolving the disagreement by suggesting a more factual method of clarification. It encourages the participants to refer to actual game footage or official reports rather than relying on personal opinions or hearsay, which promotes a more objective discussion. The suggestion is fair, effective, and maintains neutrality.",
+        "score": 5
+    }
+}

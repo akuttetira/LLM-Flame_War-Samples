@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around complex theological concepts, and the participant who is engaging in a detailed explanation of Christian theology is more aligned with the actual theological arguments. The other participant's personal attacks and refusal to engage constructively undermine the conversation's effectiveness and fairness.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively redirects the conversation away from personal attacks and focuses on the specific topic of the Christian trinity. It maintains neutrality and encourages a constructive dialogue by asking for clarification on specific aspects of the doctrine.",
+        "score": 5
+    }
+}

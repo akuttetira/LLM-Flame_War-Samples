@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the perspective of the person questioning the company's handling of the allegations, recognizing that the company's actions may be inadequate. However, it does not fully address the complexities of the situation, such as the need for privacy in investigations and the limitations of external observers' knowledge. The judgment leans towards one side but does not provide a balanced assessment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced approach by acknowledging the frustration and concern in the conversation while steering the discussion towards the current actions the company is taking. It avoids taking sides and encourages focusing on the present investigation rather than past actions, which helps maintain neutrality and prevents the conversation from becoming overly polarized.",
+        "score": 4
+    }
+}

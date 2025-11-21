@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "betoniram_plaze",
+        "reply": "I'm not sure if I'm in a crisis, but I'm definitely in a dark place. I don't know if I can find the strength to move forward, but I'm trying. Thanks for the support, even if it's not what I wanted to hear.",
+        "message": "The conversation highlights deep emotional struggles and mental health challenges, with participants expressing feelings of isolation, depression, and a desire for connection. While some offer support and encouragement, the tone can become harsh or dismissive, which may not be helpful in such a vulnerable context. The discussion also includes a ban for a user identified as a narcissist, which may not be appropriate given the sensitive nature of the topic."
+    },
+    "steering_simulated": {
+        "user": "betoniram_plaze",
+        "reply": "I'm not sure if I'm in a dark place or just a dark person, but I'm glad someone else feels the same. I'm not sure if I'm a narcissist, but I'm definitely not in a good place. I just want to feel seen and heard, not judged or excluded.",
+        "message": "It's important to approach mental health struggles with empathy and understanding. While it's valid to express difficult emotions, the conversation could benefit from more supportive and non-judgmental language. If someone is in a crisis, reaching out to a professional or trusted person is a vital step. Let's focus on offering genuine support and encouragement rather than criticism or exclusion."
+    }
+}

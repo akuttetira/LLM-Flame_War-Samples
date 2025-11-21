@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion centers on the need for better moderation on Reddit and the experiences of users facing harassment and racism on the platform. It acknowledges the validity of the concerns raised by users about the platform's handling of toxic behavior, which is a significant issue. The judgment also recognizes the importance of addressing past actions and advocating for improvement, which aligns with the overall context of the conversation. However, the mediation could have been more neutral in its assessment without taking a clear side.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach by shifting the focus to creating a safer community and finding solutions rather than engaging in debates about irony or sincerity. It encourages collaboration and addresses the core issue of problematic behavior on the platform.",
+        "score": 5
+    }
+}

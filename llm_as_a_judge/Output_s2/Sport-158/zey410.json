@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the comment about wearing a dildo is inappropriate and distracting, while the other comments are about team preferences. The judgment is fair and effective in addressing the inappropriate behavior.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a constructive and respectful response to the potentially inappropriate comment, steering the conversation towards a more positive and civil direction. It maintains neutrality and encourages appropriate team spirit without ridiculing or dismissing the original comment.",
+        "score": 4
+    }
+}

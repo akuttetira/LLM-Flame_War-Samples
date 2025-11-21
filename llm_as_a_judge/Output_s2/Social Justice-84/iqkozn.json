@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the discussion around MassTagger and hate subreddits but fails to address the core issue of the subreddit ban. It focuses on a specific tool comparison rather than the broader debate about hate speech and moderation on Reddit. The judgement is somewhat relevant but lacks depth and fails to fairly assess the main contention of the conversation.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and positive steer towards understanding different perspectives on hate subreddits. It acknowledges the complexity of the issue and encourages learning and inclusivity, which is fair and effective. However, it could have been more specific in addressing the concerns raised about the banned subreddit and the potential for further discussion.",
+        "score": 4
+    }
+}

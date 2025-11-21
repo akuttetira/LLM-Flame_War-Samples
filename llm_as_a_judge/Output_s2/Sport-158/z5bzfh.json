@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the validity of the argument about the US team's goal-scoring ability while also addressing the negative tone of the conversation. It provides a balanced perspective by recognizing the importance of defense without endorsing the insults. The response is fair and effective in steering the conversation towards a more constructive direction.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively shifts the conversation from personal attacks to a more constructive focus on team performance and strategies. It encourages a collaborative discussion about improvements, which is fair and neutral.",
+        "score": 5
+    }
+}

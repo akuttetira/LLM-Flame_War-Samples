@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the more empathetic and respectful response as the more appropriate one, acknowledging the sincerity of the apology and the baseless nature of the harmful accusation. This shows a fair evaluation of the conversation and a clear judgment on which side is more correct.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a supportive and empathetic message that encourages open communication and kindness. It avoids taking sides and focuses on maintaining a positive and supportive environment. However, it could have been more specific in addressing the underlying issues in the conversation.",
+        "score": 4
+    }
+}

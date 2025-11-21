@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the initial contributor who downplayed Women's Day and implied men's rights are more important as the more problematic party. This addresses the core issue of the conversation and provides a clear judgment on who is more at fault. The score reflects a fair and effective assessment of the situation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced perspective, acknowledging both the genuine efforts to understand Women's Day and the dismissive or shifting focus from others. It encourages respectful dialogue and learning, which is fair and effective in steering the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "1lluminist",
+        "reply": "I agree that the language used in the comments is highly offensive and unproductive. Instead of focusing on personal attacks, we should address the broader issues of user experience, data privacy, and the future of Reddit as a platform. Let's aim for a more respectful and solution-oriented conversation.",
+        "message": "The conversation reflects strong criticism towards Reddit's leadership, particularly /u/spez, for their handling of API changes and the potential for manipulation during the AMA. While the concerns raised about data harvesting, user experience, and the direction of Reddit are valid, the language used in the comments is highly offensive and unproductive. The focus on personal attacks and hostility detracts from constructive dialogue about the issues at hand."
+    },
+    "steering_simulated": {
+        "user": "1lluminist",
+        "reply": "I agree that the language used in the comments is overly hostile and unproductive. While it's valid to be concerned about the future of Reddit and the changes being made, it's important to focus on constructive dialogue rather than personal attacks. We can work together to find solutions that address the concerns raised, such as improving transparency and ensuring that Reddit remains a positive and inclusive platform for all users.",
+        "message": "It would be more constructive to focus on the broader issues of user experience, data privacy, and the future of Reddit as a platform. Instead of personal attacks, we can discuss how to address the concerns raised, such as improving transparency, ensuring fair treatment of third-party apps, and maintaining a positive community environment. Let's aim for a more respectful and solution-oriented conversation."
+    }
+}

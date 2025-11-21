@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the comments about Croatia's sports achievements are more defensible, while the inflammatory and classless remarks about the Canadian coach are less justifiable. The judgment acknowledges the context and nuance of the argument, providing a balanced assessment of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards focusing on the specific comments rather than the country or sport, promoting a more neutral and constructive discussion. It also addresses the strong accusation of 'classless' behavior, encouraging reflection and agreement on the tone of the conversation.",
+        "score": 5
+    }
+}

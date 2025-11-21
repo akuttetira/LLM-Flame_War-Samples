@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "sekazi",
+        "reply": "I'm not arguing against the possibility, but the reality is that most people don't have access to the right equipment or the budget for this. The cost of materials alone is a big hurdle. I'm not saying it's impossible, but it's not something that's going to be feasible for the average 3D printer owner. Sony should probably just go with injection molding for consistency and cost-effectiveness.",
+        "message": "The discussion revolves around the feasibility of 3D printing custom PS5 side panels. While some argue that the size and complexity make it impractical for most home 3D printers, others suggest that with proper design and splitting into smaller parts, it could be achievable. The technical challenges are real, but the enthusiasm and creativity around the idea are also evident. The debate is balanced, with valid points on both sides regarding cost, size, and printing capabilities."
+    },
+    "steering_simulated": {
+        "user": "sekazi",
+        "reply": "I agree that the cost is a concern, but I'm not sure about the $5 PLA filament comment. I'm talking about a full side panel, not just a small part. Even with splitting it into 4 flat sheets, the filament cost alone is over $8.61, which is a significant chunk of a spool. Plus, the print time and post-processing add to the overall cost. I think the injection molding approach is still more practical for mass production, but for individual customization, it's a fun challenge.",
+        "message": "It's great to see the passion and creativity in this discussion. While there are valid concerns about the size and cost of 3D printing PS5 panels, it's also worth considering that with the right design and approach, it might be achievable. Let's focus on the potential for innovation and the possibilities that come with sharing designs and ideas. Maybe we can explore how to make this more accessible and practical for a wider range of printers and users."
+    }
+}

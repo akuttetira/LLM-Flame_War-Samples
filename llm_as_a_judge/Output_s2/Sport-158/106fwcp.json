@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Messi\u2019s handball being omitted is more defensible, while acknowledging the hurtful and dismissive responses. It provides a balanced view of the conversation, highlighting the validity of one point while noting the unproductive tone of others.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced approach by encouraging civil discussion and focusing on the topic. It acknowledges the disagreement without resorting to personal attacks and asks for thoughts on the animation and the omission of the handball incident, which helps steer the conversation back to the main subject. The response is neutral and effective in promoting constructive dialogue.",
+        "score": 5
+    }
+}

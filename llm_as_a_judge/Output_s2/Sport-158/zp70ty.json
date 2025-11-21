@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the original comment defending Peter Drury's commentary is more in line with respectful engagement, while the response dismissing the commentator's opinion without engaging is more dismissive and potentially troll-like. The judgement is fair and provides a clear assessment of the interaction.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the original post and focuses on the value of Peter Drury's commentary, promoting a more constructive and positive discussion. It addresses the potential for drama while encouraging reflection on the main topic.",
+        "score": 5
+    }
+}

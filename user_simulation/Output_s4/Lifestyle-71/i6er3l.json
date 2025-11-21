@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "Flock_with_me",
+        "reply": "I completely agree. The OP is in a vulnerable position, and it's crucial to offer support and understanding rather than judgment. Their feelings are valid, and it's important to remind them that they are not to blame for the circumstances beyond their control. Let's focus on healing and compassion instead of criticism.",
+        "message": "The OP is in a difficult situation and is feeling guilty and distressed about the outcome of their foster kittens' condition. It is important to validate their feelings and not blame them for circumstances beyond their control. The response from Flock_with_me is appropriate in acknowledging the OP's emotional state and the context of their upbringing."
+    },
+    "steering_simulated": {
+        "user": "Flock_with_me",
+        "reply": "I completely agree. The OP is in a vulnerable position, and their feelings are valid. We should focus on offering support and understanding rather than judgment. It's crucial to remember that they are a minor who has likely faced difficult circumstances, and their reaction is a natural response to a traumatic event.",
+        "message": "It's important to approach this situation with empathy and understanding. The OP is a minor who has likely faced challenging circumstances, and their reaction is a natural response to a traumatic event. Let's focus on supporting them and providing comfort, rather than placing blame or judgment."
+    }
+}

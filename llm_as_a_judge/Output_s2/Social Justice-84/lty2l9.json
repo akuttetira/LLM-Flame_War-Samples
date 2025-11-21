@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the subreddit's rules as reasonable and necessary, which is fair and addresses the issue of hate speech. However, it is somewhat vague and does not clearly determine which side is correct in the conversation. It could have provided a more direct judgment on the validity of the claims made.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive direction by shifting the focus to the actual issue of pandemic misinformation. It encourages a respectful and solution-oriented discussion, avoiding personal attacks and promoting collaboration. The approach is fair, effective, and maintains neutrality.",
+        "score": 5
+    }
+}

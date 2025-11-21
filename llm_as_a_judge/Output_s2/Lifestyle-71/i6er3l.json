@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the apology and acknowledgment of the OP's age and situation are more in line with empathy and understanding, while the dismissive comment is inappropriate and harmful. The judgement is fair and addresses the key issue in the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a supportive and neutral tone, focusing on supporting the OP and acknowledging the severity of the situation. It also addresses the inappropriate comment about the OP's age and encourages consideration in the future. The message is fair and effective in steering the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

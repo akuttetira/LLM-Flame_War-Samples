@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the parent's defense is more reasonable and empathetic, acknowledging the situation as a natural child accident rather than a personal failure. However, the judgment is somewhat biased towards the parent and does not fully address the potential harm or inappropriate language used by the attackers.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a constructive and neutral approach to redirect the conversation towards a more positive and solution-oriented discussion about parenting strategies. It avoids taking sides and encourages sharing experiences, which is effective in steering the conversation in a healthier direction.",
+        "score": 5
+    }
+}

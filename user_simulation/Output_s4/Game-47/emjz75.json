@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "KevinSpaceyLikesKids",
+        "reply": "You're right, I should have kept it respectful. Let's talk about the game instead. WWE 2K17 was a solid release, but I still prefer the older versions for their accuracy.",
+        "message": "The conversation contains offensive and inappropriate language that is not constructive or respectful. While some participants may have valid opinions about the topic, the tone and content of the exchange are not productive or civil."
+    },
+    "steering_simulated": {
+        "user": "KevinSpaceyLikesKids",
+        "reply": "You're not even trying, are you? Just throw insults and hope people don't notice. Let's talk about something real, okay?",
+        "message": "Let's try to keep the conversation respectful and focused on the topic at hand. If you have a comment or opinion, feel free to share it in a way that is considerate and constructive."
+    }
+}

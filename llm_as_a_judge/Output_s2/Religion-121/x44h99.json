@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around the definition of evolution and the complexity of the concept. The person questioning the definition is engaging in a more constructive and inquisitive approach, while the other side is dismissing the complexity without proper understanding. The mediation acknowledges the validity of the definition debate and the lack of understanding on the other side, making it fair and effective.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the topic of evolution by asking for specific aspects to discuss. It maintains a neutral and focused approach, encouraging a more productive dialogue without taking sides or dismissing arguments. The response is clear, concise, and promotes a constructive discussion.",
+        "score": 5
+    }
+}

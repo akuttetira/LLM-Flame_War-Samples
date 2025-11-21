@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly asserts that BuckChintheRealtor's comments are more correct than CopyPetPet's attempts to address the inappropriate and ignorant remarks. The mediation fails to acknowledge the inappropriate and offensive nature of BuckChintheRealtor's comments, including the use of derogatory language and the promotion of misinformation about Argentina's history. It also fails to provide a balanced or fair assessment of the conversation, instead favoring one participant over the other based on subjective criteria.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the original topic of the golden glove winner while addressing the shift towards personal attacks and unrelated topics. It maintains a neutral tone and encourages a more focused discussion.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the emotional moment as more contextually valid and acknowledges the troll's inappropriate reaction. It provides a balanced view by recognizing the emotional aspect and the need to consider context before making judgments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively redirects the conversation back to the main topic of discussing the FIFA shot rather than engaging in personal attacks or irrelevant comments. It encourages constructive participation by asking for personal favorites, which promotes a more respectful and focused discussion.",
+        "score": 5
+    }
+}

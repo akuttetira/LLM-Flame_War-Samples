@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the discussion, recognizing that healthy self-criticism and the harmful inner critic are distinct. It provides a balanced perspective without taking sides, which is fair and accurate given the context of the conversation. The score reflects the mediation's ability to navigate the nuanced topic without oversimplifying or being overly critical.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output provides a positive and supportive message that encourages the group to focus on creating a safe space for discussion. It acknowledges the importance of the topic and aims to foster a more inclusive environment. However, it does not directly address the underlying debate about self-criticism and victim-blaming, nor does it offer a clear path forward for resolving the differences in opinions. It is fair and neutral but lacks specific guidance on how to move forward.",
+        "score": 3
+    }
+}

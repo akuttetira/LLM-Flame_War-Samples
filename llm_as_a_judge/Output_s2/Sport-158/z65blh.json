@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument emphasizing Canada's first World Cup goal as a significant achievement is more valid than dismissing it as irrelevant. The conversation includes differing opinions, but the mediation fairly acknowledges the value of the achievement while addressing the counterarguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards a positive and constructive focus, acknowledging the excitement around the underdog story and highlighting the positives such as Canada's first goal and team progress. It avoids getting entangled in negative or competitive commentary, promoting a more inclusive and enjoyable discussion.",
+        "score": 5
+    }
+}

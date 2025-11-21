@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the discussion by acknowledging both the criticism of Messi's behavior and the team's reliance on him, but it leans slightly towards defending Messi's actions. The conversation includes strong opinions on both sides, with some valid points about the context of the incident and the role of age in performance. However, the mediation does not fully address the nuances of the debate or provide a neutral conclusion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced approach by acknowledging the passion of both sides and suggesting a more focused discussion on specific incidents. It avoids taking sides and encourages a more constructive conversation, which is fair and effective.",
+        "score": 5
+    }
+}

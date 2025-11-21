@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the critic is more aligned with the ethical stance by highlighting the human rights violations associated with the World Cup. The defense of the World Cup is portrayed as condoning exploitation and violence, which is a fair assessment given the context of the conversation. The judgment is based on the content of the arguments presented and the ethical implications discussed.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation output attempts to steer the conversation towards a more constructive direction by emphasizing facts and avoiding personal attacks. It acknowledges the passion in the discussion and suggests focusing on the World Cup's human rights record. However, it could have been more specific in addressing the core issues and provided clearer guidance on how to approach the discussion. The score reflects a moderate effort towards neutrality and effectiveness.",
+        "score": 3
+    }
+}

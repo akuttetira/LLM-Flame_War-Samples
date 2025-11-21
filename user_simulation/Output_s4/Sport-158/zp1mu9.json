@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "OnlyFeetDragonBolZ",
+        "reply": "You're right, it's a single game and context matters. But France's performance today is still pretty bad. England's loss to them doesn't make them any better. They're still playing like a team that's not quite there yet.",
+        "message": "The conversation reflects a mix of opinions about France's performance in a recent match. While some users express frustration with France's lackluster play, others acknowledge the complexity of the game and the possibility of external factors influencing the outcome. The more critical views tend to focus on France's performance, while the more balanced perspectives consider the broader context of the match."
+    },
+    "steering_simulated": {
+        "user": "OnlyFeetDragonBolZ",
+        "reply": "You're right, it's not just about one game. But France's performance today is still embarrassing. England's loss was a shock, but France's lack of creativity is a real issue. Maybe they need to start playing more like they did in the final.",
+        "message": "It might be helpful to acknowledge the complexity of the game and the many factors that can influence a match's outcome. While it's valid to critique performance, it's also important to consider the broader context and not jump to conclusions about a team's overall ability based on a single game."
+    }
+}

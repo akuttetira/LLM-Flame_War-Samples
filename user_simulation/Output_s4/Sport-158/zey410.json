@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "Thirtysixx",
+        "reply": "You're right, I should have addressed the question directly. I think Argentina vs France in the final would be awesome, and England vs Netherlands is a great match too. I'm excited to see how those teams perform in the upcoming games!",
+        "message": "Thirtysixx's comment is opinionated and expresses excitement about upcoming matches, but it does not directly address the question about which two teams should be in the final. The question is about preference, while the response is about expected matches."
+    },
+    "steering_simulated": {
+        "user": "Thirtysixx",
+        "reply": "I'm excited about the upcoming matches, but I'm really looking forward to seeing Argentina vs Netherlands and England vs France in the final. Those are two of the most compelling matchups I can imagine!",
+        "message": "Thirtysixx, you're excited about the upcoming matches, but the question was about which two teams you'd like to see in the final. You could share your preferences for the final teams while also mentioning the upcoming matches as a reason for your choice."
+    }
+}

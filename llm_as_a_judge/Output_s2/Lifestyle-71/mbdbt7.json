@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that while acknowledging past trauma is important, using aggressive behavior to deal with a difficult family member is more problematic. It provides a balanced perspective by criticizing the aggressive approach while acknowledging the importance of addressing past trauma.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output provides a neutral and supportive approach, encouraging the participants to focus on mutual support and sharing experiences. It avoids taking sides and promotes a constructive dialogue, which is appropriate for a steering message in this context.",
+        "score": 5
+    }
+}

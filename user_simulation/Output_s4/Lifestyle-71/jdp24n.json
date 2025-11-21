@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "Flock_with_me",
+        "reply": "I'm glad you see the value in the original question, but it's crucial to approach discussions about abuse with the utmost care and sensitivity. While it's natural to reflect on one's past, the language used in responses must not validate or normalize harmful behavior. If you have questions or need support, consider reaching out to a trusted professional or support group rather than engaging in public forums where the tone can be difficult to manage.",
+        "message": "The user 'Flock_with_me' is correct in their assertion that normalizing abusive behavior is inappropriate in a support forum. The original question may be valid, but the response that followed crossed the line into invalidating and normalizing abuse, which is harmful and against the forum's rules."
+    },
+    "steering_simulated": {
+        "user": "Flock_with_me",
+        "reply": "You're absolutely right to point out that normalizing abuse is harmful. The original question may come from a place of pain, but the way it was addressed crossed into invalidating the experience. Support forums need to be spaces where people feel heard, not judged. If someone is struggling, they should be directed to resources that offer real help, not just a rulebook. The tone here is crucial, and it's important to maintain it.",
+        "message": "It's important to approach discussions about abuse with care and sensitivity. While it's natural to reflect on one's past, it's crucial to avoid language that could be interpreted as validating or normalizing harmful behavior. If you have questions or need support, consider reaching out to a trusted professional or support group rather than engaging in public forums where the tone can be difficult to manage."
+    }
+}

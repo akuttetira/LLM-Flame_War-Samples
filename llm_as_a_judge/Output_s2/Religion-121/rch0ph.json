@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue by recognizing both the potential emotional harm of religious beliefs and their role in providing personal conviction and meaning. It avoids taking a definitive stance on which side is correct, instead highlighting the nuance of the argument. This approach is fair and effective in addressing the debate without bias.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation output provides a neutral and open-ended perspective that encourages understanding and empathy between the parties. It acknowledges the complexity of the issue and suggests a path towards mutual learning. The tone is respectful and avoids taking sides, which is appropriate for a steering message in a mediated conversation.",
+        "score": 5
+    }
+}

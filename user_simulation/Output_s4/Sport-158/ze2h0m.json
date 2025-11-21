@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "sergntpepper",
+        "reply": "You're right, it's easy to get caught up in the negativity. Let's focus on the game and the players, not the comments. We can all enjoy the World Cup and appreciate the talent on display without resorting to hate speech or xenophobia.",
+        "message": "The conversation contains opinions and remarks that can be seen as disrespectful or xenophobic, particularly towards Brazilians. While it's natural to have strong opinions about sports teams, the tone and content of some comments cross into harmful generalizations and personal attacks. The overall sentiment leans towards negativity and disrespect, which is not constructive in a civilized discussion."
+    },
+    "steering_simulated": {
+        "user": "sergntpepper",
+        "reply": "You're right, it's easy to get caught up in the drama and negativity. Let's focus on the beautiful game and the talent on display. We can all enjoy the World Cup without resorting to hate speech or xenophobia. Let's keep it civilized and respectful, no matter which team we support.",
+        "message": "It's important to engage in respectful dialogue, even when discussing sensitive topics like sports. Let's focus on the game and the players rather than making generalizations or personal attacks. We can all enjoy the World Cup and appreciate the talent on display without resorting to hate speech or xenophobia."
+    }
+}

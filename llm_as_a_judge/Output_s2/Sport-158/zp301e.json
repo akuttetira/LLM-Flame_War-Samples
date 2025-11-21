@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation identifies the person who is calling out the referee as more correct, which aligns with the context of the conversation where a rule-related issue is being discussed. However, the mediation does not fully address the disputed rule or provide a balanced perspective, which could be seen as somewhat one-sided.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively encourages calm and rational discussion by suggesting consulting the actual rulebook to resolve the confusion. It promotes neutrality and prevents further escalation of the heated conversation.",
+        "score": 5
+    }
+}

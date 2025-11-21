@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the arguments presented in the conversation. It acknowledges the argument against body shaming as a personal attack and contrasts it with the claim that making fun of appearance is harmless. However, the mediation is somewhat biased towards the 'body shaming is weaksauce' argument and does not fully address the context or nuance of the original conversation. It could have provided a more balanced analysis.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach by redirecting the conversation to focus on the content rather than the tone. It encourages a constructive dialogue without taking sides or making judgments, which is fair and effective.",
+        "score": 5
+    }
+}

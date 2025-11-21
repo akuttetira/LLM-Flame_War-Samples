@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to address the imbalance in the conversation by acknowledging the initial participant's disinterest and the subsequent arguments. However, it is somewhat vague and does not clearly resolve the underlying debate about the morality of the marriage. The score reflects a moderate evaluation due to the lack of a clear, objective resolution to the core issue.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and fair suggestion to take a break from the discussion, acknowledging that the conversation may not be productive. It encourages reflection on the discussion's goals without taking sides or imposing a conclusion. The message is effective in steering the conversation towards a more constructive path.",
+        "score": 5
+    }
+}

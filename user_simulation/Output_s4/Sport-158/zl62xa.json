@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "floodychild",
+        "reply": "Viva Messi es un himno que no se debe silenciar. Pero tambi\u00e9n hay que reconocer que el f\u00fatbol es un mundo global y no solo de Argentina. Aunque sea en la cara de algunos, el respeto por el deporte y los jugadores de otros pa\u00edses no debe ser un tema de orgullo nacional, sino de admiraci\u00f3n por el juego.",
+        "message": "The conversation reflects strong opinions and emotional expressions about football (soccer) players, particularly focusing on Messi and the dynamics between Argentinian and European players. While the sentiment is passionate and rooted in football culture, the language used can be considered offensive or disrespectful towards European players, which may not be appropriate in a respectful or neutral discussion. The focus on 'viva Messi' shows admiration for the player, but the overall tone could be seen as more opinionated than objective."
+    },
+    "steering_simulated": {
+        "user": "floodychild",
+        "reply": "Viva Messi, pero no olvidemos que el f\u00fatbol es un deporte global y respetar a todos los jugadores, sin importar su nacionalidad, es parte de la cultura del deporte. La pasi\u00f3n por el f\u00fatbol debe ir acompa\u00f1ada de respeto y un poco de humildad.",
+        "message": "It would be helpful to focus on the game, the players, and the achievements in a more respectful and constructive way. Discussing the sport with appreciation for all players, regardless of nationality, can foster a more inclusive and positive conversation."
+    }
+}

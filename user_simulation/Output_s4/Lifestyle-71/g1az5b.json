@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "LRod2212",
+        "reply": "You're right, it's a complex situation. I understand the difficulty of balancing care with personal space. I'm glad my kids are doing well, but I also know that every family is different. I don't want to impose my experience on others, but I hope that whoever is raising their children understands the importance of their individual needs and well-being. It's a tough path, but I'm proud of them for how far they've come.",
+        "message": "The conversation reflects a complex mix of personal experiences and opinions. While the original post by LRod2212 describes a difficult situation with a family member and the decision to limit their presence, the discussion also includes opinions on ABA therapy and its potential harm to autistic individuals. The key issue is balancing personal care and autonomy with the well-being of others. The perspective that ABA can be harmful to autistic people is supported by multiple sources and personal experiences, but the original post's situation is highly individual and context-dependent. Therefore, the side that emphasizes the importance of personal autonomy and well-being, while acknowledging the complexity of the situation, is more in the right."
+    },
+    "steering_simulated": {
+        "user": "LRod2212",
+        "reply": "You're right, it's a complex situation. I understand the struggle of balancing care and autonomy. I never expected my mother to be so dominant, but I made the choice that was best for me and my family. I'm not saying it's easy, but I'm grateful for the peace we've found. It's important to prioritize one's well-being, even if it means making tough decisions.",
+        "message": "It's important to recognize that each person's experience is unique and context-dependent. While ABA therapy is a topic of debate, it's also crucial to consider the individual circumstances and the impact on all involved. Let's focus on understanding and respecting each other's perspectives while seeking solutions that promote well-being and autonomy for everyone involved."
+    }
+}

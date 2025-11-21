@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the debate around Reddit's API pricing policy by comparing the argument about community betrayal with industry standards. However, it lacks a balanced analysis of the actual arguments presented, such as the specific concerns about pricing, notice periods, and the impact on third-party developers. The judgment is somewhat one-sided and does not fully address the nuances of the discussion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively acknowledges the passionate nature of the discussion and proposes a focused approach to the specific issues related to Apollo and Reddit's API. It encourages participants to stay on topic and avoid generalizations, which is a fair and constructive way to steer the conversation. The response is neutral, respectful, and aims to promote a more productive dialogue.",
+        "score": 5
+    }
+}

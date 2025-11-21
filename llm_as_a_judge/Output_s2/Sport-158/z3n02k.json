@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the original statement highlighting the income disparity is a valid observation, while the responses dismissing it as 'tripped' or 'fanboying' are unfounded. The judgement is fair and acknowledges the factual point made by the user.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and constructive approach to guide the conversation towards a more civil and reflective discussion. It acknowledges the disparity mentioned in the conversation and encourages participants to think about broader implications, which promotes understanding and reduces conflict. The tone is respectful and does not take sides.",
+        "score": 5
+    }
+}

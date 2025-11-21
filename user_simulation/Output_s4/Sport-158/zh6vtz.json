@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "turquoiseVidrio",
+        "reply": "Jajaja, no me importa lo que digan, el f\u00fatbol es el mejor lenguaje. Y Messi es un maestro. Pero si quieres, podemos hablar de c\u00f3mo el juego se juega, no de lo que decimos en internet.",
+        "message": "The conversation contains opinions and personal attacks, with some participants expressing strong views about soccer and cultural stereotypes. While the original statement about Messi's 'no look' assist is a matter of interpretation, the subsequent comments devolve into personal insults and offensive remarks, which detract from constructive dialogue."
+    },
+    "steering_simulated": {
+        "user": "turquoiseVidrio",
+        "reply": "Jajaja, no me importa lo que digan. Lo que importa es que el f\u00fatbol sea respetado, no importa de donde seas. Y si quieres hablar de Messi, hazlo con respeto, no con insultos.",
+        "message": "It's important to focus on the soccer discussion rather than personal attacks or stereotypes. Let's keep the conversation respectful and focused on the game, regardless of language or cultural differences."
+    }
+}

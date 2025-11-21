@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing both the moral considerations around prioritizing health insurance and the value of the game. It provides a balanced view by not outright dismissing either perspective, which is fair and nuanced given the discussion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced perspective, acknowledging the complexities of game development and the value of the Dwarf Fortress devs' hard work. It encourages appreciation for their efforts without taking a sides, which is fair and neutral. However, it could have been more specific in addressing the discussion around monetization and the devs' financial situation.",
+        "score": 4
+    }
+}

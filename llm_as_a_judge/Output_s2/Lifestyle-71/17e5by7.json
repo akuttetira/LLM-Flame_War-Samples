@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who emphasizes the husband's responsibility for his behavior is more accurate. However, it could have been more neutral and less biased in its judgment, as it implies one side is 'more in the right' without fully acknowledging the context of the conversation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a constructive direction by shifting the focus from blame to understanding and managing anger, which is effective in steering the conversation towards a more productive and neutral path. It encourages a solution-oriented approach rather than assigning fault, which is fair and helpful in resolving the conflict.",
+        "score": 5
+    }
+}

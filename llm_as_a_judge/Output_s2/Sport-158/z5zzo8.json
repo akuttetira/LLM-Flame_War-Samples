@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the comments in the conversation by suggesting that the commenters are more in the right than the person potentially being cheated on. However, the comments are informal and contain potentially offensive language, making it difficult to determine a clear right or wrong. The mediation lacks a neutral, objective assessment and instead leans towards a subjective interpretation of the comments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and supportive approach, encouraging the conversation to focus on the individual in a tough spot rather than making assumptions or jumping to conclusions. It steers the discussion towards empathy and support, which is fair and effective.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the majority of the conversation revolves around individuals sharing their experiences of being controlled or manipulated by their parents, and these experiences are valid and significant. The judgement acknowledges the validity of these perspectives, which is fair and effective. However, the mediation does not provide a balanced view of all perspectives in the conversation, as some users have shared experiences of parents who are not controlling or manipulative. The score reflects the effectiveness of the judgement in recognizing the validity of the shared experiences.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output provides a supportive and empathetic message that encourages participants to share their stories without judgment. It acknowledges the common experiences of the users and promotes a safe space for discussion. However, it lacks specific guidance on how to move forward in the conversation or address the underlying issues. The score reflects the effectiveness of the mediation in fostering a positive environment but acknowledges the lack of concrete direction.",
+        "score": 3
+    }
+}

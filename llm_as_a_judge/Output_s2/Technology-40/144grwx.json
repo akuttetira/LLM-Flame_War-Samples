@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the API changes being aimed at eliminating third-party apps and consolidating user data is more defensible. It acknowledges the community's concerns about data harvesting and the potential negative impact on third-party apps, while also addressing the criticism that the official app is poorly coded. This balance shows a fair evaluation of the opposing viewpoints.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral, constructive approach by redirecting the focus from destructive comments to positive actions like supporting alternative platforms and advocating for user data protection. It acknowledges the community's passion while encouraging collaboration over conflict.",
+        "score": 5
+    }
+}

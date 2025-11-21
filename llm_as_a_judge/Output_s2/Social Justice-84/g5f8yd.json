@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument defending non-binary individuals as genuine is more defensible. It acknowledges the validity of the concern about identity gatekeeping but does not fully address the underlying tensions in the conversation, such as the use of derogatory terms and the potential for harassment. The score reflects a balanced view that recognizes the strength of one side's argument while noting the need for more nuance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively encourages respectful dialogue and focuses on understanding perspectives rather than labeling or attacking. It addresses the toxic behaviors mentioned in the conversation and steers the discussion towards a more constructive path.",
+        "score": 5
+    }
+}

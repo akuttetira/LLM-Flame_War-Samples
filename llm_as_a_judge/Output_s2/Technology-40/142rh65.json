@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges that both sides have valid points: one is critiquing the Reddit mods' actions and the other is defending Linus's stance. It correctly identifies that the more constructive arguments are from these two parties, while the others are either dismissive or attacking without contributing meaningfully. This shows a balanced and fair assessment of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the main issue of the API changes and their impact on the community, addressing the personal attacks and off-topic discussions. It maintains neutrality and encourages constructive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the appropriateness of using 'I love you' to end calls, suggesting that dismissing emotional gestures is incorrect. However, it is subjective to judge what is 'right' in this context, as communication styles vary. The mediation leans towards one perspective without fully addressing the other's concerns.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral, constructive approach by suggesting shared experiences as a way to foster connection rather than mocking the idea. It acknowledges the emotional aspect of the conversation and encourages empathy, which is fair and effective.",
+        "score": 5
+    }
+}

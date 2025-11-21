@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "Binary_Omlet",
+        "reply": "I completely agree with the sentiment that the FCC's actions are concerning. The lack of competition and the rise of data caps are a big problem. It's important to hold ISPs accountable and ensure that the internet remains a free and open space for everyone.",
+        "message": "The conversation reflects a complex debate around internet service, net neutrality, and the impact of corporate practices on consumers. While there are valid concerns about the high costs and poor service offered by some ISPs, there are also arguments for the importance of net neutrality in maintaining an open and fair internet. The discussion also highlights the challenges of infrastructure and competition in different regions, and the role of government regulation in ensuring fair access. The key issue is balancing the need for innovation and competition with the protection of consumer rights and fair access to the internet."
+    },
+    "steering_simulated": {
+        "user": "Binary_Omlet",
+        "reply": "This whole conversation is a mess of opinions, but I think the main issue is that ISPs are acting like monopolies and not providing fair service. Net neutrality is important to keep the internet open and prevent companies from charging extra for certain services. I'm not sure if the current system is the best, but it's definitely a problem that needs to be addressed.",
+        "message": "It's important to recognize that the debate around internet service and net neutrality is multifaceted. While there are valid concerns about the current state of internet service in some areas, there are also important considerations around the role of government regulation, the impact of corporate practices, and the need for fair access to the internet. It's also important to consider the different perspectives and experiences of individuals in different regions and to seek solutions that promote fair access and competition while protecting consumer rights."
+    }
+}

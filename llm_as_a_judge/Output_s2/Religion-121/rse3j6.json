@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that AwarenessOutrageous1's view is more extreme and unfounded compared to _TheMoralist's more balanced perspective on free will. The judgement acknowledges the difference in tone and evidence between the two positions, making it fair and effective.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and open-ended response that encourages further discussion without taking sides. It acknowledges the complexity of the topic and invites a more nuanced exploration of the perspectives presented.",
+        "score": 5
+    }
+}

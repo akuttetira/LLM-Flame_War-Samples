@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the criticism of users defending Epic with suspicious behavior is more valid, as it highlights the potential for coordinated efforts and shilling. However, it does not fully address the complexity of online behavior and the difficulty in proving such claims without concrete evidence. The score reflects a balanced view of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively encourages a more focused and evidence-based discussion by redirecting the conversation towards specific behaviors and comments rather than generalizations. It maintains neutrality and fairness by not taking sides but rather prompting a constructive dialogue.",
+        "score": 5
+    }
+}

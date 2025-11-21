@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around the N-word, recognizing that context and intent play significant roles. It avoids taking a simplistic stance and instead highlights the nuanced perspectives presented in the conversation. This approach is fair and effective in addressing the multifaceted nature of the issue.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a neutral and respectful approach, encouraging understanding and avoiding assumptions. It emphasizes respectful dialogue about complex issues without personal attacks. The message is fair and effective in steering the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

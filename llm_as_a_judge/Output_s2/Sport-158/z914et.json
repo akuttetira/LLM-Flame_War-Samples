@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion is centered around a sports-related debate, with some participants engaging in playful or sarcastic commentary. The judgment acknowledges the validity of the critique towards AlludedNuance's behavior while also recognizing the context of the original statement about the golden glove. The mediation is fair and provides a balanced perspective.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a clear, neutral direction to maintain civility and focus on the discussion rather than personal attacks. It effectively steers the conversation towards a more constructive path without taking sides or making judgments.",
+        "score": 5
+    }
+}

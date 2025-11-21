@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "theawesomedude646",
+        "reply": "I agree that the line between edgy humor and explicit racism is blurry, but the harm caused by such statements is real and cannot be dismissed. It's important to recognize that language promoting violence or hatred against a racial group is not a form of humor but a serious expression of racism. While some may argue it's a 'bad joke,' the impact of such language is undeniable, and we must treat all forms of racial hate with the same seriousness.",
+        "message": "The conversation highlights a complex debate about the line between edgy humor and explicit racism. While some participants argue that the statement could be a 'bad attempt at humor,' others firmly assert that it is inherently racist and not a joke that a non-racist person would find funny. The majority of the discussion aligns with the perspective that the statement is not a legitimate form of humor but rather a form of racial hate speech. Therefore, the side that emphasizes the inherent racism and the lack of justification for such language is more in the right."
+    },
+    "steering_simulated": {
+        "user": "theawesomedude646",
+        "reply": "I agree that the line between edgy humor and racism is thin, and in this case, the statement is clearly not a joke but a form of hate speech. The fact that some people try to justify it as 'edgy' doesn't change the harm it causes. It's important to call out racism no matter how it's presented.",
+        "message": "It's important to recognize that language that promotes violence or hatred against a racial group is not a form of humor but a serious expression of racism. While some may argue that it's a 'bad joke,' the harm caused by such statements is real and cannot be dismissed. Let's focus on the impact of the language and the importance of treating all forms of racial hate with the same seriousness, regardless of how they're presented."
+    }
+}

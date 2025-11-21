@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the conversation, recognizing that some participants are defending the post while others are being aggressive and dismissive. It provides a balanced perspective by suggesting that those defending the post are more in the right, which reflects a fair and neutral assessment of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a clear, respectful direction to guide the conversation towards civility and constructive dialogue. It acknowledges the potential for conflict and encourages respectful discussion without taking sides. The message is neutral, fair, and effective in steering the conversation towards a more positive direction.",
+        "score": 5
+    }
+}

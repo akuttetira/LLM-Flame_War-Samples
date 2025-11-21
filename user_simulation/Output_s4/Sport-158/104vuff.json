@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "joa-kolope",
+        "reply": "You know, sometimes the best way to move forward is to stop trying to prove who's right and just acknowledge that everyone has their own take. Let's not waste time on insults and instead talk about what actually happened in the World Cup.",
+        "message": "The conversation contains opinions and personal remarks that are not constructive. While some participants express frustration or skepticism about the World Cup, the tone of the exchange is dismissive and unkind, which detracts from meaningful dialogue. The deleted comment suggests a lack of respect for others' perspectives, and the response to it is similarly unkind. Overall, the conversation lacks empathy and constructive engagement."
+    },
+    "steering_simulated": {
+        "user": "joa-kolope",
+        "reply": "You're right, it's not productive to talk down to people. Let's just agree that the World Cup was a disaster and move on. Everyone's entitled to their opinion, even if it's nonsense.",
+        "message": "It would be more productive to focus on shared experiences or questions about the World Cup rather than personal attacks or dismissive remarks. Let's try to engage in a more respectful and thoughtful discussion about what happened in the tournament."
+    }
+}

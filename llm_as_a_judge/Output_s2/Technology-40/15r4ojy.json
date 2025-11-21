@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that dismissing deleted content as irrelevant or trollish is more fair and neutral than justifying views with deleted content. The conversation contains significant debate about the ethics and accountability of LTT's actions, and the mediation effectively highlights the importance of not dismissing valid concerns simply because they are from deleted users. This reflects a balanced approach to the discussion.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively calls out the lack of focus on actual arguments and the tendency to discredited non-participating users, which is a common issue in the conversation. It encourages a more constructive and respectful discussion by emphasizing the importance of focusing on the core issues rather than personal attacks or discrediting others. The message is clear, fair, and promotes a more productive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "JOTIRAN",
+        "reply": "You're right, let's keep it respectful. I'm here to discuss the World Cup, not to offend. What's your take on the tournament so far?",
+        "message": "The conversation contains opinions and comments that are not constructive or respectful. While the user may have a personal opinion about the World Cup, the tone of some comments can be seen as dismissive or offensive. The most respectful approach would be to acknowledge different viewpoints without using harsh or inflammatory language."
+    },
+    "steering_simulated": {
+        "user": "JOTIRAN",
+        "reply": "I'm here because I care about the World Cup, not because I'm a fanboy. Let's talk about the game, not the drama.",
+        "message": "It would be better to engage in a more respectful and constructive discussion. If you have a specific opinion about the World Cup, feel free to share it in a way that is open-minded and considerate of others' perspectives."
+    }
+}

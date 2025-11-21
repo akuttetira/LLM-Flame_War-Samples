@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "normalmisha",
+        "reply": "I don't care about the comments, I'm not interested in your opinion on anything. Just stick to your own thoughts and don't try to tell me what to think.",
+        "message": "The conversation is brief and lacks clear context or argumentation, making it difficult to determine which side is more correct. The participants are engaging in a casual exchange with some level of disagreement, but no substantial evidence or reasoning is provided to support their positions."
+    },
+    "steering_simulated": {
+        "user": "normalmisha",
+        "reply": "I don't care about the comments, I'm not here to entertain your nonsense.",
+        "message": "It might be helpful to provide more context or clarify the specific issue being discussed to better understand the arguments being made. This would allow for a more informed and constructive dialogue."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "The_foodie_photog",
+        "reply": "You're absolutely right to prioritize safety and not escalate the situation. I agree that the best approach is to keep a clean mask on hand and report any incidents to CPS or other authorities. It's important to protect yourself without putting yourself in harm's way. You're not alone in this, and there are people who care about your well-being.",
+        "message": "The conversation highlights a complex situation where the OP is dealing with potentially harmful behavior from their parents. While some participants suggest reporting the behavior as a form of poisoning, others caution against retaliation or escalating the situation, emphasizing the risks of confrontation. The majority of the response leans towards advising caution, self-protection, and seeking help through formal channels like CPS rather than direct confrontation. The more balanced approach is to prioritize the OP's safety and well-being, encouraging them to seek support and report the issue through appropriate channels without putting themselves at risk."
+    },
+    "steering_simulated": {
+        "user": "The_foodie_photog",
+        "reply": "You're absolutely right to prioritize safety and not escalate the situation. I agree that keeping a mask on you at all times and being prepared is key. But if they're doing this repeatedly, it's not just about being 'safe' \u2014 it's about survival. You deserve to be free from harm, and sometimes that means taking action when the situation is out of control. Don't let them dictate your safety. You're not a victim, you're a person with the right to live without fear.",
+        "message": "It's important to prioritize your safety and well-being in this situation. While it's understandable to feel upset or hurt by your parents' actions, it's crucial to avoid actions that could put you in further danger. Consider reaching out to trusted adults, counselors, or child protection services for support. You don't have to face this alone, and there are resources available to help you feel safe and supported."
+    }
+}

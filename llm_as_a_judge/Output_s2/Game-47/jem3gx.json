@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals criticizing the OP for lacking effort are more justified than those who are overly aggressive and dismissive. It provides a balanced view of the situation, acknowledging the validity of the criticism while also pointing out the unconstructive behavior.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation offers a conciliatory message that encourages kindness and a shift towards more positive interactions. It acknowledges the situation without taking sides and suggests a constructive approach. The tone is neutral and supportive, which is appropriate for a steering message in this context.",
+        "score": 5
+    }
+}

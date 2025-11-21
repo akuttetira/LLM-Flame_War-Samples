@@ -1,0 +1,12 @@
+{
+    "judgement_simulated": {
+        "user": "Suspicious-seal",
+        "reply": "Absolutely, keeping the conversation grounded in facts is key. It's great when people like TrashSmells bring up the timeline issues, and it's also good to have tips like /s for jokes. Let's make sure we're all on the same page with the actual events, not just speculation or humor.",
+        "message": "YoMySlime's prediction is speculative and not based on current information, while TrashSmells correctly points out the timeline inconsistency. Suspicious-seal provides a helpful tip on joke formatting, but the main issue is the accuracy of the prediction. TrashSmells is more in the right with the timeline clarification."
+    },
+    "steering_simulated": {
+        "user": "YoMySlime",
+        "reply": "I see your point, but I was just trying to add a bit of humor. I guess I should have checked the timeline more carefully. Let's keep the conversation fun but also make sure we're on the same page with the facts.",
+        "message": "It's great to see people engaging with predictions and humor, but it's important to base our comments on facts and current information. Let's keep the conversation respectful and focused on the actual events happening, not just guesses or jokes."
+    }
+}

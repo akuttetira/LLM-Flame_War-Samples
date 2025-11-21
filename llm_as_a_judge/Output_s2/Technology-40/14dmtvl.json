@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the validity of both sides' arguments but leans towards the sustainability argument, which is more widely supported by evidence. It provides a balanced view without taking a definitive stance on which side is correct, which is fair and neutral.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the core issue of sustainability while acknowledging the complexity of balancing design, safety, and environmental impact. It encourages a constructive dialogue by focusing on potential benefits and trade-offs, which is fair and neutral.",
+        "score": 5
+    }
+}

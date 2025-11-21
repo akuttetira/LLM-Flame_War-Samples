@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges that the broader issue of LMG's content quality is more significant than the specific video's flaws, which is a balanced approach. It avoids taking a rigid stance on the video's accuracy while recognizing the validity of concerns about the company's overall practices. The score reflects a fair assessment of the conversation's complexity and the need to consider both the video's specific issues and the broader context of LMG's operations.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation provides a balanced, neutral approach by encouraging reflection on the core issue of content quality versus quantity. It avoids taking sides and instead prompts a broader discussion about the community's expectations. The response is effective in steering the conversation towards a more constructive and reflective direction without imposing a specific judgment.",
+        "score": 5
+    }
+}

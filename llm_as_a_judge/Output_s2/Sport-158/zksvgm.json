@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the argument, recognizing that both sides have valid points regarding rule interpretation and referee judgment. However, it does not clearly determine which side is correct or provide a decisive conclusion, which is necessary for a judgment type. The response is fair and balanced but lacks the decisiveness required for a judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the escalating tone of the conversation by redirecting the focus back to the game and rules, promoting a more constructive discussion. It avoids taking sides and encourages mutual understanding without personal attacks.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of distinguishing between a feature and a bug, recognizing that some in-game mechanics can be exploited but are not inherently bugs. It provides a balanced view by giving credit to those who argue that features can be exploitable and that not all in-game elements are bugs. The score reflects a fair assessment of the discussion, acknowledging the nuanced perspective presented.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation suggests focusing on specific mechanics and their impact on gameplay, which is a constructive approach to address the discussion. It encourages finding common ground between what constitutes a bug and an exploitable feature, which is fair and effective in steering the conversation towards a more productive direction. The mediation is neutral and does not take sides but rather proposes a collaborative approach.",
+        "score": 5
+    }
+}

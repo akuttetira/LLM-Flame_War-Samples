@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person explaining the potential racism in the joke and the cultural context is more accurate. The discussion highlights the sensitivity of the joke in the context of Argentina's cultural and historical context, and the other side attempts to deflect and justify the comment without adequately addressing the concerns raised. The mediation provides a balanced view by acknowledging the cultural nuances and the potential insensitivity of the joke.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output is neutral, encourages understanding, and promotes a constructive dialogue. It acknowledges the passion in the conversation and suggests a way to move forward by focusing on mutual understanding. The response is fair and does not take sides, which is appropriate for a steering message in this context.",
+        "score": 5
+    }
+}

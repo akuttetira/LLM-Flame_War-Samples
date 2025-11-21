@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that YoMySlime's prediction is factually incorrect, as the match between France and Morocco was not in the final of the 2022 World Cup. The mediation also acknowledges the validity of the counterarguments from other users, which is fair and effective. However, it could have been more neutral by not directly labeling one side as 'more in the right' without further context.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation towards a more constructive direction by highlighting the impracticality of making final predictions without checking the schedule. It maintains a neutral and friendly tone, encouraging participants to focus on the actual event rather than speculative predictions.",
+        "score": 5
+    }
+}
