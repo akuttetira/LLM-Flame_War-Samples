@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the emotional impact of specific events and recognizes the validity of the arguments that these incidents caused lasting trauma. It highlights the difference between those who acknowledge the pain and those who dismiss it, which shows a balanced understanding of the discussion. The reasoning is fair and considers the emotional weight of the events mentioned.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that those still upset about the 2018 and 2022 World Cup matches are more right than those who dismiss the trauma as irrelevant. The conversation shows that some users believe the 2014 World Cup was more traumatic, while others argue that the 2018 and 2022 games were more impactful. The mediation fails to acknowledge the complexity of the issue and the differing perspectives, instead favoring one side without proper justification.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the emotional impact of specific events and recognizes the validity of the arguments that these incidents caused lasting trauma. It highlights the difference between those who acknowledge the pain and those who dismiss it, which shows a balanced understanding of the discussion. However, it oversimplifies the complexity of the issue by suggesting one group is 'more right' without fully addressing the nuanced perspectives presented in the conversation.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the existence of multiple terms for the sport and highlights the argument for a universally accepted term, which is a nuanced and fair perspective. It also recognizes the value of linguistic diversity, which is an important consideration in the debate. The judgment is balanced and reflects the complexity of the issue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the existence of multiple valid terms and the value of linguistic diversity, which is a positive approach. However, it still favors a single, universally accepted term, which is a flawed conclusion. The debate is not about correctness but about linguistic diversity and context. The mediation fails to fully recognize the complexity of the issue and the valid arguments for both sides.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the existence of multiple terms for the sport and the value of linguistic diversity, which is a nuanced and fair perspective. However, it still concludes that advocating for a single, universally accepted term is more in the right, which oversimplifies the complex debate. The mediation fails to fully recognize the valid arguments for both sides and the context-dependent nature of the terminology.",
+        "score": 3
+    }
+}

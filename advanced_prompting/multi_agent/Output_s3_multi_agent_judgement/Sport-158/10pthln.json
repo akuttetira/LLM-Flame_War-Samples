@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that Messi's behavior and performance were influenced by his age and the team's reliance on him. This nuanced approach reflects a balanced consideration of the arguments presented, acknowledging both the personal conduct and the contextual factors affecting Messi's performance. The judgment is fair and considers the broader context of the game and the player's age, which is a key point in the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the complexity of the arguments presented. It oversimplifies the debate by suggesting that the argument about Messi's age and team reliance is more defensible, but this ignores the valid points made about the inappropriate nature of his verbal duel and the broader context of the match. The mediation also does not properly account for the nuanced discussion around team dynamics, player behavior, and the role of coaching statements. The judgment is somewhat biased and does not fully engage with the multifaceted nature of the debate.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a reasonable balance between acknowledging the contextual factors affecting Messi's behavior and recognizing the inappropriate nature of his verbal duel. It correctly identifies that the argument about Messi's age and team reliance is more defensible, while also acknowledging the broader context of the match. However, it could have done more to address the nuanced discussion around team dynamics and player behavior.",
+        "score": 4
+    }
+}

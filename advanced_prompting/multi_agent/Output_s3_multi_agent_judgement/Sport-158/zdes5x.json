@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively distinguishes between constructive criticism of a team's performance and personal insults directed at fans. It acknowledges the validity of discussing a team's performance while condemning the disrespectful and offensive remarks. This judgment is fair, neutral, and highlights the correct reasoning that criticism of performance is different from attacking individuals, which aligns with the principles of respectful discourse.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of personal attacks and insults directed at the fans, instead focusing on a distinction that is not clearly established. The argument that criticizing performance is different from insulting fans is weak, as the conversation includes explicit insults and personal attacks that go beyond mere criticism. The mediation also overlooks the broader context of the discussion, which involves both performance evaluation and personal hostility. The score is low because the mediation does not adequately address the negative aspects of the conversation or provide a balanced judgment.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the key distinction between criticizing a team's performance and personally attacking fans, which is a central issue in the conversation. It correctly identifies that while discussing a team's performance is acceptable, the disrespectful and insulting remarks are not. The rationale is fair and neutral, aligning with the principles of respectful discourse. However, it could have provided more context on the broader issue of online hostility and the impact of such comments. Overall, it is a strong and accurate assessment.",
+        "score": 4
+    }
+}

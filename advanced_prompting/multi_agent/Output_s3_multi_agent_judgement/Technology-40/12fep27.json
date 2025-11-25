@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the conversation, recognizing that the user who makes personal attacks and insults is more at fault. It highlights the importance of not shaming others for their intelligence or lack thereof, which is a fair and balanced assessment of the interaction. The judgment is nuanced and considers the context of the online discourse.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly identifies the 'right' party in the conversation. The user, Terrible_Cut_3336, uses harsh and personal insults, which are not just disrespectful but also inappropriate in a public forum. The mediation fails to recognize the severity of the personal attacks and the lack of constructive dialogue. The judgment is not neutral and shows a bias towards the other side, which is not fair or effective.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced assessment of the interaction, acknowledging the complexity of the online discourse and the importance of not shaming others for their intelligence or lack thereof. It correctly identifies the more problematic behavior of personal attacks and insults, which is a fair and effective evaluation of the situation. The judgment is nuanced and considers the context of the conversation.",
+        "score": 4
+    }
+}

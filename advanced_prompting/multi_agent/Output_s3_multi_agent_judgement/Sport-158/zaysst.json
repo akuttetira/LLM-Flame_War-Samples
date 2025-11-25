@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue by recognizing both the corruption allegations against Qatar and the disappointment of teams that failed to perform well. It provides a balanced view by not outright dismissing the claims of disappointment but also highlighting the more compelling argument of corruption. This shows a fair and nuanced approach to the discussion.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core arguments presented. It dismisses the claims of disappointment from teams like Denmark, Belgium, and Mexico, which are based on their poor performance in the World Cup. The mediation also misrepresents the discussion by focusing on Qatar's corruption rather than the actual arguments about team performance. This approach is biased and does not fairly evaluate the competing claims.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation partially acknowledges the complexity of the issue by addressing both the corruption allegations against Qatar and the disappointment of underperforming teams. However, it oversimplifies the discussion by prioritizing Qatar's corruption over the valid claims of disappointment from other teams. While it shows some balance, it fails to fully engage with the arguments about team performance and the context of the World Cup failures.",
+        "score": 3
+    }
+}

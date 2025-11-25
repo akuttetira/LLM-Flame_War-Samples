@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the individuals sharing their traumatic experiences with being taught (or not taught) how to use tampons are in the right. The discussion highlights the emotional and social harm caused by not being taught proper hygiene practices, and the dismissive or light-hearted responses from others. The mediation acknowledges the validity of these experiences and the importance of proper education and support, which is a fair and effective assessment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the validity of the experiences shared by individuals who faced lack of support or education regarding tampon use. However, it fails to address the specific criticisms of the original post and the other comments, such as the dismissive or trivializing responses. The mediation does not clearly identify which side is correct in the debate, but rather leans towards validating the experiences of those who felt unsupported. This approach lacks a clear judgment and does not adequately address the nuances of the debate.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively recognizes the validity of the experiences shared by individuals who felt unsupported in learning about tampon use, highlighting the emotional and social harm caused by lack of education. It correctly identifies that those sharing their traumatic experiences are in the right, while acknowledging the dismissive or trivializing responses from others. The mediation provides a fair and balanced assessment of the situation without overreaching or failing to address key points.",
+        "score": 4
+    }
+}

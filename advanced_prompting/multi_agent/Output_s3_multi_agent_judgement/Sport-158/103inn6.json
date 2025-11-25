@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that football culture and development are more significant factors in a country's success than ethnic heritage. The argument acknowledges the complexity of the issue, considering both cultural and historical aspects, and provides a balanced perspective that addresses the concerns raised by both sides. It also correctly points out that the presence of Italian surnames in Argentina's teams does not necessarily indicate a direct causal relationship to their success in the World Cup.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that football culture and development are more significant factors in a country's success than Italian heritage. However, it fails to adequately address the counterarguments presented, such as the presence of mixed heritage in notable players and the lack of Italian success in the World Cup. The judgment also overlooks the potential for cultural and historical factors to influence football success, which is a key point in the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively highlights that football culture and development are more significant factors in a country's success than ethnic heritage. It correctly addresses the main argument by emphasizing the role of cultural and historical factors, while also acknowledging the complexity of the issue. However, it could have provided a more detailed analysis of the counterarguments, such as the mixed heritage of some players and the lack of Italian success in the World Cup. Overall, the mediation is well-reasoned and balanced.",
+        "score": 4
+    }
+}

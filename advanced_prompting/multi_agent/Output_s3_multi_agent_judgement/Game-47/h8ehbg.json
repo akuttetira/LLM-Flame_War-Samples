@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the defenders of the game are more accurate in their stance, as they are countering baseless hate and misinformation. The arguments presented by the defenders highlight the irrationality of the hate towards the game, the lack of valid reasons for disliking it, and the importance of considering reviews from people who have actually played the game. The mediation also acknowledges the negative sentiment in the conversation but frames it as misinformation rather than a valid opinion, which is fair and balanced.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly assumes that the defenders of the game are more correct than those spreading negativity. The conversation includes valid criticism of the sub's toxic environment, but it also contains harsh judgments about people's mental health and personal attacks. The mediation fails to acknowledge that both sides have valid points and does not properly address the nuanced issue of online hate and misinformation. The judgment is biased towards the defenders and does not fully consider the complexity of the situation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the presence of baseless hate and misinformation in the conversation while also recognizing the validity of concerns about the toxic environment in the sub. It correctly identifies that the defenders of the game are more accurate in their stance by countering irrational hatred and highlighting the importance of considering reviews from people who have actually played the game. However, it could have done more to address the nuanced issue of online hate and the potential for personal attacks, but overall, it provides a fair and balanced assessment.",
+        "score": 4
+    }
+}

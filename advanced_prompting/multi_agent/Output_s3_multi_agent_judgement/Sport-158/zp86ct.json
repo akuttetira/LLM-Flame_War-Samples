@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the emotional and historical significance of the Falklands conflict and the empathy shown by some participants, which is a valid and respectful consideration. It correctly identifies that the more thoughtful comments reflecting on Argentina's history and the emotional impact of the conflict are more in line with a respectful and nuanced discussion. The judgment is fair and highlights the depth of sentiment expressed by some users, which is appropriate in this context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the historical and emotional context of the Falklands conflict while dismissing the emotional response of the Argentine audience. It also overlooks the potential for misunderstanding or misinterpretation of the comments made by the users. The judgment is somewhat biased towards empathy and does not provide a balanced analysis of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the historical and emotional context of the Falklands conflict and recognizes the validity of the empathetic responses. It provides a balanced perspective by highlighting the depth of sentiment expressed by some users while implicitly addressing the dismissive comments. The rationale is fair and respectful, though it could have been more explicit in explaining the reasoning behind the judgment.",
+        "score": 4
+    }
+}

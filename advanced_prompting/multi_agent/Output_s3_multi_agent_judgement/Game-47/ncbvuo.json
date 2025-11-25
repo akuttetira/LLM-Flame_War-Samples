@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the users pointing out suspicious behavior of certain users defending Epic have valid concerns about potential shill activity on Reddit. The argument highlights the presence of coordinated defense and the possibility of paid influencers, which is supported by multiple comments in the conversation. The mediation also acknowledges the frustration with Reddit's shill rules and the prevalence of astroturfing, which are relevant points. The score reflects the reasonable and evidence-based nature of the mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output claims that the people pointing out suspicious behavior are more correct. However, this judgment fails to consider that the conversation includes both valid criticisms of potential shill behavior and legitimate discussions about Epic's features and user experiences. The mediation also does not adequately address the complexity of online discourse, where users may have genuine opinions or be influenced by various factors. The judgment is overly simplistic and does not account for the nuanced arguments presented in the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the concerns about potential shill activity while also recognizing the complexity of online discourse. It correctly identifies that the users pointing out suspicious behavior have valid concerns, as supported by the conversation, but also notes the presence of legitimate discussions about Epic's features and user experiences. The score reflects the mediation's reasonable and nuanced approach.",
+        "score": 4
+    }
+}

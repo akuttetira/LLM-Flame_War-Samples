@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges that the argument for recognizing the US as a past World Cup winner in 1942 is somewhat defensible, which shows an understanding of the historical context and the reasoning provided by the user. It also correctly notes that this is still a stretch, indicating a balanced view that neither fully supports nor completely dismisses the claim. This demonstrates a fair and neutral evaluation of the arguments presented.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the argument for recognizing the US as a 1942 World Cup winner is somewhat defensible, but it still labels it as a 'stretch.' However, the mediation fails to address the historical context and the actual reasons why the 1942 World Cup was not held. It also doesn't properly evaluate the arguments presented by both sides, particularly the historical justification and the factual basis of the claim. The judgment is somewhat neutral but lacks depth in addressing the core issues of historical accuracy and the validity of the argument.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced assessment by acknowledging the defensibility of the argument while also noting its limitations. It correctly identifies the historical context of the 1942 World Cup not being held due to World War II and recognizes that the claim is a stretch. This shows a fair and neutral evaluation of the arguments presented.",
+        "score": 4
+    }
+}

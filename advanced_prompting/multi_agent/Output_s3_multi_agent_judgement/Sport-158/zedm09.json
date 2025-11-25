@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate around luck versus skill in Morocco's victory, recognizing that while luck may have played a role in the penalties, it is also valid to argue that Morocco's performance demonstrated skill. The judgment is balanced and does not outright dismiss the argument that Morocco may not be a strong team, making it a fair and nuanced assessment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the argument about luck is more defensible, but it fails to adequately address the counterarguments that Morocco's performance was not just luck but also a result of their tactical approach and defensive strength. The mediation also does not fully consider the point about Spain's lack of attacking power and the role of luck in penalties. The score is moderate as the mediation partially addresses the key points but lacks a comprehensive evaluation of the arguments.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the debate around luck versus skill in Morocco's victory, recognizing that while luck may have played a role, Morocco's performance also demonstrated skill. It provides a balanced view by stating that the argument about luck is more defensible, but it does not fully address the counterarguments about Morocco's tactical approach and defensive strength. The mediation is fair and nuanced but could have been more comprehensive in evaluating all aspects of the debate.",
+        "score": 4
+    }
+}

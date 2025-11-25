@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the communication process and recognizes that both sides have valid points. It highlights the importance of accountability and the nuances involved in the email dispute, which is a fair and balanced assessment of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issues of accountability and responsibility. It overlooks the significant criticisms towards LMG's handling of the prototype and the workplace culture issues, which are central to the discussion. The mediation also does not adequately consider the broader context of the company's repeated mistakes and the community's response, which are crucial for a fair assessment. The judgment is too neutral and does not account for the systemic failures and the need for real change.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the communication process and the valid points of both sides, while also recognizing the broader context of LMG's repeated mistakes and the community's response. It strikes a balance between acknowledging accountability and the nuances of the situation, making it a fair and balanced assessment.",
+        "score": 4
+    }
+}

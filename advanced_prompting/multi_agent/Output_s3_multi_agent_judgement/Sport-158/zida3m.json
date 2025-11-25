@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that both teams exhibited poor sportsmanship and that Van Gaal's emotional response and Messi's mocking gestures were questionable. It also correctly points out the potential for bias and xenophobia in the discussion, which is a key aspect of the conversation. The judgment is balanced and does not take a one-sided approach, which is a positive aspect.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the emotional aspects involved, but it fails to adequately address the underlying issues of bias and the broader context of racism and xenophobia in the discussion. It also does not clearly determine which side is correct in the argument, instead presenting a balanced view that may not be fair given the presence of biased and prejudiced comments from both sides.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation, recognizing that both teams showed poor sportsmanship and that Van Gaal's emotional response and Messi's mocking gestures were questionable. It also correctly points out the potential for bias and xenophobia in the discussion, which is a key aspect of the conversation. The judgment is balanced and does not take a one-sided approach, which is a positive aspect.",
+        "score": 4
+    }
+}

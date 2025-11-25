@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the argument about WWE 2K17 being a good game despite its flaws is more reasonable compared to the inflammatory and personal attacks in the conversation. It highlights the difference between constructive discussion and disrespectful behavior, which is a fair and effective assessment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the specific arguments presented in the conversation and instead makes a general judgment about the reasonableness of the argument. It also overlooks the presence of inflammatory and personal attacks, which are not necessarily tied to the quality of the game itself. The judgment is overly simplistic and does not provide a nuanced analysis of the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively distinguishes between a reasonable argument about the game's quality and the inflammatory, disrespectful comments in the conversation. It provides a clear and fair assessment of the situation without oversimplifying the issue, acknowledging the difference between constructive discussion and personal attacks.",
+        "score": 4
+    }
+}

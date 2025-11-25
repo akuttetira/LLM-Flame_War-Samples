@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation by recognizing that Senegal's performance against the Dutch is a relevant factor, while also noting that other factors like team potential and set-piece defense could influence the outcome. This balanced approach shows an understanding of the arguments presented and provides a nuanced conclusion that is not overly definitive.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that Senegal's performance against the Dutch is a factor, but it doesn't fully address the concerns raised about their defensive weaknesses and the strength of England's team. The judgment is somewhat balanced but lacks a clear conclusion on which side is more correct, and it doesn't fully counter the argument that Senegal's recent loss to the Dutch is a strong indicator of their inability to beat England.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges both sides of the argument, recognizing that Senegal's performance against the Dutch is a relevant factor but also considering other potential influences on the match, such as set-piece defense and team potential. It provides a balanced conclusion that is not overly definitive, which reflects a fair and neutral assessment of the discussion.",
+        "score": 4
+    }
+}

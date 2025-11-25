@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that the English team is unified for the Olympics but not the World Cup, which is a reasonable distinction. It also highlights the argument that the English team is not inherently superior, which is a fair and balanced perspective. The mediation does not take an overly simplistic stance but instead offers a nuanced view that considers both the rules and the context of the sports.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of why the UK is allowed to have multiple teams in the Olympics but not in the World Cup. It also does not adequately challenge the underlying assumptions or biases present in the arguments, such as the notion that English teams are inherently superior. The judgment is vague and does not provide a clear, reasoned conclusion based on the evidence presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced perspective by acknowledging the distinction between Olympic and World Cup rules, and by addressing the notion of English superiority. It offers a nuanced view that considers both the rules and the context of the sports, which is appropriate given the complex nature of the discussion. However, it could have been more explicit in addressing the underlying assumptions and providing a clearer conclusion.",
+        "score": 4
+    }
+}

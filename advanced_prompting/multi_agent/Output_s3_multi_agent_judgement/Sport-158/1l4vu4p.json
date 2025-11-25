@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument, recognizing that winning the Europa League can be a redeeming factor despite poor league performance. It balances the perspectives by not outright dismissing the Europa League win but also not fully validating the poor league form as a justification for keeping the manager. This shows a reasonable attempt to weigh both sides of the argument.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the Europa League win is a redeeming factor, which is a partial acknowledgment of the argument. However, it fails to adequately address the strong counter-argument that the poor league form (22 losses) undermines the value of the Europa League win. The mediation also does not clearly determine which side is more correct, leading to an incomplete judgment.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the value of the Europa League win while also recognizing the significance of poor league performance. It does not fully endorse either side but instead presents a nuanced perspective that allows for the complexity of the argument to be considered. However, it could have been more explicit in addressing the core disagreement about the relative importance of the Europa League win versus the league record.",
+        "score": 3
+    }
+}

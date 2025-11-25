@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges that the people questioning Linus's motives and the company's financial situation have more valid points, as they provide evidence and reasoning about the company's financial struggles, management issues, and Linus's decisions. The mediation also correctly points out that the defenders of Linus often rely on assumptions and personal biases without concrete evidence, which is a fair assessment of the conversation. The reasoning is balanced and acknowledges the merits of both sides but leans towards the more evidence-based perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that those questioning Linus's motives have more valid points, but it could have been more nuanced. It correctly points out that the defenders of Linus often rely on assumptions and personal biases, but it doesn't fully address the complexity of the situation, such as the financial realities, the due diligence process, and the broader context of the company's operations. The judgment is somewhat fair but lacks depth in evaluating the specific arguments presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the people questioning Linus's motives and the company's financial situation present more evidence-based arguments, such as the financial struggles, management issues, and due diligence process. It also fairly points out that the defenders of Linus often rely on assumptions and personal biases without concrete evidence. However, it could have provided a more balanced view by acknowledging the complexity of the situation and the potential validity of Linus's perspective regarding his control and vision for the company.",
+        "score": 4
+    }
+}

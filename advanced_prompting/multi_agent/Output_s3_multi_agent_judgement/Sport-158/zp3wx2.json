@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that the argument about referee bias is more defensible than the claim of an obvious dive. It shows a balanced approach by not outright dismissing either side but instead highlighting the strength of one argument over the other. The reasoning is fair and considers the context of the match, including the team's condition and the referee's decisions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly claims that the argument about referee bias is more defensible. The evidence presented by 'ButterscotchRich3214' is based on subjective claims of bias and a lack of clear evidence, while 'Deluxefish' provides objective analysis supported by replay and expert opinion. The mediation fails to address the lack of concrete evidence for bias and incorrectly prioritizes subjective claims over factual analysis.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the argument about referee bias is more defensible than the claim of an obvious dive, acknowledging the context of the match and the team's condition. It provides a balanced view by not dismissing either side outright but instead recognizing the strength of one argument over the other. The reasoning is fair and considers the nuances of the situation.",
+        "score": 5
+    }
+}

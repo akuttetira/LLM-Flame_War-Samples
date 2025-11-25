@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that calling out toxic behavior and setting boundaries is the right approach. The individuals in the conversation who are advocating for accountability and boundaries are demonstrating maturity and self-respect, while those who are enabling or justifying the behavior are not addressing the issue. The reasoning is sound and aligns with the experiences shared in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation correctly identifies that calling out toxic behavior and setting boundaries is more appropriate. However, it oversimplifies the complex dynamics at play, such as the mother's mental health issues and the systemic abuse within the family. The judgment does not adequately consider the emotional toll on the children and the potential for long-term psychological harm. It also fails to address the nuanced situation where the mother may be struggling with mental health issues rather than intentionally being toxic.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that calling out toxic behavior and setting boundaries is the right approach, as evidenced by the shared experiences in the conversation. However, it oversimplifies the complex dynamics involving potential mental health issues and the emotional toll on the children. The score reflects a balanced view that acknowledges the validity of the mediation's main point while recognizing the need for nuance in understanding the mother's behavior.",
+        "score": 4
+    }
+}

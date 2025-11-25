@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the more justified criticism of MuslimDude37 for not prioritizing the girl's immediate needs, which shows an understanding of the context and the situation. It also points out the condescending nature of ChatterMaxx's response, which is a fair assessment of the tone and intent behind the comments. The reasoning is balanced and considers the nuances of both responses.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the conversation, which is the ethical responsibility of commenters in a crisis. It incorrectly prioritizes the criticism of MuslimDude37 over the condescending tone of ChatterMaxx, which is more problematic. The mediation also avoids confronting the broader context of the situation and the potential for harmful commentary in times of crisis.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively balances the critique of both commenters, acknowledging that while MuslimDude37's response may have been less compassionate, ChatterMaxx's tone was more condescending and harmful. It addresses the context of the situation and the ethical responsibility of commenters, providing a fair and nuanced assessment of both sides.",
+        "score": 4
+    }
+}

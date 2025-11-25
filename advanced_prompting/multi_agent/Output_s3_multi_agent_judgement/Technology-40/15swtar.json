@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the defenders of the original poster are more justified in their stance, as they are addressing the troll's behavior and the context of the roast. The argument highlights the humor and the community's reaction, which are valid points in the discussion. The score reflects the accurate judgment of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the conversation, which revolves around a roast and its implications. It incorrectly assumes that the 'people defending the original poster' are more right than those dismissing the roast, without providing a clear reasoning or evidence for this claim. The mediation also overlooks the context of the subreddit being in 'Community Only' mode, which may have influenced the removal of comments. The judgment is not neutral and lacks a thorough analysis of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation partially addresses the situation by acknowledging the debate between defending the original poster and dismissing the roast, but it lacks a balanced analysis of the context and community guidelines. It fails to adequately consider the subreddit's 'Community Only' mode and the nature of the roast itself. The score reflects a moderate judgment due to the partial accuracy but also the oversight of key contextual factors.",
+        "score": 3
+    }
+}

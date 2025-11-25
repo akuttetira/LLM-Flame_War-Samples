@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the more respectful and empathetic response as the more appropriate one, acknowledging the sincerity of the apology and the baseless nature of the accusation. This shows a clear understanding of the context and the emotional weight of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly assumes that the baseless accusation about Ronaldo's character is less valid, despite the lack of evidence or context. The judgment fails to address the harmful nature of the accusation and the lack of justification for it. It also overlooks the potential for the accusation to be seen as a personal attack rather than a factual statement.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively distinguishes between a sincere apology and a baseless, harmful accusation. It correctly identifies the more empathetic and respectful response as the appropriate one, acknowledging the emotional context and the lack of evidence for the harmful claim. The rationale is fair, balanced, and considers the intent and impact of the statements.",
+        "score": 5
+    }
+}

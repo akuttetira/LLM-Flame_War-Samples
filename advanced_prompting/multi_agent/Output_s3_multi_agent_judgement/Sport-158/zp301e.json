@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the concern of the user who is questioning the referee's decision, and correctly identifies that the other comments are dismissive and not constructive. The judgment is fair and highlights the valid concern of the user, which is the main point of the original conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that the person calling out the referee is more correct. The conversation contains a deleted comment that explains the situation, which contradicts the mediation's conclusion. The mediation also fails to address the misinformation spread by the deleted comment and the fact that the rulebook was referenced to correct it. The judgment is not neutral and shows a bias towards the person criticizing the referee without properly evaluating the context or evidence.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the user's concern about the referee's decision and acknowledges that the other comments are dismissive. However, it fails to fully address the context provided by the deleted comment which explains the situation. The mediation also does not fully evaluate the rulebook reference as a corrective measure. While it shows some fairness, it could have been more neutral and comprehensive in its assessment.",
+        "score": 3
+    }
+}

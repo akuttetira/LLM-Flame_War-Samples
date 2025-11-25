@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the validity of the experiences shared by the users, recognizing the emotional manipulation and control by narcissistic parents. The judgment aligns with the detailed accounts of abuse, conditional love, and the long-term effects on the individuals' mental health and relationships. The reasoning is supported by the consistent themes of emotional abuse, lack of support, and the impact on the individuals' ability to form healthy relationships. The score reflects the accuracy and fairness of the judgment in favor of the users' experiences.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that those sharing experiences of emotional manipulation by narcissistic parents are more right than those dismissing their stories. This is flawed because it does not address the validity of the experiences shared, nor does it acknowledge that some individuals may have different experiences or contexts. The mediation fails to provide a balanced assessment of the situation and instead leans heavily on one side of the argument, which is not fair or neutral.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the prevalence of emotional manipulation and control by narcissistic parents in the shared experiences, which are consistently validated by the users' detailed accounts. However, it does not adequately address the complexity of the issue, such as the possibility of different experiences or the need for a balanced perspective. The score reflects a fair assessment of the mediation's accuracy in validating the users' experiences while acknowledging the need for a more nuanced approach.",
+        "score": 3
+    }
+}

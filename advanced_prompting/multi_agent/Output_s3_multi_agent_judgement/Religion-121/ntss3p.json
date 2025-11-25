@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and presents a balanced view, recognizing valid points on both sides. It correctly emphasizes that Islam may have absorbed similarities from Zoroastrianism rather than copying it, which is a more defensible position than outright dismissal. The reasoning is fair and considers the arguments presented in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and presents a balanced view, recognizing that the claim of Islamic absorption of Zoroastrian elements is more defensible than outright dismissal. However, it does not fully address the counterarguments or provide a clear, decisive judgment on which side is correct. The score is moderate as it shows some fairness but lacks a strong, evidence-based conclusion.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue and provides a balanced view by recognizing that the claim of Islamic absorption of Zoroastrian elements is more defensible than outright dismissal. It correctly emphasizes the nuance of the argument without fully addressing counterarguments or providing a clear, evidence-based conclusion. The score is moderate as it shows fairness but lacks a strong, evidence-based conclusion.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the importance of having a plan for dealing with a potentially vindictive ex-partner. It recognizes the nuances in the discussion and validates the concerns raised by the participants, which is a positive and fair approach. The judgment is well-reasoned and shows an understanding of the context provided in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to address the specific arguments presented in the conversation and instead makes a general statement about the importance of having a plan. It does not evaluate the reasoning or arguments of the participants in the conversation, nor does it determine which side is correct. The output is overly vague and does not provide a clear judgment or analysis of the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation and the importance of having a plan for dealing with a potentially vindictive ex-partner, as highlighted in the conversation. It recognizes the nuances in the discussion and validates the concerns raised by the participants, which is a fair and reasonable approach. However, it could have provided more specific analysis of the arguments presented.",
+        "score": 4
+    }
+}

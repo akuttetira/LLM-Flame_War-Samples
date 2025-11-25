@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the person sharing their personal experience of overcoming emotional manipulation and controlling behavior from their parents is more in the right. The argument acknowledges the difficulty of moving out of a controlling environment and validates the emotional struggle involved, which is crucial in understanding the context of the conversation. The judgment is fair and considers the complexity of the situation, highlighting the valid perspective of those who have faced significant emotional and psychological challenges.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of leaving controlling parents and validates the struggles of those who find it difficult. However, it oversimplifies the issue by implying that those who find it easy are 'wrong' without considering individual differences. The mediation also fails to address the validity of the person's experience without acknowledging the broader context of personal agency and autonomy. While it correctly highlights the difficulty of overcoming emotional manipulation, it does not fully account for the diversity of experiences and the importance of individual choice.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly acknowledges the difficulty of overcoming emotional manipulation and controlling behavior from parents, validating the struggles of those who find it challenging. It recognizes the complexity of the situation and the importance of personal agency. However, it could have been more balanced by acknowledging individual differences in experiences and not framing those who find it easier as 'wrong'. The score reflects a fair assessment that recognizes the valid perspective of those facing significant emotional challenges while also considering the diversity of experiences.",
+        "score": 4
+    }
+}

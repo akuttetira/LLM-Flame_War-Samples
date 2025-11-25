@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that the Netherlands may have provoked the Argentine players and that the referee's decisions may have contributed to the tensions. It also correctly points out that blaming Argentina solely for their behavior is an oversimplification. The judgment is balanced and does not take a clear side, which is appropriate given the context of the debate.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the Netherlands may have provoked the Argentine players and that the referee's actions may have contributed to the tension. However, it does not fully address the complexity of the situation, such as the historical context of Argentina's behavior in previous matches and the role of the referee in both matches. The mediation also fails to adequately consider the perspective that Argentina's behavior was a reaction to the Netherlands' actions, rather than a lack of respect. The judgment is somewhat balanced but lacks depth in evaluating the full context of the argument.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that both teams may have contributed to the tensions and that the referee's decisions played a role. It correctly avoids taking a clear side and instead focuses on the nuance of the argument. However, it could have done more to address the historical context of Argentina's behavior and the referee's role in both matches, which are important aspects of the debate.",
+        "score": 4
+    }
+}

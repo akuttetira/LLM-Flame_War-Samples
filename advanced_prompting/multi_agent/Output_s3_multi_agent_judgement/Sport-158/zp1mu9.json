@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the argument about France's performance is more defensible than the personal attacks and insults. The focus on the team's performance is a valid point of discussion, while the personal attacks undermine the conversation's fairness and effectiveness. The judgment acknowledges the stronger argument while maintaining neutrality by dismissing the inappropriate behavior.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the argument that France is a poor team but fails to address the underlying issue of personal attacks and insults. It also overlooks the context of the conversation, where some participants are making derogatory comments about England and other teams, which is not directly related to the performance of France. The judgment is somewhat neutral but lacks depth in addressing the full scope of the conversation.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively distinguishes between the argument about France's performance and the personal attacks, acknowledging the stronger argument while calling out the inappropriate behavior. It maintains neutrality and fairness by not taking sides but rather focusing on the quality of the discussion. The response is well-reasoned and addresses the key issues in the conversation.",
+        "score": 5
+    }
+}

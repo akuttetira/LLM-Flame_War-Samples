@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that both parties may have contributed to the conflict. It correctly identifies that the employee who expressed their opinion about the parents' relationship was more in the right, as it was inappropriate to comment on another's family in a professional setting. The judgment is fair and considers the context of the workplace, showing a balanced perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that the employee who reminded the colleague is more right than the one who got in trouble. The conversation indicates that expressing opinions on others' family relationships is inappropriate, regardless of intent. The mediation fails to adequately address the appropriateness of commenting on a family dynamic in a professional setting and incorrectly shifts blame. The judgment is flawed in reasoning and lacks neutrality.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the employee who expressed their opinion about the parents' relationship was more in the right, as it was inappropriate to comment on another's family in a professional setting. It acknowledges the complexity of the situation and provides a balanced perspective, considering the context of the workplace. The reasoning is fair and aligns with the conversation's context.",
+        "score": 4
+    }
+}

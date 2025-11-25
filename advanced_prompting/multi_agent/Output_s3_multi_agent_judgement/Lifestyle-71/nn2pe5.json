@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around self-criticism and the inner critic, recognizing that the conversation is nuanced and that blanket statements about victim-blaming or dismissing self-criticism are not entirely accurate. It highlights the importance of distinguishing between healthy self-criticism and the harmful inner critic, which is a key point in the discussion. The mediation does not take a sideshow stance but rather emphasizes the need for a balanced and informed perspective, which is a positive and fair approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around self-criticism and victim-blaming, which is a positive aspect. However, it fails to clearly determine which side is correct in the debate between healthy self-criticism and the inner critic. The mediation is neutral but does not provide a clear judgment on the accuracy of the arguments presented, which is necessary for a proper evaluation. The score is moderate as the mediation is fair but lacks a definitive conclusion.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the nuanced discussion around self-criticism and the inner critic, recognizing the complexity of the debate. It correctly identifies that blanket statements about victim-blaming or dismissing self-criticism are not entirely accurate, and highlights the importance of distinguishing between healthy self-criticism and the harmful inner critic. The mediation maintains a balanced and fair perspective without taking sides, which is a positive approach. However, it could have provided a slightly more definitive conclusion on the accuracy of the arguments presented.",
+        "score": 4
+    }
+}

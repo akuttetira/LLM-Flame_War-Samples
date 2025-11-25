@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the key points in the conversation: the validity of single-event trauma and the rejection of transphobic language. It acknowledges the support group's values of inclusivity and validates the arguments made by the users who emphasized trauma and transphobia. The reasoning is clear and aligns with the context of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core issue of misinformation and the validity of the claim that a single traumatic event can cause lifelong trauma. It also overlooks the transphobic language in the comment and the community's stance against it. The judgment is not neutral and shows a bias towards the side that claims a single event can be traumatic, without properly evaluating the scientific consensus or the context of the comment.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the key points of the conversation: the validity of single-event trauma and the rejection of transphobic language. It aligns with the support group's values of inclusivity and validates the arguments made by the users who emphasized trauma and transphobia. However, it could have provided a more balanced view by addressing the scientific consensus on trauma and the context of the comment. The positive judge's rationale is accurate and well-reasoned, while the negative judge's critique is overly critical and lacks nuance.",
+        "score": 4
+    }
+}

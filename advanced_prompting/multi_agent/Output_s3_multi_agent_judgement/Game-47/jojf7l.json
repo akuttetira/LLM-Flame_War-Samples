@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the majority of the conversation revolves around the release date of Kena and the disappointment expressed by users regarding the delayed release. The mediation acknowledges the validity of the concerns and emotions expressed by the users, which is appropriate given the context of the conversation. It also correctly notes that the discussion is focused on the game's release date and not on dismissing the game itself. The reasoning is fair and reflects the majority sentiment of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly claims that those defending Kena's release date are 'more in the right' when there is no clear consensus or factual basis for this assertion. The conversation contains a mix of opinions, some of which are based on misinformation (e.g., the PS5 release date being 6 days left, which is later corrected). The mediation fails to address the complexity of the situation and instead makes a subjective judgment without clear reasoning or evidence. It also overlooks the fact that some users are making unfounded assumptions or jokes about the game's release, which does not necessarily make them 'wrong' in a neutral evaluation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the conversation, recognizing that there is a mix of opinions and some misinformation. It correctly identifies that the majority of the discussion is about the release date of Kena and the disappointment expressed by users. However, it could have provided a more balanced perspective by acknowledging the validity of both sides without making a subjective claim about who is 'more in the right'. The score is moderate as the mediation is fair but could have been more neutral.",
+        "score": 3
+    }
+}

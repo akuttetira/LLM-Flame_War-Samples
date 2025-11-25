@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges both sides' points but leans towards the argument that France's squad quality and England's weaknesses make a higher scoreline more likely. It provides a balanced assessment while recognizing the strength of France's position, which is supported by the arguments presented.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the counterarguments presented. While it acknowledges France's squad quality and England's weaknesses, it overlooks the possibility that England could still perform well with their current squad. The conclusion is overly one-sided and does not fairly consider the balance of strengths and weaknesses on both sides.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced assessment by acknowledging both sides' arguments. It recognizes France's squad quality and England's weaknesses but also acknowledges that England could still perform well. However, it leans slightly more towards the argument that France's advantage is more significant, which is supported by the evidence presented. The response is fair and effective in mediating the discussion.",
+        "score": 4
+    }
+}

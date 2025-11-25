@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the critics are more accurate in their assessment of Caroline's behavior and motivations. The conversation provides multiple instances where Caroline is portrayed as inconsistent, patronizing, and lacking a clear identity. The mediation acknowledges these points while also recognizing the validity of the critics' concerns, which shows a balanced and fair evaluation. The score reflects the accurate identification of the more justified perspective in the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly assumes that the critics of Caroline are more 'in the right' without adequately addressing the complexity of the situation. The conversation includes both criticism of Caroline's behavior and defense of her, but the mediation fails to provide a balanced analysis. It also dismisses the defenders of Caroline as 'haters' or 'jealous,' which is an oversimplification and potentially biased. The judgment lacks nuance and does not consider the broader context of Caroline's behavior and the various perspectives presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges that the critics have valid points about Caroline's inconsistency and lack of clear identity, which is supported by the conversation. However, it also dismisses defenders as 'haters' or 'jealous,' which is an oversimplification. The mediation provides a balanced view by recognizing the critics' concerns but could have been more neutral in its assessment. The score reflects a moderate evaluation of the mediation's accuracy and fairness.",
+        "score": 3
+    }
+}

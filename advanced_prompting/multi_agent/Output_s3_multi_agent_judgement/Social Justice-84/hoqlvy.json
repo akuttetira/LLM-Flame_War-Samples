@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that the mods may be facing challenges in managing the subreddit due to administrative support issues. It also highlights the potential for external influences or 'fuckery' that could be affecting the moderation process. This balanced approach considers both the mods' actions and the broader context of administrative support, making it a fair and nuanced assessment.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core issue of the racist content being allowed to stay up. It shifts focus to the mods' potential targeting and admin support, which distracts from the primary concern of racial hate speech. The judgment lacks a clear, factual basis and instead leans on subjective claims about mod behavior without sufficient evidence.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the complexity of the situation, including the mods' challenges and potential external influences. However, it somewhat downplays the core issue of the racist content being allowed to remain. The score reflects a moderate assessment, as the mediation recognizes valid concerns about administrative support but could have done more to address the primary concern of hate speech.",
+        "score": 3
+    }
+}

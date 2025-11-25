@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and recognizes that both perspectives have merit. It highlights the validity of considering different viewpoints without taking a definitive stance, which is a balanced and fair approach. The response is neutral and effective in promoting understanding without bias.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to provide a clear resolution or judgment on which side is correct. It instead presents both perspectives as equally valid, which is overly neutral and does not address the underlying issues or provide a reasoned conclusion. The conversation contains significant debate and conflicting viewpoints, but the mediation does not adequately analyze the arguments or provide a fair assessment of the merits of each side. The lack of a definitive judgment undermines the effectiveness of the mediation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation and recognizes that both perspectives have merit. It highlights the validity of considering different viewpoints without taking a definitive stance, which is a balanced and fair approach. The response is neutral and effective in promoting understanding without bias, even though it doesn't provide a clear resolution.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and recognizes that both sides have valid points. It correctly identifies that questioning the validity of allegations without evidence is not as justified as those who are skeptical but not dismissive. The mediation also highlights the importance of waiting for more information before making a judgment, which is a fair and balanced approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the need for skepticism, which is a positive approach. However, it does not fully address the potential for genuine sexual harassment allegations, nor does it consider the possibility that Madison's claims could be valid. The mediation also fails to account for the broader context of workplace culture and the potential for systemic issues within LMG. A more balanced approach would require considering both the validity of the allegations and the potential for them to be exaggerated or based on misunderstandings.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the situation is complex and that both sides have valid points. It acknowledges the importance of skepticism but also recognizes the need to consider the validity of allegations without dismissing them outright. The mediation emphasizes the importance of waiting for more information before making a judgment, which is a fair and balanced approach. However, it could have done more to address the potential for genuine sexual harassment allegations and the broader context of workplace culture.",
+        "score": 4
+    }
+}

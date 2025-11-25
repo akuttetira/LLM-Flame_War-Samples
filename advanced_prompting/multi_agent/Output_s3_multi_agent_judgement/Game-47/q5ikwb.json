@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the valid points made by those defending The Last of Us 2, recognizing that the game has received positive feedback from some players and that its story is a subject of debate. It also acknowledges the criticism from others who find the story lacking, showing a balanced view. The score reflects the ability to recognize that both sides have merit, with a slight leaning towards the defenders of TLOU2 as their arguments are more nuanced and consider the game's strengths.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly favors the defense of The Last of Us 2 despite the existence of valid criticism about its story. The argument fails to acknowledge the diversity of opinions and the complexity of evaluating a game's narrative. The mediation also overlooks the fact that some critics provide reasonable and nuanced perspectives, while others make dismissive or overly harsh statements. A fair evaluation should consider multiple viewpoints without bias.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation attempts to balance the perspectives by acknowledging both the defenders of The Last of Us 2 and the critics. However, it slightly leans towards the defenders without fully addressing the valid criticisms about the game's story. While it shows some awareness of the debate, it doesn't fully capture the complexity of the discussion or the diversity of opinions. The score reflects a moderate evaluation that recognizes the debate but could have been more neutral.",
+        "score": 3
+    }
+}

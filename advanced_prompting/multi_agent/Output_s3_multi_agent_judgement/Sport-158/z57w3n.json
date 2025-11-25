@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the concern about referee impartiality due to potential corruption, which is a valid and important issue in sports. It recognizes the argument about external influences on the referee's decision-making as more compelling, which shows an understanding of the concerns raised by the user. The score reflects the mediation's ability to address the core issue raised in the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core issue of corruption and bias in the referee's decision-making. It dismisses the argument about the referee's potential corruption as a 'minor aspect of the game,' which is a significant oversight. The mediation also does not provide a clear judgment on which side is correct, instead favoring one argument over the other without sufficient evidence or reasoning.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the concern about referee impartiality due to potential corruption, which is a valid and important issue in sports. It recognizes the argument about external influences on the referee's decision-making as more compelling, which shows an understanding of the concerns raised by the user. However, it does not fully resolve the issue by providing a clear judgment or explanation of the situation. The positive judge's rationale is more accurate as it highlights the mediation's ability to address the core issue raised in the conversation, while the negative judge's critique is too harsh as the mediation does not entirely dismiss the issue.",
+        "score": 3
+    }
+}

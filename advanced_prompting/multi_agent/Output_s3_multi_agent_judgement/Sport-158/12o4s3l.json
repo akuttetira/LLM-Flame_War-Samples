@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the reasonable argument that the goal was impressive despite the team's overall loss, which is a fair and balanced assessment of the discussion. It avoids dismissing the goal as a fluke or attributing it solely to the team's poor performance, which shows an understanding of the context and the perspective presented. This judgment is well-reasoned and reflects a neutral evaluation of the arguments presented.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to evaluate the arguments but lacks specific reasoning and fails to address the core issues in the conversation. It does not clearly determine which side is correct, nor does it provide a detailed analysis of the arguments presented. The conclusion is vague and does not effectively resolve the discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a reasonable and balanced assessment by acknowledging the argument that the goal was impressive despite the team's overall loss. It avoids dismissive language and offers a nuanced perspective that reflects the context of the discussion. While it could have been more detailed in addressing specific points, the overall approach is fair and effective.",
+        "score": 4
+    }
+}

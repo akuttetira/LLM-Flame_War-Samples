@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the conversation, recognizing that some participants are defending the post while others are being aggressive and dismissive. It highlights the nuance of the situation by suggesting that those defending the post are more in the right, which is a fair and balanced assessment of the arguments presented.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the specific arguments presented in the conversation and instead makes a general judgment about the behavior of participants. It does not provide a clear reasoning for why one side is considered more correct, and it overlooks the potential for aggressive and dismissive language to be harmful. The judgment lacks depth and fails to evaluate the specific content of the arguments made by each participant.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the presence of both defensive and aggressive behaviors in the conversation. It correctly identifies that defending the post is more in line with respectful discourse than being overly aggressive or dismissive. However, it lacks specific context about the content of the original conversation and does not directly address the arguments made by individual participants. This makes the mediation somewhat general but still fair and reasonable.",
+        "score": 3
+    }
+}

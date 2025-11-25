@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that both Maddison's mental health and LTT's actions are at play. It correctly identifies the problematic aspect of blaming Maddison's mental health on her own actions rather than the work environment, which is a more significant issue in the context of workplace abuse. The judgment is fair and considers the nuances of the arguments presented.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to adequately address the complex interplay between workplace abuse and mental health. It incorrectly suggests that attributing Maddison's mental health issues to her own actions is more problematic than the claim of sexist and abusive workplace behavior. This ignores the strong evidence presented by multiple users that Maddison's actions were a direct result of the toxic work environment, including the self-harm incident and the inappropriate comments from management. The mediation also fails to acknowledge the validity of the arguments that LTT management's behavior was sexist and abusive, which is supported by multiple contributors. The reasoning is flawed and does not provide a balanced or fair assessment of the situation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that blaming Maddison's mental health on her own actions is more problematic than the claim of sexist and abusive workplace behavior. It acknowledges the complexity of the situation and highlights the more significant issue of workplace abuse. However, it could have provided a more balanced analysis by considering the evidence presented by multiple users that Maddison's actions were a direct result of the toxic work environment. The score reflects a fair assessment that recognizes the mediation's strengths while noting its limited depth in addressing the full complexity of the issue.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the community's concerns and the potential harm of holding the WAN show, which shows a balanced understanding of the situation. It correctly identifies that prioritizing the WAN show despite the controversy is more problematic than the initial decision to skip it, reflecting an awareness of the broader implications and the importance of community feedback. The reasoning is thoughtful and considers multiple perspectives.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation suggests that the argument for holding a WAN show is more problematic than the initial decision to skip it. However, this reasoning is flawed as it does not adequately address the specific concerns raised by the community, such as the potential harm to the trio and the lack of transparency. The mediation also fails to consider the complexity of the situation, including the importance of the streak and the potential for a live show to be a positive experience. The judgment is overly simplistic and does not engage with the nuanced arguments presented in the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the community's concerns and the potential harm of holding the WAN show, while also recognizing the initial decision to skip it as a more reasonable approach. It provides a balanced perspective by highlighting the broader implications of the controversy and the importance of community feedback. The reasoning is thoughtful and considers multiple perspectives.",
+        "score": 4
+    }
+}

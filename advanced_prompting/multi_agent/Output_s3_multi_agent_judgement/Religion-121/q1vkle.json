@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around hell and biblical interpretations, which is a positive aspect. It recognizes that both sides have valid points, showing a balanced approach. However, it does not clearly determine which side is correct, which is necessary for a fair judgment. The mediation is neutral and avoids taking a definitive stance on the theological debate, which is appropriate given the sensitive nature of the topic.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output acknowledges the complexity of the discussion and the valid points on both sides, which is a positive approach. However, it does not clearly determine which side is correct, which is necessary in a mediation context. The output lacks a clear judgment and fails to address the core arguments presented by both sides in a balanced manner.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around hell and biblical interpretations, which is a positive aspect. It recognizes that both sides have valid points, showing a balanced approach. However, it does not clearly determine which side is correct, which is necessary for a fair judgment. The mediation is neutral and avoids taking a definitive stance on the theological debate, which is appropriate given the sensitive nature of the topic.",
+        "score": 4
+    }
+}

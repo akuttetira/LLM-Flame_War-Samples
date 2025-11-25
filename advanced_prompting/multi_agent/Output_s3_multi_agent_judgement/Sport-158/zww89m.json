@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that both sides have valid points. It avoids taking a definitive stance on whether the action was a foul, which is appropriate given the debate. The response is fair and balanced, highlighting the nuanced nature of the argument without bias.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument, recognizing that both sides have valid points. However, it fails to clearly determine which side is correct based on the evidence presented. The discussion involves subjective interpretations of what constitutes a foul in football, and the mediation does not provide a definitive conclusion. While it is fair to say the issue is nuanced, the mediation could have been more explicit in addressing the core of the dispute.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue and the valid points on both sides. It avoids taking a definitive stance on whether the action was a foul, which is appropriate given the subjective nature of the debate. The response is balanced and fair, providing a reasonable summary of the discussion without favoring either side.",
+        "score": 5
+    }
+}

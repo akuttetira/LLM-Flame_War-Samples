@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the significance of Canada's first World Cup goal as a notable achievement, recognizing the context of the team's early participation and the historical importance of the moment. It balances the arguments by validating the emotional and historical value of the goal while also addressing the counterpoint that it may not be a decisive win. The reasoning is fair and considers the broader context of the team's journey.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the significance of Canada's first World Cup goal, which is a valid perspective. However, it fails to adequately address the counterargument that the goal was not a meaningful achievement in the context of a high-stakes international tournament. The judgment leans towards one side without fully considering the opposing viewpoint, which is a flaw in reasoning. The score is moderate as the mediation does provide some recognition of the achievement but lacks a balanced analysis.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively recognizes the historical and emotional significance of Canada's first World Cup goal, acknowledging the team's early participation and the achievement as a notable milestone. It addresses the counterargument by not dismissing the goal's value entirely but also does not overstate its importance. The reasoning is balanced and fair, considering both the achievement and the context of the tournament.",
+        "score": 4
+    }
+}

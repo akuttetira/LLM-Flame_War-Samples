@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the claim about the Australian player diving is more accurate than the accusation against the Italian team. The reasoning acknowledges the complexity of the incident, including the referee's decisions and the context of the game. It also addresses the historical context and the lack of VAR at the time, which are important factors in evaluating the situation. The judgment is balanced and considers both sides' arguments, showing a fair understanding of the event.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the arguments but fails to fully address the complexities of the situation. The claim that Italy was handed a penalty due to a dive by an Australian player is partially correct, but the mediation does not adequately consider the context of the match, the referee's decisions, or the historical context of the game. Additionally, the mediation does not properly account for the fact that the Italian player's actions were not a dive but a legitimate tackle. The judgment is somewhat fair but lacks depth and fails to fully acknowledge the nuances of the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the incident, correctly identifying that the Australian player's dive was a more accurate claim than the accusation against the Italian team. It addresses the referee's decisions, the lack of VAR at the time, and the context of the match. The judgment is balanced and shows a fair understanding of the event, though it could have delved slightly deeper into the nuances of the referee's actions and the historical context.",
+        "score": 4
+    }
+}

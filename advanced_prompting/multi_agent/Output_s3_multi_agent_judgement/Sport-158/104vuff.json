@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the importance of evidence and constructive dialogue, correctly identifying that claims about the World Cup being rigged require evidence. It also recognizes the value of defending the tournament's legitimacy while criticizing the other side for perceived bias. This shows a balanced approach with a focus on reason and evidence.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the lack of evidence for the claim that the World Cup was rigged. It also dismisses the emotional responses and personal attacks without providing a balanced analysis. The judgment is biased towards the side that claims the tournament was rigged without sufficient evidence, which is not fair or neutral.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the importance of evidence for claims about the World Cup being rigged while also recognizing the legitimacy of defending the tournament's results. It addresses the emotional and critical responses without fully dismissing them, though it could have offered more nuance in evaluating the emotional aspects. The score reflects a moderate level of fairness and effectiveness.",
+        "score": 3
+    }
+}

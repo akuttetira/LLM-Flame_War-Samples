@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that Croatia's success may be attributed to both strategic play and the use of penalties. It avoids taking a definitive stance on the 'cowardly' label, instead focusing on the team's approach and strategy, which shows a balanced and fair assessment of the arguments presented.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of whether Croatia's approach is 'cowardly' or not. It also overlooks the argument that playing 'ugly and violently' to win is not necessarily a flaw, as highlighted by maravis_1999. The judgment is overly dismissive of the criticism without proper consideration of the context and the nature of the sport.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that Croatia's success may be due to both strategic play and the use of penalties. It avoids taking a definitive stance on the 'cowardly' label, instead focusing on the team's approach and strategy, which shows a balanced and fair assessment of the arguments presented. However, it could have done more to address the specific criticisms about playing 'ugly and violently' to win, as mentioned in the conversation. Overall, it provides a fair and reasonable middle ground.",
+        "score": 4
+    }
+}

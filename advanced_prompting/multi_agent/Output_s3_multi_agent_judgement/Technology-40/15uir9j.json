@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the concern raised by the user about the company's handling of the allegations, recognizing that the company's actions may be inadequate. It correctly identifies that the person questioning the company's handling is more in the right than those downplaying the situation, as the company's actions seem to have failed to properly address the allegations. The reasoning is fair and considers the context of the conversation, showing an understanding of the issue at hand.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output acknowledges that the person questioning the company's handling of the allegations is more correct than those downplaying the situation. However, it lacks a detailed analysis of the arguments presented and fails to address the complexity of the situation. It also does not provide a balanced view of the discussion, which includes valid points about the need for privacy in investigations and the limitations of public statements. The judgment is somewhat biased towards the person questioning the company, without thoroughly examining the reasoning behind the opposing viewpoint.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a reasonable assessment of the conversation, acknowledging that the user's concern about the company's handling of the allegations is valid. It correctly identifies that the company's actions may be inadequate. However, it does not fully address the complexity of the situation, such as the need for privacy in investigations and the limitations of public statements. The mediation is somewhat biased towards the user's perspective without thoroughly examining the opposing viewpoints.",
+        "score": 4
+    }
+}

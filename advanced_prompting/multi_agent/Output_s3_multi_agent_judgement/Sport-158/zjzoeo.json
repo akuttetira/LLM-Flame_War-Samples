@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the emotional moment as more contextually valid and highlights the importance of considering context before making hasty judgments. It also acknowledges the troll's perspective but gives more weight to the emotional and contextual argument, which is fair and balanced.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the importance of context, which is a positive aspect. However, it still favors the side that emphasizes the emotional moment and criticizes the troll, which may not be fully neutral. The judgment could be more balanced by considering the potential for misinterpretation and the lack of clear evidence for the claims made by the troll. The score is moderate as the mediation shows some awareness of context but could have been more neutral.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively balances the perspectives by acknowledging the emotional moment and the context, while also addressing the criticism of the troll. It provides a fair assessment by recognizing the importance of context and the potential for misinterpretation, which is a strong and balanced approach.",
+        "score": 5
+    }
+}

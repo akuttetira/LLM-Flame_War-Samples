@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of supporting a team other than one's own and recognizes the validity of differing opinions. It credits the argument that rooting for another team can be a matter of personal choice and that criticizing others for rooting for a different team can be seen as dismissive. The judgment is balanced and acknowledges the nuance in the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the arguments but fails to adequately address the nuances of the discussion. While Unfair_Conference_73's criticism of rooting for others' disgrace is valid, the mediation overlooks the context of the conversation and the potential for misinterpretation. The judgment is somewhat neutral but lacks depth in evaluating the emotional and cultural aspects of the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of team support and the validity of differing opinions, recognizing that rooting for a team can be a personal choice. It also addresses the criticism that rooting for another team's failure can be dismissive, which is a fair point. However, it slightly oversimplifies the emotional and cultural context of the debate, which is important in this discussion about national pride and sports fandom.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation by recognizing that some individuals may act out of social validation rather than altruism, which is a nuanced and reasonable perspective. It also avoids a simplistic judgment by not outright dismissing the Ghanaian fans' actions. This approach shows a balanced understanding of the arguments presented and provides a fair assessment of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the arguments by acknowledging the possibility of social validation motives while dismissing the other side's claim. However, it fails to fully address the core issue of whether the fans' actions were genuinely altruistic or driven by a desire for recognition. The reasoning is somewhat neutral but lacks depth in evaluating the specific arguments presented. The score reflects a moderate evaluation due to the lack of clear resolution and the potential for bias in the judgment.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that some individuals may act out of social validation rather than altruism, which is a nuanced and reasonable perspective. It also avoids a simplistic judgment by not outright dismissing the Ghanaian fans' actions. This approach shows a balanced understanding of the arguments presented and provides a fair assessment of the discussion.",
+        "score": 5
+    }
+}

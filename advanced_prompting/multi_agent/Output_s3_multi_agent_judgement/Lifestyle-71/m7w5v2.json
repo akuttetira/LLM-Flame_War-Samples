@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the validity of the person's experience with narcissistic abuse and the importance of finding validation from a professional. It highlights the emotional and psychological impact of the abuse and the significance of the doctor's words in the context of the person's journey. The judgment is fair, effective, and shows understanding of the complex dynamics at play in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation correctly acknowledges the complexity of the situation, recognizing the validity of the person's experience with a narcissistic mother and the importance of their doctor's validation. However, it could have been more nuanced in addressing the concerns raised by others, such as the potential for misinterpretation or the importance of professional boundaries. The judgment leans towards the person sharing their experience, which is fair, but could have been more balanced in considering the perspectives of those who raised concerns about the doctor's comments.",
+        "score": 4
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the emotional and psychological significance of the person's experience with narcissistic abuse and the validating role of the doctor's words. It recognizes the complexity of the situation and the importance of the person's journey. However, it could have been more balanced in addressing the concerns raised by others about the doctor's comments and the potential for misinterpretation. The judgment is fair and effective, but could have been more nuanced.",
+        "score": 4
+    }
+}

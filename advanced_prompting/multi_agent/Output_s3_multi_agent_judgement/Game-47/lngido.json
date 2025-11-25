@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the validity of criticism towards Apple's business practices while also addressing the personal attacks on customers, which shows a balanced approach. It recognizes that alternatives exist and that consumer choices are not solely driven by trends, which is a fair and reasonable judgment.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the criticism of Apple with the defense of its market share, but it fails to address the underlying issues in the original conversation. The criticism of Apple's business practices is valid, but the mediation overlooks the personal attacks on Apple customers and the broader context of the debate. Additionally, the mediation does not adequately address the alternative viewpoints presented, such as the defense of Samsung. The judgment is somewhat neutral but lacks depth in evaluating the arguments presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the criticism of Apple's business practices and addressing the personal attacks on customers. It also recognizes the existence of alternatives, which is a fair and reasonable approach. However, it could have delved deeper into the context of the debate and the broader implications of the criticism. The score reflects a fair and balanced assessment that addresses key points in the conversation.",
+        "score": 4
+    }
+}

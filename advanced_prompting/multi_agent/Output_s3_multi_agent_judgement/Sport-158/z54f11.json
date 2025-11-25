@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate around soccer's popularity and profitability in the US, recognizing that both sides present valid points. It avoids taking a clear side and instead highlights the nuance in the discussion, which is a fair and balanced approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument but fails to decisively determine which side is correct. It avoids taking a clear stance, which is expected, but the lack of a clear judgment may be seen as insufficient given the context of the conversation. The mediation is neutral and balanced, but it does not provide a strong enough conclusion to fully resolve the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around soccer's popularity and profitability in the US, recognizing that both sides present valid points. It maintains a neutral and balanced approach without taking a clear side, which is appropriate given the nature of the conversation. The mediation successfully highlights the nuances of the discussion without attempting to resolve the debate definitively.",
+        "score": 4
+    }
+}

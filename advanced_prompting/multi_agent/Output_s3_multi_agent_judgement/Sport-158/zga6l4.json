@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion, recognizing that fans of all teams can be obnoxious and that Morocco's win is a legitimate achievement. It also points out the one-sided nature of the argument against Moroccan fans, which is a fair and balanced assessment of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the negative bias and one-sided nature of the argument against Moroccan fans. It overlooks the derogatory and racist language used by some users, particularly HoeDontBelieveYou, and the broader context of historical tensions between Argentina and Morocco. The judgment is too neutral and does not properly account for the offensive and biased comments made by the user 'HoeDontBelieveYou' and others, which suggest a lack of fairness in the evaluation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging both perspectives: the obnoxiousness of fans across teams and the legitimacy of Morocco's win. It correctly identifies the one-sided nature of the argument against Moroccan fans, which is a fair assessment. However, it could have done more to address the offensive and biased comments made by users like HoeDontBelieveYou, which were clearly derogatory and racist. The score is slightly lower than 5 because the mediation doesn't fully address the offensive language and historical context.",
+        "score": 4
+    }
+}

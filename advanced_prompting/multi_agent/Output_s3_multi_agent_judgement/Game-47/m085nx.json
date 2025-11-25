@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the initial comment downplaying Women's Day and implying men's rights are more important is the more problematic stance. The judgment acknowledges the importance of focusing on women's rights and the need for awareness, which is a fair and effective assessment of the conversation. The reasoning is clear and aligns with the goal of promoting equality and understanding.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to acknowledge the complexity of the discussion and the potential for bias. It incorrectly labels the initial downplayer as 'more in the wrong' without providing a balanced analysis of the arguments. The judgment lacks nuance and does not adequately address the underlying issues of gender equality and the validity of the arguments presented by both sides.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the initial comment as the more problematic stance by downplaying Women's Day and implying men's rights are more important. It acknowledges the importance of focusing on women's rights and the need for awareness, which is a fair and effective assessment. However, it could have provided more context on the broader discussion around gender equality and the validity of the arguments presented by both sides.",
+        "score": 4
+    }
+}

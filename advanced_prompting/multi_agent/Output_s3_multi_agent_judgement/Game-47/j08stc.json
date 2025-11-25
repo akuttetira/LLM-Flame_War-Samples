@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the valid concerns about the game's writing and character development, which is a positive aspect. It also recognizes the dismissive and condescending responses as less justified, which shows a balanced view. The judgment is fair and considers both sides of the argument.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the nuanced arguments presented. While the criticism of Abby's character development is valid, the mediation overlooks the valid points made by the user who highlighted the artistic style and the potential for character confusion with Ellie. The judgment is somewhat biased towards the critic of the game's writing without fully acknowledging the counterarguments.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the criticism of the game's writing and character development is more justified, which is a key point in the discussion. However, it slightly overlooks the valid artistic style argument and the potential for character confusion with Ellie, which are important counterpoints. The judgment is mostly fair but could have been more balanced in acknowledging both sides.",
+        "score": 3
+    }
+}

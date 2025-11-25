@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument and the different perspectives on the type of goal scored by Richarlison. It recognizes that the discussion involves technical terms and nuances in soccer terminology, which adds depth to the conversation. The mediation avoids a simplistic judgment and instead highlights the need for a more nuanced understanding of the situation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core of the dispute and does not determine which side is correct. It acknowledges the complexity but does not provide a clear judgment or reasoning for the conclusion. The discussion revolves around terminology (bicycle, tricycle, volley, scissor kick) and the accuracy of the description of Richarlison's goal, which is a matter of football terminology and interpretation. The mediation does not engage with the specific arguments or evidence presented by either side, nor does it evaluate the correctness of the claims made.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around soccer terminology and the different interpretations of Richarlison's goal. It avoids taking a simplistic stance and instead highlights the nuanced nature of the discussion. However, it does not fully resolve the dispute by determining which term is more accurate or providing a clear judgment on the correctness of the claims made by either side.",
+        "score": 3
+    }
+}

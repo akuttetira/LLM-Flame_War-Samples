@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the argument focusing on Qatar's exploitation of migrant workers is more defensible than dismissing the World Cup due to Western exploitation. It acknowledges the valid concern about worker exploitation in Qatar while addressing the counterargument about Western exploitation. The mediation maintains a fair balance by not dismissing the other perspective entirely but finds the focus on Qatar's specific issue more relevant to the current context of the World Cup.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the complex and nuanced nature of the debate. It incorrectly assumes that the argument against Qatar's treatment of migrant workers is more defensible than dismissing the World Cup, without properly considering the context of the conversation. The mediation also overlooks the significant historical and ongoing exploitation in Western countries, which is a valid point of contention. The judgment is overly simplistic and does not account for the broader ethical and moral implications of worker exploitation globally.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the valid concern about worker exploitation in Qatar while addressing the counterargument about Western exploitation. However, it oversimplifies the complex ethical and moral implications of worker exploitation globally. The score is moderate as the mediation provides a balanced view but does not fully address the nuanced aspects of the debate.",
+        "score": 3
+    }
+}

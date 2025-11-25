@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that those who advocate for reporting and taking action against hateful comments, while also acknowledging the limitations of the reporting system, are more in the right. The conversation highlights the presence of offensive and hateful content, and the frustration with the reporting process. The mediation acknowledges both the need for action and the systemic issues with the reporting system, which shows a balanced and fair assessment of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing both the validity of the concerns about hate speech and the limitations of the reporting system. However, it does not clearly determine which side is more correct in the context of the specific subreddit issue. The judgment is somewhat balanced but lacks a definitive conclusion on who is more right in the specific dispute over the subreddit's content and the effectiveness of reporting mechanisms.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the presence of offensive content and the frustration with the reporting system, while recognizing the validity of those advocating for action. It provides a balanced view by noting the limitations of the reporting process without dismissing the importance of addressing hate speech. However, it does not clearly resolve the debate over whether the subreddit's content is sufficiently harmful to warrant stronger action, which is a key point of contention in the conversation.",
+        "score": 4
+    }
+}

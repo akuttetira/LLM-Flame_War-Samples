@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate and recognizes valid points on both sides, which shows a balanced and fair approach. It avoids taking a definitive stance and instead highlights the nuanced nature of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate and the validity of points on both sides, which is fair and balanced. However, it does not decisively determine which side is correct, which is expected in a mediation context. The response is neutral and does not show a clear bias, making it a 4/5. It avoids taking sides and presents the discussion as nuanced, which is appropriate for a mediation setting.",
+        "score": 4
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate between British and American food, recognizing that both sides have valid points. It maintains a neutral tone, avoids taking a definitive stance, and appropriately highlights the nuanced nature of the discussion. The response is balanced and fair, making it a strong mediation.",
+        "score": 5
+    }
+}

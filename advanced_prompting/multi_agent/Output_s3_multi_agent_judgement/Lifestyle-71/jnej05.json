@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of emotions and the valid points made on both sides regarding the nature of family and healing. It provides a balanced view without taking a definitive stance on which side is correct, which is appropriate given the sensitive and nuanced nature of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of emotions and the valid points on both sides, which is a positive approach. However, it lacks specific analysis of the arguments presented and does not clearly determine which side is correct. The response is somewhat neutral but does not provide a detailed evaluation of the reasoning or arguments made by the participants. It is fair in its general statement but lacks the depth needed to fully assess the discussion.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complex emotions and differing perspectives in the discussion. It recognizes the validity of both sides' viewpoints regarding family, grief, and healing without taking a definitive stance. However, it could have provided more specific analysis of the arguments and clearer evaluation of the reasoning presented in the conversation.",
+        "score": 4
+    }
+}

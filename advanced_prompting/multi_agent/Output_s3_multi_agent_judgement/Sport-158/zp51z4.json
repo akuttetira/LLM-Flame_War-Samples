@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the penalty calls and the emotional nature of the debate, recognizing that the argument regarding Di Maria's penalty being legitimate is more defensible. It also addresses the inappropriate personal attacks and insults, which are not constructive in a respectful discussion. The judgment is fair and balanced, focusing on the merits of the arguments rather than the emotional reactions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the penalty calls but fails to thoroughly analyze the evidence presented. It avoids a detailed evaluation of the arguments, instead opting for a superficial conclusion that dismisses personal attacks. The mediation does not adequately address the specific claims about the referee's decisions, the players' actions, or the context of the match. As a result, it lacks depth and fails to provide a balanced assessment of the competing arguments.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the penalty calls and addresses the inappropriate personal attacks between the users. It recognizes the argument that Di Maria\u2019s penalty was legitimate as more defensible while appropriately dismissing the disrespectful language. However, it could have provided a more detailed analysis of the specific incidents and evidence presented in the conversation.",
+        "score": 4
+    }
+}

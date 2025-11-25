@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion and recognizes the person's experience as more compelling despite the lack of conclusive proof. It also notes the skeptic's dismissal without considering alternative explanations, which shows a balanced approach. The judgment is fair and acknowledges the difficulty in proving supernatural claims, which is appropriate.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the experiential claims of the person but fails to properly address the lack of conclusive evidence or independent verification. It also does not adequately consider the skepticism and alternative explanations presented by the other side. The judgment leans towards the experiential side without thoroughly evaluating the strength of the evidence or the credibility of the claims.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the experiential claims of the person but fails to properly address the lack of conclusive evidence or independent verification. It also does not adequately consider the skepticism and alternative explanations presented by the other side. The judgment leans towards the experiential side without thoroughly evaluating the strength of the evidence or the credibility of the claims.",
+        "score": 2
+    }
+}

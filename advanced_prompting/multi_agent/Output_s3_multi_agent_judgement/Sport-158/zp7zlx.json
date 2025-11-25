@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges that both sides have valid points. It correctly identifies that Martinez's actions were classless and that the criticism was overly harsh. This balanced view reflects a fair assessment of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance both sides but fails to address the underlying issues of toxicity and lack of respect in the conversation. While it acknowledges that Martinez's behavior was classless, it doesn't adequately condemn the harsh and disrespectful tone of the criticism. The judgment is overly neutral and doesn't clearly identify the more problematic side of the exchange.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging both that Martinez's actions were classless and that the criticism was overly harsh. It correctly identifies the key issues in the conversation without being overly neutral or dismissive of the toxic elements. The rationale is well-reasoned and reflects a fair assessment of the situation.",
+        "score": 5
+    }
+}

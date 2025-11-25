@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the validity of the experiences shared by individuals who have faced control and manipulation from their parents. The discussion highlights the emotional and psychological impact of such behavior, and the judgment reflects an understanding of the complexity and severity of these issues. The reasoning is empathetic and recognizes the struggles of the individuals sharing their experiences.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the validity of the experiences shared by individuals who describe being controlled or manipulated by their parents. However, it fails to address the complexity of the issue, such as the potential for miscommunication, cultural differences, and the fact that not all parental control is harmful. The judgment is somewhat biased towards the experiences of those who feel controlled, without providing a balanced perspective.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the experiences shared by individuals who have faced control and manipulation from their parents are significant and valid. It acknowledges the emotional and psychological impact of such behavior without dismissing the perspectives of those who may have different experiences. The judgment is balanced and empathetic, recognizing the complexity of the issue without being overly biased towards one side.",
+        "score": 4
+    }
+}

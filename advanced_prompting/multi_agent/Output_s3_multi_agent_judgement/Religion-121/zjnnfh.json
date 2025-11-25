@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around faith, evidence, and reason, and avoids taking a simplistic stance. It recognizes that faith can have different interpretations and that the conversation involves nuanced perspectives. The mediation does not outright dismiss the arguments on either side but instead presents a balanced view of the topic.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation does not clearly determine which side is correct in the discussion. It presents a balanced view but lacks a clear judgment on the validity of the arguments presented. The discussion involves complex philosophical and theological perspectives, and the mediation does not adequately address the specific claims or counterarguments made by the participants. It also fails to provide a clear evaluation of the reasoning and arguments presented by either side.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around faith, evidence, and reason, and provides a balanced view of the topic. It recognizes that faith can have different interpretations and that the conversation involves nuanced perspectives. However, it does not clearly evaluate the specific arguments or provide a clear judgment on the validity of the claims made by the participants.",
+        "score": 3
+    }
+}

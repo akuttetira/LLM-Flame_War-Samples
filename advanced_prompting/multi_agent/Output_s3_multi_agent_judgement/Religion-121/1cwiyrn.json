@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that while some Muslims believe Aisha was 9, the argument based on Quranic age standards and mathematical calculations suggesting she was 17 is more defensible. It also correctly points out that not all Muslims hold the belief that Aisha was 9, which is a fair and balanced assessment of the debate.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that the Quran sets a minimum age for marriage and that Aisha's age is likely around 17. However, it fails to adequately address the significant number of hadiths and historical sources that support the claim that Aisha was 9 when married. The mediation also does not fully consider the historical and scholarly debates surrounding the authenticity of these hadiths. The score is moderate as the mediation acknowledges some valid points but does not fully engage with the broader context and evidence presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly acknowledges the complexity of the issue and highlights that while some Muslims believe Aisha was 9, the argument based on Quranic age standards and mathematical calculations suggesting she was 17 is more defensible. It also accurately points out that not all Muslims hold the belief that Aisha was 9, which is a fair and balanced assessment. However, it does not fully address the significant number of hadiths and historical sources that support the claim that Aisha was 9 when married, nor does it adequately consider the historical and scholarly debates surrounding the authenticity of these hadiths.",
+        "score": 4
+    }
+}

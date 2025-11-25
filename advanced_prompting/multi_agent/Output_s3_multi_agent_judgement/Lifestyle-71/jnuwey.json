@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the key issue in the conversation: the recognition of manipulation and the refusal to engage in toxic behavior. The judgment highlights the importance of setting boundaries and not allowing narcissistic behavior to dictate one's emotional state. The reasoning is sound and aligns with the discussions in the conversation where users express their feelings of being invalidated and the need to prioritize mental health. The score reflects the accurate assessment of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and recognizes the manipulative patterns in the interactions. However, it does not fully address the nuances of the arguments presented, such as the difference between valid emotional responses and toxic manipulation. The judgment is somewhat fair but lacks depth in evaluating the specific arguments and the context of the conversations.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the core issue of recognizing manipulation and refusing to engage in toxic behavior, which is central to the conversation. It acknowledges the importance of boundary-setting and prioritizing mental health, aligning with the discussions where users express their feelings of being invalidated. The rationale is clear, fair, and supports the perspective that refusing to engage with narcissistic behavior is the right choice. The score reflects a strong assessment of the situation.",
+        "score": 5
+    }
+}

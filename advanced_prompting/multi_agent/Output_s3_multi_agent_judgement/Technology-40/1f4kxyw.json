@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of Emily's situation, recognizing both the potential for backlash and her personal choice in reducing her presence. It also correctly identifies that not all commenters are transphobic, which shows a balanced and nuanced understanding of the discussion. The judgment is fair and avoids oversimplifying the issue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of Emily's situation, considering both her personal choice and the potential for backlash. However, it downplays the significant presence of transphobic comments in the conversation, which is a critical aspect of the issue. The judgment does not fully address the extent of the negative reactions and the potential impact on Emily's decision to step back from the spotlight. A more balanced assessment would have considered the broader context of transphobia in the community and the validity of the claims made by some commenters.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of Emily's situation, recognizing both her personal choice and the potential for backlash. It also correctly identifies that not all commenters are transphobic, which shows a balanced and nuanced understanding of the discussion. However, it could have provided a more thorough analysis of the transphobic comments present in the conversation and their impact on Emily's decision. The score reflects a fair assessment that recognizes the mediation's strengths while noting areas for improvement.",
+        "score": 4
+    }
+}

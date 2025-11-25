@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that engaging with harassment brigades can be counterproductive and that the harassers often gain satisfaction from the interaction. The argument acknowledges the futility of trying to out-argue or out-troll them, which aligns with the discussion in the conversation where multiple participants emphasize the effectiveness of deplatforming and blocking as more direct responses. The reasoning is sound and reflects the consensus in the conversation that engaging with trolls is not a productive strategy.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation suggests that engaging with harassment brigades is counterproductive, which aligns with the discussion. However, it fails to adequately address the nuanced arguments presented by both sides. The mediation does not thoroughly evaluate the effectiveness of deplatforming versus engagement strategies, nor does it consider the potential for psychological warfare as a viable counter-strategy. The conclusion is somewhat one-sided and does not fully engage with the complexity of the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively captures the main point that engaging with harassment brigades is counterproductive and that deplatforming is a more effective strategy. It acknowledges the futility of trying to out-argue trolls and aligns with the consensus in the conversation. However, it could have been more nuanced in addressing the discussion about psychological warfare and the potential effectiveness of subtle strategies. The score reflects a balance between the mediation's accuracy and its limited engagement with the complexity of the debate.",
+        "score": 4
+    }
+}

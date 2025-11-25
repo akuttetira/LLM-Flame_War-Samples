@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and recognizes that the person defending Ronaldo is more reasonable in questioning the severity of the allegations, while also noting the unsubstantiated claims and inflammatory language from the other side. This shows a balanced approach to the discussion, acknowledging the nuances of the issue without taking a definitive stance on the truth of the allegations.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly labels the SportsRadioAnnouncer as the one making unsubstantiated claims. The SportsRadioAnnouncer provided a link to a news article and explicitly stated that Ronaldo admitted to paying off a woman, which is a factual claim. The mediation fails to acknowledge that the SportsRadioAnnouncer is presenting evidence, while the other side is questioning the validity of the allegations. The judgment is flawed in its reasoning and does not fairly assess the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation attempts to balance the perspectives but incorrectly identifies the SportsRadioAnnouncer as the one making unsubstantiated claims. The SportsRadioAnnouncer provided a news source and stated a factual claim about Ronaldo's alleged payment, while the other side questioned the validity of the allegations. The mediation fails to properly acknowledge the evidence presented and the context of the claims, leading to an unfair assessment of the arguments.",
+        "score": 3
+    }
+}

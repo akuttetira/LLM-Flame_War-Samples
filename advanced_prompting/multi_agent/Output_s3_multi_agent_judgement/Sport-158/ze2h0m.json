@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation by recognizing that Brazilian players' celebratory behavior is a valid point of contention, while also addressing the broader issue of xenophobia and racism against Brazilians. It provides a balanced perspective that neither fully supports nor dismisses either side's arguments, which is fair and nuanced. The judgment is well-reasoned and acknowledges the context of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the complex dynamics at play. It suggests that the argument against Brazilian players' celebratory behavior is more defensible, but this overlooks the broader context of xenophobia and racism directed at Brazilians. The mediation also does not fully acknowledge the valid criticisms of the opposing side, which includes the claim that Brazilians are being unfairly targeted. The judgment is somewhat biased towards the side that criticizes the broader generalization of Brazilian behavior, without properly addressing the nuances of the debate.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by distinguishing between the specific behavior of Brazilian players and the broader issue of xenophobia and racism against Brazilians. It provides a balanced perspective that neither fully supports nor dismisses either side's arguments, which is fair and nuanced. The judgment is well-reasoned and acknowledges the context of the discussion.",
+        "score": 5
+    }
+}

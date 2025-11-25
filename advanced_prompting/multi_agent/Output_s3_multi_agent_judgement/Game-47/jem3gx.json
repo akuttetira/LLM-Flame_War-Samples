@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the validity of criticism towards the OP for not putting in effort, while also recognizing the need for more constructive feedback rather than aggression. It provides a balanced view by highlighting the difference between valid criticism and excessive dismissiveness, which shows an understanding of the dynamics in the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the criticism by acknowledging both the OP's lack of effort and the aggressive responses, but it fails to clearly determine which side is more correct. The judgment is vague and doesn't provide a clear rationale for why one side is more right than the other. It also doesn't address the specific nature of the comments made by the users, such as the use of 'pathetic' and 'lmao you're pathetic,' which are dismissive and not constructive. The mediation lacks a clear, objective standard for determining rightness.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced perspective by acknowledging both the OP's lack of effort in creating a meaningful post and the aggressive nature of some comments. It correctly identifies that valid criticism is different from dismissive and overly harsh feedback. However, it could have been more specific in explaining why the criticism is more justified than the aggression, and it doesn't clearly define what constitutes 'valid criticism' or 'aggression' in this context. Overall, it shows an understanding of the dynamics but could be more precise.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the nuanced difference between closed captioning and subtitles, recognizing that both terms have valid contexts. It correctly identifies that the discussion is not just about terminology but also about accessibility and understanding. The mediation avoids taking a definitive side and instead highlights the complexity of the issue, which is a fair and balanced approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the nuanced difference between closed captioning and subtitles, which is accurate. However, it fails to address the underlying conflict and insults that occurred in the conversation. The mediation does not clearly determine which side is correct in the terminology debate, leading to a lack of resolution. While both terms have valid uses, the mediation does not sufficiently clarify the distinction or provide a clear judgment, which is necessary for a fair and effective resolution.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the nuanced difference between closed captioning and subtitles, acknowledging that both terms have valid contexts. It addresses the underlying conflict by recognizing the importance of accessibility and understanding, while also avoiding taking a definitive side. The mediation provides a balanced perspective that reflects the complexity of the issue, making it a fair and effective resolution.",
+        "score": 5
+    }
+}

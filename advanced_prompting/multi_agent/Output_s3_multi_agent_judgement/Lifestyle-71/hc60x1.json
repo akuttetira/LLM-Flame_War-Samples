@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the key issue in the conversation: the unfair judgment and shaming of people for their hobbies, especially those seen as feminine. The argument that hobbies should be respected as personal choices, regardless of societal perceptions, is well-reasoned and aligns with the sentiments expressed by multiple participants. The mediation also acknowledges the validity of the planner community's perspective without dismissing the concerns raised about judgment and stigma, making it balanced and fair.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the arguments but fails to adequately address the core issue of judgment and shaming of hobbies, particularly those associated with femininity. It also overlooks the negative bias towards certain hobbies and the lack of understanding from others. The conclusion that the planner community is not inherently problematic is not fully supported by the arguments presented, as the conversation highlights significant criticism and negativity towards such hobbies.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively captures the central issue of unfair judgment and shaming of hobbies, particularly those associated with femininity, as highlighted in the conversation. It acknowledges the validity of the planner community's perspective while also recognizing the negative bias and lack of understanding towards certain hobbies. The reasoning is balanced and fair, aligning with the sentiments of multiple participants in the discussion.",
+        "score": 5
+    }
+}

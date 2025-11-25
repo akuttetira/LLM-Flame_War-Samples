@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the majority of the conversation centers around individuals sharing their experiences of being raised by narcissistic parents and their efforts to heal and move forward. The mediation acknowledges the validity of their struggles and the importance of their personal growth, which aligns with the positive bias and highlights the reasoning and arguments presented in the discussion. The judgment is fair and effective in recognizing the depth of the emotional and psychological impact of narcissistic parenting, as well as the resilience shown by the individuals in overcoming it.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the validity of the experiences shared by individuals raised by narcissistic parents and their efforts to heal. However, it fails to address the nuanced perspectives presented in the conversation, such as the argument that the 'statute of limitations on childhood trauma ends at age 28' is a personal opinion and not universally applicable. The mediation also does not adequately consider the diverse viewpoints on parenting, including the decision to remain childfree or to pursue a stable, loving environment. It leans heavily on one side of the argument without providing a balanced evaluation of the complexities involved.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the central theme of the conversation as individuals sharing their experiences with narcissistic parenting and their healing processes. It acknowledges the validity of their struggles and the importance of their personal growth. However, it oversimplifies the discussion by not adequately addressing the nuanced perspectives, such as the debate over the statute of limitations for trauma and the diverse choices people make regarding parenting. The mediation leans too heavily on one perspective without providing a balanced evaluation of the complexities involved.",
+        "score": 3
+    }
+}

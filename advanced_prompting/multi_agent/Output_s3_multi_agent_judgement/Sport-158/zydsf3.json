@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the emotional value of the heaven concept for some and recognizes the other side's perspective. It balances both viewpoints by suggesting that the defender of heaven is more correct in considering its emotional and symbolic significance, while also noting the dismissive stance might overlook that value. This shows a fair and nuanced understanding of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that the person defending heaven is more right. The conversation shows that the user is criticizing the literal interpretation of heaven while acknowledging its emotional value. The mediation fails to recognize the user's point that heaven is a metaphor, not a literal place, and incorrectly frames the debate as a matter of who is 'more right'. The mediation also overlooks the user's argument that criticizing heaven as 'nonsense' is not the same as denying its emotional significance. The judgment is biased and fails to fairly represent the complexity of the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation attempts to balance both perspectives but fails to accurately represent the nuances of the discussion. It incorrectly assumes that the defender of heaven is more right, while the conversation shows that the user is criticizing the literal interpretation of heaven while acknowledging its emotional value. The mediation does not properly address the user's argument that criticizing heaven as 'nonsense' is not the same as denying its emotional significance. It also oversimplifies the debate by framing it as a matter of who is 'more right', which is not the main issue in the conversation.",
+        "score": 2
+    }
+}

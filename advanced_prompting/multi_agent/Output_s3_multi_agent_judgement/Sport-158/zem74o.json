@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing valid points on both sides. It avoids taking a definitive stance and instead highlights the nuanced nature of the debate, which is appropriate given the discussion around nationality, cultural identity, and language. The response is fair and balanced, allowing for the possibility of multiple perspectives.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue but fails to clearly determine the correct answer. While both sides present valid arguments, the mediation does not decisively conclude that Bono is Canadian or Moroccan, which is necessary for a fair judgment. The mediation also lacks a clear resolution of the debate over his cultural identity and nationality, leaving the issue unresolved.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around Bono's nationality and cultural identity, recognizing that both Canadian and Moroccan perspectives have valid elements. It avoids taking a definitive stance and instead presents the issue as nuanced, which is appropriate given the discussion. The response is fair and balanced, allowing for the possibility of multiple perspectives without resolving the debate in a way that may be seen as biased.",
+        "score": 4
+    }
+}

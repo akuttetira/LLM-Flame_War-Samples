@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the person questioning the definition of evolution is engaging in a more constructive and thoughtful discussion, while the other party is dismissing the complexity of the concept without proper understanding. The mediation acknowledges the importance of defining terms clearly and highlights the lack of understanding on the part of the other party, which is a fair and accurate assessment of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to balance the discussion by acknowledging both sides but ultimately sides with the person questioning the definition. However, the reasoning is flawed as it does not adequately address the scientific consensus on evolution. The mediation fails to recognize that the person who dismisses the complexity of evolution without understanding it is not necessarily in the wrong. The argument against the definition is more aligned with scientific discourse, and the mediation does not clearly establish why the other side is incorrect.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that the discussion is centered around the definition of evolution and the importance of clear terminology. It acknowledges the constructive approach of the person questioning the definition while also pointing out the dismissive attitude of the other party. However, the mediation could have provided more context on the scientific consensus and the validity of the definitions provided. The score is moderate as the mediation is fair but could have been more comprehensive.",
+        "score": 3
+    }
+}

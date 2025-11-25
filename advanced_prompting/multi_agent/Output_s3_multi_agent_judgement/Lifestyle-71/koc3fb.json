@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the arguments advocating for the OP to report their parents and seek help from authorities are more in the right. The concern about the parents potentially poisoning the OP is significant, and the advice to report them, even without immediate evidence, is a proactive step that aligns with the need for safety and protection. The mediation also acknowledges the severity of the situation and the potential harm the OP is facing, which is a fair and reasonable assessment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly assumes that advocating for reporting parents is the right approach without considering the potential risks and consequences. The judgment fails to address the complexity of the situation, the potential danger to the OP, and the lack of concrete evidence. It also overlooks the importance of safety and the potential for retaliation, which are critical factors in such a sensitive and potentially dangerous scenario.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the severity of the situation and the potential harm the OP is facing, while also recognizing the importance of safety and the potential consequences of retaliation. It correctly identifies that advocating for the OP to report their parents and seek help from authorities is a more appropriate response, as it aligns with the need for protection and accountability. However, it could have been more nuanced in addressing the complexities and risks involved.",
+        "score": 4
+    }
+}

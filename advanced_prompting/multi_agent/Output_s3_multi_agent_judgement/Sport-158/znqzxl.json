@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the subjective nature of the debate around Messi's speech and recognizes that both sides have valid points. It avoids taking a clear stance and instead highlights the complexity of the issue, which is appropriate given the personal opinions and arguments presented. The response is fair, neutral, and effective in addressing the discussion without bias.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of whether Messi's speech was effective or not. It presents the argument as a personal opinion rather than a factual critique, which is misleading. The mediation does not clearly determine which side is correct, and it overlooks the strong arguments made by both sides. The negative bias is not adequately represented in the mediation, which lacks a clear judgment on the validity of the claims made.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the subjective nature of the debate around Messi's speech and recognizes that both sides have valid points. It avoids taking a clear stance and instead highlights the complexity of the issue, which is appropriate given the personal opinions and arguments presented. The response is fair, neutral, and effective in addressing the discussion without bias.",
+        "score": 5
+    }
+}

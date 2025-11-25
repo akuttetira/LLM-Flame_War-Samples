@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the debate around Pele's status as the greatest and recognizes that opinions can vary, which is a balanced approach. It avoids taking a definitive stance on who is greater, instead emphasizing respect and the validity of differing opinions. This shows a fair and neutral perspective, which is appropriate given the subjective nature of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to acknowledge the strong, emotionally charged arguments presented by both sides. It incorrectly dismisses the claim that Pele was the greatest as divisive and disrespectful, while not addressing the valid points made by the other side about the comparison between Pele and Messi. The judgment is overly biased towards the opposing view and does not provide a balanced analysis of the arguments.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the subjective nature of the debate and promotes respect for differing opinions, which is appropriate in a discussion where opinions vary. It correctly identifies that the assertion of Pele's superiority can be divisive and less respectful, while also acknowledging the validity of alternative viewpoints. This balance shows a fair and neutral approach.",
+        "score": 4
+    }
+}

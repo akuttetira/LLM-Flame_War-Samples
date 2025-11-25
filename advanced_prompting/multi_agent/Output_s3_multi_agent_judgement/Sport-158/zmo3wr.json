@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the validity of questioning the likelihood of a repeat match and the impossibility of the 'Hand of God' goal due to modern technology, which are reasonable points. It also correctly identifies that blanket claims about team deservingness or player greatness are less substantiated. The judgment is fair and balanced, recognizing valid arguments on both sides while appropriately downplaying overly subjective claims.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core arguments presented. It dismisses the discussion about the Hand of God goal without proper consideration of the technical and historical context. Additionally, it overlooks the validity of the claim that Argentina needs to win, which is a key point in the conversation. The judgment is biased towards dismissing claims about team deservingness without providing a balanced analysis.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the key points in the conversation by acknowledging the validity of questioning the likelihood of a repeat match and the technical impossibility of the 'Hand of God' goal in modern times. It also correctly identifies that blanket claims about team deservingness or player greatness are less substantiated. The judgment is fair and balanced, recognizing valid arguments while appropriately downplaying overly subjective claims.",
+        "score": 5
+    }
+}

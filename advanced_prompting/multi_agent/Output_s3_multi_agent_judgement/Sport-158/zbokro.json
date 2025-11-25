@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate around the term 'soccer' and correctly identifies that both Canadians and Americans are generally indifferent to the term, while Europeans often engage in correcting others. It also recognizes the frustration of those who feel the Europeans are overcorrecting and trolling. The judgment is fair and balanced, acknowledging the perspectives of all parties involved.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly labels the Europeans as 'more invested in correcting others' and suggests they are 'more in the right', which is not supported by the conversation. The conversation shows that Europeans often feel offended by Americans' use of 'soccer' and that Canadians and Americans are genuinely indifferent to the term. The mediation fails to acknowledge the historical context and cultural nuances of the term 'soccer' and incorrectly assumes that Europeans are more correct. The mediation also fails to address the trolling and butthurt dynamics present in the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies that Canadians and Americans are generally indifferent to the term 'soccer' and that Europeans often engage in correcting others, which aligns with the conversation. It acknowledges the frustration of those feeling Europeans are overcorrecting and trolling, which is also reflected in the discussion. The mediation provides a balanced view of the situation without taking sides, which is appropriate given the complexity of the debate.",
+        "score": 4
+    }
+}

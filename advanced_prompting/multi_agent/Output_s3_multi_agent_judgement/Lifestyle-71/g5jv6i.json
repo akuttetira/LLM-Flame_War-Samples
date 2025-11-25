@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output is not relevant to the conversation provided. The conversation is about the anxiety-inducing effect of phrases like 'I need to talk to you' and the experiences of individuals raised in narcissistic environments. The mediation output, however, discusses a completely different topic related to game monetization and microtransactions. Therefore, the mediation output does not address the conversation at all and is not a valid judgment of the conversation's content.",
+        "score": 1
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is completely unrelated to the conversation provided. The conversation is about the anxiety-inducing nature of phrases like 'I need to talk to you' and its impact on individuals, particularly those raised by narcissists. The mediation, however, discusses a completely different topic - fair monetization in games and microtransactions. There is no connection between the two, and the mediation does not address or evaluate the content of the conversation at all. It also does not provide any analysis or judgment on the issues raised in the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation output is completely unrelated to the conversation provided. The conversation is about the anxiety-inducing effect of phrases like 'I need to talk to you' and its impact on individuals, particularly those raised by narcissists. The mediation, however, discusses a completely different topic - fair monetization in games and microtransactions. There is no connection between the two, and the mediation does not address or evaluate the content of the conversation at all. It also does not provide any analysis or judgment on the issues raised in the conversation.",
+        "score": 1
+    }
+}

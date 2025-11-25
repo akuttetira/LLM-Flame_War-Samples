@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the validity of the user's critique of Bloodborne's design and mechanics, which is a key point in the conversation. It also recognizes the user's frustration and disappointment with the game, which is a reasonable interpretation of their sentiment. However, it downplays the other person's criticism of the user's attitude, which is a necessary part of the mediation process. The score reflects a balanced view that acknowledges the user's perspective while also considering the other person's valid concerns.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly favors the person expressing frustration with Bloodborne, despite their dismissive attitude towards others' opinions. The judgment fails to acknowledge that the person who called them out for their attitude was pointing out valid issues with the frustration expressed. The mediation also does not provide a balanced analysis of the arguments presented, and instead leans towards the person who is clearly more critical and dismissive of others' perspectives.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the user's critique of Bloodborne's design and mechanics, which is a valid point in the conversation. However, it also fails to adequately address the other person's valid criticism of the user's dismissive attitude. The mediation leans towards the user's perspective but does not fully balance the arguments presented, leading to an incomplete and somewhat one-sided conclusion.",
+        "score": 3
+    }
+}

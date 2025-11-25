@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the person presenting evidence and criticizing others for not taking it seriously is more in the right. The argument highlights the importance of evidence and the critique of unsubstantiated claims, which aligns with the principles of critical thinking and scientific rigor. The mediation also acknowledges the other side's point about supernatural events in the Bible but does not fully engage with the evidence or reasoning provided by the other side, which could have strengthened the argument.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of whether parapsychology is a pseudoscience. It incorrectly assumes that the person criticizing parapsychology is more right without properly evaluating the arguments. The mediation also does not consider the evidence presented by the user, such as the reference to the American Psychological Association, and instead focuses on the tone of the discussion rather than the substance of the arguments. This undermines the fairness and effectiveness of the mediation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges that the person presenting evidence is more in the right, which is a fair assessment given the context of the discussion. However, it oversimplifies the issue by not fully addressing the scientific debate around parapsychology and the validity of the sources cited. The mediation does not thoroughly evaluate the arguments on both sides, which limits its effectiveness. It provides a reasonable starting point but lacks the depth needed to fully resolve the disagreement.",
+        "score": 3
+    }
+}

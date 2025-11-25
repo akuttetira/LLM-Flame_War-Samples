@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the side that cites credible sources, including China itself and survivor testimonies, as more in the right. It acknowledges the complexity of the issue and the presence of evidence supporting the genocide claim, while also recognizing the counterarguments about source credibility. The reasoning is balanced and acknowledges the existence of multiple perspectives, though it leans slightly towards the side that presents more concrete evidence.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the side arguing Xinjiang genocide denial is a conspiracy theory has some credible sources, including China itself and survivor testimonies. However, it fails to adequately address the counterarguments about the reliability of these sources, the contradictions in survivor testimonies, and the potential for bias. The mediation also overlooks the complexity of the issue and the importance of considering multiple perspectives. While it shows some understanding of the evidence, it does not fully account for the nuances and potential flaws in the arguments presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the side that cites credible sources, including China itself and survivor testimonies, as more in the right. It correctly identifies the complexity of the issue and the presence of evidence supporting the genocide claim. However, it does not fully address the counterarguments about the reliability of these sources, the contradictions in survivor testimonies, and the potential for bias. The mediation provides a balanced view but could have done more to consider the nuances and potential flaws in the arguments presented.",
+        "score": 4
+    }
+}

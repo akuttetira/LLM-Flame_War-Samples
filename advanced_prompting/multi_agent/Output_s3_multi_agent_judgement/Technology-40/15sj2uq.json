@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that both sides have valid points. It credits the defenders of the company with some correctness in their stance while also acknowledging the justified outrage of those pushing for a witch hunt. The judgment is balanced and considers the context of the workplace environment and the potential for systemic abuse.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to adequately address the core issue of sexual harassment and the failure of HR to address complaints. It incorrectly balances the sides without recognizing the severity of the allegations and the potential legal and ethical implications. The judgment is overly lenient towards the company's actions and does not fully acknowledge the harm caused to Madison.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging that both sides have valid points but leans more towards the defenders of the company. However, it fails to adequately address the core issue of sexual harassment and the systemic failure of HR to address complaints. The judgment does not fully acknowledge the severity of the allegations or the harm caused to Madison, which is crucial in a situation involving workplace abuse.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the argument that Mussolini's right-wing affiliation aligns with Rangers' historical right-wing stance, which is a valid point. It also correctly identifies the need to avoid personal attacks and mischaracterizations, which are not constructive in a discussion. The judgment is fair and focuses on the core argument rather than the emotional tone of the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the core issue of the argument's validity. It incorrectly assumes that the argument for Mussolini's right-wing affiliation is more defensible, while ignoring the factual inaccuracies and the personal attacks made by the participants. The mediation also does not properly evaluate the claims about Scottish politics or the historical context of the feud between Celtic and Mussolini's family. The judgment is biased and lacks a balanced analysis of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the core argument about Mussolini's right-wing affiliation aligning with Rangers' historical stance and acknowledges the need to avoid personal attacks. However, it does not fully address the factual inaccuracies or the historical context of the Celtic-Mussolini feud. The score is a 3 because the mediation is fair and focuses on the main argument but lacks depth in evaluating the historical and political context.",
+        "score": 3
+    }
+}

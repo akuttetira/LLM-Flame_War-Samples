@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the argument emphasizing Argentina's class and respect towards Croatia is more valid. The discussion highlights that Argentina demonstrated respect and mutual appreciation, which is a key point in the conversation. The opposing view that Argentina was classless is countered by specific examples of respectful behavior, such as shaking hands and acknowledging the opponent's talent. The mediation also acknowledges the complexity of the situation, including past incidents and differing opinions on what constitutes 'class' in sports.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation concludes that those defending Argentina's display of class and respect are more correct. However, the conversation reveals a complex interplay of opinions, with some users pointing out that Argentina's behavior was influenced by internal team issues and a previous match where they did not show respect. The mediation overlooks the context of Argentina's 2018 match and the potential for misunderstanding due to language barriers. It also fails to address the broader debate about the value of 'class' in sports and the role of cultural differences. The judgment is somewhat one-sided and does not fully account for the nuanced arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that both sides present valid points. It correctly identifies that the argument emphasizing Argentina's class and respect towards Croatia is more valid, but also notes the context of past incidents and potential misunderstandings. However, it could have done more to address the broader debate about the value of 'class' in sports and the role of cultural differences. The score reflects a balanced view that recognizes the mediation's strengths while noting its limitations in fully addressing the nuanced arguments.",
+        "score": 3
+    }
+}

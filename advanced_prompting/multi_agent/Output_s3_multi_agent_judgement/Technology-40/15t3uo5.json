@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that while some community members may be celebrating the loss of income, the broader argument about the real-world consequences for employees is more nuanced and defensible. It balances the perspectives of both sides without taking an extreme position, which is a fair and neutral approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the differing perspectives within the community. It correctly notes that the community's celebration of income loss may not fully consider real-world consequences for employees. However, it fails to adequately address the broader context of the debate, including the ethical implications of supporting a company with alleged workplace issues and the role of social media in shaping public opinion. The score is moderate as the mediation provides a balanced view but could have been more comprehensive.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that while some community members may be celebrating the loss of income, the broader argument about the real-world consequences for employees is more nuanced and defensible. It balances the perspectives of both sides without taking an extreme position, which is a fair and neutral approach.",
+        "score": 5
+    }
+}

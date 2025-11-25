@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument and recognizes that both sides present valid points. It avoids taking a clear side and instead emphasizes the need for a more objective analysis of the game's data. This approach is fair and balanced, reflecting the nuanced nature of the debate around possession as a metric in football.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the argument but fails to decisively determine which side is correct. It avoids taking a clear stance and instead presents both sides as valid, which is fair but not fully effective in resolving the dispute. The discussion revolves around the merits of possession as a metric, with valid counterpoints from both sides. However, the mediation does not provide a clear conclusion or judgment on which perspective is more accurate or justified based on the evidence presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument and recognizes that both sides present valid points. It avoids taking a clear side and instead emphasizes the need for a more objective analysis of the game's data. This approach is fair and balanced, reflecting the nuanced nature of the debate around possession as a metric in football.",
+        "score": 5
+    }
+}

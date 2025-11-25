@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the argument that Morocco's win is not an upset because they were the favorites is more defensible. It also acknowledges the issue of racism and personal attacks in the discussion, which is important for fairness. The mediation effectively highlights the confusion around the term 'upset' and the misuse of it to justify racist comments, which is a key point in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the term 'upset' and the debate around it, but it fails to adequately address the underlying issues of racism and the misuse of the term. It also does not fully counter the arguments that the win was an upset despite Morocco being a favorite, which is a key point in the discussion. The mediation is somewhat neutral but lacks depth in addressing the nuanced arguments presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core issue of the term 'upset' and correctly identifies that the argument that Morocco's win is not an upset because they were the favorites is more defensible. It also acknowledges the problematic use of the term to justify racist comments and personal attacks, which is crucial for maintaining fairness and neutrality. The mediation provides a balanced perspective without overly simplifying the complex debate around the term 'upset' in sports.",
+        "score": 4
+    }
+}

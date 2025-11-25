@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the person sharing their personal struggles and seeking support is more in the right. The conversation highlights the emotional and psychological impact of toxic relationships, and the response from ReaffirmReality and MeSpikey provides empathetic and supportive advice. The mediation acknowledges the validity of the person's experiences and the importance of seeking help, which is crucial in such sensitive discussions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly assumes that the person sharing their personal struggles is 'more in the right' without addressing the validity of the dismissive comments. The mediation fails to acknowledge that the individuals who dismiss or belittle the experiences may have their own valid perspectives or contexts, and it does not provide a balanced evaluation of the conversation. The judgment is overly one-sided and lacks critical analysis of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the validity of the person sharing their personal struggles and the supportive responses from others, which is important in a sensitive context. However, it oversimplifies the conversation by not addressing the dismissive comments and the complex dynamics at play. While it recognizes the emotional impact of toxic relationships, it fails to provide a balanced view of the discussion.",
+        "score": 3
+    }
+}

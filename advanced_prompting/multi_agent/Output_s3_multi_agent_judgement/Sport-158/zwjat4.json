@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of evaluating football goals, recognizing that both individual brilliance and team efforts have their place. It correctly identifies that valuing individual brilliance is more defensible than dismissing team goals entirely, which reflects a balanced and fair assessment of the discussion. The reasoning is thoughtful and acknowledges the differing perspectives presented in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the validity of both perspectives but leans towards individual brilliance. However, it fails to adequately address the argument that team goals are often more difficult to execute and deserve recognition. The mediation also does not fully consider the point about the general rating including people who haven't played football, which is a key part of the debate. This oversight weakens the fairness and neutrality of the judgment.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate between individual brilliance and team efforts in football goals. It correctly identifies that valuing individual brilliance is more defensible than dismissing team goals entirely, which reflects a balanced approach. However, it could have done more to address the argument that team goals are often more difficult to execute and deserve recognition, as noted in the negative response. Overall, it strikes a fair and neutral balance between the two perspectives.",
+        "score": 4
+    }
+}

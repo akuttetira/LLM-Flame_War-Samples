@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue by recognizing both perspectives: the problematic nature of praising single motherhood without context and the valid counterpoint that not all fathers are worthy of recognition. It provides a balanced assessment without taking a clear side, which is fair and thoughtful.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the nuanced discussion around single motherhood and fatherhood. It oversimplifies the debate by suggesting that praising single mothers is more problematic than acknowledging some fathers as unworthy. The conversation includes diverse perspectives, and the mediation does not fully engage with the complexity of the arguments presented. Additionally, it does not consider the broader context of the subreddit's rules and the removal of certain comments, which may indicate a more significant issue with the discussion itself.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue by recognizing both perspectives without taking a clear side. It addresses the problematic nature of praising single motherhood without context and the valid counterpoint about some fathers not being worthy of recognition. However, it could have done more to address the broader context of the subreddit's rules and the removal of comments, which may indicate a more significant issue with the discussion. Overall, it provides a fair and thoughtful assessment.",
+        "score": 4
+    }
+}

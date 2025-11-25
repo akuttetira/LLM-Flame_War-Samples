@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and recognizes the parent's perspective as a necessary and humorous response to a child's accident, while also addressing the criticism from others. It provides a balanced view by noting the difference between defending the parent's actions and calling them a 'disgrace' or 'fucking disgusting'. This shows an understanding of the context and the emotional weight of the situation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to acknowledge the potential harm and inappropriate behavior of allowing a child to soil the yard, especially in the presence of a dog. It also overlooks the importance of proper child-rearing and hygiene, and the negative impact of such behavior on the child's development and the community's standards. The judgment is overly lenient and does not address the core issue of responsibility and education.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation offers a balanced perspective by acknowledging both the parent's situation and the criticism from others. It recognizes the parent's perspective as a necessary response to a child's accident while also addressing the criticism as excessive. However, it does not fully address the potential harm of allowing a child to soil the yard, especially in the presence of a dog, nor does it emphasize the importance of proper child-rearing and hygiene. The score reflects a middle ground between the positive and negative rationales.",
+        "score": 3
+    }
+}

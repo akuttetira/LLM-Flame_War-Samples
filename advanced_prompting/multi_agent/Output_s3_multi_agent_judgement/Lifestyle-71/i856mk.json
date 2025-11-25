@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the negative behavior of the user who attempts to shame and belittle others, which is a fair assessment. It also correctly identifies that the other side is simply expressing opinions and experiences, which is a common occurrence in such discussions. The judgment is balanced and highlights the constructive aspect of the other side while pointing out the harmful behavior of the other. This shows a fair and nuanced understanding of the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to address the tone and intent of the conversation, suggesting that the person who shames others is more at fault. However, it oversimplifies the complex dynamics at play and fails to acknowledge the valid points made by both sides. The mediation does not thoroughly analyze the arguments or provide a balanced assessment of the situation, which is necessary for a fair judgment. It also leans on subjective terms like 'shame' and 'belittle' without concrete evidence from the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the negative behavior of the user who attempts to shame and belittle others, which is a key issue in the conversation. It correctly acknowledges that the other side is expressing opinions and experiences, which is a common aspect of such discussions. The judgment is balanced and highlights the harmful behavior while recognizing the other side's right to express their views. This shows a fair and nuanced understanding of the situation.",
+        "score": 5
+    }
+}

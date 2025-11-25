@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the argument that Germany's poor performance is due to politics as a strawman, and acknowledges that the view that they should have focused more on football is overly simplistic. This shows an understanding of the debate and the ability to critically assess the arguments presented, which is a positive trait in a mediation. The reasoning is sound and the judgment is fair.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation correctly identifies the argument about Germany focusing on politics as a strawman and criticizes the simplistic view that they should have focused more on football. However, it fails to address the broader context of Germany's performance in the World Cup, including their high xG and xGD statistics, and the validity of the criticisms raised by some users. The mediation also does not adequately address the underlying concerns about Germany's approach to the tournament, such as their hand gestures and potential distractions. While the mediation is somewhat fair, it lacks depth in evaluating the arguments presented and does not fully consider the nuances of the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the political focus argument as a strawman and critiques the overly simplistic view that Germany should have focused more on football. However, it could have provided a more balanced assessment by acknowledging the context of Germany's strong statistical performance (high xG and xGD) and the broader debate around their approach to the tournament, including their hand gestures. The mediation is fair but could have been more comprehensive in addressing the nuances of the discussion.",
+        "score": 4
+    }
+}

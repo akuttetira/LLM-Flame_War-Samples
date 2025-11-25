@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that Argentina's response to the Dutch's trash talking and dirty play could be seen as justified. It also correctly notes that labeling Argentina as a villain is an oversimplification, which is a fair and balanced assessment of the debate. The reasoning is thoughtful and considers multiple perspectives, which is appropriate given the context of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that Argentina's response to the Dutch's trash talking and dirty play is more defensible, which is a fair point. However, the judgment is somewhat vague and does not clearly resolve the underlying debate about whether Argentina was the villain or not. The mediation fails to address the broader argument that Argentina's behavior was excessive or that the Dutch's actions were more egregious. The score is moderate because the mediation provides some valid reasoning but lacks a clear, definitive conclusion.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that Argentina's response to the Dutch's trash talking and dirty play could be seen as justified, while also noting that labeling Argentina as a villain is an oversimplification. It provides a balanced view that considers multiple perspectives without taking a definitive stance, which is appropriate given the context of the discussion. The reasoning is fair and thoughtful, though it could have been more explicit in addressing the broader debate about Argentina's behavior.",
+        "score": 4
+    }
+}

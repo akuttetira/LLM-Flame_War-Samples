@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the historical context of women's vulnerability and recognizes the argument that women wearing hijab may be partly to protect men's libido. It provides a balanced view by not fully endorsing either side but giving credit to the argument that the purpose is not solely for modesty. The reasoning is fair and considers multiple perspectives.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that the argument for women wearing hijabs to protect men's libido is more defensible than the claim that it's solely for modesty. However, it fails to address the deeper issues of cultural context, historical justification, and the complexity of religious interpretations. The mediation also does not adequately counter the critique that the hijab's purpose is often culturally influenced and not solely about modesty or protecting women. The score is moderate because the mediation provides some balance but lacks depth in addressing the nuanced and controversial aspects of the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the argument that the purpose of the hijab may include protecting men's libido, which is a fair and balanced approach. However, it does not fully address the complexities of cultural context, historical justification, and the broader implications of religious interpretations. The mediation provides some balance but lacks depth in addressing the nuanced and controversial aspects of the debate.",
+        "score": 3
+    }
+}

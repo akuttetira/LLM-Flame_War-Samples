@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around supernatural phenomena and the nuances in definitions, which is a positive aspect. It recognizes that the debate is not a simple binary but involves deeper considerations of definitions and scientific understanding. However, it does not clearly determine which side is correct in the argument, which is necessary for a mediation output. The score reflects the balance between acknowledging the complexity and the need for a clear determination of correctness.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation does not clearly determine which side is correct. It acknowledges the complexity of the discussion but does not provide a clear judgment or resolution. The mediation is neutral but lacks the necessary evaluation of the arguments to determine a definitive outcome.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the discussion and the nuances in definitions, which is a positive aspect. However, it does not clearly determine which side is correct in the argument, which is necessary for a mediation output. The mediation is neutral but lacks the necessary evaluation of the arguments to determine a definitive outcome.",
+        "score": 2
+    }
+}

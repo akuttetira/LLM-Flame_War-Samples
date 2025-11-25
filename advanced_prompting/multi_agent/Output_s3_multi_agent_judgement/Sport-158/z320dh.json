@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate, recognizing that while LGBT+ rights are important, the argument against Germany's actions as mere virtue signaling is not entirely dismissed. It provides a balanced perspective by highlighting the importance of LGBT+ rights while also considering the context of Germany's actions. The reasoning is thoughtful and acknowledges the nuances of the discussion.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the complex nature of the debate. It suggests that supporting LGBT+ rights is more important than football politics, but this overlooks the nuanced arguments presented by both sides. The mediation also does not properly evaluate the claims of hypocrisy or the cultural context of Germany's actions. Additionally, it does not provide a balanced analysis of the arguments made by the users, particularly the criticism of the user's potential racism and the broader political implications of the World Cup hosting.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the importance of LGBT+ rights while also recognizing the context of Germany's actions. It does not fully dismiss the argument that Germany's actions could be seen as virtue signaling, which is a key point in the discussion. However, it could have done more to address the nuanced arguments about cultural context and hypocrisy. The score reflects a moderate evaluation of the mediation's attempt to balance the arguments.",
+        "score": 3
+    }
+}

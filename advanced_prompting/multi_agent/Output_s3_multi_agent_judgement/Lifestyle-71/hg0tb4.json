@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and presents valid points from both sides. It recognizes that cancel culture can be overly harsh and dismissive of individuals' past mistakes, while also acknowledging the concern that people are not held accountable for racist behavior. This balanced approach shows an understanding of the nuances in the discussion and provides a fair assessment of the arguments presented.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and presents valid points on both sides, but it fails to decisively determine which side is correct. It does not clearly support the argument that cancel culture is overly harsh or the argument that people are not held accountable for racist behavior. The mediation remains neutral without providing a clear judgment on which side is more correct.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the issue and presents valid points from both sides. It recognizes that cancel culture can be overly harsh and dismissive of individuals' past mistakes, while also acknowledging the concern that people are not held accountable for racist behavior. However, it does not decisively determine which side is correct, remaining neutral without providing a clear judgment on which perspective is more valid.",
+        "score": 3
+    }
+}

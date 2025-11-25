@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the complexity of the discussion around collective guilt and the distinction between criticizing Israel's policies and holding all Jews responsible. It acknowledges the nuanced nature of the debate and the potential for hate speech disguised as criticism. The mediation also highlights the broader issue of intolerance on platforms like Reddit, which is a fair and balanced assessment of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around collective guilt and distinguishes between criticizing Israel's policies and holding all Jews collectively responsible. However, it fails to adequately address the broader context of anti-Semitism present in the conversation, including the accusations against Jews and the problematic rhetoric. The mediation also does not clearly determine which side is correct in the debate over the nature of the discussions and the extent of anti-Semitism. It provides a balanced view but lacks a clear judgment on the correctness of the arguments presented.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the nuanced discussion around collective guilt and the distinction between criticizing Israel's policies and holding all Jews responsible. It acknowledges the complexity of the debate and the potential for hate speech disguised as criticism. However, it could have done more to clearly address the broader context of anti-Semitism present in the conversation, including the accusations against Jews and the problematic rhetoric. The mediation provides a balanced view but could have offered a clearer judgment on the correctness of the arguments presented.",
+        "score": 4
+    }
+}

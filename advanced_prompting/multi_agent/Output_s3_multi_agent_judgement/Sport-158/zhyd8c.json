@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly acknowledges the complexity of the issue and recognizes the nuances in Islamic tradition regarding celebration and expression. It credits the person questioning the haramness of celebrating with music and dance, which aligns with the broader context of personal expression and cultural practices within Islam. The judgment is fair and considers the diversity of interpretations within Islamic teachings, making it a well-reasoned and balanced assessment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly asserts that the person questioning the haramness of celebrating with music and dance is more right. The argument fails to consider the complexity of Islamic tradition and the diversity of interpretations within Islam. It also overlooks the valid concerns of those who believe certain forms of celebration are not haram. The mediation is biased and does not provide a balanced analysis of the issue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the complexity of the issue and recognizes the diversity of interpretations within Islamic tradition. It correctly identifies that the person questioning the haramness of celebrating with music and dance is not necessarily more right, but the mediation's phrasing is somewhat ambiguous. It does not fully address the valid concerns of those who believe certain forms of celebration are not haram, and the conclusion is not as balanced as it could be. The score reflects a moderate assessment of the mediation's fairness and neutrality.",
+        "score": 3
+    }
+}

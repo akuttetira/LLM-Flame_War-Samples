@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing that while conservative parties have historically been exclusionary, there is a plausible argument that they could eventually include LGBT individuals. It balances the historical exclusion with the potential for change, which is a fair and nuanced approach. The judgment is not outright dismissive but acknowledges the possibility of inclusion, which is a reasonable stance given the ongoing societal and political dynamics.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation's conclusion is flawed because it fails to adequately address the strong arguments against the inclusion of LGBT individuals in conservative parties. The original conversation includes multiple points highlighting the exclusionary nature of conservative ideology and the historical resistance to LGBT inclusion. The mediation's stance is overly optimistic and does not sufficiently consider the entrenched opposition to LGBT rights within conservative values. This undermines the fairness and neutrality of the judgment.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the historical exclusionary nature of conservative ideology while also recognizing the possibility of future inclusion. It does not outright dismiss the potential for change but also does not ignore the strong opposition to LGBT inclusion within conservative values. The score reflects a fair and nuanced approach that considers both sides of the argument.",
+        "score": 4
+    }
+}

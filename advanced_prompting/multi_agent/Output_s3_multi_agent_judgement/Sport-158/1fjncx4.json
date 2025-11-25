@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the valid concerns about the new format leading to more dead rubbers and less competitive games, which is a key point raised by multiple participants. It also recognizes the counterpoint about more exciting matchups, but ultimately finds the argument about dead rubbers more convincing. This shows a balanced evaluation of the arguments presented, with a clear preference for the concern about reduced competitiveness.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the argument that the new format may lead to more dead rubbers, which is a valid concern. However, it fails to adequately address the counterargument that the format could increase competition and excitement. The mediation also does not fully consider the nuanced perspectives presented in the conversation, such as the financial incentives for teams and the potential for more exciting matchups. The conclusion is somewhat balanced but lacks depth in evaluating the complexities of the arguments.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation correctly identifies the key argument about dead rubbers and reduced competitiveness as more convincing, which is supported by multiple participants. It acknowledges the counterargument but does not fully explore the nuances, such as the financial incentives for teams and the potential for more exciting matchups. The score reflects a balanced evaluation with a clear preference for the concern about reduced competitiveness.",
+        "score": 4
+    }
+}

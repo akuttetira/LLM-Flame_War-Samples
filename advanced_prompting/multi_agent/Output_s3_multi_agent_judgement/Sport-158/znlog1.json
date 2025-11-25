@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and recognizes that both sides present valid points and evidence. It avoids taking a definitive stance and instead highlights the nuanced nature of the argument, which is appropriate given the context of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of whether Messi intentionally kicked the jersey, instead presenting a balanced view that overlooks the key evidence and context. The mediation does not clearly determine who is correct, which is necessary in a judgment. It also lacks a critical evaluation of the arguments presented, particularly the distinction between accidental contact and intentional kicking. This makes the judgment ineffective and lacks the necessary clarity and decisiveness.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue and the differing perspectives presented by the participants. It avoids taking a definitive stance and instead highlights the nuanced nature of the argument, which is appropriate given the context. However, it could have provided a slightly more critical evaluation of the arguments, particularly the distinction between accidental contact and intentional kicking. Overall, it strikes a reasonable balance between fairness and clarity.",
+        "score": 4
+    }
+}

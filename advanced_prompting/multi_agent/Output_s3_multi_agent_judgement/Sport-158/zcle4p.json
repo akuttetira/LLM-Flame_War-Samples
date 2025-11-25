@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of predicting match outcomes, recognizing both France's historical performance against England in high-pressure situations and England's tendency to struggle in such contexts. It provides a balanced view by not outright dismissing England's potential, which shows a nuanced understanding of the arguments presented. This approach is fair and considers multiple perspectives.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to adequately address the key points in the conversation. It does not clearly determine which side is correct, and it does not provide a strong, reasoned argument for why one side is more convincing than the other. The mediation is vague and does not engage with the specific arguments presented by the participants, such as the role of mentality, past performances, and the context of high-pressure matches. As a negative bias judge, I would expect a more critical evaluation of the arguments presented, rather than a vague assertion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the complexity of predicting match outcomes and recognizing both France's historical performance against England in high-pressure situations and England's tendency to struggle in such contexts. It effectively highlights the nuance in the arguments without taking a definitive stance, which is fair and reasonable. However, it could have been more specific in explaining why one side is more convincing than the other.",
+        "score": 4
+    }
+}

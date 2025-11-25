@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the offside rule and the impact of VAR on fan experience, which shows a balanced consideration of arguments. It also recognizes the sentiment of German fans but does not endorse the blanket claim that Germany deserved to lose, maintaining a neutral stance. This reflects a fair and thoughtful evaluation of the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation's judgment is flawed because it fails to properly address the core arguments presented. The offside rule discussion is a technical soccer rule debate, and the mediation does not adequately evaluate the reasoning behind the arguments. Additionally, the mediation dismisses the claim that Germany 'deserved to go out' without providing a fair assessment of the team's performance, which is a subjective and biased judgment. The mediation also fails to acknowledge the complexity of the offside rule and the impact of VAR on the game, leading to an unbalanced and unfair conclusion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively balances the discussion by acknowledging the validity of the offside rule debate and the impact of VAR on fan experience, while also recognizing the sentiment of German fans without endorsing the blanket claim that Germany 'deserved to lose.' It maintains a neutral and fair stance, addressing the key points raised in the conversation without taking sides in the subjective performance evaluation of the national team.",
+        "score": 4
+    }
+}

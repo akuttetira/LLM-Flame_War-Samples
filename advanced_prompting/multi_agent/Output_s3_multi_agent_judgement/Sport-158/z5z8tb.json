@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that while Costa Rica's win was unexpected, it was not necessarily due to poor performance by Japan. It also credits the defenders of Costa Rica's effort, which is a fair and balanced approach. The judgment is reasonable and considers multiple perspectives without taking an extreme stance.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation incorrectly concludes that those defending Costa Rica are more right than those criticizing their effort. The criticism about Costa Rica's performance is valid given their low shot on target statistic, and the mediation fails to acknowledge this. The judgment is biased towards defending Costa Rica without fully addressing the merits of the criticism.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging both perspectives. It recognizes that while Costa Rica's win was unexpected, it was not necessarily due to Japan's poor performance, and also credits those defending Costa Rica's effort. However, it does not fully address the validity of the criticism regarding Costa Rica's low shot on target statistic. The score reflects a moderate assessment of the mediation's fairness and balance.",
+        "score": 3
+    }
+}

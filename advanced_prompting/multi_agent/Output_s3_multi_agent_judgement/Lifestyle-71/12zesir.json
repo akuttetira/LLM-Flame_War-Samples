@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies that the 'wood milk' commercial is a satire, and the participants who questioned its authenticity are more accurate in their judgment. The reasoning is sound as it acknowledges the context of the conversation and the clear indication that the commercial was a joke. The mediation also highlights the irony and the absurdity of the commercial, which aligns with the majority of the comments in the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation correctly identifies that the 'wood milk' commercial is satire, as evidenced by the conversation's content and the reactions from users. However, the mediation could have been more nuanced in acknowledging the complexity of the issue, including the potential for genuine plant-based milk alternatives and the broader context of dairy industry satire. The score reflects the accuracy of the judgment but also considers the need for more depth in the reasoning.",
+        "score": 4
+    },
+    "final_verdict": {
+        "rationale": "The mediation accurately identifies the 'wood milk' commercial as satire and correctly acknowledges the participants who questioned its authenticity. It effectively highlights the irony and absurdity of the commercial, which is supported by the conversation's content and user reactions. While the mediation could have provided slightly more context about the broader implications of dairy industry satire, the core judgment is sound and well-supported.",
+        "score": 4
+    }
+}

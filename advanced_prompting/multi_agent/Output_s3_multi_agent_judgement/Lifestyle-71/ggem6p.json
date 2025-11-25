@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation correctly identifies the key issue of acknowledging abuse and the importance of protecting the victim. It highlights the perspective that emphasizes the brother's role in the abuse dynamics and the long-term effects of abuse, which aligns with the majority of the discussion. The judgment is fair and reflects the consensus in the conversation that the abuse is real and should be addressed.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the situation and the importance of protecting the victim from abuse, which is a positive approach. However, it could have been more critical in addressing the systemic issues and the need for immediate action to ensure the victim's safety. The score reflects a moderate assessment, as the mediation is fair and acknowledges the victim's experience but could have been more direct in advocating for the victim's safety and the need for intervention.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the abuse and the importance of protecting the victim, aligning with the majority of the discussion. It correctly identifies the key issue of the brother's role in the abuse dynamics and the long-term effects of abuse. However, it could have been more direct in advocating for immediate action to ensure the victim's safety, as some participants emphasized the need for calling CPS and leaving the situation. The score reflects a balanced assessment of the mediation's strengths and areas for improvement.",
+        "score": 4
+    }
+}

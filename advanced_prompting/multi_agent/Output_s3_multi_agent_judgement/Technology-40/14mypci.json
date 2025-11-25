@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and recognizes the argument that Reddit's decision to charge for API access is a significant shift that could harm its community and business model. It also notes that this is not a standard industry practice, which is a fair and balanced assessment. The reasoning is thoughtful and considers the perspectives of both sides, making it a reasonable judgment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the key points of the debate. It does not adequately consider the arguments that Reddit's API policy is an exception to the industry norm, nor does it properly evaluate the concerns about the pricing and timeline of the changes. The judgment is overly positive and does not account for the valid criticisms of the decision, such as the lack of notice and the impact on third-party developers. The reasoning is flawed and does not provide a balanced assessment of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging the complexity of the issue and recognizing the argument that Reddit's decision to charge for API access is a significant shift that could harm its community and business model. However, it does not fully address the industry norm argument or the specific concerns about pricing and notice period. The assessment is somewhat favorable but could have been more comprehensive in evaluating the debate.",
+        "score": 3
+    }
+}
