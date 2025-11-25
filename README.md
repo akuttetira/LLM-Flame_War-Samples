@@ -2,6 +2,10 @@ Project Overview: Flame-War LLM-Based Mediation & Comparative Analysis
 
 Anish Kuttetira and Kumar Satvik Chaudhary
 
+https://github.com/akuttetira/LLM-Flame_War-Samples
+
+Due to the Gradescope automatically opening .zip files, it is impossible for us to submit our full dataset and outputs without the gradescope being completely unreadable. Instead, we have uploaded all necessary files and requirements into a GitHub which is public and able to be cloned. Please refer to this GitHub rather than the Gradescope submission for the datasets and code.
+
 All .ipynb files can be run using the A100 GPU on Google Collaboratory.
 
 **IMPORTANT** requirements.txt was provided as required by the submission requirements. Any scripts executed locally utilize only the python standard library and do not need any installations. For the .ipynb files, utilize Google Collaboratory instead of local execution, and no requirements.txt file will be necessary.
