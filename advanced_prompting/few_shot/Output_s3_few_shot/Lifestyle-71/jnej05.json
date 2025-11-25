@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of emotions and the valid points made on both sides regarding family and healing. However, it does not clearly determine which side is more in the right and lacks strong, specific arguments to support its position. It provides a general statement without delving into the nuances of the conversation, which is necessary for a strong judgement. This fits with a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the uniqueness of individual experiences and emphasizes supporting each other rather than trying to convince one another. This is conciliatory and relevant to the discussion about abuse, loss, and family. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

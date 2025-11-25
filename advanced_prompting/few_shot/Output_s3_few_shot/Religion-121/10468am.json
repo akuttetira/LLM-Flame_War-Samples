@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the argument about God's love and Hell, but it is vague and does not clearly state which side is more in the right. It fails to provide strong arguments or clear reasoning to support its position, and it does not adequately address the core issue of whether God's love can justify the existence of Hell. This fits with a score of 2, as it does not correctly determine which side is in the right and lacks strong supporting arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and invites a broader discussion on love and human existence, which is relevant to the conversation. It encourages exploring different perspectives, which could guide the dialogue towards a more constructive and nuanced understanding. However, it is somewhat generic and could feel less natural in the context of the intense philosophical and religious debate. This fits a score of 3 as it is conciliatory but lacks the specificity and relevance that would make it more effective in guiding the conversation.",
+        "score": 3
+    }
+}

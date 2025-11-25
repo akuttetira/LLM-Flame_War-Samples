@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the discussion, acknowledging the complexity of the topic and the valid points on both sides. It avoids taking a definitive stance on which side is correct, which aligns with the nuanced nature of the conversation. However, it does not fully engage with the specific arguments presented, such as the theological interpretations of hell, the role of the Church, and the debate over the translation of terms like 'Gahenna.' The message is neutral and does not attempt to resolve the conflict, which is appropriate given the complexity of the issue. It is not overly parental or computer-generated, and is relevant to the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of personal attacks and encourages respectful dialogue about religious beliefs. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

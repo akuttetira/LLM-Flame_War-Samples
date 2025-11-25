@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the person questioning the company's handling of the allegations is more in the right. This is based on the argument that the company's actions seem inadequate and potentially enabling. The judgment acknowledges the concerns raised by the user about the lack of investigation and the potential for the company's response to be seen as dismissive. However, the mediation does not fully address the complexity of the situation, such as the legal and ethical considerations of handling allegations privately to protect individuals and prevent a power dynamic. The judgment is somewhat supportive of the user's position but lacks a comprehensive analysis of the situation. It does not fully back up its position with detailed arguments or consider the perspective of the company's response.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more constructive direction by focusing on the company's current actions. It acknowledges the frustration and concern in the conversation but redirects the focus to the present investigation and steps being taken. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. However, it is somewhat vague in its approach and does not provide specific guidance on how to proceed or what to focus on next. It avoids taking a strong stance but instead encourages a more forward-looking perspective.",
+        "score": 4
+    }
+}

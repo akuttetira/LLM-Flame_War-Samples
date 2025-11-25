@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue, recognizing both the potential for cancel culture to be harsh and the concern about not holding people accountable for racist behavior. However, it does not clearly determine which side is more in the right or provide strong, specific arguments to support its position. The statement is somewhat vague and lacks the nuance needed to clearly ascribe responsibility or judgment, which places it around a mid-level score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to encourage a nuanced discussion about cancel culture by emphasizing accountability and context. It is somewhat generic and could sound like an AI-generated response, but it does offer a balanced perspective that invites further constructive dialogue. It acknowledges the complexity of the issue without taking a strong stance, which is appropriate for a steering message. This fits with a score of 3, as it is conciliatory but lacks the naturalness and specificity that would elevate it to a 4 or 5.",
+        "score": 3
+    }
+}

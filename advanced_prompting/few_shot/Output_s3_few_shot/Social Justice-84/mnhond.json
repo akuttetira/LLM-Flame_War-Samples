@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to defend the original poster's actions as satire and criticizes the right-wing community's inability to handle it, which is a nuanced take. However, it does not clearly state which side is more in the right based on common morality and fairness, and the supporting arguments are somewhat weak and generic. This fits with a score of 3, as it offers a partially supported take but lacks strong, concrete arguments to determine who is more in the right.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the discussion about hate speech, satire, and political correctness. It invites a nuanced conversation about the complexity of free speech and its reception. While it is somewhat generic and could be seen as AI-generated, it is still natural in context and has a good chance of guiding positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

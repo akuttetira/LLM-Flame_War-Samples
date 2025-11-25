@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Reddit giving The_Donald special treatment is more aligned with the actual actions and policies of the platform. The mediation acknowledges that Reddit's actions, such as allowing the subreddit to persist despite violations and rewriting APIs to keep it active, indicate a selective enforcement of rules. This is supported by the conversation where users like Dr_Midnight and Bardfinn provide detailed evidence of Reddit's inconsistent enforcement. However, the mediation does not fully address the free speech arguments or the legal complexities involved, which are significant in this context. It is a fair and reasonable judgment but could have been more comprehensive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the concern of some users while addressing the potential for personal attacks or strawman arguments. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message encourages a nuanced discussion, which is appropriate given the complex and polarized nature of the conversation.",
+        "score": 5
+    }
+}

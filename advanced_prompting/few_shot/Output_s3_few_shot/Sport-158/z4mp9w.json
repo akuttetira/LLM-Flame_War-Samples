@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the perspectives by acknowledging that some view the action as a minor annoyance, while others see it as disrespectful. However, it does not clearly state which side is more in the right based on common morality and fairness, nor does it provide strong arguments to support its position. This fits a score of 3 as it offers a partially supported take without a clear verdict.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging civil discourse and discouraging insults or assumptions about national values. It is reasonably natural and has a good chance of guiding positive dialogue. However, it is somewhat generic and could feel a bit like a standard mediation script. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

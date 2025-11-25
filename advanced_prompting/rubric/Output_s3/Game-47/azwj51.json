@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges that the issue of hacking in games is complex and not solely the fault of hackers or developers. It recognizes that cultural factors, such as the pressure to succeed and the value placed on winning, play a significant role in the behavior of some players. The mediation also highlights that the blanket accusations of 'hackers ruining the game' are not entirely accurate and that developers should consider alternative solutions, such as region locking or ping-based matchmaking, to address the issue. The mediation is fair and balanced, providing a nuanced view of the problem rather than taking a one-sided stance. It is also relevant to the conversation and has a high chance of guiding positive dialogue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the shared concern about hacking and suggests a solution-oriented approach rather than focusing on blame. The message is relevant to the conversation, as it addresses the issue of hacking and proposes a middle ground solution. The tone is natural and aligns with the context of the discussion, making it likely that the message would be trusted by users. The message effectively guides the conversation towards finding solutions rather than dwelling on who is at fault.",
+        "score": 5
+    }
+}

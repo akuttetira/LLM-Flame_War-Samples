@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals who engage with the arguments and acknowledge the flaws in the original post are more in the right. It highlights the importance of open-minded debate over dismissive or attacking responses. However, it does not provide strong, specific arguments to back up this claim, and the phrasing is somewhat generic. This fits a score of 3, as it offers a partially supported take on who is more in the right.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging a focus on specific claims and evidence rather than personal attacks or assumptions. It addresses the issue of closed-mindedness and promotes a more constructive dialogue. While it is slightly generic and could be more tailored to the specific arguments being made, it still has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

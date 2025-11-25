@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the far right's use of cognitive dissonance as a tool to silence others is more defensible, while critiquing the blanket claim about the left being inherently team-sporting. It provides a nuanced perspective that acknowledges the complexity of political discourse without oversimplifying. The argument is well-supported by the conversation and maintains a fair, balanced stance.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the issue of binary thinking and oversimplification on both sides, which is a fair and balanced observation. It encourages learning from each other and finding common ground, which is constructive and aligns with the goal of fostering more positive dialogue. However, the message is somewhat generic and could feel more like a standard AI response rather than a natural, human-like mediation. This fits a score of 4 as it is conciliatory and relevant but not entirely natural.",
+        "score": 4
+    }
+}

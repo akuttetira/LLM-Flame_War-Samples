@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge both perspectives but fails to clearly determine which side is more in the right. It suggests a balance between the two viewpoints without providing strong, concrete arguments to support either position. This fits a score of 3 because it offers some nuance but lacks clear judgment or strong backing for either side.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging participants to provide specific examples to support their views. It avoids taking sides and promotes a constructive dialogue by asking for evidence. While it is slightly generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

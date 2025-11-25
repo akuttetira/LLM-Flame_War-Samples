@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument emphasizing the goal's quality despite the team's loss is more reasonable than dismissing the goal as a fluke. It acknowledges the validity of the perspective presented by the user while contrasting it with a less reasonable viewpoint. This shows a clear judgment based on the conversation's content and reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the group to focus on the specific goal mentioned in the title. It helps shift the conversation towards a more constructive and appreciative direction without dismissing the broader discussion about the team's performance. While it is slightly generic, it is still natural and has a good chance of guiding positive dialogue. This fits well with a score of 4.",
+        "score": 4
+    }
+}

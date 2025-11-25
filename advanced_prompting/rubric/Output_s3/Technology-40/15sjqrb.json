@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output correctly identifies that the people questioning Linus's motives and the company's financial situation are more in the right, as they present specific concerns about the company's financial practices, the due diligence process, and the potential for hidden issues. However, the mediation is somewhat vague in its reasoning and does not provide strong, concrete evidence to support the claim. It also fails to fully address the nuanced arguments presented by those defending Linus, such as his passion for his work and the complexity of business decisions. The judgement is fair but lacks the depth and specific backing needed for a higher score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the potential for drama in the conversation and encourages a focus on facts and evidence. The message is directly relevant to the conversation, guiding the discussion towards a more constructive and fact-based approach. It is natural in context and could conceivably be written by a user. The message encourages both sides to consider the evidence and think about how Linus can improve the company's financial situation while maintaining his values, which is a fair and balanced approach.",
+        "score": 5
+    }
+}

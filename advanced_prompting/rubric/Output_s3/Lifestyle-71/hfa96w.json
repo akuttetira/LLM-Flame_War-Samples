@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that aligns with the majority of the conversation, which criticizes Caroline for being inconsistent, patronizing, and lacking a clear identity. The judgement correctly identifies the critics as more in the right based on the common morality and fairness principles of holding public figures accountable for their behavior and consistency. The supporting arguments are strong, as the conversation provides multiple examples of Caroline's behavior being questioned. However, the judgement does not fully address the complexity of the situation, as some of the critics also question Caroline's business model and motivations. The judgement is clear and specific, but could have been more neutral in acknowledging the complexity of the issue.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the potential for personal attacks and focuses on separating critique from judgment, which is relevant to the conversation. The message encourages a more constructive dialogue by asking for specific points of disagreement, which is natural in the context of the conversation. It does not take sides but rather facilitates a more respectful and focused discussion. The message is well-structured and would be credible as a mediation attempt.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the group advocating for reporting and taking action against hateful comments is more in the right, as they are addressing the issue directly and seeking to combat hate. However, it lacks specific arguments or examples from the conversation to back up this claim. It also does not fully address the frustrations and limitations mentioned in the discussion. This fits a score of 3, as it provides a general judgment but lacks the nuance and support needed for a higher score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a focus on supporting each other in reporting and advocating for change, which is relevant to the discussion about reporting hate speech and subreddits. It avoids taking sides in the disagreement about how to handle the situation and promotes collaboration. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

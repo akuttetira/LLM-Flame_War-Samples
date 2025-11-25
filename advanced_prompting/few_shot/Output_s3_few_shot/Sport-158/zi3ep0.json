@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that YoMySlime's prediction is factually incorrect, as the World Cup final in 2022 was between Argentina and France, not France and Morocco. The mediation also correctly points out that the person making the prediction without fact-checking is in the wrong. The argument is clear and based on factual accuracy, which aligns with a high score.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, as it addresses the issue of making predictions without verifying the actual schedule. It uses a friendly emoji to keep the tone positive and is likely to guide the conversation towards more constructive and factual discussion. While it is slightly generic, it is still natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the situation. It correctly identifies that the issue is more about company culture than dishonesty or incompetence, which aligns with the arguments presented by multiple participants. The judgment is supported by the discussion around logistics, agreements, and the broader context of tech media practices. However, it does not definitively assign blame to one side but rather offers a balanced view. The judgment is fair and reasonable given the evidence presented.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more positive and constructive direction. It acknowledges the evolution of the discussion and suggests that lessons can be learned from the thread. However, it is quite vague and does not directly address the specific issues or provide clear guidance on how to move forward. The message is natural in context but lacks the specificity needed to effectively guide the conversation. It is more of a general statement than a targeted steering message.",
+        "score": 3
+    }
+}

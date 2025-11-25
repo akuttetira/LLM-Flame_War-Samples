@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person defending the original poster and engaging in a lighthearted, non-confrontational exchange is more in the right. It acknowledges the positive interaction and contrasts it with the hurtful and dismissive comments. The argument is clear and backed by the context of the conversation, making this a strong judgment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the conversation, acknowledging the difficulty of being called out and suggesting a more understanding approach. It gently encourages empathy and less judgment, which could help improve the dialogue. However, it is somewhat generic and lacks specific, actionable steps to guide the conversation forward. This fits a score of 3 as it is conciliatory but not highly tailored to the context or specific issues in the conversation.",
+        "score": 3
+    }
+}

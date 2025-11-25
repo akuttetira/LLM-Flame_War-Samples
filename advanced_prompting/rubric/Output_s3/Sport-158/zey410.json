@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the suggestion to 'wear a dildo on your head' is inappropriate and disruptive compared to the other participants' simple team preference statements. The judgement is based on common morality and fairness principles, as it rejects the offensive and distracting behavior while acknowledging the others' respectful comments. The reasoning is clear and supports the conclusion that the offensive comment is more in the wrong. The judgement is neutral in the sense that it does not assign blame to the other side but clearly states which behavior is unacceptable.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and productive. It addresses the inappropriate comment by suggesting a more appropriate form of team spirit, encouraging civility without dismissing the original comment. The message is directly relevant to the conversation and natural in context, as it would likely be written by a human mediator aiming to guide the discussion towards a more respectful direction. It avoids being overly parental or computer-generated and effectively steers the conversation towards a positive and respectful tone.",
+        "score": 5
+    }
+}

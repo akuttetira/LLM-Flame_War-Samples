@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced judgment that acknowledges the criticism of Apple's business practices while also addressing the personal attacks on customers. It recognizes that while Apple's market dominance may be controversial, the criticism of its business practices is more justified than the personal attacks on consumers. The judgment is neutral and does not take a side in the debate, which aligns with fairness principles. However, it could have been more specific in explaining why the criticism is more justified. Overall, the judgment is well-reasoned and fair, though not entirely comprehensive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the potential for disagreement while encouraging respectful dialogue. The message is directly relevant to the conversation, as it invites the discussion to focus on alternatives rather than personal attacks. It is naturally phrased and would conceivably be written by a user aiming to foster a constructive conversation. The message successfully steers the conversation towards a more positive and solution-oriented direction without taking sides or imposing a particular viewpoint.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Ronaldo's impact on Portugal's performance is more compelling than the counterpoint. It acknowledges the evidence from the game and the context of Ten Hag's decision. However, it does not fully address the counterargument or provide a balanced analysis, which slightly weakens its strength. This fits a score of 4 as it is correct but could have been more nuanced.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a focus on specific games or situations rather than general claims. It helps guide the conversation towards more constructive dialogue by asking for specific examples. While it is somewhat generic, it is still natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the 'wood milk' commercial is a satirical take, and the participants who questioned its authenticity are more in the right. The argument is supported by the context of the conversation, where multiple users point out the absurdity of the commercial and clarify that it is not a real product. The judgment is clear and backed by the discussion, making it a fair and accurate assessment of the situation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the context of the conversation by identifying the content as a parody, which is directly relevant to the discussion. The message encourages a lighthearted approach to the topic, helping to steer the conversation towards a more positive and humorous direction. It is natural in the context of the conversation and could conceivably be written by a user, as it reflects the overall tone of the discussion. The message effectively guides the conversation away from potential negativity and towards a more constructive and humorous interpretation of the content.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the situation. It recognizes that the person defending Ronaldo is questioning the severity of the allegations, which is a reasonable stance given the lack of concrete evidence. The mediation also criticizes the other side for making unsubstantiated claims and using inflammatory language, which is fair given the context of the conversation. However, the judgment does not clearly specify which side is entirely correct, which is appropriate given the ambiguity of the situation. The reasoning is grounded in fairness and acknowledges the lack of definitive evidence, making it a balanced judgment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards focusing on facts rather than personal attacks or inflammatory language. It acknowledges the settlement and Ronaldo's admission, which are key points in the conversation, and encourages a more constructive dialogue. The message is relevant to the conversation and natural in context, making it likely that a user would find it trustworthy. However, it is somewhat vague in its guidance and does not provide specific direction on how to proceed with the discussion. It avoids taking sides but encourages a more factual approach, which aligns with the goal of mediation.",
+        "score": 4
+    }
+}

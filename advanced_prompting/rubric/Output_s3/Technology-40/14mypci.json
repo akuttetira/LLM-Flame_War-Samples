@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that Reddit's decision to charge for API access is a betrayal of its community and a disruption to its business model. This judgement is based on the arguments presented in the conversation, which highlight the impact of the policy on third-party developers and the community. The judgement acknowledges the concerns raised by users about the pricing and timeline of the changes, and contrasts them with the claims that this is a standard industry practice. However, the judgement does not fully address the counter-arguments presented, such as the historical context of API access and the differences between platforms like Facebook and Twitter. The judgement is somewhat nuanced but lacks the depth to fully resolve the dispute, and it does not clearly specify a neutral position if the issue is not definitively resolved. Overall, the judgement is fair and reasonable but not entirely conclusive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion in the conversation and directly addresses the issue at hand by suggesting a focus on the specifics of Apollo and Reddit's API. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the conversation, acknowledging the valid concern for the child's safety and the criticism of the parents' behavior. It also addresses the inappropriate personal attacks and inflammatory comments, which are not relevant to the core issue. The judgement is neutral and does not assign blame to either side, which is appropriate given the context. However, it could have been more specific in addressing the underlying issues of parental responsibility and safety. The message is somewhat vague in its guidance and does not directly steer the conversation towards a more constructive direction.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus from personal attacks to the core issue of the near-fatal accident and potential future harm. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively encourages a more constructive and supportive discussion without dismissing the concerns raised in the conversation.",
+        "score": 5
+    }
+}

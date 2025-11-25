@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation offers a judgment that acknowledges the perspective of the user advocating for a context of abuse, suggesting they are more in the right. However, the judgment is somewhat one-sided and does not fully consider the potential harm of sharing personal experiences without context. The mediation does not provide a balanced analysis of the situation, and it fails to address the concerns of the original poster about the potential negative impact of the post. While the judgment attempts to specify a correct side, it lacks solid backing arguments and does not fully consider the nuances of the situation. Therefore, the judgment is not entirely fair or comprehensive.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to promote a respectful and supportive environment. It acknowledges the need for civility and focuses on the goal of supporting each other rather than harming one another. The message is relevant to the context of the conversation, which involves potential sensitivity and conflict. While it is somewhat vague in specific guidance, it is natural in tone and could conceivably be written by a user. It does not explicitly address the content of the original post or the specific concerns raised, but it sets a general positive direction for the conversation. The message is not overly parental or generated, and it has a reasonable chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

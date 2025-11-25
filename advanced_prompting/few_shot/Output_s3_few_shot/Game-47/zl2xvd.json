@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the criticism of the Dwarf Fortress developers for prioritizing health insurance over financial gain is more morally justified than the dismissive view of the game's value due to its monetization model. It acknowledges the ethical concern of prioritizing health over financial success, which is a key point in the discussion. However, it does not provide strong or detailed arguments to back this position, nor does it fully address the complexity of the situation. This fits a score of 3, as it offers a partially supported take on the moral rightness of the situation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and relevant to the discussion about game development, monetization, and the Dwarf Fortress developers' journey. It encourages reflection on the value of their work and acknowledges the complexities of game development. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

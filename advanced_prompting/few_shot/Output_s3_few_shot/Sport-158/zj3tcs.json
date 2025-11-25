@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that Khunzar-ri's defense of their country and right to enjoy rivalries is more justified, while Legoleamela's comments are inflammatory and racist. However, the mediation is somewhat simplistic and does not provide detailed reasoning or context from the conversation to support its judgment. This fits a score of 3, as it correctly identifies the more justified side but lacks depth in supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly addresses the issue of personal attacks, encouraging focus on the football match. It is relevant to the conversation and provides a clear, constructive direction. However, it is somewhat generic and could come off as overly prescriptive or artificial. This fits a score of 4 as it is effective in guiding the conversation toward a more respectful and constructive tone.",
+        "score": 4
+    }
+}

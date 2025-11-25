@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person expressing genuine remorse and respect for Ronaldo's loss is more in the right, as their response shows empathy and acknowledgment of the situation. The other person's comment is hurtful and baseless, making the mediation accurate and fair. This fits a score of 5 as it clearly ascertains the right side based on common morality and fairness, with strong support.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages emotional support, which is relevant to the context of the conversation. It invites the participants to share their feelings and offers a supportive environment. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. This fits a score of 3 as it is conciliatory but somewhat vague and not deeply tailored to the conversation's nuances.",
+        "score": 3
+    }
+}

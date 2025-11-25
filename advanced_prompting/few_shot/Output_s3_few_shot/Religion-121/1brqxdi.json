@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation attempts to evaluate the debate by asserting that the argument against Christianity's impact on adultery is more compelling. However, it fails to provide a balanced or nuanced analysis of the conversation. It does not clearly determine which side is more in the right, nor does it offer strong, evidence-based reasoning to support its position. The statement is somewhat vague and lacks the depth needed to convincingly argue one side over the other. This aligns with a score of 2.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages the participants to focus on historical and psychological impacts rather than personal attacks. It is relevant to the ongoing discussion and invites a constructive, fact-based approach. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

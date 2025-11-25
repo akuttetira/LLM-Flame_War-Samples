@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced assessment of the conversation, acknowledging both sides' arguments without taking a definitive stance. It recognizes the complexity of the situation, particularly the possibility that Billet Labs may have been coerced or unaware of the implications of lending a prototype without an NDA. The mediation also acknowledges the criticism of LTT but frames it as a blanket claim rather than a definitive judgment. This approach is fair and balanced, allowing for further discussion without asserting a clear 'right' or 'wrong' side. However, it could have been more specific in explaining why the Billet Labs argument is more compelling, which might have increased its effectiveness. Overall, the mediation is fair, neutral, and provides a reasonable basis for further discussion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more nuanced discussion. It acknowledges the complexity of NDAs and suggests that Billet Labs may have been taken advantage of, which is a balanced approach. However, the message is somewhat vague and does not directly address the specific points of contention in the conversation. It avoids taking a clear stance on who is at fault, which is appropriate for a steering message, but it could have been more specific in suggesting ways to move forward. The message is natural in context and could conceivably be written by a user, but it lacks the direct relevance and specificity that would make it a 5. It is more aligned with a 4 because it is relevant and has a high chance of guiding positive dialogue, though it could be more direct.",
+        "score": 4
+    }
+}

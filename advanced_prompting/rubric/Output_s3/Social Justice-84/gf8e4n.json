@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the distinction between genuine incels struggling with social anxiety and those who engage in misogynistic behavior. It correctly identifies that not all incels are the same and that some may be in need of support rather than being dismissed outright. The judgment is fair, morally grounded, and does not oversimplify the complex issue. However, it does not clearly specify which side is entirely correct or wrong, which could be seen as a slight lack of specificity. Overall, the judgment is well-reasoned and aligns with fairness and morality.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and suggests a positive direction by offering resources or advice for individuals struggling with social anxiety. The message is relevant to the conversation, as it addresses the concern of men who may have genuine difficulties in dating without objectifying women. It is natural in context and could conceivably be written by a user, as it encourages constructive dialogue rather than taking sides. The message does not impose a judgment but instead offers a supportive and guiding approach, which aligns well with the steering metric.",
+        "score": 5
+    }
+}

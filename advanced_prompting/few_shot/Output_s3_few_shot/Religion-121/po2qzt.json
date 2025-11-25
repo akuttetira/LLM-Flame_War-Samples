@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation fails to clearly determine which side is more in the right. It attempts to address the topic but does not provide a clear, supported judgment on the issue at hand. The mediation is vague and does not offer a strong or nuanced argument for either side, which is necessary for a proper judgement. It also does not engage with the specific points made in the conversation, making it difficult to assess which perspective is more valid.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The generated mediation shifts the conversation away from the original topic of near-death experiences and religious beliefs, which was the central focus of the discussion. Instead, it introduces a new topic about fair and predatory monetization in games, which is not related to the content of the conversation. This is a significant deviation from the original context and does not guide the conversation in a constructive or relevant way. The mediation is generic and does not address the actual points being discussed.",
+        "score": 1
+    }
+}

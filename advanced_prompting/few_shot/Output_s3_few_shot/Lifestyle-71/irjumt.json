@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the calm and non-abusive approach is more in the right, as it aligns with the context of a support group for abuse victims. It acknowledges the importance of addressing the child's behavior without resorting to abuse or emotional manipulation. The argument is clear and supports the non-abusive stance with relevance to the group's purpose. This fits a high score as it accurately determines the right approach based on the context and provides a reasonable justification.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a focus on empathy and constructive strategies for teaching responsibility and emotional regulation. It avoids taking sides and promotes a constructive dialogue, which is appropriate for the context. However, it is somewhat generic and could be more specific in suggesting actionable steps. This aligns with a score of 4.",
+        "score": 4
+    }
+}

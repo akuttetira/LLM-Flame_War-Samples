@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that Croatia's historical performance and team strength provide a more compelling argument than the claims of bias against Japan. It acknowledges the validity of the discussion around team strength and past achievements, which are relevant to the context of the World Cup bracket. However, it does not fully address the counterarguments about Japan's potential or the subjective nature of team comparisons. This fits a score of 4, as it provides a reasonable and partially supported judgment with some nuance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on the shared excitement for the World Cup, which is relevant to the conversation. It shifts the focus from analysis to the actual games, which could help redirect the discussion towards a more positive and unified direction. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. This fits with a score of 3, as it is conciliatory but not deeply tailored to the conversation's context.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals sharing their personal experiences of abuse and trauma, and advocating for the validation of their pain, are more in the right. It acknowledges the validity of their experiences and the importance of not minimizing their suffering, which aligns with the moral and ethical standards of the discussion. However, it does not provide detailed or specific arguments to support this position, which slightly reduces its strength. This fits a score of 4.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and emphasizes the importance of listening and creating a safe space for sharing experiences. It is relevant to the conversation about trauma and invalidation, and it encourages positive dialogue by focusing on support and understanding. However, it is somewhat generic and could feel more like a generic support message rather than a tailored response to the specific context. This fits with a score of 4, as it is relevant and likely to guide positive dialogue but has some generic elements.",
+        "score": 4
+    }
+}

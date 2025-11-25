@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that blaming France's superior team rather than England's own performance is a more defensible argument. It acknowledges the validity of the perspective that England's loss was due to the competition, not inherent incompetence. However, it does not fully address the broader context of the conversation, which includes criticism of fans and the emotional response to losses. This makes the mediation somewhat narrow in scope but still accurate in its assessment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages focusing on the game rather than personal attacks. It is relevant to the context of the conversation and promotes respectful dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

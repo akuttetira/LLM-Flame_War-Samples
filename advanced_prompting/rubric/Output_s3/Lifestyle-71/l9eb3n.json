@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person sharing their personal struggles and seeking support is in a more vulnerable and truthful position compared to others who dismiss or belittle their experiences. The judgment acknowledges the validity of the individual's emotional state and the potential for mental health struggles, which aligns with common morality and fairness principles. The mediation does not take a neutral position but rather supports the individual's perspective, which is appropriate given the context of the conversation. The argument is backed by the emotional and psychological context of the discussion, though it could have provided more specific examples or references to mental health support systems.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive, offering support and resources without judgment. It acknowledges the pain and darkness in the conversation while encouraging the user to seek help through trusted adults, therapists, or support hotlines. The message is directly relevant to the conversation, which involves individuals struggling with mental health issues related to their parents, and it provides a safe and supportive tone. The message is natural in context and could conceivably be written by a user, as it is empathetic and non-confrontational. It effectively guides positive dialogue by focusing on support rather than judgment.",
+        "score": 5
+    }
+}

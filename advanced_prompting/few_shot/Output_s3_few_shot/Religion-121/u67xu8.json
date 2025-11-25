@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for the logical coherence of the Trinity is more defensible than the blanket dismissal of its concept. It acknowledges the complexity of the theological discussion and the differing perspectives on logic and contradiction. However, it does not fully engage with the specific arguments presented or provide a clear, detailed justification for its position. This aligns with a score of 3, as it offers a partially supported take rather than a strongly argued judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages participants to focus on understanding each other's perspectives rather than trying to 'win' the argument. It acknowledges the complexity of the topic and invites a more constructive dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

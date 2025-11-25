@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who engages in shaming and belittling others for their parenting choices is more in the wrong, which aligns with common morality and fairness. It clearly states this position and provides a reasonable justification based on the conversation. However, it could have been more nuanced in addressing the complexity of parenting experiences and the validity of different viewpoints. This fits a 4, as it correctly identifies the wrongdoer with good arguments but could have been more thorough.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages sharing personal experiences, which is relevant to the discussion about parenting styles and experiences. It avoids personal attacks and promotes mutual learning, which aligns with constructive dialogue. However, it is somewhat generic and could be more specific to the context of the conversation. This fits a score of 4 as it is relevant and has a good chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

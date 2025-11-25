@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced assessment of the discussion, acknowledging the complexity of distinguishing between healthy self-criticism and the harmful inner critic. It correctly identifies that the conversation is more about nuanced understanding rather than a simple binary of victim-blaming or dismissing self-criticism. The judgement is fair and accurate, recognizing the importance of the distinction without taking a rigid stance. However, it does not clearly specify which side is correct or offer a definitive conclusion, which slightly reduces its score. The message is well-reasoned and aligns with the conversation's context.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the positive aspects of the conversation and suggests a constructive direction for the discussion. The message is relevant to the conversation, as it addresses the need for a safe space in a support group. It is natural in context and could conceivably be written by a user. The message encourages further dialogue without taking sides or imposing a specific viewpoint, which aligns with the goal of mediation. However, it is somewhat vague in its suggestion and does not provide specific guidance on how to create a safe space, which could have made it more effective. Despite this, it is still a strong steering message that promotes positive dialogue.",
+        "score": 4
+    }
+}

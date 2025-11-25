@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that defending the original comment and calling out the troll for not taking a joke is more in line with constructive dialogue. It acknowledges the original comment as valid and addresses the troll's behavior. However, it could be more neutral in its tone and could benefit from clearer, more balanced reasoning. This fits a score of 4 as it correctly identifies the more appropriate response but could be more neutral and balanced.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to refocus the conversation on the original post and Peter Drury\u2019s commentary. It encourages a constructive discussion about what makes his commentary memorable, which is a natural and positive direction. While it is somewhat generic, it effectively guides the conversation away from the previous negative exchanges. This fits well with a score of 4.",
+        "score": 4
+    }
+}

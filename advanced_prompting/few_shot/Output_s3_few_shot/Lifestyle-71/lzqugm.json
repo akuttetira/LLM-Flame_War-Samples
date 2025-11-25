@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals who shared their personal experiences of abuse and responded with empathy and understanding are more in the right. It acknowledges the validity of their experiences and the harmful nature of justifying or dismissing abuse. However, it does not provide a thorough or nuanced analysis of the complex ethical and moral issues involved, nor does it clearly articulate why the empathetic responses are more morally correct. This fits a score of 3, as it correctly identifies the more right side but lacks strong, detailed supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and acknowledges the shared experience of dealing with abuse, which is relevant to the conversation. It encourages focusing on support rather than judgment, which is a positive direction. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. It feels a bit like a generic AI response rather than a natural, human-led conversation. This aligns with a score of 3.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation offers a nuanced judgment that acknowledges the complexity of the issue. It correctly identifies that patriarchal interpretations of biblical texts are more problematic than the claim that modern relationships have moved away from these interpretations. The judgment is balanced, recognizing the harm caused by rigid religious interpretations while also acknowledging the evolution of modern relationships. However, it does not fully resolve the moral implications of religious texts or provide clear support for its position. The judgment is neutral but does not clearly specify which side is more correct, which is a limitation in terms of clarity and decisiveness.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion of both sides and suggests a more focused approach to the discussion. The message is directly relevant to the conversation, encouraging a more constructive dialogue by emphasizing specific examples and interpretations rather than generalizations. The message is natural in context and could conceivably be written by a user, making it effective in guiding positive dialogue.",
+        "score": 5
+    }
+}

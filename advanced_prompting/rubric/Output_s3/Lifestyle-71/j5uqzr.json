@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge which perspective is more relatable and understandable. However, it does not provide a clear, principled judgment on which side is correct based on morality or fairness. Instead, it focuses on relatability and the redefinition of a phrase, which is not a sufficient basis for determining right or wrong in a moral or ethical context. The judgment is somewhat nuanced but lacks strong supporting arguments and does not clearly specify a correct side or a neutral position. As a result, it falls short of a strong judgment in terms of fairness and moral reasoning.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and respects both parties' perspectives. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The mediator encourages understanding and common ground without taking sides, which aligns with the steering metric of 5.",
+        "score": 5
+    }
+}

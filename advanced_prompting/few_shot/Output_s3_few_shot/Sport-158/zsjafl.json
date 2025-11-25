@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the initial post with the off-topic and inflammatory title is less constructive, while the subsequent responses redirecting the conversation to other subreddits are more appropriate. However, the mediation is somewhat simplistic and does not provide a nuanced or balanced analysis of the situation. It also fails to address the potential harm of the initial post or the responsibility of the users who redirected the conversation. This fits with a score of 3, as it correctly identifies the more right approach but lacks depth and nuance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and suggests a positive redirect to a more relevant subreddit, which is relevant to the context of the conversation. It acknowledges the title as potentially off-putting and offers a constructive alternative. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

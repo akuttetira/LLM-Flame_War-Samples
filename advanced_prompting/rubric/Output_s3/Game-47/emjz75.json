@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a reasonable judgment by distinguishing between the argument about the game's quality and the inflammatory personal attacks. It correctly identifies the more reasonable side (the argument that WWE 2K17 is a good game despite its flaws) and criticizes the other side for being inflammatory. The judgment is fair and based on common morality and fairness principles, though it could have been more specific about why the game is considered good. The supporting argument is clear but not overly detailed. The mediation is not a steering message but a judgment, so the steering metrics do not apply here. Overall, the judgment is accurate and well-reasoned.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more positive and constructive direction. It acknowledges the potentially offensive nature of the previous comments and suggests a focus on the game itself. The message is relevant to the conversation, natural in context, and has a high chance of guiding positive dialogue. However, it is somewhat vague in its approach and does not explicitly address the specific issues raised in the conversation. It is not overly parental or computer-generated, but it could have been more specific in its guidance. Overall, it scores well in terms of being productive and natural, but could be slightly more direct.",
+        "score": 4
+    }
+}

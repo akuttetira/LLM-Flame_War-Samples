@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person questioning the definition of evolution is more in the right, as they are engaging with the complexity of the concept and seeking clarity. The other side dismisses the complexity without understanding, which is less nuanced. However, the mediation does not provide strong, concrete arguments to back up this position, and it is somewhat vague in its assessment. This fits a mid-level score where there is some correctness but not strong support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the participants to focus on specific aspects of evolution. It offers clear, constructive directions for discussion and is well-timed given the context of the conversation. While it is slightly generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

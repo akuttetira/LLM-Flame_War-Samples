@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the flaws in both arguments. It correctly identifies that past performance against a rival is not a reliable indicator of future success, which is a fair and morally sound position. It also correctly points out that a coach's decisions can significantly impact a match, but does not claim they are the sole determinant. The judgment is balanced, fair, and backed by logical reasoning. However, it does not explicitly state which side is entirely correct, which is acceptable for a neutral position. The message is well-reasoned and aligns with common fairness principles.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the emotional tone of the conversation and encourages a shift towards more constructive discussion. The message is directly relevant to the conversation, as it addresses the issue of personal attacks and generalizations about countries and coaches. It also offers a natural and relatable suggestion to focus on the game itself and share personal favorites, which is in line with how a user might naturally respond. The message does not impose a judgment but rather guides the conversation towards a more positive and constructive direction.",
+        "score": 5
+    }
+}

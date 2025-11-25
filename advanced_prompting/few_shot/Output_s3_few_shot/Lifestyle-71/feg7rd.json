@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly asserts that the person questioning the effectiveness of a hug is more in the right, despite the conversation focusing on the appropriateness of ending calls with 'I love you'. The mediation fails to provide a balanced or nuanced perspective, and instead takes a stance that does not fully consider the context or the emotional intent of the participants. This fits a lower score due to the lack of fairness and nuance.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging participants to share personal experiences with emotional expressions. It frames the discussion in a positive, human-centered way and avoids mocking the idea. However, it is somewhat generic and could feel a bit like a standard AI response. It has a good chance of guiding positive dialogue, which aligns with a score of 4.",
+        "score": 4
+    }
+}

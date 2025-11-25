@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that personal attacks and insults are unreasonable, and it acknowledges the more reasonable argument that nationality or physical stature should not determine gaming skills or achievements. However, it does not clearly state which side is more in the right in a definitive manner, nor does it provide strong, specific arguments to support its position. This fits a score of 3, as it offers a partially supported take rather than a clear, well-argued judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, which involves personal attacks and derogatory language. It encourages a focus on the game rather than the person, which is a constructive approach. While it is slightly generic and could sound a bit like an AI, it is still natural and likely to guide positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

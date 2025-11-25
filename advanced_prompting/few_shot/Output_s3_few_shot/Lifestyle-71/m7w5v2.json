@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person's experience of abuse and the validation they received from their doctor is more in the right than those who dismiss or belittle their story. It acknowledges the complexity of the situation, the emotional impact of the abuse, and the importance of professional validation. The argument is supported by the detailed account of the person's experience and the context of the abuse. This fits well with a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is empathetic and acknowledges the personal and painful nature of the OP's experience. It encourages empathy and understanding, which is relevant to the discussion. However, it is somewhat generic and lacks specific guidance on how to engage more constructively. It is not overly confrontational but also does not offer concrete steps for improvement. This aligns with a score of 3.",
+        "score": 3
+    }
+}

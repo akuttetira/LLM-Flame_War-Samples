@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that advocating for personal success and happiness, despite past trauma, is more aligned with common morality and fairness principles. It acknowledges the validity of the emotional struggle and the desire for self-worth, while rejecting the notion of seeking revenge or validation from parents. The judgement is well-supported by the context of the conversation, which includes themes of parental neglect, personal growth, and the importance of self-actualization. The message is clear, respectful, and aligns with the values of self-respect and emotional resilience.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive, encouraging the group to focus on supporting each other rather than competing with stories of success or failure. It acknowledges the pain of parental issues but redirects the conversation towards positive growth and mutual support. The message is natural in context, fostering a collaborative environment rather than reinforcing negative dynamics. It does not take sides in the argument but instead promotes a constructive approach, which aligns well with the conversation's themes of overcoming parental influence and personal success.",
+        "score": 5
+    }
+}

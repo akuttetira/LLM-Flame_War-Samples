@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person advocating for not questioning the OP's experience of abuse is more in the right, as it acknowledges the validity of the OP's experience without dismissing it. However, the mediation is somewhat vague and does not provide strong, concrete arguments to support this position. It also fails to address the ethical responsibility of others in such situations. This fits a mid-level score where there is some correctness but lacks strong support and nuance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging participants to focus on supporting OP and listening to their story. It is clear, straightforward, and aligns with the context of the discussion. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This fits well with a score of 4.",
+        "score": 4
+    }
+}

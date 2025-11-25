@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both sides' points without taking a clear stance. It recognizes that the Dutch team may have faced unfair referee decisions and that the Dutch fans' behavior was problematic, but it also acknowledges that the Dutch fans were not the only ones being unfair. This approach is fair and balanced, avoiding a clear-cut judgment on which side is entirely correct. However, it does not fully address the specific claims made by both sides in the conversation, such as the specific referee decisions and the extended playtime. The judgment is well-reasoned and aligns with fairness principles, though it could have been more detailed in supporting its position.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the tension by shifting focus from fan behavior to the actual game. It is relevant to the conversation and encourages a more constructive discussion. The message is natural in context and could conceivably be written by a user. However, it is somewhat vague in its guidance and does not provide specific direction on how to proceed. It is productive but lacks the specificity needed to fully steer the conversation towards a more structured dialogue.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about emotional maturity is more compelling than the negative characterization of the situation. It acknowledges the nuance in the discussion and provides a clear judgment based on the content of the conversation. However, it could have provided more detailed reasoning or context to fully support its conclusion. This fits a score of 4, as it is correct but slightly lacks in depth or clarity.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and aims to focus on positive emotions, which is relevant to the conversation. It suggests agreeing on the sweetness of the moment and leaving negativity behind, which could guide the discussion toward a more constructive direction. However, it is somewhat generic and lacks specific, tailored suggestions for moving forward. This fits a score of 3, as it is conciliatory but somewhat vague and not as naturally tailored to the specific context.",
+        "score": 3
+    }
+}

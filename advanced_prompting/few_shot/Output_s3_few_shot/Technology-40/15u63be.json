@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the criticism of LMG's handling of workplace issues and their prioritization of profit over employee well-being is more justified. It acknowledges the valid concerns raised about the company's culture and management practices, and it contrasts that with a dismissive attitude. However, it does not fully address the nuances of the situation, such as the complexity of business operations and the potential trade-offs between profit and employee welfare. This fits a score of 3 as it provides a partially supported take but lacks strong, comprehensive arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation suggests focusing on supporting victims and advocating for better workplace practices, which is a constructive and relevant direction. It acknowledges the community's passion and shifts the focus to positive action rather than just criticism. However, it is somewhat generic and lacks specific, actionable steps. This fits with a score of 3, as it is conciliatory but not sufficiently tailored to the specific issues raised in the conversation.",
+        "score": 3
+    }
+}

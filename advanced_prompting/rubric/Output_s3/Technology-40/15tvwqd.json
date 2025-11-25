@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to acknowledge both perspectives, recognizing that the person trying to protect Emily and the one who thinks Emily is trying to make a point are both valid. However, it does not clearly determine which side is correct based on common morality and fairness principles. The judgment is somewhat nuanced but lacks strong supporting arguments to back up its position. The mediation does not specify a clear correct side or a neutral position with sufficient confidence, which is a flaw in the judgment. The message is conciliatory but not directly relevant to the conversation, as it does not address the core issue of whether Emily's statements were misinterpreted or not. The message is somewhat vague and could be seen as overly parental or computer-generated.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the community's concern and encourages a focus on the actual message rather than potential misinterpretations. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

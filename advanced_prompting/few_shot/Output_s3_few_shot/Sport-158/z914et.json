@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around a trolling attempt and a deflection, which are more nuanced and context-aware than the simplistic claim about the golden glove. It provides a clear judgment about which side is more in the right based on the context and behavior described. The argument is supported by the specific interactions in the conversation. This fits a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the context of the conversation, which seems to involve a debate about a sports-related post. It suggests a way to handle trolls and maintain civility, which is appropriate. However, it is somewhat generic and lacks specific guidance on how to handle the situation more effectively. This fits a score of 3 as it is conciliatory but somewhat vague.",
+        "score": 3
+    }
+}

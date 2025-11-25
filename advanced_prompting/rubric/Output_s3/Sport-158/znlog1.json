@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced assessment of the debate, acknowledging that both sides present valid points and evidence. It correctly identifies that the situation is more complex than a simple 'he did' or 'he didn't' scenario. The mediation does not take a firm stance but instead highlights the complexity of the issue, which aligns with a neutral and fair approach. However, it does not clearly specify a correct side or offer a definitive conclusion, which could be seen as a slight lack of decisiveness. Overall, the mediation is fair, neutral, and effectively captures the complexity of the argument.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more constructive direction by focusing on facts and context. It acknowledges the potential for personal attacks and suggests a more objective discussion. However, it is somewhat vague in its guidance and does not directly address the specific points of contention between the users. The message is natural in context but lacks specificity in guiding the conversation forward. It has a moderate chance of facilitating positive dialogue.",
+        "score": 3
+    }
+}

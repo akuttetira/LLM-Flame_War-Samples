@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the side questioning Linus's motives and the company's financial situation is more supported by the conversation, as the defenders often rely on assumptions and personal biases without concrete evidence. The argument is clear and backed by the discussion, making this a strong judgement of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation encourages a focus on factual evidence and constructive problem-solving, which is relevant to the discussion about Linus's decision-making and the company's financial situation. It avoids taking sides and prompts a more objective analysis. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

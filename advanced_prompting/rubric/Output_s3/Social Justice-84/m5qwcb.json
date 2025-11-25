@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced judgment that neither fully supports nor dismisses either side of the argument. It acknowledges the criticism of the communities as 'shitheels' or 'cults' while also rejecting the idea that transphobic hate speech is a legitimate form of free speech. This balanced approach reflects a fair assessment of the moral and ethical implications of both perspectives. However, the mediation does not clearly specify which side is more correct based on common morality and fairness principles, which is a limitation in a judgment context. The argument against transphobic hate speech is well-supported by the context of the conversation, which highlights the harmful nature of such rhetoric. The judgment is fair but does not fully assert a clear conclusion, which slightly reduces its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more constructive dialogue by focusing on the nuances of free speech and hate speech. It avoids personal attacks and encourages a balanced discussion. However, the message is somewhat vague and does not directly address the specific concerns raised in the conversation about the banning of subreddits and the nature of the rhetoric used by some users. While it is natural in context and has a decent chance of guiding positive dialogue, it could have been more specific in addressing the issues at hand. Therefore, it earns a 4 on the steering metric.",
+        "score": 4
+    }
+}

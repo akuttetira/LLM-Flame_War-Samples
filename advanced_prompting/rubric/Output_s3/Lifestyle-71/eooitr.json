@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals sharing their experiences of abuse and trauma are more in the right, as their perspectives are grounded in personal suffering and the validity of their experiences. The judgement acknowledges the importance of validating pain and rejecting the minimization of trauma, which aligns with common morality and fairness principles. The mediation does not attempt to assign blame but rather supports the perspective of those who are advocating for empathy and understanding. However, it does not provide specific arguments or examples to back up its position, which slightly reduces its confidence. Overall, the judgement is accurate but lacks detailed support.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to foster a supportive environment. It acknowledges the importance of listening and believing each other, which is relevant to the conversation about trauma and invalidation. The message is natural in context and encourages positive dialogue. However, it is somewhat vague and does not directly address the specific issues raised in the conversation, such as the invalidation of pain and the need for validation. It lacks specific guidance on how to move forward in the discussion, making it less effective as a steering message.",
+        "score": 3
+    }
+}

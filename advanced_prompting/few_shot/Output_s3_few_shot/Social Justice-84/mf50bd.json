@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument against /r/MGTOW as a hate speech platform is more convincing than the claim it's just a harmless subreddit with anti-Semitic dog whistles. It acknowledges the concerns raised about the subreddit being a platform for white extremism and the use of dog whistles, but it does so in a way that leans more towards the side of the argument that /r/MGTOW is a space for extremist content. This is a clear judgment on which side is more in the right, based on the evidence presented in the conversation. The supporting arguments are reasonable but not exhaustive, which fits a 4 score.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a constructive focus on specific examples of problematic content rather than generalizing. It addresses the concern about online safety while also acknowledging the importance of free speech, which is relevant to the discussion. The message is somewhat generic but still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

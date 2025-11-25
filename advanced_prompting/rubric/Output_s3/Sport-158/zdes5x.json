@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that differentiates between criticizing a team's performance and insulting their fans. It correctly identifies that personal attacks and insults are less defensible than constructive criticism. The reasoning is fair and aligns with common morality and fairness principles. However, the mediation does not explicitly state which side is entirely correct, which is acceptable for a neutral position. The judgment is well-supported by the context of the conversation, where personal insults were present alongside valid criticism. The message is not overly parental or computer-generated, and it is relevant to the conversation, making it a fair and effective judgment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the need for civility in the discussion and invites the participants to share their thoughts on specific aspects of the game. The message is relevant to the conversation, encourages constructive dialogue, and is natural in the context of the discussion. It does not take sides but rather steers the conversation towards a more respectful and informative direction. The message is well-structured and would be appropriate for a user to generate in this context.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the users pointing out suspicious behavior are more in the right, as they are highlighting potential shill activity and organized defense of Epic. This is supported by the conversation where multiple users discuss the presence of coordinated defenders and the use of Reddit's shill rules. However, the mediation does not fully address the complexity of the situation, such as the possibility of genuine supporters versus organized shill activity. It also lacks detailed arguments to back its position, which slightly reduces its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a focus on specific behaviors and evidence, which is relevant to the discussion about shill activity and organic engagement on Reddit. It invites a constructive dialogue by asking for specific examples, which helps guide the conversation in a more productive direction. While it is slightly generic and could sound more natural if more context were provided, it still effectively steers the conversation towards a more constructive and evidence-based discussion. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

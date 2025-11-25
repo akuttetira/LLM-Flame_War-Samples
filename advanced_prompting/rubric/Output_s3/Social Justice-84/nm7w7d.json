@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the side advocating for reporting and taking action against hate speech is more in the right based on common morality and fairness principles. The judgement is supported by the context of the conversation, which involves hate speech and the need for community moderation. The mediation does not take a neutral position but clearly asserts that taking action against hate speech is the correct approach. The reasoning is sound and aligns with ethical standards.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus from the issue of reporting to the broader problem of hate speech, which is a neutral and positive direction for the conversation. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages constructive discussion rather than reinforcing the harmful content being discussed.",
+        "score": 5
+    }
+}

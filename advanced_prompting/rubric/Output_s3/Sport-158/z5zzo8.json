@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output is a judgment that attempts to evaluate the relative correctness of the comments in the conversation. It suggests that the commenters are 'more in the right' than the person who might be getting cheated on, as they are offering support and potential solutions. However, this judgment is not based on clear moral or fairness principles. The mediation does not directly address the ethical implications of the comments, nor does it clearly define what constitutes 'right' or 'wrong' in this context. The judgment is somewhat vague and lacks concrete support for its position. While it attempts to steer the conversation towards a more constructive direction, it does not fully meet the criteria for a strong, principled judgment. The score reflects the lack of clear moral grounding and the ambiguity of the judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to shift the conversation towards a more supportive and less judgmental tone. It acknowledges the potential for the situation to be complex and suggests focusing on offering encouragement rather than making assumptions. The message is relevant to the conversation and natural in context, as it addresses the underlying tension in the discussion. However, it is somewhat vague in its specific guidance and does not directly address the content of the original comments. It avoids taking a clear stance but instead encourages a more empathetic approach, which aligns with the goal of steering the conversation positively. The message is not overly parental or generated, and it has a reasonable chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

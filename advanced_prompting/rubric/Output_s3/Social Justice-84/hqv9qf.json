@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the criticisms of /r/AskTrumpSupporters while also recognizing the potential validity of the claim that r/askthedonald is problematic. It does not take an absolute stance on either sub, but rather evaluates the merits of each criticism. However, the judgment is somewhat vague in its reasoning and does not clearly establish why the criticism of /r/AskTrumpSupporters is more justified. The mediation avoids taking a definitive side on the original claim but does not fully explain the nuances of the arguments presented. This makes it a 3 in the judgement metric, as it does not fully back up its position with clear reasoning.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the tension in the conversation and shifts the focus to a constructive discussion about improving the sub. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages a collaborative problem-solving approach rather than taking sides, which aligns with the steering metric. However, it does not explicitly address the specific criticisms mentioned in the conversation, which could have made it more directly relevant. Overall, it scores well on both fairness and neutrality.",
+        "score": 4
+    }
+}

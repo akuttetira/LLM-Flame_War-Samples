@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced assessment of the conversation, acknowledging the complexity of the issue and the tendency of some Christians to prioritize political alignment over moral consistency. It correctly identifies the more defensible argument regarding the double standard in how different groups are treated, while avoiding a blanket judgment about all Christians. The message is fair, balanced, and does not take an extreme position, which aligns with the principles of neutrality and fairness. However, it does not fully resolve the underlying tensions in the conversation, and could have been more specific in addressing the core issues of double standards and political bias.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and acknowledges the presence of hypocrisy in the conversation. It suggests a common ground by focusing on the issue of hypocrisy regardless of who is involved. However, it is somewhat vague and does not directly address the specific points made in the conversation about double standards, political bias, and moral inconsistency. The message is natural in context but lacks specific guidance on how to move forward in the discussion. It does not provide clear steps or directions for the participants to take, which could have made it more effective. Overall, it is a reasonable attempt at steering the conversation but could be more specific and actionable.",
+        "score": 4
+    }
+}

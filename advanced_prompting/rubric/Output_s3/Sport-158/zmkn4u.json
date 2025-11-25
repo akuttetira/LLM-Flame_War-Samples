@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the initial joke and critiques the inflammatory arguments made by some commenters. It correctly identifies that the claim about Messi being a 'douchbag' due to his wealth is more offensive and not in line with the original joke. The judgment is fair, neutral, and backed by reasoning, though it does not explicitly declare one side as 'correct' in a moral sense but rather highlights the more problematic statements. The mediation is well-reasoned and aligns with common morality and fairness principles.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the humor in the grandma meme while steering the conversation back to the joke rather than the wealth or politics. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively encourages participants to focus on the intended humor without escalating the discussion into more divisive topics.",
+        "score": 5
+    }
+}

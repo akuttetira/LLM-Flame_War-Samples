@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly asserts that the original comment author is more in the right, despite the comment's problematic generalizations and lack of empathy for abuse victims. The critics provided valid concerns about the comment's tone and potential harm, while the original author's intent was to offer encouragement, which is not inherently wrong. However, the mediation fails to acknowledge the nuanced harm of the comment and instead takes a side that does not fully address the ethical concerns raised. This fits with a lower score due to the incorrect determination of who is more in the right and the lack of balanced analysis.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a focus on supporting each other, which aligns with the context of the conversation about abuse and healing. It invites constructive sharing of personal experiences, which is relevant and could guide positive dialogue. However, it is somewhat generic and could come off as overly scripted or AI-generated. It still has a good chance of improving the dialogue, making it a 4.",
+        "score": 4
+    }
+}

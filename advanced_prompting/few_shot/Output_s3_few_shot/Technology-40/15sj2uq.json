@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance both sides but fails to clearly determine which side is more in the right. It acknowledges the severity of Madison's situation but also downplays the company's actions, which is a weak stance. The argument is somewhat nuanced but lacks strong, concrete support from the conversation. This fits with a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages a more nuanced discussion about workplace behavior and accountability. It addresses the issue of prioritizing company defense over listening to concerns, which is relevant to the conversation. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. This fits with a score of 3, as it is conciliatory but not sufficiently tailored to the specific context of the conversation.",
+        "score": 3
+    }
+}

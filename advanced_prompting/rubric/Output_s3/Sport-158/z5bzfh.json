@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the validity of the argument regarding the US team's goal-scoring ability while also recognizing the importance of defense. It avoids blanket insults and name-calling, which is fair and balanced. The judgment is not overly confident but is still clear in its position, and it correctly identifies the more constructive argument. However, it does not fully resolve the underlying tension between the two sides, and its explanation could be more detailed to fully back up its position. This earns it a 4 in the judgment metric.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the conversation from personal attacks to a more constructive focus on team performance and strategies. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively encourages a more respectful and solution-oriented discussion.",
+        "score": 5
+    }
+}

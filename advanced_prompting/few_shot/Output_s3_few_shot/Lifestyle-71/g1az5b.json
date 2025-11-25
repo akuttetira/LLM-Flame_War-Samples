@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the arguments against ABA being abusive and traumatic for autistic individuals are more aligned with the experiences and perspectives of the autistic community and those who have faced harm from ABA. It acknowledges the negative impacts of ABA as described in the conversation, including trauma and abuse, and positions those arguments as more valid. However, it does not fully address the counterarguments presented by others who may have a different perspective on ABA's benefits. This fits a score of 4, as it correctly identifies the more right side but could have provided more balanced support for its position.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages mutual support and kindness, which is relevant to the discussion about family dynamics and ABA. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. It does not directly address the underlying issues or provide actionable steps for positive dialogue. This aligns with a score of 3.",
+        "score": 3
+    }
+}

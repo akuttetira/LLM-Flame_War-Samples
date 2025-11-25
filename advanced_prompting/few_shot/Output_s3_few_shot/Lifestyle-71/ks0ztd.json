@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person criticizing the lack of accountability and gaslighting is more in the right, as their perspective aligns with the clear wrongness of justifying abuse and minimizing the harm caused. The argument is supported by multiple examples from the conversation where abuse is normalized and minimized. However, the mediation is somewhat generic and does not provide detailed reasoning or specific examples from the conversation to back up its claim, which slightly reduces its strength. This fits a score of 4.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages participants to focus on mutual support rather than comparing their experiences. It directly addresses the issue of toxic family dynamics and the 'who had it worse' dynamic, which is central to the conversation. While it is somewhat generic, it is still relevant and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

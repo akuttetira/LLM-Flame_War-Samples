@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly identifies the defenders as being 'more in the right' when the situation involves a child's accident and the parent's response. The parent's actions, while potentially inappropriate, are not necessarily 'necessary or humorous' and the attackers' criticism is valid in the context of parenting. The mediation fails to provide a balanced or fair assessment of the situation, which is why it receives a low score.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a more positive, constructive direction by focusing on shared experiences and parenting strategies. It avoids escalating the negative tone of the conversation and invites participants to share personal experiences, which can foster understanding and support. While it is somewhat generic, it is still relevant and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

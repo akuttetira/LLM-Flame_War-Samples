@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about QAnon being a rebranded Nazi cult is more convincing than the dismissal of Pizzagate as a harassment operation, considering the historical parallels to Nazi propaganda. It acknowledges the historical context and the similarities between QAnon and Nazi tactics, which is a strong point. However, it does not fully address the complexity of the issue or provide a balanced perspective, which slightly reduces its score. This fits a 4, as it is correct but could be more comprehensive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a discussion about the evolution of conspiracy theories. It invites a constructive dialogue by focusing on learning from past ideas. However, it is somewhat generic and lacks specificity in how to guide the conversation. This fits a score of 3, as it is conciliatory but not deeply tailored to the specific context of the conversation.",
+        "score": 3
+    }
+}

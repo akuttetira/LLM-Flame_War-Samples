@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation offers a nuanced perspective that acknowledges the validity of both sides' viewpoints. It recognizes the criticism of Reddit mods as reasonable and the defense of Linus's actions as justified, while also noting the dismissive and attacking nature of other participants. However, it does not clearly specify which side is more correct, which is acceptable for a neutral position. The judgement is well-reasoned and balanced, but it lacks strong, explicit backing for its position. It does not fully determine which side is right, which is a minor flaw in a judgment that otherwise demonstrates fairness and neutrality.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to refocus the conversation on the actual issue at hand, which is the API changes and their impact on the community. It does so in a neutral and respectful manner, acknowledging the devolution into personal attacks while gently steering the discussion back to the central topic. The message is relevant, natural, and has a high chance of guiding positive dialogue. It avoids taking sides and encourages a constructive conversation, making it a strong example of a steering message.",
+        "score": 5
+    }
+}

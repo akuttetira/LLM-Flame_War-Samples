@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Qatar's corruption is more compelling and substantiated compared to the disappointment of other teams. However, it does not fully address the complexity of the situation, such as the nuances of corruption in Qatar versus the performance of other teams. It also fails to clearly state which side is more in the right in a balanced manner. This fits a score of 3 as it offers a partially supported take without fully resolving the issue.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively steers the conversation back to the World Cup while acknowledging the potential for a separate discussion on Qatar. It is conciliatory, relevant, and invites constructive dialogue by asking for favorite moments. Although it is slightly generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

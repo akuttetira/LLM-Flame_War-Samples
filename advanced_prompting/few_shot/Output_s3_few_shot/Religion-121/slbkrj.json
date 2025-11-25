@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion is based on misinterpretations and biased information, which is a key issue in the conversation. However, it does not clearly state which side is more in the right or provide strong arguments to support its position. The statement is somewhat vague and does not fully address the nuances of the debate, which fits a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation encourages a more constructive and neutral discussion by focusing on the historical context and theological complexities of the Quran and jihad, rather than personal attacks. It is relevant to the conversation and invites a more respectful and informed dialogue. However, it is somewhat generic and could be more specific in guiding the discussion towards common ground. This fits with a score of 4.",
+        "score": 4
+    }
+}

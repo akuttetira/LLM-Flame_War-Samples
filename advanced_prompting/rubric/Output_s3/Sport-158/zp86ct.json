@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the emotional and historical significance of the Falklands conflict in the context of Argentina's national identity. It correctly identifies that those expressing empathy for Argentina's past struggles are more in the right than those dismissing the issue with flippant comments. The judgment is supported by the historical and emotional context provided in the conversation, and it does not take an overly partisan stance. However, it could have been more explicit in its reasoning and less ambiguous in its assessment of which side is 'more right.' The judgment is fair and grounded in the content of the conversation, though it could have been more definitive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more respectful and focused discussion. It acknowledges the emotional impact of the Falklands conflict and encourages a respectful dialogue about the World Cup. However, it is somewhat vague and does not directly address the specific tensions in the conversation, such as the historical context of the Falklands conflict and the emotional responses to Argentina's World Cup performance. While it is natural in context and has a reasonable chance of guiding positive dialogue, it lacks specific direction and could be seen as overly generic or not sufficiently tailored to the conversation's nuances.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals defending the post and calling out others for their opinions are more in the right, as they are engaging in constructive dialogue rather than aggressive or dismissive behavior. However, the argument is somewhat vague and lacks specific, concrete support from the conversation. This fits a mid-level score where there is a correct identification of who is more in the right but with some lack of detail or strength in the argument.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages respectful dialogue, which is relevant to the context of the conversation. It directly addresses the issue of insults and threats, and invites constructive discussion. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

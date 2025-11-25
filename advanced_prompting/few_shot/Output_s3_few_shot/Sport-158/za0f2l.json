@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the argument around possession as a metric and recognizes that both sides present valid points. It also suggests a more objective analysis of the game's data, which is a constructive approach. However, it does not clearly determine which side is more in the right and lacks strong, specific arguments to support its position. This fits a score of 3, as it offers some nuance but does not fully resolve the issue or provide strong backing for a conclusion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a focus on the complexities of the game rather than getting entrenched in specific metrics like possession. It acknowledges the disagreement without taking sides and invites a more balanced discussion. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This fits a score of 4 as it is effective in guiding the conversation toward a more constructive direction.",
+        "score": 4
+    }
+}

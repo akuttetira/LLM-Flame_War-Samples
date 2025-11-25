@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of comparing different belief systems and mentions both sides' valid points and biases. However, it does not clearly state which side is more in the right or provide strong arguments supporting its position. The statement is somewhat vague and lacks the depth needed for a 5. It offers a balanced view but does not decisively determine the correct perspective, fitting a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages understanding rather than winning the argument, which is relevant to the ongoing discussion. It acknowledges the passion of both sides and suggests a more constructive approach. However, it is somewhat generic and could feel more like a generic AI response rather than a natural, human-like mediation. This fits with a score of 4, as it is relevant and constructive but not entirely natural or specific to the conversation.",
+        "score": 4
+    }
+}

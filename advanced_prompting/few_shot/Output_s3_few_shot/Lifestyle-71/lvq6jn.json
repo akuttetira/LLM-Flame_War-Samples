@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that the original poster's approach may be seen as aggressive due to context and delivery, rather than the content itself. It provides a nuanced perspective that avoids oversimplifying the issue. However, it does not clearly determine which side is more in the right or provide strong, specific arguments to support its position. This fits a score of 3, as it offers some nuance but lacks a clear verdict or robust support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a constructive discussion about communication and conflict resolution. It invites participants to share strategies for balancing honesty with respect, which is relevant to the conversation. While it is somewhat generic and could feel a bit AI-generated, it is still natural and has a good chance of guiding positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who recognizes the manipulation and refuses to engage with the toxic behavior is more in the right. It acknowledges the harmful patterns of narcissistic behavior and the importance of not enabling them. However, it lacks specific examples or deeper analysis of the behavior described in the conversation, which could have strengthened the argument. This fits a score of 4 as it provides a clear judgment with reasonable support, though not exhaustive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and aims to redirect the conversation towards supporting each other and breaking the toxic cycle. It is relevant to the discussion about manipulation and emotional harm in relationships. However, it is somewhat generic and lacks specific, actionable steps to guide constructive dialogue. This fits better with a score of 3, as it is not overly natural or specific enough to significantly improve the conversation.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the offside rule being too restrictive and VAR causing frustration is more compelling than the claim that Germany deserved to lose. It acknowledges the validity of the offside rule critique and the impact of VAR on fan experience, which shows a nuanced understanding of the discussion. However, it does not fully address the other perspective that Germany may have been underperforming, which slightly weakens the argument. This fits a score of 4 as it provides a reasonable and supported judgment with some nuance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation directly addresses the specific issues mentioned in the conversation about the offside rule and VAR, particularly the 1mm finger rule. It helps to refocus the discussion on the technical aspects of the game rather than generalizing about national teams and fans. While it is concise and relevant, it could be slightly more engaging by adding a bit more context or inviting further discussion. This fits well with a score of 4.",
+        "score": 4
+    }
+}

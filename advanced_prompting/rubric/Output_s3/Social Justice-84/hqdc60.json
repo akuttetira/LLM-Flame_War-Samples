@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced perspective that acknowledges the existence of transphobia within the LGBT community while also recognizing the harm caused by TERFs. It avoids a simplistic binary and instead presents a more complex view of the issue. However, it does not clearly determine which side is correct in the debate, which is a limitation for a judgement. The message is also somewhat vague in its reasoning and does not provide strong backing for its position. As a judgement, it falls short of a 5 because it does not clearly specify a correct side or provide strong arguments. As a steering message, it is somewhat conciliatory but lacks the specificity and direct relevance needed for a 5.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and encourages understanding rather than labeling. The message is directly relevant to the conversation, promoting a more constructive dialogue by focusing on mutual understanding. It is natural in context and could conceivably be written by a user, as it reflects a genuine attempt to foster empathy and dialogue among differing viewpoints.",
+        "score": 5
+    }
+}

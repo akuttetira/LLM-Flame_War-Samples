@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges a nuanced perspective by recognizing that the Netherlands may have provoked the situation and that the referee's failure to punish the players is a valid point. However, it does not clearly state which side is more in the right and lacks strong, specific arguments to back up its position. It provides a partially supported take but does not fully address the core issue of who is more at fault. This fits a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging participants to focus on the Dutch team's behavior and the referee's role rather than past grievances. It acknowledges the complexity of the situation and invites a constructive discussion. However, it is somewhat generic and could sound more like a generic AI response rather than a natural, human-like mediation. This fits a score of 4 as it has a good chance of guiding positive dialogue but is not as natural or tailored as a 5.",
+        "score": 4
+    }
+}

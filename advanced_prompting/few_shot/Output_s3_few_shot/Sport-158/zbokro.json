@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to assess which group is 'more in the right' by suggesting that Canadians and Americans are genuinely indifferent to the term 'soccer,' while Europeans are more invested in correcting others. However, this conclusion is overly simplistic and does not fully consider the complexity of the debate around terminology and cultural perceptions. The mediation also fails to provide strong, nuanced arguments to support its position, making it a weak judgment. This fits best with a score of 2.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and acknowledges the playful nature of the discussion. It suggests moving beyond the semantic debate and focusing on the actual sport, which is relevant to the conversation. However, it is somewhat generic and could come off as overly polite or AI-generated. It has a reasonable chance of guiding positive dialogue but lacks the natural tone of a human mediator. This aligns with a score of 3.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the nuanced debate around the goal's simplicity and the use of adjectives, recognizing that both sides have valid points. However, it does not clearly determine which side is more in the right or provide strong, specific arguments to support its position. The statement is somewhat generic and lacks the depth needed for a 5. This fits a score of 3, as it offers some nuance but does not fully address the core issue with strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and aims to shift the focus to a more positive and constructive direction by acknowledging Messi's status as a legend and the coolness of the goal. It also suggests discussing nuances of language and sports commentary, which is relevant to the conversation. While it is somewhat generic and could sound a bit forced, it effectively guides the conversation toward a more positive and less contentious direction. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

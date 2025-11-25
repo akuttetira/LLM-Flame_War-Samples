@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced perspective by acknowledging the complexity of the discussion around the correct World Cup match. It correctly identifies that the initial claim about the two World Cups being in different countries is oversimplified. However, it does not clearly determine which side is correct or provide specific arguments to support its position. The message is somewhat neutral and avoids taking a firm stance, which aligns with a nuanced approach. While it is relevant to the conversation, it lacks the specificity and clarity needed to be a strong judgement. Therefore, it earns a moderate score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus from the specific debate about the match to a more positive and shared experience, which is natural in the context of a conversation about friendship and football. The message encourages the participants to reflect on their shared memories rather than get stuck in a debate about the exact match. It is directly relevant to the conversation and has a high chance of guiding positive dialogue. The tone is friendly and understanding, which aligns with the theme of friendship and shared love for football.",
+        "score": 5
+    }
+}

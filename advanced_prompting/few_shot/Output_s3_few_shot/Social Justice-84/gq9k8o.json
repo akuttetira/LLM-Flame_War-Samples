@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges a nuanced perspective by distinguishing between a few loud individuals and the broader community, which shows some understanding of the complexity of the situation. However, it does not clearly state which side is more in the right and lacks strong, concrete arguments to support its position. This fits with a score of 3, as it offers a partially supported take but does not fully ascertain which side is more in the right or provide sufficient backing for its stance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the participants to focus on specific incidents and behaviors rather than general accusations. It is relevant to the ongoing discussion about DH&M's behavior and invites a more constructive approach. However, it is somewhat generic and could sound a bit like an AI-generated response. It still has a good chance of guiding positive dialogue, which aligns with a score of 4.",
+        "score": 4
+    }
+}

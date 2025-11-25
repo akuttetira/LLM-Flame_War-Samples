@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging that both sides have valid points. It recognizes the complexity of the issue and the difficulty of reconciling faith with reality. However, it does not clearly determine which side is correct, nor does it provide strong arguments for either position. The statement is neutral and acknowledges the difficulty of the issue, which is appropriate given the philosophical and theological nature of the debate. The mediation does not attempt to resolve the conflict but rather acknowledges the complexity, which is a fair approach given the context.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and encourages empathy and understanding. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message avoids taking sides and instead focuses on fostering a respectful dialogue, which aligns with the goal of mediation.",
+        "score": 5
+    }
+}

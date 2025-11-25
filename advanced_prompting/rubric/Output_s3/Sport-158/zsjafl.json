@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the original poster (onguito) started with an off-topic and inflammatory title ('Where is Messi ?? / Donde esta Messi ??'), which is not relevant to the subreddit. The other users who suggested moving the conversation to other subreddits (like r/cricket, r/curling, r/crymore, etc.) are providing constructive feedback to keep the conversation relevant. The judgement is fair and based on the context of the conversation, as the initial post was clearly off-topic. The mediation supports the perspective that redirecting the conversation is the right course of action, and it is backed by the context of the discussion.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation to a more relevant and positive direction. It acknowledges the off-putting nature of the title and suggests a constructive alternative. The message is natural in context and would be believable as a user-generated response. It effectively guides the conversation towards a more productive path by suggesting specific subreddits. The message is not overly parental or generated, and it directly addresses the issue at hand. It provides a clear, positive direction for the conversation without being dismissive or judgmental.",
+        "score": 5
+    }
+}

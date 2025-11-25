@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the arguments presented in the conversation. It acknowledges the market pressure argument as more defensible, which aligns with common fairness principles and the need for companies to adapt to consumer trends. However, it also recognizes the validity of the criticisms against corporate greed and SJW ideology, showing a nuanced understanding of the debate. The judgement is clear and backed by reasoning, though it does not fully resolve all sides of the argument. The mediation does not take a definitive stance on whether CDPR is a 'corporate enemy' or not, which is appropriate given the complexity of the issue.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and attempts to guide the conversation towards a more nuanced discussion. It acknowledges the complexity of the topic and suggests a more balanced approach. However, it is somewhat vague and does not directly address the specific points of contention in the conversation. The message is natural in context but could have been more specific in guiding the dialogue. It has a moderate chance of encouraging positive dialogue by encouraging a more balanced perspective.",
+        "score": 3
+    }
+}

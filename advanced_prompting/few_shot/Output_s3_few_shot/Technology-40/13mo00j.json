@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the key issue of blurred authority lines and the potential undermining of Terren's role if Linus overrules him. It provides a clear judgment that the argument about Linus overruling Terren is more problematic. The explanation is concise and directly addresses the core of the conflict, making it a strong judgment with solid reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to find a balance between Linus' creative vision and Terren's business acumen. It acknowledges the complexity of the leadership structure and invites a constructive discussion. However, it is somewhat generic and lacks specific, actionable steps to guide the conversation. This fits with a score of 3, as it is not highly natural or specific enough to significantly improve the dialogue.",
+        "score": 3
+    }
+}

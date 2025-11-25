@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced perspective on the discussion, acknowledging the complexity of the issue rather than taking a definitive stance. It does not declare one side as correct but instead highlights the need for a more nuanced understanding of the concepts involved. However, it does not fully engage with the arguments presented by the participants, nor does it offer a clear judgment on the merits of the khilafa concept versus nationalism. The message is somewhat neutral but lacks the depth to fully address the moral and ethical implications of the discussion. It is not overly confrontational or biased, but it also does not provide a strong enough argument to be considered a high score in terms of judgment quality.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus from divisive terms like 'nationalism' and 'khilafa' to a shared goal of peace and unity, which is relevant to the conversation. The message encourages discussion of specific steps to promote understanding and cooperation, which has a high chance of guiding positive dialogue. The tone is natural and fits the context of the conversation, as it would likely be written by a user aiming to foster dialogue. It does not take sides but instead seeks to bring the conversation back to a constructive path.",
+        "score": 5
+    }
+}

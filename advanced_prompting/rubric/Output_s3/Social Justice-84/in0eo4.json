@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both sides of the argument. It recognizes that the sub's problematic elements are inherent to its ideology rather than solely due to moderation, which is a balanced view. However, it does not definitively determine which side is correct in a clear manner, and the supporting arguments are not as strong as they could be. The judgment is fair and reasonable but lacks the strongest level of support for its position.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more constructive direction by addressing the issue of personal attacks and strawman arguments. It acknowledges the validity of both sides' points while suggesting a more focused discussion. The message is relevant to the conversation and natural in context, making it likely that a user would find it trustworthy. However, it is somewhat vague in its guidance and does not provide specific steps or examples to follow. It is productive but could be more direct in its suggestions.",
+        "score": 4
+    }
+}

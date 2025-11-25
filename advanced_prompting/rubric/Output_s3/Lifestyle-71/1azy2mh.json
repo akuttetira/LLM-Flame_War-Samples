@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output is completely unrelated to the original conversation. The original conversation is about a husband who wants to divorce his wife and child, and the discussion revolves around child support, bonding, and the husband's justification for his actions. The mediation output, however, is about a different topic entirely - distinguishing between fair monetization and predatory tactics in modern games. This is completely out of context and does not address the issues raised in the conversation. The mediation output is not conciliatory, nor does it provide any guidance or resolution to the issues in the conversation. It is entirely irrelevant and does not meet the criteria for a valid mediation output.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The generated mediation message is not relevant to the conversation and does not provide a useful direction for the discussion. The conversation revolves around a husband's attempt to justify his decision to divorce his wife and cut ties with their daughter, based on his claim that he couldn't bond with the child because he wasn't present at the birth. The mediation message, however, shifts the focus to predatory monetization and calls for a discussion about fair vs. abusive systems, which is completely off-topic. The message is not conciliatory and does not guide the conversation towards a productive resolution. It is overly generic and not in line with the context of the conversation.",
+        "score": 1
+    }
+}

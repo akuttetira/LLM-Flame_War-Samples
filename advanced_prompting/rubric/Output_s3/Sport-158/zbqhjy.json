@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for Japan as a strong contender is more defensible than dismissive comments about their chances. The mediation acknowledges Japan's performance against stronger teams and the perspective of supporting underdogs, which aligns with common morality and fairness principles. However, it does not explicitly declare Japan as the correct side but rather emphasizes the defensibility of the underdog argument. The message is fair and balanced, providing a nuanced take without taking a definitive stance, which is appropriate given the context of the discussion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the excitement around underdog stories while encouraging a focus on factual team performance and statistics. The message is directly relevant to the conversation, which is centered around World Cup predictions and team performances. It is natural in context and would conceivably be written by a user trying to maintain a respectful dialogue. The message effectively steers the conversation towards more constructive and factual discussion without being overly prescriptive or dismissive.",
+        "score": 5
+    }
+}

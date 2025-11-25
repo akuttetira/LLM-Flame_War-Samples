@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the official Reddit app is generally well-regarded by users, with some criticisms about its performance on Android but overall positive experiences on iOS. The argument that the app is 'bad' is challenged by users who have used it since its release and have not encountered significant issues. The mediation acknowledges the valid concerns about app performance on Android but counters them with evidence from users who have had positive experiences. However, the mediation does not fully address the broader context of user dissatisfaction and the potential for a significant user exodus, which is a key point in the conversation. The judgement is supported by user experiences but lacks a more comprehensive analysis of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the differing experiences and encourages sharing personal stories, which is directly relevant to the conversation. The message is natural in context and could conceivably be written by a user. It effectively guides positive dialogue by focusing on understanding perspectives rather than determining who is right.",
+        "score": 5
+    }
+}

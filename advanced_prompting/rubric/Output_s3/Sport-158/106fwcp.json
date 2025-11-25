@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Messi\u2019s handball being omitted is more defensible than the dismissive and hurtful responses. It acknowledges the validity of the concern about the animation missing key details while also addressing the tone of the subsequent replies, which come across as disrespectful and unconstructive. The judgement is fair and neutral, recognizing the factual point without endorsing the harsh language used in the conversation. The reasoning is clear and supports the position without bias.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the conversation by encouraging civility and focusing on the topic. The message is relevant to the discussion and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively steers the conversation back to the topic of the animation and the omission of the handball incident without being overly prescriptive or judgmental.",
+        "score": 5
+    }
+}

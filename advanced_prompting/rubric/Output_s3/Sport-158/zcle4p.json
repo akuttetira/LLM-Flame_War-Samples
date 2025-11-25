@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges both sides' arguments. It recognizes that France's historical performance in high-pressure matches is a valid consideration, while also acknowledging England's potential. This approach is balanced and does not definitively declare one side correct, which aligns with a fair and impartial assessment. However, it could have been more explicit in its reasoning or provided clearer support for its position. Overall, it scores well in terms of fairness and neutrality but could be slightly more confident in its arguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is a strong example of a steering message that encourages constructive dialogue by shifting the focus to the current game and asking for specific predictions and strategies. It is conciliatory, relevant, and natural in the context of a sports discussion. The message does not take sides but instead prompts both parties to engage in a more productive and informed conversation about the upcoming match. It avoids reinforcing existing biases and instead encourages a forward-looking discussion, which is appropriate for a mediation context.",
+        "score": 5
+    }
+}

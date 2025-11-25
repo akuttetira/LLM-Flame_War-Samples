@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges the complexity of the situation. It recognizes that the critics who question the morality of the devs' decision to prioritize health insurance are more in the right, as it reflects a concern for the well-being of the creators. However, it also acknowledges that dismissing the game's value solely because of its monetization model is flawed. The judgement is balanced and considers both perspectives, though it doesn't fully explain why the critics are more right than the others. The reasoning is sound but could have been more detailed in supporting the conclusion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexities of game development and the value of the Dwarf Fortress devs' hard work, promoting a positive and appreciative tone. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. However, it does not directly address the specific points of contention in the conversation, such as the financial success of the developers and the implications of their monetization model. It is a general message that encourages appreciation without providing specific guidance on the discussion points.",
+        "score": 4
+    }
+}

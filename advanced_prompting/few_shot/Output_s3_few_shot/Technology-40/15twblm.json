@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The judgement correctly identifies that the argument for holding the WAN show despite the controversy is more problematic than the initial decision to skip it. It acknowledges the concerns of the community and the potential harm, which shows a nuanced understanding of the situation. However, it does not provide strong, concrete arguments to support this conclusion, and the reasoning is somewhat generic. This fits with a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the desire for transparency and answers while suggesting a more controlled and less risky alternative to a live WAN show. It provides a constructive solution that addresses the concerns of the community without escalating tensions. The message is relevant to the ongoing discussion and offers a practical alternative, making it a good steering message. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This fits well with a score of 4.",
+        "score": 4
+    }
+}

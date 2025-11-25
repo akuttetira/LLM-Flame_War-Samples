@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person sharing their experience of domestic abuse is in the right. The judgement acknowledges the severity of the situation described, including the impact of narcissistic behavior and the challenges of escaping a toxic environment. It also recognizes the complexity of the situation, including the potential for trauma bonding and the need for support. The judgement is supported by the detailed personal account provided by the user, which highlights the emotional and psychological toll of the abuse. The message is clear and aligns with common morality and fairness principles.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the bravery of sharing personal experiences and encourages a supportive rather than confrontational approach. The message is directly relevant to the conversation, which involves individuals sharing their experiences with abuse and seeking support. It is natural in context and could conceivably be written by a user. The message promotes a positive dialogue by emphasizing community support and available resources, which aligns with the overall tone of the conversation.",
+        "score": 5
+    }
+}

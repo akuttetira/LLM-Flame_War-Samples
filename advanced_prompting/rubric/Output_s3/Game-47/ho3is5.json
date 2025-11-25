@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced and balanced perspective on the discussion, acknowledging the complexity of the issue without taking a clear stance on which side is correct. It correctly identifies that the debate revolves around the player's role in the narrative and the ethical implications of in-game actions. The message is fair and avoids oversimplifying the controversy, which is crucial in a discussion about player agency and narrative design. However, it does not fully resolve the underlying tension between the player's role as an actor versus a passive observer, and it does not explicitly address the emotional impact of the narrative choices. The message is well-worded and appropriate for the context, but it could have been more direct in guiding the conversation towards a resolution.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion in the conversation and shifts the focus to specific mechanics and narrative choices that are up for debate. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages a constructive discussion about player agency and the player-character relationship without taking sides, which aligns with the goal of mediation.",
+        "score": 5
+    }
+}

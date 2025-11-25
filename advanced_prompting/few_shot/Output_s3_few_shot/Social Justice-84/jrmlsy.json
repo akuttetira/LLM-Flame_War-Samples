@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the more compelling argument about virgin shaming as psychological projection rather than blaming others for personal issues. It acknowledges the complexity of the discussion and provides a nuanced perspective. However, it does not clearly state which side is more in the right but offers a partially supported take. This fits a score of 3, as the argument is somewhat strong but lacks complete clarity or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation encourages a shift towards sharing personal stories and experiences, which is a constructive approach to the conversation. It acknowledges the shift in tone and invites deeper reflection, which could help guide the dialogue towards more meaningful and empathetic discussion. However, the message is somewhat generic and could be more specific in its guidance. This fits a score of 3, as it is conciliatory but lacks the specificity and naturalness of a higher-level response.",
+        "score": 3
+    }
+}

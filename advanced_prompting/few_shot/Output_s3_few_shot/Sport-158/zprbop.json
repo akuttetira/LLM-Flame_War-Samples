@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for soccer's global financial viability and popularity is more compelling than the dismissive stance towards it. It acknowledges the complexity of the issue by recognizing soccer's global appeal and economic potential, while also addressing the US-specific context. However, it does not fully engage with the specific data or arguments presented in the conversation, such as the Forbes list of top earners or the ad break issue in NFL games. This makes it somewhat vague and less directly supportive of the more compelling argument.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a focus on the global appeal of soccer while avoiding national pride comparisons. It is somewhat generic but still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

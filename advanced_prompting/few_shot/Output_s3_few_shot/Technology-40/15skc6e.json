@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the situation, recognizing that Linus's past actions are not excusable but also doesn't label him as a villain. It addresses the critique of 'pile on' by emphasizing nuance and context, which is a fair and balanced approach. However, it doesn't clearly state which side is more in the right and could be seen as too vague in its conclusion. This fits a score of 3 as it offers a partially supported, nuanced perspective but lacks strong, clear arguments for a definitive judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to guide the conversation towards supporting the accuser and avoiding premature conclusions. It addresses the issue of jumping to conclusions without evidence, which is a key concern in the discussion. However, it is somewhat generic and could be more specific in its guidance. This aligns with a score of 4.",
+        "score": 4
+    }
+}

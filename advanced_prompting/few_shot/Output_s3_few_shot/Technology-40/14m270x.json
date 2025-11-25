@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the protest being pointless and people getting bored is more convincing than the claim about corporate shills and brainwashed followers. However, it does not fully address the complexity of the situation, such as the role of Reddit's moderation, the nature of the protest, and the varying perspectives of users. It provides a clear judgment but lacks depth in supporting arguments, which slightly reduces its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and aims to redirect the conversation towards discussing the real reasons for the exodus and what the community would like to see happen next. It is relevant to the ongoing discussion and encourages a more constructive dialogue by focusing on facts and avoiding personal attacks. However, it is somewhat generic and could feel more like a generic mediation script rather than a natural, context-specific response. This aligns with a score of 3.",
+        "score": 3
+    }
+}

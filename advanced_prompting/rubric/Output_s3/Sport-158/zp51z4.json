@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument regarding the legitimacy of Di Maria's penalty and the referee's mistake with Thuram's incident is more defensible than the personal attacks and insults exchanged. It acknowledges the validity of the football-related discussion while criticizing the disrespectful tone of the conversation. The message is neutral, does not take a side in the football debate, and focuses on the conduct of the users. It is concise and relevant to the conversation, making it a fair and effective mediation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of name-calling and insults, which are present in the conversation, and encourages a more respectful and focused discussion on the actual game and refereeing decisions. The message is relevant to the conversation, natural in context, and could conceivably be written by a user. It aims to steer the conversation towards a more constructive and respectful dialogue without taking sides or making judgments.",
+        "score": 5
+    }
+}

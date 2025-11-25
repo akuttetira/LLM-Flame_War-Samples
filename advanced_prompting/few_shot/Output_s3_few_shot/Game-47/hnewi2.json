@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge the complexity of the discussion by noting that some points are more valid than others. However, it does not clearly determine which side is more in the right, nor does it provide strong, specific arguments to support its position. The statement is somewhat vague and lacks the depth needed to confidently place it at a 5. This fits better with a score of 3, as it shows some nuance but does not clearly resolve the debate or back its position with strong evidence.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and directly relevant to the conversation, as it encourages focusing on facts and avoiding personal attacks. It addresses the underlying issue of differing opinions on the severity of the pandemic and promotes a more constructive dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for prioritizing LGBT+ rights over football politics is more defensible, as it addresses the broader issue of human rights and discrimination. However, it does not fully engage with the nuances of the discussion, such as the context of Germany\u2019s historical context and the complexity of football politics. It also lacks strong, specific arguments to back up its position, which makes it a mid-level score rather than a top-tier one.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and attempts to guide the conversation back to the main topic of football. It acknowledges the emotional intensity of the discussion and suggests a more neutral, focused approach. However, it is somewhat generic and could come off as overly prescriptive or unnatural in context. It does not specifically address the underlying issues of nationalism, LGBTQ+ rights, or the role of football in politics, which are central to the conversation. This fits with a score of 3, as it is conciliatory but lacks the specificity and natural tone needed for a more effective steering message.",
+        "score": 3
+    }
+}

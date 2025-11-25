@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the criticism of ADL's findings and the 'thin blue line' group as extremists is more defensible, while the claim about r/Conservative praising Kyle Rittenhouse is more context-dependent. It provides a nuanced comparison and acknowledges the complexity of the issue, which aligns with a score of 4. The argument is clear and supported by the conversation, though it could have been more explicit in its reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to guide the discussion towards specific examples rather than general outrage. It encourages a constructive dialogue by focusing on the community\u2019s values and specific instances. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

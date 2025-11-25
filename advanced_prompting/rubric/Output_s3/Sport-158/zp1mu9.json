@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about France being a poor team is more defensible than the personal attacks and insults. The judgement acknowledges the validity of the criticism towards France's performance while also pointing out the unproductive nature of the personal attacks. This aligns with fairness and morality by prioritizing constructive debate over disrespectful behavior. The judgement is clear and specifies a correct side (the argument about France's performance) without being overly harsh on the opposing side. The reasoning is solid and supported by the context of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the need for civil discourse while encouraging a focus on strategy and pressure rather than personal attacks. The message is relevant to the conversation, as the original discussion involves criticism of France's performance and personal insults. It is naturally phrased and could conceivably be written by a user aiming to guide the conversation towards a more respectful and constructive direction. The message effectively steers the conversation away from hostility and towards a more analytical discussion.",
+        "score": 5
+    }
+}

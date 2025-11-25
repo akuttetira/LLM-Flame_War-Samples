@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the person who downplayed Women's Day and implied that men's rights are more important as being in the wrong. This aligns with the common moral and ethical understanding that Women's Day is about recognizing and improving the treatment of women, not about men's rights. The mediation clearly states this position and provides a reasonable justification based on the context of the conversation. However, it could have been more detailed in explaining why the other participants are in the right. This fits a score of 4, as it correctly identifies the wrongdoer but could have provided stronger support for the correct position.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and acknowledges the differing perspectives in the conversation. It encourages respectful dialogue and focuses on learning from each other, which is relevant to the ongoing discussion. However, it is somewhat generic and could come off as overly neutral or even passive, lacking the specificity needed to guide the conversation effectively. This aligns with a score of 3.",
+        "score": 3
+    }
+}

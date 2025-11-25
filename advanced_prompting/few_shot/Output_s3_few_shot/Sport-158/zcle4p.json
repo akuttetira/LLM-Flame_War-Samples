@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the argument about France's past performance against England in high-pressure matches and provides a balanced response that challenges the dismissive view of England's potential. It offers a nuanced perspective that considers both sides' strengths and weaknesses, which is a sign of fairness and neutrality. However, it does not clearly state which side is more in the right, and the supporting arguments are not as strong as they could be. This fits a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation about the France vs England match. It shifts the focus to the current game and asks for specific predictions and strategies, which encourages constructive dialogue. While it is slightly generic and could sound a bit like an AI, it is still natural and has a good chance of improving the conversation. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation attempts to address the core issue by suggesting that the argument against trans women being women is more flawed than the broader dismissal of trans people. However, it does not clearly determine which side is more in the right, nor does it provide strong, specific arguments to support its position. The statement is somewhat vague and lacks the nuance needed to fully resolve the debate, which fits a mid-level score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to focus on the shared goal of protecting trans people's rights while acknowledging differing opinions. It encourages constructive dialogue by emphasizing cooperation despite disagreements. However, it is somewhat generic and could come off as overly prescriptive or too neutral, which might not fully resonate with the passionate tone of the conversation. This fits a score of 3 as it is conciliatory but lacks the specificity and natural tone that would elevate it to a 4 or 5.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges a nuanced perspective by distinguishing between the inherent issues with the sub's ideology and the role of moderation. It provides a balanced view that is more defensible than a blanket claim of failure. However, it does not clearly state which side is more in the right and lacks strong, specific arguments to back up its position. This fits with a score of 3, as it offers some nuance but does not fully establish a clear verdict or strong support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the validity of both sides' points and addresses the issue of personal attacks and strawman arguments, which is a key problem in the conversation. It suggests a constructive approach by focusing on specific examples and behaviors, which aligns with the goal of improving dialogue. While the message is somewhat generic, it is still conciliatory and relevant, making it a 4.",
+        "score": 4
+    }
+}

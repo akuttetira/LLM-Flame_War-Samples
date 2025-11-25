@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output correctly identifies that the discussion is about the distinction between fair monetization and predatory tactics in gaming, and that not all modern games are trash due to microtransactions. The output acknowledges the complexity of the issue and does not make an absolute claim about all modern games. It provides a balanced perspective by recognizing that some games may have fair monetization practices while others may engage in predatory tactics. The mediation is neutral and does not take a side in the debate, which is appropriate given the complexity of the issue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The generated mediation shifts the conversation from discussing near-death experiences and the afterlife to discussing fair and predatory monetization in games. This is a significant deviation from the original topic of the conversation, which was focused on the scientific and philosophical discussion of near-death experiences (NDEs) and their implications for the afterlife. The mediation message is not relevant to the conversation and does not guide the discussion in a way that is productive or helpful. It also does not reflect the context or content of the conversation, making it seem artificial and disconnected from the discussion. The message is not conciliatory and does not attempt to address the points made in the conversation.",
+        "score": 1
+    }
+}

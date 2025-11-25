@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the discussion, acknowledging the complexity of using possession as a metric. It correctly identifies that both sides present valid points without taking a clear side, which aligns with a neutral position. However, it does not fully address the deeper issues of objectivity in football analysis or the emotional undercurrents in the conversation. The message is somewhat vague and does not directly guide the conversation towards a more constructive direction, which could have been more specific. Overall, it is fair and neutral but lacks the depth to fully resolve the underlying tensions.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion around football statistics and avoids taking a definitive stance on which side is correct. Instead, it encourages a broader understanding of the game by highlighting that possession is not the only metric to consider. The message is relevant to the conversation, directly addresses the points made by both sides, and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user, making it a well-balanced and effective steering message.",
+        "score": 5
+    }
+}

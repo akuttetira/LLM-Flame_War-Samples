@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the people defending the game against baseless hate and misinformation are in the right. The argument is supported by the context of the conversation, where many users express frustration with the negativity and misinformation on the subreddit. The mediation acknowledges the harmful nature of the hate and the importance of defending the game's quality, which aligns with common morality and fairness principles. The judgement is clear and specific, and it effectively contrasts the positive defenders with the negative haters.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the negative tone in the conversation by encouraging a focus on the game itself rather than personal attacks. The message is natural in context and could conceivably be written by a user, as it acknowledges the issue without taking sides or imposing a judgment. It has a high chance of guiding positive dialogue by redirecting the conversation towards more constructive discussion.",
+        "score": 5
+    }
+}

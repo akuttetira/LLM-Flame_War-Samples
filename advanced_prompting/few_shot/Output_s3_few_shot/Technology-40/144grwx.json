@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about API changes being a strategy to eliminate third-party apps and consolidate data is more defensible than the blanket accusation against third-party apps. It provides a nuanced perspective that acknowledges the complexity of the issue, which aligns with a higher score. However, it does not fully address the broader context of the conversation or provide strong, concrete arguments to back up its position. This fits a score of 4.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and encourages the community to focus on constructive actions like supporting alternative platforms and advocating for user data protection. It is relevant to the discussion and invites positive dialogue. However, it is somewhat generic and could sound more like a generic AI response rather than a natural, community-driven suggestion. This fits with a score of 4.",
+        "score": 4
+    }
+}

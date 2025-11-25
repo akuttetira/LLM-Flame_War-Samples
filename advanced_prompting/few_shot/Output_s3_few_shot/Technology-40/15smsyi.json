@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The judgement acknowledges the validity of the claim that comments may have been deleted intentionally, which is a reasonable interpretation of the context. However, it does not fully address the counterargument that it could be a simple YouTube glitch. The mediation provides a partial assessment but lacks a balanced analysis of both sides, which is necessary for a strong judgement. This fits a score of 3 as it offers some nuance but does not fully support its position with strong arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the conversation, encouraging a focus on the actual issue of missing comments rather than speculation about company motives. It is naturally phrased and has a good chance of guiding positive dialogue. However, it is somewhat generic and could be more specific in suggesting solutions. This aligns with a score of 4.",
+        "score": 4
+    }
+}

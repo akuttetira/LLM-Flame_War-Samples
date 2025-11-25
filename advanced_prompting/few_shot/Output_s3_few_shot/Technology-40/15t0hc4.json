@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for considering Madison's allegations as valid is more defensible than dismissing them. It acknowledges the complexity of the situation, the potential for personal vendettas, and the broader context of corporate accountability. However, it does not provide strong, concrete arguments or evidence to support this position, and the reasoning is somewhat vague. This fits with a score of 3, as it offers a nuanced take but lacks the depth and clarity needed for a higher score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the high emotional stakes and suggests a more constructive approach by focusing on supporting Madison and LMG. It is conciliatory and relevant, encouraging a more balanced discussion. However, it is somewhat generic and could come off as overly prescriptive or AI-generated. It has a reasonable chance of guiding positive dialogue but lacks the naturalness and specificity seen in a top-tier response. This aligns with a score of 4.",
+        "score": 4
+    }
+}

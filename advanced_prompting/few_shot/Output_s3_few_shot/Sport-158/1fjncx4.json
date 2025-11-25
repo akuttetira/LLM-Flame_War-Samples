@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about dead rubbers and reduced competitiveness is more convincing based on the conversation. It acknowledges the concerns raised about the new format leading to less meaningful games and provides a clear judgment on which side is more in the right. The reasoning is supported by the discussion where multiple users express concerns about the dilution of competition and the lack of urgency. This fits the criteria for a 5 score as it correctly ascertains which side is in the right with strong arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the participants to focus on specific teams or scenarios, which is relevant to the discussion about the new Champions League format. It aims to guide the conversation towards more constructive and specific dialogue rather than generalizations. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

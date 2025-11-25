@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the debate, acknowledging the complexity of the goal type without taking a definitive stance. It correctly identifies that the disagreement is not a simple matter of who is right or wrong, but rather a nuanced discussion about football terminology. The message is neutral, fair, and avoids taking sides, which is appropriate given the context of the conversation. However, it does not offer a clear resolution or guidance on how to move forward, which could be improved in a mediation setting. Overall, the message is well-constructed and appropriate for the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It addresses the issue of personal attacks and encourages a focus on the actual goal and its significance to soccer fans. The message is relevant to the conversation, directly addressing the conflict between the users and guiding them towards a more constructive discussion. It is natural in the context of the conversation and could conceivably be written by a user aiming to foster positive dialogue.",
+        "score": 5
+    }
+}

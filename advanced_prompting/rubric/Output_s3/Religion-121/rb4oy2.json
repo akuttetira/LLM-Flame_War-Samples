@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a general overview of the discussion without taking a clear stance on which side is correct. It acknowledges the complexity of the topics and the differing perspectives, which is fair and neutral. However, it does not offer a specific judgment on the correctness of either side, which is necessary for a full evaluation. The output is somewhat vague and does not directly address the core arguments made by the participants. It lacks the specificity needed to effectively guide the conversation or determine the correct side based on common morality and fairness principles.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the nature of the conversation and encourages focus on ideas rather than personal attacks. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

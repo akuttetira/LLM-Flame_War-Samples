@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the debate around censorship on social media. It acknowledges the argument that platforms have a responsibility to limit hate speech and protect vulnerable groups, which is a key point in the conversation. It also addresses the counterargument that censorship is inherently bad or only permissible by the government, which is a common point of contention. The mediation correctly identifies that the responsibility of platforms to moderate content is a nuanced issue, and that the claim that censorship is only permissible by the government is weaker. The reasoning is sound and aligns with common moral and fairness principles. The mediation does not take an extreme position but rather offers a reasoned judgment that reflects the complexity of the issue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more productive discussion about free speech and censorship. It acknowledges the complexity of the issue and suggests exploring gray areas and specific examples. However, it is somewhat vague and does not directly address the core of the disagreement between the sides. While it is relevant to the conversation and has a moderate chance of guiding positive dialogue, it lacks the specificity needed to effectively steer the discussion forward. The message is natural in context but could have been more direct in its guidance.",
+        "score": 3
+    }
+}

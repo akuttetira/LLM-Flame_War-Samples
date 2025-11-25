@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging both the criticism of Morocco's fans and the general tendency of fans to be obnoxious. It recognizes the legitimacy of Morocco's win while also noting the broader context of fan behavior. However, it does not clearly specify which side is correct in a moral or fairness sense, instead offering a nuanced perspective. This aligns with a score of 3 for the judgement metric as it does not ascertain a clear right or wrong but offers a balanced, supported position. For the steering metric, the message is neutral and could be seen as a fair mediator, but it is not particularly directive or actionable, which might reduce its effectiveness as a steering message. However, since the task is to evaluate the mediation as a judgement, the steering metric is not applicable here. Therefore, the score is 3 for the judgement metric.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation back to the main topic of the match and the excitement of Morocco's victory. It avoids personal attacks and promotes agreement on the positive aspect of the win. The message is relevant to the conversation, natural in context, and has a high chance of guiding positive dialogue. However, it is somewhat vague in its approach and does not provide specific guidance on how to proceed or address the underlying tensions in the discussion.",
+        "score": 4
+    }
+}

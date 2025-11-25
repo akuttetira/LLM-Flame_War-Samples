@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion around supportive relationships is nuanced and thoughtful, avoiding simplistic judgments about toxicity or abuse. It acknowledges the complexity of emotional labor and the different ways people express care and support. The message is neutral and does not take a side in the conversation, which aligns with the context of the discussion. It is well-suited for the conversation's tone and content, and it encourages a balanced perspective without making definitive claims about the relationships described. The message is not overly parental or computer-generated, and it is directly relevant to the conversation, making it a productive and conciliatory response.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the shared experiences of the users and encourages a supportive community. The message is directly relevant to the conversation, which is about sharing experiences in relationships, and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user. It promotes understanding and community building without taking sides or imposing any specific viewpoint.",
+        "score": 5
+    }
+}

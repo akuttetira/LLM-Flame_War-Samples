@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge which side is correct based on the conversation. The user (suyashsngh250) expresses frustration with Bloodborne's design, including lack of checkpoints, confusing level design, and poor gameplay compared to Nioh. The other user (ThisIsHonestlyHard) responds with dismissive comments, calling the other person's criticism 'trash' and suggesting they 'try again.' The mediation concludes that the frustrated user is more in the right than the dismissive one. However, the mediation does not provide strong, objective support for the user's position. While the user's criticism of Bloodborne's design is valid, the mediation fails to acknowledge that the other user's response was also dismissive and potentially unconstructive. The judgement is not fully supported by the conversation's context and lacks a clear, neutral stance. The mediation is somewhat fair but lacks the depth and objectivity needed for a 5. It is more of a 3, as it attempts to judge but does not fully back up its position with the conversation's content.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the differing experiences and shifts the focus to sharing favorite parts or strategies, which can guide positive dialogue. The message is natural in context and could conceivably be written by a user. It addresses the tension between the two users without taking sides, promoting a more collaborative and constructive conversation.",
+        "score": 5
+    }
+}

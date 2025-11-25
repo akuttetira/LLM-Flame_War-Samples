@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the claim of referee bias is more defensible than the assertion that Di Maria's dive was an obvious one. It acknowledges the complexity of the situation and provides a balanced perspective by distinguishing between two claims. However, it does not fully engage with the arguments on both sides or provide a clear judgment on the overall fairness of the match. This fits a score of 3, as it offers some nuance but lacks strong, clear supporting arguments for its position.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a more balanced discussion by acknowledging the complexity of the situation. It suggests a constructive approach by focusing on a combination of factors, which is relevant to the conversation. However, it is somewhat generic and could be more specific in guiding the discussion towards a more productive direction. This aligns with a score of 3.",
+        "score": 3
+    }
+}

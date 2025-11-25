@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that acknowledges the husband's anger but emphasizes the importance of taking responsibility for one's actions. It correctly identifies that blaming the husband's anger as a valid reaction is less justifiable than holding him accountable for his behavior. The argument is reasonable and aligns with common morality and fairness principles. However, the judgment is somewhat vague in specifying exactly which side is more correct and could have been more detailed in supporting its position. Overall, it is a fair and reasonable judgment with solid backing arguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and aims to shift the focus from blame to constructive dialogue. It suggests a productive direction by encouraging the discussion of managing anger in a healthy way. The message is relevant to the conversation, natural in context, and has a high chance of guiding positive dialogue. However, it is somewhat vague in its specific suggestions and does not provide concrete strategies, which could be improved. Overall, it scores well on the steering metrics but could be slightly higher if it offered more actionable advice.",
+        "score": 4
+    }
+}

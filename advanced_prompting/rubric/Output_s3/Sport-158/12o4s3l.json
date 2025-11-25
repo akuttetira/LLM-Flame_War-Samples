@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the value of the goal while recognizing the team's overall performance. It avoids a simplistic 'right vs. wrong' determination and instead offers a balanced perspective. The argument is reasonable and aligns with common fairness principles by not dismissing the goal entirely but also not ignoring the team's loss. However, it does not clearly specify which side is correct in a definitive manner, which slightly reduces its score. The judgment is supported by the context of the conversation, where the focus is on the goal's quality rather than the team's overall performance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus back to the specific topic of the goal, which is the central point of the original conversation. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message avoids taking sides and encourages a more focused discussion, which is appropriate given the mixed nature of the original conversation.",
+        "score": 5
+    }
+}

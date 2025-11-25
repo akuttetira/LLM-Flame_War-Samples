@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the validity of the perspective that a father's assumption of embarrassment may stem from his own upbringing and lack of emotional support, which is a nuanced and empathetic interpretation. However, it does not clearly state which side is more in the right and provides only a partial argument. This fits a score of 3, as it offers some support but lacks a clear determination of right and wrong.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages personal reflection, which can help foster understanding. It is relevant to the conversation about parental perceptions and individual differences. However, it is somewhat generic and lacks specificity in how it ties back to the original discussion. This makes it slightly less natural and effective than a 5, fitting a score of 3.",
+        "score": 3
+    }
+}

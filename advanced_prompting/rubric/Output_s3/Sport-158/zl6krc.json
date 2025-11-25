@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges the nuanced debate around the goal's simplicity and the use of adjectives. It recognizes that both sides have valid points: one emphasizes the difficulty of the play given Messi's age and the context of the match, while the other points out that the goal may seem simple but requires skill. The mediation avoids taking a clear stance on which side is correct, which aligns with the complexity of the issue. However, it could have been more specific in explaining why both perspectives are valid, but overall, it provides a balanced and fair assessment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and attempts to steer the conversation towards a more positive and respectful direction. It acknowledges the admiration for Messi and the goal, which is appropriate given the context of the conversation. The message also suggests shifting the focus to the nuances of language and sports commentary, which is a productive way to redirect the discussion. However, the message is somewhat vague in its suggestion and does not provide specific guidance on how to move forward. It is natural in context but could be more concrete in its approach. The message does not take a strong stance on the debate but instead encourages a more positive and respectful dialogue, which aligns with the goal of mediation.",
+        "score": 4
+    }
+}

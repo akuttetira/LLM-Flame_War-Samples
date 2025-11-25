@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a clear judgment that the person expressing genuine remorse and respect for Ronaldo's loss is more in the right. This judgment is based on the content of the conversation, where one participant shows empathy and respect, while the other makes a hurtful and baseless accusation. The judgment is supported by the context of the conversation and aligns with common moral and fairness principles. However, the mediation could have been more neutral or provided more context about the accusations made, but overall, it correctly identifies the more appropriate response.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to create a supportive environment for the participants. It acknowledges the emotional weight of the conversation and encourages open sharing. However, it is somewhat vague and does not directly address the specific issues raised in the conversation. The message is natural in context but lacks specificity in guiding the dialogue forward. It is productive in intent but could be more targeted to effectively steer the conversation towards resolution.",
+        "score": 4
+    }
+}

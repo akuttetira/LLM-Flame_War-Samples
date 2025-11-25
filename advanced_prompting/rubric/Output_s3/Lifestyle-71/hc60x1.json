@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the core issue in the conversation: the unfair judgment and shaming of individuals for their hobbies, especially those perceived as feminine. It acknowledges the valid concern that hobbies like planner use, Disneybounding, and reborn dolls are often criticized without understanding the personal value they provide to individuals. The mediation also recognizes that while some hobbies may seem unusual to outsiders, they are not inherently problematic if they do not harm others. The judgement is neutral and does not take a side in the debate between the value of hobbies versus the need for social acceptance, which aligns with the conversation's context. The reasoning is sound and supports the idea that the criticism of hobbies is more problematic than the hobbies themselves.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to foster positive dialogue by emphasizing the value of individual hobbies and interests. It acknowledges the diversity of hobbies and suggests a more constructive approach to discussing them. However, the message is somewhat vague and lacks specific guidance on how to move forward in the conversation. While it is natural in context and has a high chance of guiding positive dialogue, it does not provide clear direction or actionable steps for the participants. Therefore, it deserves a 4 in the steering metric as it is conciliatory and relevant but could be more specific.",
+        "score": 4
+    }
+}

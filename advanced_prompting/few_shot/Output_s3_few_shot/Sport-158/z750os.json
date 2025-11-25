@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation does not clearly determine which side is more in the right regarding the World Cup match background. It only acknowledges that the discussion is more nuanced than the initial claim, but does not provide a clear judgment or supporting arguments. This fits a score of 2, as it fails to correctly determine which side is in the right and lacks strong support.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the group to focus on the positive aspect of friendship and football, which aligns with the shared goal of the conversation. It shifts the focus away from the specific match debate and invites a more constructive and personal reflection. While it is slightly generic, it is still relevant and has a good chance of guiding positive dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

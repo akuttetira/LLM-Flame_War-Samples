@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the critique of Germany's performance as a strawman and challenges the simplistic view that they should have focused more on football. It provides a nuanced analysis of the situation, pointing out the oversimplification of the argument. This fits well with a score of 4, as it addresses the core issue with reasonable arguments and nuance, though it could have been more explicit in its judgment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, guiding the conversation away from politics and toward the actual performance and strategies of the teams. It offers a constructive direction by suggesting a focus on learning from successful teams, which is likely to encourage more positive and productive dialogue. While it is slightly generic, it still feels natural and has a good chance of improving the conversation. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

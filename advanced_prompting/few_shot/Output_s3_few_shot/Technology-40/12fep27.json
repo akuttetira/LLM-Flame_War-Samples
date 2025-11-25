@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge who is more in the right by criticizing the person who uses sarcasm and insults. However, it does not provide clear or strong arguments to support this conclusion. The reasoning is somewhat vague and does not fully engage with the nuances of the conversation. This fits a mid-level score where there is some judgment but weak support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the defensive tone and suggests focusing on the original post's content, which is a constructive and relevant approach. It is conciliatory and aims to guide the conversation back to the main topic. However, it is somewhat generic and could feel more like a generic mediation script rather than a natural, context-specific response. This fits a score of 4 as it is effective in guiding the conversation but has some generic qualities.",
+        "score": 4
+    }
+}

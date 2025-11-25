@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view that acknowledges the right to make informed health decisions and expresses opinions about vaccines. It does not take a definitive stance on which side is entirely correct but emphasizes the importance of respecting individual choices. However, the mediation could be more specific in addressing the context of the conversation, which involves family dynamics and potential misinformation. The message is generally neutral and respectful, but it could be more directly relevant to the specific issues raised in the conversation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It encourages respectful disagreement and sets clear boundaries for respectful dialogue. The message is directly relevant to the conversation, which involves heated discussions about vaccination, family dynamics, and anti-vaxx beliefs. The message is natural in context and could conceivably be written by a user. It guides positive dialogue by emphasizing civility and focus on the topic.",
+        "score": 5
+    }
+}

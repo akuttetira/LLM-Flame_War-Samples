@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for Mussolini's right-wing affiliation being relevant to Rangers is more defensible than the personal attacks and mischaracterizations of Scottish politics. It acknowledges the validity of the political alignment argument while criticizing the disrespectful and inaccurate statements. This fits a high score as it clearly addresses the core issue and provides a balanced assessment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and focuses on the football aspect, which is relevant to the conversation. It aims to redirect the discussion away from political labels and toward a more constructive topic. However, it is somewhat generic and does not directly address the specific points of contention between the users. This fits a score of 3 as it is conciliatory but lacks the specificity and natural tone needed for a higher score.",
+        "score": 3
+    }
+}

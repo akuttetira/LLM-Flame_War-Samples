@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly claims that the people questioning God's love and morality are more in the right. The conversation involves complex theological debates and interpretations of biblical texts, with both sides presenting arguments that can be seen as flawed or misinterpreted. The mediation does not provide strong, clear arguments to support its position, and it fails to acknowledge the nuanced nature of the discussion. This fits with a score of 2, as it does not correctly determine which side is in the right and lacks strong supporting arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging participants to focus on the actual texts and ideas rather than personal attacks. It acknowledges the heated tone and offers a constructive direction for the discussion. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

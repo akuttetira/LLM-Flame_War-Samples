@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that acknowledges the concern about referee impartiality due to potential corruption, which aligns with common principles of fairness and morality. It correctly identifies the more compelling argument regarding the referee's potential bias and external influences. However, it does not fully resolve the underlying issue of corruption or provide a clear, unambiguous conclusion. The judgment is somewhat neutral but lacks detailed backing arguments to fully justify its position. As a steering message, it is conciliatory and relevant, aiming to guide the conversation towards addressing the core issue of fairness in the game. It is natural in context and could conceivably be written by a user.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation back to the main topic of the game while acknowledging the broader implications of corruption. It is relevant to the conversation and provides a natural way to transition between discussing the game and the ethical issues raised. The message is not overly parental or generated, and it encourages a productive dialogue by focusing on the game while leaving room for discussion on the broader topic. However, it is somewhat vague in its guidance and does not explicitly address the specific concerns raised by the users. It is a balanced approach that maintains neutrality and encourages continued discussion.",
+        "score": 4
+    }
+}

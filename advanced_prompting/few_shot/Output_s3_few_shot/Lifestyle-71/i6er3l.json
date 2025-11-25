@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who apologized and acknowledged the OP's age and situation is more in the right. It provides a clear judgment based on the context of the situation, recognizing the OP's vulnerability and the inappropriate nature of the dismissive comment. This fits the criteria for a 5, as it correctly ascertains which side is in the right and clearly backs up its position with relevant arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on supporting the OP, which is appropriate given the context. It acknowledges the severity of the situation and encourages consideration of the OP's age, which is a key point in the conversation. While it is somewhat generic and could come off as overly polite, it is still relevant and has a good chance of guiding positive dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

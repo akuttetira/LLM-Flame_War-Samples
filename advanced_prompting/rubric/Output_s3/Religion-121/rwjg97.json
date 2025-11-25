@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around the definition of 'faith' and its relationship to evidence. It acknowledges the nuanced debate between faith as trust based on evidence and blind faith, which is a fair and balanced assessment of the conversation. The mediation does not take a definitive stance on which side is entirely correct but instead recognizes the complexity of the issue, which aligns with the common morality and fairness principles. The judgement is well-supported by the conversation's content, where both sides present valid arguments about the definition and utility of faith. The score reflects a fair assessment of the debate without overstepping into a definitive conclusion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion and proposes a collaborative approach to find common ground. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message encourages a nuanced discussion about the role of evidence in faith, which aligns with the participants' positions and fosters a constructive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the individuals defending Trainmanthe3rd and mocking the original poster are more in the right. This judgment is based on the argument that the person who brought up Sabaton in an unrelated and inflammatory way is the one being mocked. The reasoning is somewhat logical but lacks detailed support for why the defense of Trainmanthe3rd is more justified. The judgment does not clearly define a moral or fairness-based standard but rather focuses on the context of the conversation. While the judgment is somewhat reasonable, it does not fully back up its position with clear moral or fairness principles, which limits its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of off-topic discussions and personal attacks, encouraging a more civil and focused conversation. The message is natural in context and would be appropriate for a user to generate, as it aims to guide the conversation back to the main topic without being overly prescriptive or dismissive. It effectively promotes a respectful and constructive dialogue.",
+        "score": 5
+    }
+}

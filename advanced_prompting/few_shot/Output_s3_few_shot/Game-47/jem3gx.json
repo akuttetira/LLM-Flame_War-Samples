@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals criticizing the OP for lacking effort are more in the right than those who are overly aggressive and dismissive. It acknowledges the validity of the criticism while contrasting it with the more harsh responses. The argument is clear and backed by the context of the conversation, making this a strong judgment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the situation, as it addresses the tone of the comments and suggests a more positive approach. It invites the participants to be kinder, which is a natural and constructive direction for the conversation. However, it is somewhat generic and could come off as overly prescriptive or artificial. This fits a score of 4 as it is effective in guiding the conversation toward a more positive direction.",
+        "score": 4
+    }
+}

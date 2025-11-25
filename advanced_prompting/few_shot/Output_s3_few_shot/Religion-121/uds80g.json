@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation does not clearly determine which side is more in the right. It merely states that the argument for divine justification is more problematic, which is a vague and unconvincing conclusion. The mediation lacks strong arguments or clear reasoning to support its position, making it a mid-level judgment. This fits a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and acknowledges the sensitivity of the topic. It encourages the participants to focus on specific points rather than attacking each other's beliefs, which is relevant to the conversation. However, it is somewhat generic and could sound more like a generic mediator than a natural response. It has a good chance of guiding positive dialogue but is not as natural or tailored as a 5. This aligns with a score of 4.",
+        "score": 4
+    }
+}

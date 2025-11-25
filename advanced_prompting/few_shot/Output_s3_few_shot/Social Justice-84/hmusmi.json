@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the discussion, recognizing that both sides have valid points. However, it still leans towards the latter's behavior (downvoting and briding) being more concerning, which is a partial judgment. It provides some nuance but does not fully address the ethical implications or provide strong, clear arguments for its position. This fits a score of 3, as it offers some insight but lacks the clarity and strength needed for a 4 or 5.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, asking for specific examples to guide the discussion. It encourages factual dialogue and avoids emotional language, which is appropriate for the context. However, it is somewhat generic and could be more tailored to the specific claims made in the conversation. This fits a score of 4 as it is effective in guiding constructive dialogue but could be more natural or specific.",
+        "score": 4
+    }
+}

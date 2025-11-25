@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that favors the argument about emotional maturity. It acknowledges the sentiment of the original comment about the son's support and contrasts it with the criticism of the situation being 'pathetic' or 'bitter'. The judgment is somewhat nuanced, recognizing the emotional depth of the moment. However, it lacks detailed support for why emotional maturity is the more compelling argument, and it doesn't fully address the counterpoint about the son's age and the context of supporting a professional athlete. The judgment is clear but not deeply substantiated.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more positive direction. It acknowledges the sweet moment of a child supporting a professional athlete and encourages focusing on the positive emotions. The message is relevant to the conversation and has a good chance of guiding positive dialogue. However, it is somewhat vague in its approach and does not directly address the underlying criticisms or provide a more nuanced perspective. The tone is natural and could conceivably be written by a user, but it lacks the specificity needed for a 5. Overall, it scores a 4 on the steering metric because it is productive and relevant but could be more direct in its guidance.",
+        "score": 4
+    }
+}

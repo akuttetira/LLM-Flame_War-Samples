@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that acknowledges the validity of both sides but leans towards the perspective of those accusing the company of intentional comment deletion. This aligns with common fairness principles by recognizing the concern of the user who feels their comment was removed, while also addressing the counterargument about YouTube glitches. The judgement is reasonable and grounded in the context of the conversation, though it does not fully neutralize the debate. It offers a balanced view but with a slight tilt towards the accuser's side, which is acceptable given the context.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and productive. It acknowledges the frustration of losing a comment without jumping to conclusions, and it redirects the conversation towards discussing possible solutions. The message is directly relevant to the conversation and naturally fits the context of the discussion. It avoids taking sides and encourages a more constructive dialogue, which is appropriate for a mediation role.",
+        "score": 5
+    }
+}

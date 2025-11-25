@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the US dominates many sports, particularly in the Olympics, which is more convincing than the claim that it doesn\u2019t dominate most of the world\u2019s sports. The judgment acknowledges the complexity of the debate, recognizing that the US does dominate some sports like basketball, baseball, and hockey, but also points out that it does not dominate others like football, cricket, and rugby. The argument is balanced and acknowledges the counterpoints made by the other side. However, the judgment does not fully resolve the debate, as the conversation highlights the nuances of 'domination' and the context of different sports. The supporting arguments are reasonable but not exhaustive, and the judgment is somewhat neutral rather than definitively stating one side as correct.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the tension in the conversation and suggests a more constructive direction by focusing on specific sports and their global popularity. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively steers the conversation towards a more neutral and factual discussion without taking sides or making strong assertions.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that drawing parallels between historical colonialism and a soccer match is more inflammatory and divisive than insightful. This judgment aligns with common morality and fairness principles by emphasizing the importance of not conflating sports events with historical grievances. The argument is well-supported by the context of the conversation, where users are discussing the potential political implications of a soccer match. The mediation does not take a neutral position but rather asserts that the type of argument being made is more harmful than constructive. The reasoning is clear and relevant to the discussion, making it a fair and effective judgment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the potential for heated discussion but redirects the conversation towards the actual game rather than historical or political baggage. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively encourages a more focused and respectful discussion about the soccer match itself, rather than getting drawn into political or historical comparisons.",
+        "score": 5
+    }
+}

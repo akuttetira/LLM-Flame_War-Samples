@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that aligns with common morality and fairness principles. It acknowledges the validity of concerns raised by users about Reddit's moderation practices and the historical actions of Steve Huffman. The judgment correctly identifies the side that is more in the right based on the context of the conversation, which focuses on systemic issues of racism, trolling, and poor moderation on Reddit. The argument is supported by the experiences and statements of multiple users in the conversation, which highlight the real-world impact of these issues. However, the mediation does not fully explore the complexity of Steve Huffman's current stance or the potential nuances of his past actions. Overall, the judgment is well-supported and aligns with the principles of fairness and morality.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the desire for a safer, more respectful community and suggests focusing on specific examples of problematic behavior rather than getting bogged down in debates about irony or sincerity. This approach is directly relevant to the conversation, which centers around toxic behavior on Reddit, and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user, making it a effective steering message.",
+        "score": 5
+    }
+}

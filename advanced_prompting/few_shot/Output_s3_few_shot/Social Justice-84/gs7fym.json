@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals pointing out the hypocrisy and inaccuracies in the accusations against AHS are more in the right. It clearly states that the other side is spreading baseless conspiracy theories and accusations of brigading, which aligns with the content of the conversation. The argument is supported by specific examples from the conversation, such as the fake conversation and the accusation of brigading. This fits a high score as it accurately determines who is in the right and provides strong supporting arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the participants to focus on sharing evidence of problematic behavior rather than accusing others. It addresses the core issue of hate and harassment while promoting a more constructive approach. However, it is somewhat generic and could feel more like a standard moderation guideline than a tailored response to the specific context. This aligns with a score of 4.",
+        "score": 4
+    }
+}

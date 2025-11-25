@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the apology from 'adollarmight' is more in line with fairness and morality, as it acknowledges the OP's age and situation, showing empathy and responsibility. The other comment is dismissive and hurtful, which is not in line with fair treatment. The judgement is clear and backed by the context of the situation, making it a fair and correct assessment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the situation by focusing on supporting the OP and acknowledging the severity of the situation. It avoids personal attacks and encourages learning from the experience. However, it is somewhat vague in its guidance and does not directly address the specific issues raised in the conversation. The message is natural in context but could have been more specific in guiding the conversation towards a constructive direction. It scores a 4 on the steering metric because it is conciliatory and relevant, but lacks the specificity needed for a 5.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the second response, which points out eBay sellers as the real victims, is more reasonable and fair compared to the first response, which uses a personal attack. The judgement acknowledges the validity of the second argument while criticizing the first for being disrespectful. The reasoning is sound and aligns with common morality and fairness principles. The message is clear and specifies a correct side with strong supporting arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the need for civility in the discussion and encourages a constructive conversation about the PS5 launch. The message is natural in context and could conceivably be written by a user, as it acknowledges the tension in the conversation without taking sides. It guides the dialogue towards a more respectful and informative direction, which is appropriate for the situation.",
+        "score": 5
+    }
+}

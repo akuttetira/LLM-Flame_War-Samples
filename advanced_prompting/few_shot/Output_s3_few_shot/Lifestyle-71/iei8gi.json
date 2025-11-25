@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that treating children with respect and kindness is more defensible than blaming all parents who give orders. It acknowledges the importance of respecting children's autonomy and dignity, which aligns with common moral standards. However, it does not clearly state that the view of treating children as servants is more wrong, nor does it provide strong arguments to support this position. This fits a mid-level score where there is some correct insight but lacks clear determination and strong support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging participants to share strategies for teaching manners and respect. It invites constructive dialogue and acknowledges the shared goal of improving communication with children. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individual who raised concerns about Louis Rossmann's community and attempted to engage in a constructive conversation is more in the right. This is supported by the context of the discussion, where the other side dismissed concerns and resorted to personal attacks. The mediation provides a clear judgment based on the arguments presented and the tone of the conversation. This fits well with a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation encourages a focus on facts and the impact of Louis' content rather than personal attacks, which is relevant and constructive. It acknowledges the complexity of the situation and invites a more objective discussion. However, it is somewhat generic and could come off as too neutral or AI-generated, which slightly reduces its effectiveness in guiding positive dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

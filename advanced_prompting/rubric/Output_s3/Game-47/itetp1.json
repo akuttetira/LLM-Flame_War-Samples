@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that acknowledges the complexity of stock market movements, distinguishing between natural market fluctuations and deliberate manipulation. It correctly identifies that the stock price drop is more likely due to market fluctuations rather than a deliberate attempt by Sony to manipulate the market. The argument is reasonable and aligns with common financial principles, though it doesn't fully resolve the debate between market speculation and corporate strategy. The judgement is neutral and backed by logical reasoning, making it a fair assessment of the situation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the need for civility and focuses on staying factual and focused on the news rather than speculation or rumors. The message is natural in context and would be appropriate for guiding positive dialogue in this discussion. It encourages respectful debate while maintaining a neutral and constructive tone.",
+        "score": 5
+    }
+}

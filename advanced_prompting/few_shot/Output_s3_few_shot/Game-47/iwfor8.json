@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the concern about eBay scalpers and fake bids is a valid issue in the current market, while the blanket claim that everyone needs the latest GPU is less defensible. It provides a nuanced judgment that acknowledges the validity of one side's argument while critiquing the overgeneralization of the other. This fits a score of 4 as it offers a clear, supported judgment with reasonable nuance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the group to focus on practical discussions about game performance and hardware bottlenecks. It avoids taking sides and invites a constructive dialogue about specific scenarios and technical considerations. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

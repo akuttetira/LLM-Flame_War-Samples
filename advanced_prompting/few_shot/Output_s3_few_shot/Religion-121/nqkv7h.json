@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly identifies the person who initiated the discussion and gave up as 'more in the right' without providing any clear evidence or reasoning. It fails to address the complex and nuanced arguments presented by both sides and instead makes an arbitrary judgment based on who stopped participating. This is a weak and unfounded judgment that does not reflect the actual content or context of the conversation.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and acknowledges that the conversation might not be productive, which is relevant to the ongoing debate. It invites reflection on the discussion's purpose, which could help guide the conversation toward more constructive directions. However, it is somewhat generic and lacks specific suggestions for moving forward, which reduces its effectiveness. This aligns with a score of 3.",
+        "score": 3
+    }
+}

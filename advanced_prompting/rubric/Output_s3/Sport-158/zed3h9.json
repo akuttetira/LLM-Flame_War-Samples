@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument emphasizing Morocco's team skill and dedication is more defensible than the blanket claim about all Moroccan fans. It acknowledges the complexity of the situation by distinguishing between the team's performance and the actions of individual fans. The judgement is nuanced and avoids oversimplification, which is appropriate given the context of the conversation. However, it does not explicitly take a stance on whether the violence is solely due to ethnicity or other factors, which could be seen as a slight lack of specificity. Overall, the judgement is fair and grounded in the discussion, making it a 4 in the Judgement Metrics.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion for football while encouraging a separation of the sport from generalized assumptions about people's backgrounds. The message is directly relevant to the conversation, which revolves around football-related riots and stereotypes. It is natural in context and could conceivably be written by a user aiming to de-escalate tensions. The message effectively steers the conversation towards a more constructive and respectful dialogue by emphasizing the importance of not generalizing groups based on their association with a sport.",
+        "score": 5
+    }
+}

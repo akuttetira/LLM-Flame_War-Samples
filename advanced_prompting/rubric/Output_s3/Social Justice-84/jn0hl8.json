@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the subreddit's content while recognizing that not all conspiracy subreddits are inherently bad. It correctly identifies that a blanket claim of /r/conspiracy being a 'cesspool' is overly simplistic and that some subreddits, like /r/actualconspiracies, aim for fact-based discussion. This reflects a fair and balanced assessment based on the conversation's context, avoiding a one-sided judgment. The reasoning is supported by the discussion in the conversation, where multiple users mention the sub's problematic nature but also acknowledge that not all conspiracy subreddits are the same. The judgment is neutral and well-reasoned, though it does not explicitly declare one side as entirely correct or incorrect, which is appropriate given the complexity of the issue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and attempts to foster understanding between the parties. It acknowledges the complexity of the discussion around conspiracy theories and emphasizes the shared goal of seeking truth. However, it is somewhat vague and does not directly address the specific concerns raised in the conversation, such as the sub's history of racism and political extremism. While it is natural in tone and has a moderate chance of guiding positive dialogue, it lacks the specificity needed to effectively steer the conversation towards a more productive direction.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a balanced view by acknowledging the complexity of the situation and the need for evidence rather than making a definitive judgment. It avoids taking sides and instead highlights the importance of evidence in determining whether the hangings were intentional or not. This approach is fair and neutral, allowing for further discussion based on facts rather than assumptions. However, it does not clearly specify a correct side or a neutral position with strong backing arguments, which slightly reduces its score in the judgement metrics.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation output is a steering message that encourages the conversation to focus on facts and investigation rather than speculation. It is neutral, avoids taking sides, and promotes a constructive approach by suggesting the sharing of credible sources. The message is relevant to the conversation, as the discussion revolves around a sensitive and potentially controversial topic. It is naturally phrased and would be appropriate in the context of a mediation attempt. The message does not take a strong stance but instead guides the conversation towards more objective and evidence-based discussion. However, it could be more specific in suggesting how to proceed with credible sources or updates, but overall, it is effective in steering the conversation towards a more constructive direction.",
+        "score": 4
+    }
+}

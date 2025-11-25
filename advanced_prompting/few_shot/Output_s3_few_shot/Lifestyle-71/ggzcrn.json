@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who connected their personal experience to the broader cultural issue of materialism is more in the right, as their argument is more nuanced and acknowledges the complex interplay between personal experiences and cultural norms. The other side dismissed the concerns as dramatic, which is less supportive and fails to engage with the underlying issue. This fits a score of 4 because the judgement is correct but could have provided stronger support for the argument made by the first side.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the discussion, encouraging a focus on supporting OP and acknowledging the complexity of their feelings. It addresses the tension between personal experiences and the broader context of the conversation, which is appropriate given the heated exchange. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

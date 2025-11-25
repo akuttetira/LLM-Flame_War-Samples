@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the criticism of LMG's handling of workplace issues and their prioritization of profit over employee well-being. It correctly identifies that the criticism is more justified than the dismissive attitude towards the situation. The judgment is supported by the arguments presented in the conversation, which highlight issues of workplace harassment, anti-worker practices, and the company's response to these issues. The mediation does not take an absolute stance but rather acknowledges the validity of the criticism while not fully endorsing the dismissive attitude. However, the judgment is somewhat vague in its specific arguments and does not fully elaborate on why the criticism is more justified.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more constructive focus. It acknowledges the community's passion and suggests a shift towards supporting victims and advocating for better workplace practices. This approach is relevant to the conversation and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user. However, it is somewhat vague in its specific recommendations and does not directly address the core issues discussed in the conversation. It avoids taking a strong stance but encourages a more supportive and advocacy-focused discussion.",
+        "score": 4
+    }
+}

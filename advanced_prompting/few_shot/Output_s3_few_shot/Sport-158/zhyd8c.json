@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge the complexity of the issue by suggesting that the person questioning the haramness of celebrating with music and dance is more in the right. However, it fails to provide a clear, morally grounded argument for why the celebration is not haram, and it does not address the religious perspective that music and dance may be considered haram in certain interpretations of Islamic tradition. The reasoning is somewhat vague and lacks the nuance needed for a strong judgement, which is why it receives a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages mutual understanding, which is relevant to the discussion about religious practices and beliefs. It invites the participants to learn from each other and avoid assumptions, which could guide positive dialogue. However, it is somewhat generic and could come off as overly polite or generic, especially given the context of the conversation. This aligns with a score of 4.",
+        "score": 4
+    }
+}

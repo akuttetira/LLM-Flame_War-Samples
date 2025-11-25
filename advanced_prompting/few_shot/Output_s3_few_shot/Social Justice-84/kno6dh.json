@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the meme being more focused on mocking the police rather than Floyd himself is more reasonable than the opposing view. It acknowledges the nuance in the discussion and provides a clear judgment based on the content of the conversation. This fits a 4 because the reasoning is sound but could be slightly more detailed in supporting arguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the core issue by distinguishing between making fun of the police and making fun of Floyd\u2019s death, which aligns with the participants\u2019 discussion. It encourages a focused, constructive dialogue about the specific meme in question. The message is clear, relevant, and directly ties into the conversation, making it a strong steering message. However, it is somewhat generic and could be more naturally phrased as a human response. This fits a score of 4.",
+        "score": 4
+    }
+}

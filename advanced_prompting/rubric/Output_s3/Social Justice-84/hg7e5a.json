@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a balanced and nuanced perspective, acknowledging the complexity of the situation without taking a clear side. It recognizes that the creation of ActualPublicFreakouts was in response to perceived censorship on PublicFreakouts, and that the accusations of racism and selective moderation are not straightforward. The output avoids simplistic judgments and instead encourages a more nuanced understanding of the issue. However, it does not provide a clear judgment on which side is correct, which is acceptable given the complexity of the topic. The message is neutral and does not attempt to impose a particular viewpoint, which aligns with the goal of mediation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more constructive direction by focusing on facts and rules. It acknowledges the tension in the discussion and encourages a collaborative approach to improve the sub. However, it is somewhat vague in specific guidance and does not directly address the core issues of moderation practices or the sub's purpose. The message is natural in context but lacks specific actionable steps to guide the conversation effectively.",
+        "score": 4
+    }
+}

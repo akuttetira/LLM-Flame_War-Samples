@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the criticism of Apple's business practices is more justified than the personal attacks on its customers. It provides a nuanced assessment that acknowledges the validity of the critique while also pointing out the unfairness of attacking individuals. This fits a high score as it clearly states which side is more in the right and supports the position with relevant reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging respectful disagreement while focusing on alternatives. It avoids personal attacks and invites constructive dialogue about alternatives. While it is slightly generic and could be seen as somewhat AI-generated, it is still natural and has a good chance of improving the conversation. This aligns with a score of 4.",
+        "score": 4
+    }
+}

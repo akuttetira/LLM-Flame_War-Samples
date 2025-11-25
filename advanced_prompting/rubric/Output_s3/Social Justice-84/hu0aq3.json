@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the futility of engaging with harassment brigades and suggests that deplatforming is more effective. It correctly identifies that engaging with such groups can be counterproductive and even rewarding for the harassers, as evidenced by the conversation where users discuss how harassment can be used as a tool to control and manipulate others. The judgment is supported by the discussion on psychological warfare and the effectiveness of deplatforming. However, it does not explicitly state which side is entirely correct but rather offers a balanced view based on the conversation's context. The judgment is fair and based on the principles of fairness and common morality, making it a 4 in the Judgement Metrics.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and provides a constructive approach to the discussion. It acknowledges the tension between direct confrontation and deplatforming, suggesting a middle ground by focusing on specific behaviors rather than personal attacks. The message is relevant to the conversation, as the discussion revolves around strategies to counter harassment brigades on Discord. It is naturally phrased and could conceivably be written by a user, making it feel genuine and helpful. However, it does not offer a clear judgment on which side is correct, which is appropriate given the context of a steering message. The message is effective in guiding the conversation towards a more constructive direction without taking sides.",
+        "score": 5
+    }
+}

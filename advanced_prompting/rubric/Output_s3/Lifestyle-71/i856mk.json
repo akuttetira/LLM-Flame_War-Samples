@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the user 'fcuk_you69' is more in the wrong for their confrontational and belittling tone towards others' parenting choices, rather than engaging in constructive dialogue. The judgement acknowledges the negative behavior of shaming and belittling, which is a key issue in the conversation. The mediation does not take a neutral position but clearly identifies one side as more at fault based on the behavior described. The supporting argument is reasonable and aligns with common morality and fairness principles. However, the judgement is somewhat vague in specifying exactly what is wrong with the behavior, and it does not provide detailed reasoning for why the behavior is considered wrong. Overall, the judgement is fair and correct but could be more specific in its reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the conflict by encouraging mutual understanding and shared experiences. It avoids taking sides and promotes a collaborative approach, which is appropriate given the heated and personal nature of the conversation. However, it is somewhat vague and does not directly address the specific issues raised in the conversation, such as the debate over parental expectations and the criticism of narcissistic parenting. While it is natural in context and has a decent chance of guiding positive dialogue, it lacks the specificity needed to effectively steer the conversation towards a more constructive direction.",
+        "score": 3
+    }
+}

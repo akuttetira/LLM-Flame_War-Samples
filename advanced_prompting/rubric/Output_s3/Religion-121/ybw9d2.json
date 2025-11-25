@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced perspective on the discussion, acknowledging the complexity of the topic. It suggests that the view of hell as a state of being rather than a place of eternal torment is more defensible. This approach avoids a simple binary judgment and instead offers a balanced view that considers different theological perspectives. However, it does not clearly specify which side is correct, which is a limitation in a judgment type mediation. The message is somewhat neutral and does not take a strong stance, which is appropriate given the complexity of the topic.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the diversity of perspectives and encourages a focus on specific theological concepts rather than assumptions. The message is directly relevant to the conversation, as the discussion involves multiple religious viewpoints and theological debates. It is natural in context and could conceivably be written by a user aiming to facilitate a more constructive dialogue. The message effectively steers the conversation towards a more respectful and informed discussion.",
+        "score": 5
+    }
+}

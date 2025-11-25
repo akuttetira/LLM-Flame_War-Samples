@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person pointing out the lack of Asian representation in Gon\u00e7alo Ramos\u2019s face is more in the right, as their comment is more about observation and less about stereotyping. The other person\u2019s comment is dismissive and irrelevant, which makes the first comment more justified. This fits a 5 score as it clearly ascertains which side is in the right and backs up the position with relevant reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is directly relevant to the conversation, clearly identifies the need to focus on the topic at hand (Gon\u00e7alo Ramos's achievements), and is concise and appropriate for the context. It is not overly generic and feels natural in the situation, though it could be slightly more nuanced. This aligns with a score of 4.",
+        "score": 4
+    }
+}

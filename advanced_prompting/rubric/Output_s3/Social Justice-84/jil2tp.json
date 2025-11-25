@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the group advocating for reporting and taking action against hateful comments is more in the right, as their stance aligns with the principles of combating hate and promoting a safer online environment. The mediation acknowledges the limitations of the reporting system, which shows a balanced and nuanced approach. It does not dismiss the concerns of those who feel the system is ineffective but also does not ignore the need for action. The judgement is supported by the context of the conversation, which highlights the presence of offensive content and the frustration with the reporting process. The message is neutral and does not take a sides, which is appropriate given the complex nature of the issue.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the shared goal of creating a safe space and suggests a collaborative approach to reporting and advocacy. The message is directly relevant to the conversation, which revolves around the ethics of reporting and handling toxic content on Reddit. It is natural in context and could conceivably be written by a user, as it encourages unity and constructive dialogue without taking sides. The message effectively steers the conversation towards a more positive and cooperative direction.",
+        "score": 5
+    }
+}

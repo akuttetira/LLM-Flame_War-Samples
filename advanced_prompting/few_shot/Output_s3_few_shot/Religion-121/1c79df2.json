@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the debate around evolution and the criticism of theists holding atheists to a higher evidential standard. It correctly identifies that the claim about evolution being a fact is more defensible than the blanket assertion of atheist bias. However, it does not fully address the nuanced scientific and philosophical arguments presented in the conversation, and the support for the position is somewhat weak. This fits a score of 3, as it provides a partially supported take without clearly establishing a strong, evidence-based argument.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages focusing on the shared goal of understanding the world, which is relevant to the conversation. It is somewhat generic and could sound a bit like an AI, but it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

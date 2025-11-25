@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges that the debate over Messi's speech is subjective and presents a balanced view by recognizing valid points from both sides. However, it does not clearly determine which side is more in the right or provide strong, specific arguments to support its position. This fits a score of 3, as it offers some nuance but lacks a clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation about Messi's leadership and the team's performance. It shifts the focus back to the main topic of discussion and invites constructive dialogue by asking for opinions on Messi's role. While it is slightly generic and could be more tailored to the specific context, it is still natural and has a good chance of guiding positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that acknowledges the complexity of the argument, recognizing that Croatia's success may be due to strong team play and strategy rather than relying on PKs. It also addresses the criticism of being 'cowardly' by suggesting that the argument for playing to their strengths is more convincing. However, the mediation does not fully resolve the underlying disagreement between the two sides, and the judgment is somewhat vague in terms of specific evidence or reasoning. While it offers a balanced perspective, it does not clearly establish which side is more correct based on common morality and fairness principles.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more constructive direction by focusing on the actual game and team strategies. It avoids taking sides and encourages a discussion about broader themes like team success. The message is natural in context, avoids confrontation, and has a high chance of guiding positive dialogue. However, it is somewhat vague in its specific guidance and does not directly address the underlying tensions in the conversation. It is not overly parental or computer-generated, so it earns a 4 on the steering metric.",
+        "score": 4
+    }
+}

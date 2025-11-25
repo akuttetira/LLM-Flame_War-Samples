@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the argument that Germany's poor performance is due to political focus as a strawman, and critiques the simplistic view that they should have focused more on football. It acknowledges the complexity of the situation without taking a clear side, which aligns with a neutral and nuanced approach. The reasoning is sound and effectively addresses the flawed assumptions in the discussion. However, the mediation does not provide a clear judgment on which side is correct, which is necessary for a full assessment under the judgement metric. The message is neutral and well-reasoned, though it could have been more explicit in its analysis.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the divisive nature of the conversation while redirecting the focus towards the actual game and team strategies. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message avoids taking sides and instead encourages a more constructive discussion about football strategies rather than political or personal attacks.",
+        "score": 5
+    }
+}

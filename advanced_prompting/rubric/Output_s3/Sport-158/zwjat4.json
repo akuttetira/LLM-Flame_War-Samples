@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both perspectives. It recognizes that individual brilliance in goals can be more defensible than dismissing team efforts entirely. However, it does not clearly specify which side is entirely correct, nor does it provide strong, concrete arguments to back up its position. The judgment is balanced but lacks the depth needed to fully resolve the debate. While it is fair and neutral, it does not fully meet the criteria for a 5 in the judgment metric. The message is somewhat conciliatory but could be more directly relevant to the specific arguments being made.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and effectively acknowledges both sides of the debate. It recognizes the value of individual brilliance and team efforts without taking a definitive stance, which aligns with the conversation's focus on balancing personal and team achievements in football goals. The message is naturally phrased and directly relevant to the discussion, making it likely that a user would find it trustworthy and helpful in guiding further dialogue. It avoids being overly prescriptive or dismissive, and instead encourages a balanced perspective that reflects the conversation's tone.",
+        "score": 5
+    }
+}

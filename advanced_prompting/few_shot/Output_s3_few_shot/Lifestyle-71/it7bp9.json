@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who shared their personal experience and acknowledged the pressures of high school is more in the right. This response is fair, acknowledges the OP\u2019s sentiment, and does not dismiss the person\u2019s experience as immature. It provides a nuanced perspective that aligns with common morality and fairness. This fits a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the group to focus on shared emotions like nostalgia, which is relevant to the discussion. It avoids reinforcing negative stereotypes and invites empathy. However, it is somewhat generic and could feel more like a generic AI response rather than a natural, human-like mediation. This fits a score of 4 as it is relevant and constructive but not entirely natural or specific to the conversation.",
+        "score": 4
+    }
+}

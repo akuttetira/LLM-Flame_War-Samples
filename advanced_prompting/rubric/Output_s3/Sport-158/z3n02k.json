@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that acknowledges the validity of the concern about the disparity in income between the player and the reporter. It correctly identifies that the person highlighting the contrast is more in the right, as the concern is about economic disparity, which is a valid point. The judgment is neutral and does not take a side but rather acknowledges the validity of one perspective over the dismissive ones. The reasoning is grounded in fairness and common morality, though it could have provided more specific examples or context to strengthen the argument. Overall, the judgment is well-reasoned and fair.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the disparity mentioned in the conversation and shifts the focus to a broader discussion about sports journalism and player compensation. This approach encourages a more constructive dialogue by redirecting the conversation towards a shared interest rather than personal grievances. The message is natural in context and would be appropriate for a user to generate in this situation.",
+        "score": 5
+    }
+}

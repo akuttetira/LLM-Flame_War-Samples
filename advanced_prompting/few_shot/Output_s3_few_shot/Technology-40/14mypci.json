@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument against Reddit's API changes is more compelling than the industry standard claim. It acknowledges the community's perspective and the specific issues with Reddit's approach, such as the timeline and pricing structure. However, it does not fully address the counterarguments about industry norms or the potential benefits of a paid API model. This makes it a 4, as it provides a nuanced and somewhat supported take but lacks complete clarity and depth.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, as it asks participants to focus on the specific issues related to Apollo and Reddit's API. It avoids generalizing the discussion and encourages a more targeted and constructive dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

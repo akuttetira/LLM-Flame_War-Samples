@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the concern for the child's safety and the criticism of the parents' behavior are more justified than the personal attacks and inflammatory comments. It acknowledges the serious nature of the situation while addressing the inappropriate aspects of the conversation. However, it does not clearly state which side is more in the right in a morally and factually grounded way, and the support for its position is somewhat weak. This fits a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation directly addresses the core issue of the near-fatal accident and potential future harm, which is relevant to the conversation. It also encourages a constructive focus on supporting the child and family, avoiding personal insults. While the message is clear and appropriate, it is somewhat generic and could be more tailored to the specific context of the situation. This fits a score of 4 as it is conciliatory and relevant but not as naturally worded as a 5.",
+        "score": 4
+    }
+}

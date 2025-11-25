@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for necessary gun control measures is more defensible than the blanket rejection of gun control. It acknowledges the complexity of the issue by balancing public safety concerns with individual rights. However, it does not clearly state which side is more in the right and lacks strong, specific arguments to back up its position. This fits a score of 3, as it offers some nuance but does not fully address the core issue with sufficient clarity or support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a more constructive dialogue by focusing on specific examples and facts, which is relevant to the discussion. It also suggests finding common ground, which is a positive approach. However, the message is somewhat generic and could come off as more AI-generated or less natural in context. It has a good chance of guiding positive dialogue but is not as natural or tailored as a 5. This fits with a score of 4.",
+        "score": 4
+    }
+}

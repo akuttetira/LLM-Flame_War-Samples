@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that acknowledges the hypocrisy of the /r/AgainstDegenerateSubs subreddit by pointing out their false accusations and tactics. It correctly identifies that the people criticizing the subreddit for its baseless conspiracy theories and accusations of brigading are in the right. The judgement is fair, based on the context of the conversation, and clearly specifies that the opposing side is wrong. The reasoning is supported by the examples provided in the conversation, such as the fake conversation and the accusation of brigading. The message is concise and directly addresses the issue at hand without being overly verbose or biased.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more constructive direction. It acknowledges the shared goal of removing harmful subreddits and suggests focusing on evidence rather than accusations. However, the message is somewhat vague and does not directly address the specific issues raised in the conversation, such as the false accusations and the use of fake conversations. While it is relevant and natural in context, it lacks specificity and could be more effective by addressing the core concerns more directly. It scores well on neutrality but could be improved in terms of direct relevance and guidance.",
+        "score": 4
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to balance the arguments presented in the conversation. It acknowledges the claim that Maddison's mental health issues may be a result of her own actions, which is a nuanced perspective. However, it also recognizes the claim that LTT management's words and actions were sexist and abusive. The mediation does not clearly determine which side is entirely correct but instead presents a balanced view. The argument that Maddison's mental health issues are a result of her own actions is problematic because it potentially victim-blames her, which is not fair or morally correct. The mediation fails to fully address the evidence presented, such as Maddison's self-harm to get time off work and the specific sexist remarks made by LTT management. The output is somewhat neutral but lacks strong supporting arguments for either side, making it a 3 in terms of judgment. The message is somewhat conciliatory but not very effective in guiding positive dialogue, as it does not directly address the core issues or provide clear direction for the conversation. It is somewhat natural in context but could be more helpful. Therefore, it receives a 3 in terms of steering.",
+        "score": {
+            "judgement": 3,
+            "steering": 3
+        }
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion in the conversation and shifts the focus to the facts and impact on Maddison's well-being. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages a more nuanced discussion about the toxic work environment, which is appropriate given the context of the conversation.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both sides of the argument. It recognizes that Messi's behavior during the match was inappropriate, but also acknowledges the valid point about his age and the team's reliance on him. The judgment is not overly simplistic and attempts to balance the perspectives. However, it does not fully resolve the issue of whether Messi's actions were justified or not, and it does not clearly state which side is entirely correct. The judgment is fair and reasonable but could be more definitive in its conclusion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion of both sides and suggests a more focused approach to the discussion. The message is directly relevant to the conversation, as it addresses the issue of generalizing about Messi's character or abilities. It is natural in context and could conceivably be written by a user aiming to guide the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

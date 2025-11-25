@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals defending the original poster and condemning the troll's behavior are more in the right, as their response aligns with principles of respect and accountability. The argument is clear and directly addresses the ethical stance of the participants. However, the mediation lacks depth in explaining why the troll's behavior is inappropriate or how the defenders' actions are morally justified. This makes it a solid 4, as it correctly identifies the right side but could benefit from more detailed reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to steer the conversation back to the roast itself by suggesting a focus on the jokes rather than the drama. However, it is somewhat generic and lacks the specificity needed to guide constructive dialogue. The reference to '[deleted]' is also problematic as it may not be relevant or accessible to all participants. This fits more closely with a lower score due to its vagueness and potential for misunderstanding.",
+        "score": 2
+    }
+}

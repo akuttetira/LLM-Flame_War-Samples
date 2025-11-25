@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person advocating for leaving a toxic relationship and prioritizing one's own well-being is in the right. The argument is grounded in the principle that victims of abuse should not be expected to remain in harmful situations. The mediation acknowledges the complexity of relationships and the importance of self-respect, which aligns with common morality and fairness principles. However, it could have provided more specific examples or references to the conversation to strengthen its position. The judgement is clear and supported by the context of the discussion, making it a strong 4 in terms of judgement metrics.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more constructive direction. It acknowledges the participants' experiences without taking sides and encourages a discussion on recognizing and supporting people in toxic relationships. The message is relevant to the conversation, natural in context, and has a high chance of guiding positive dialogue. However, it is somewhat vague in its approach and does not directly address the specific concerns raised in the conversation about toxic relationships and the need for support. It could be more specific in its guidance, but overall, it is a reasonable and neutral steering message.",
+        "score": 4
+    }
+}

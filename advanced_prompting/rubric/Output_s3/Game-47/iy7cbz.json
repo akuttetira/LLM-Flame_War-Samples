@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced perspective that acknowledges the complexity of the issue. It correctly identifies that consoles can run games at 4K 60 FPS with optimized settings, which is supported by the conversation where users discuss how consoles are optimized for specific hardware and how PC games can also achieve 4K 60 FPS with reduced settings. The mediation does not take a definitive stance on which side is entirely correct but instead acknowledges the strengths of both platforms. However, it could have been more specific in explaining why consoles are more optimized in this context. The score is a 4 because the mediation correctly ascertains that consoles can run games at 4K 60 FPS with optimized settings, and it has strong supporting arguments, though it does not fully specify a correct side or neutral position with complete confidence.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the differences in optimization between platforms and suggests a collaborative approach to improve gaming experiences. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

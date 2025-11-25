@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the argument about Messi's celebratory gesture being related to potential retirement or personal vendetta is baseless, while the claims of trolling and personal attacks are more credible. The judgment is neutral and does not take a side in the debate, but rather evaluates the validity of the arguments presented. It correctly identifies that the claims about Messi's retirement or vendetta are unfounded, and the other claims are more substantiated. The reasoning is clear and grounded in the context of the conversation, where the user is making personal and potentially offensive remarks. The judgment is fair and does not show bias toward either side, making it a well-reasoned and neutral assessment.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of personal attacks and off-topic comments, encouraging the conversation to stay focused on football. The message is natural in context and would be appropriate for a user to say in this situation. It effectively guides the discussion back to the topic of interest without being overly prescriptive or judgmental.",
+        "score": 5
+    }
+}

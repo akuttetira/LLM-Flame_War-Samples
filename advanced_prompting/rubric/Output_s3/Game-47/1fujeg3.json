@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about a concerted effort to feminize men in video games is a misconception, and highlights the more significant issue of censorship and uglification of female characters. This aligns with the conversation where multiple participants discuss the disparity in treatment between male and female characters, with a clear emphasis on the greater focus on female characters. The judgement is supported by the discussion points and provides a balanced view by acknowledging the complexity of the issue while emphasizing the more prominent trend. The reasoning is clear and based on the content of the conversation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion and suggests a specific direction to focus the conversation. By shifting the focus to female characters, it encourages a more balanced and nuanced dialogue without taking sides. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

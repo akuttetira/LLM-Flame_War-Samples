@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the person calling out the referee is more in the right. This is based on the context of the conversation where the referee's decision is being questioned. The mediation acknowledges the concern of the player and the potential rule violation, which aligns with common fairness principles. However, it does not fully back up its position with detailed rule references or clear evidence from the conversation. The judgment is somewhat confident but lacks the depth to fully justify the conclusion. As a judgment, it scores a 4 because it correctly identifies the right side but does not provide strong enough supporting arguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the heated emotions in the conversation and suggests a neutral, fact-based approach by referencing the rulebook. This encourages all parties to focus on the actual rules rather than personal opinions or misinformation. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user aiming to de-escalate the situation.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person defending the referee's kindness and impartiality is more in the right, as their argument is based on specific knowledge and a more respectful tone. However, the mediation is somewhat vague in its reasoning and does not provide strong, concrete arguments to support this conclusion. It also fails to address the validity of the other side's claims about the referee's lack of experience. This fits a score of 3, as it correctly identifies the more reasonable side but lacks strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging participants to focus on the referee's performance rather than personal attacks. It promotes respectful dialogue and invites a constructive discussion. While it is slightly generic and could be more tailored to the specific context, it still effectively guides the conversation toward a more positive direction. This aligns with a score of 4.",
+        "score": 4
+    }
+}

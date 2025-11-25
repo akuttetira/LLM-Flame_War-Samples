@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the unexpected nature of Costa Rica's win while also addressing the criticism of their performance. It correctly identifies that the defenders of Costa Rica are more in the right, as the win was indeed unexpected and the criticism of their effort is overly harsh. The argument is supported by the context of the match, where Costa Rica had a very low number of shots on target. However, the judgment is somewhat vague in specifying exactly why the defenders are more correct, and it does not fully address the validity of the criticism. Overall, the judgment is fair and reasonable but lacks the clarity and depth it could have.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and productive. It shifts the focus from the outcome to the game's strategy and skill, which is directly relevant to the conversation. The message encourages a more analytical discussion about the game rather than just commenting on the result. It is natural in context and could conceivably be written by a user aiming to guide the conversation toward a more constructive direction.",
+        "score": 5
+    }
+}

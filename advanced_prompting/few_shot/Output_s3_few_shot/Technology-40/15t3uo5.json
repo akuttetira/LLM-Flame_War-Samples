@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the community's celebration of the loss of income is a more nuanced argument than a blanket claim about the entire community. It acknowledges the complexity of the situation, including the potential real-world consequences for employees, and provides a balanced perspective. This fits well with a score of 4, as it offers a reasoned and partially supported take on the situation without taking a clear stance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to shift the focus from celebrating layoffs to considering the broader consequences of the company's actions. It encourages a more nuanced discussion about the community's impact on others, which is a positive direction. However, the message is somewhat generic and lacks specific examples or actionable steps, making it less effective in guiding constructive dialogue. This fits with a score of 3.",
+        "score": 3
+    }
+}

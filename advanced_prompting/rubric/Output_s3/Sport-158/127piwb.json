@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of evaluating someone's character based on past achievements versus current actions. It correctly identifies that labeling someone as a 'fraud' based on a single rule change is an oversimplification. The judgment is fair and balanced, avoiding a definitive conclusion while highlighting the importance of context. The reasoning is sound and aligns with principles of fairness and morality. However, it does not explicitly state which side is correct, which could be seen as slightly neutral, but this is appropriate given the nature of the debate. The message is well-reasoned and does not lean too heavily toward either side.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more constructive direction. It acknowledges the disagreement about the rule change while encouraging respectful dialogue. The message is relevant to the conversation and provides a natural way to steer the discussion away from personal attacks. However, it is somewhat vague in its specific guidance and does not directly address the core issue of whether Martinez is a fraud. It is well-worded and fits the context of the conversation, making it a 4 in the steering metric. In terms of judgement, since the mediation is not making a direct moral or factual determination but rather guiding the conversation, it does not fall under the 'judgement' metric. Therefore, it is evaluated under the steering metric.",
+        "score": 4
+    }
+}

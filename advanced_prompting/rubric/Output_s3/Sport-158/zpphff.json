@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person defending DiverMary (Fantastic-Cost-3907) is more in the right than AdLucky2882. The argument is based on the context of the conversation, where AdLucky2882's comments are described as toxic and emotionally abusive. The mediation acknowledges the incident involving DiverMary but also points out the inappropriate and harmful behavior of AdLucky2882, which aligns with common morality and fairness principles. The judgment is clear and provides a reasonable basis for the conclusion, though it could have been more detailed in explaining why the behavior is considered abusive. The mediation is also neutral in tone, avoiding personal attacks and focusing on the content of the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the core issue of DiverMary's behavior while steering the conversation back to the topic at hand. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The mediator is encouraging a focus on the actual issue rather than personal attacks, which is a fair and effective approach.",
+        "score": 5
+    }
+}

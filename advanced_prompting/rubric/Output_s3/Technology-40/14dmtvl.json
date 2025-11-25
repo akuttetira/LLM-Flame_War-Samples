@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the debate, acknowledging both sides' arguments. It recognizes the potential benefits of user-replaceable batteries in reducing electronic waste and promoting sustainability, which is a valid concern. It also acknowledges the counterargument that EU regulations might stifle innovation and consumer choice, which is a reasonable concern as well. The mediation does not take a definitive stance on which side is entirely correct but offers a nuanced perspective that considers the complexities of the issue. However, it could have been more specific in explaining why one side is more defensible than the other, and it could have provided more concrete support for its position. Overall, the mediation is fair and balanced but could be more detailed in its reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It redirects the conversation back to the core issue of sustainability while encouraging a balanced discussion. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message does not take a sides but instead invites a nuanced discussion, which is appropriate for the topic.",
+        "score": 5
+    }
+}

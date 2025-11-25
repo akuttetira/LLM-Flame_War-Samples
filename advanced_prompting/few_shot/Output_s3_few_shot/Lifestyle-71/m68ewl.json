@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that victim blaming and invalidation are not acceptable in a support subreddit, aligning with the community's guidelines and values. It clearly states the issue and supports the position with reference to the sub's intent to provide emotional support. This fits a high score as it is accurate, clear, and backed by the context of the subreddit's purpose.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the ongoing discussion, as it addresses the issue of policing each other's language and the need for emotional support. It acknowledges the sensitivity of the topic and suggests a practical solution (taking a break or private messaging). While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

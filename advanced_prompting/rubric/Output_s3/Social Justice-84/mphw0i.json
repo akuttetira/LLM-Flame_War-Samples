@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the issue. It recognizes that the subreddit's title and content reflect the values of its users, which is a valid perspective. At the same time, it acknowledges the argument that the subreddit's behavior is disrespectful to a former president. The judgment is balanced, avoiding a clear-cut determination of right or wrong while acknowledging the validity of both sides. However, it does not fully resolve the underlying conflict or provide a clear standard for what is respectful or not. The reasoning is sound but could be more definitive in addressing the core issue of respect and legitimacy.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the conversation by shifting focus from personal attacks to the broader issue of what makes a good Q&A subreddit. It encourages constructive dialogue by suggesting a solution-oriented approach rather than continuing the debate. The message is naturally phrased and fits well within the context of a mediation attempt, making it likely that a user would find it trustworthy and helpful. However, it is somewhat vague in its specific guidance and does not directly address the core issues raised in the conversation. It provides a general direction but lacks concrete steps or examples for improvement.",
+        "score": 4
+    }
+}

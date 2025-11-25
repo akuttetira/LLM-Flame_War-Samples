@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the debate, acknowledging that both sides have valid points. It correctly identifies that the issue is more nuanced than a simple 'right or wrong' determination, which aligns with the complexity of the football incident. The mediation does not take a firm stance on whether the action was a foul or not, which is appropriate given the differing interpretations. However, it could have provided more specific context or references to football rules to better support its nuanced position. Overall, the mediation is fair and neutral, effectively acknowledging the complexity of the situation without taking an overly partisan stance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of focusing on the actual incident rather than personal or past celebrations, which is relevant to the conversation. The message encourages a more objective discussion about what constitutes a clean tackle versus a foul, which has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user, making it a suitable steering message.",
+        "score": 5
+    }
+}

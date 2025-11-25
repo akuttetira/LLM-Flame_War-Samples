@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges that the person questioning the company's handling of the allegations has a stronger case, as the company's actions appear inadequate and potentially enabling. However, it does not provide strong, concrete arguments or evidence from the conversation to back this claim. The reasoning is somewhat vague and lacks the depth needed for a high score. This fits with a score of 3, as it offers a partially supported take but does not clearly state which side is in the right with strong arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the frustration and concern in the conversation and shifts the focus to the company's current actions of investigating and addressing the allegations. This is relevant and conciliatory, as it encourages a constructive discussion about the present rather than dwelling on past actions. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to address the discussion by focusing on the relationship between epilepsy and biblical validity, but it fails to provide a clear, nuanced, or well-supported conclusion. It also doesn't directly address the core of the debate, which is the historical and evidential support for the resurrection and the reliability of the Bible. The score is lower because the mediation doesn't clearly determine which side is more in the right and lacks strong supporting arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation attempt to redirect the conversation to a different topic (epilepsy and Bible teachings) is somewhat off-topic and does not directly address the core discussion about the historical reliability of the resurrection and the 500 witnesses. It introduces a new subject that is not clearly connected to the main debate, which reduces its effectiveness in guiding the conversation towards a more constructive direction. This fits a score of 3 as it is somewhat conciliatory but lacks a clear, relevant focus.",
+        "score": 3
+    }
+}

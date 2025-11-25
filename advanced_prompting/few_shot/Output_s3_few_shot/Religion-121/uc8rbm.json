@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the person's experience and presents it as more compelling than the skeptic's dismissal, which is a fair assessment of the conversation. However, it does not clearly state which side is more in the right and lacks strong, concrete arguments to support its position. It also fails to address the lack of conclusive evidence or alternative explanations. This fits with a score of 3, as it offers a partially supported take without clearly determining who is more in the right.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to address the complex and conflicting perspectives in the conversation. It acknowledges the difficulty of finding a single explanation for the experiences described and encourages a more open-minded approach. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

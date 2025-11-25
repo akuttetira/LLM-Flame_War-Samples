@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that systemic issues affecting marginalized groups are more compelling than a blanket statement about public faith in the wisdom of the people. The original conversation highlights how ISPs are exploiting their monopolistic power to charge excessive fees and impose data caps, disproportionately affecting those with lower income and fewer options. The mediation acknowledges the complexity of the issue and the need to address systemic inequalities rather than dismissing the concerns of marginalized groups. It provides a balanced perspective that recognizes the validity of both sides but emphasizes the more pressing issue of systemic inequality.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message attempts to steer the conversation by identifying a potential disconnect between the topics being discussed. It acknowledges the presence of two different issues\u2014lack of faith in institutions and systemic issues affecting marginalized groups\u2014and suggests exploring both perspectives to find common ground. However, the message is somewhat vague and does not directly address the core issues at hand. The conversation primarily revolves around net neutrality, ISP practices, and the impact on consumers, particularly in the US. The mediation message does not clearly connect these issues to the broader themes of institutional faith or systemic inequality, making it less effective in guiding the conversation towards a productive direction. While the message is conciliatory in tone, it lacks specificity and relevance to the actual content of the discussion, which reduces its effectiveness as a steering message.",
+        "score": 3
+    }
+}

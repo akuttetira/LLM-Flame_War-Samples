@@ -1,0 +1,13 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that Argentina's response to the Dutch's trash talking and dirty play was justified, which aligns with common morality and fairness principles. It acknowledges the complexity of the situation by not labeling Argentina as a villain but instead recognizing their right to retaliate. The judgement is supported by the arguments in the conversation, particularly from users like CopyPetPet and ReinholdtGreen, who highlight the Dutch's behavior. However, the mediation does not fully address the broader context of the tournament or the differing opinions on Croatia's performance. Despite this, the judgement is clear and well-supported, making it a 4 in the judgement metric. The message is conciliatory and relevant, though it could have been more detailed in addressing the nuances of the debate. It is natural in context and could conceivably be written by a user, making it a 4 in the steering metric.",
+        "score": {
+            "judgement": 4,
+            "steering": 4
+        }
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the emotional investment in national pride and emphasizes the importance of sportsmanship, which is a universally accepted value. The message is relevant to the conversation, as it addresses the underlying themes of loyalty, fairness, and respect in sports. It is natural in context and could conceivably be written by a user, as it avoids taking sides and instead focuses on a shared value. The message encourages a positive dialogue by redirecting the focus to a common principle rather than the specific events discussed.",
+        "score": 5
+    }
+}

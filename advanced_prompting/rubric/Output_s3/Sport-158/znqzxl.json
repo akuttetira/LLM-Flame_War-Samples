@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging that the debate over Messi's team talk is subjective and that both sides have valid points. It correctly identifies the discussion as more opinion-based than factual, which aligns with the context of the conversation where users are expressing personal opinions about the speech. The judgement is neutral and does not assign blame or correctness to either side, which is appropriate given the nature of the discussion. However, it could have been more specific in explaining why both perspectives are valid, but overall, it is fair and accurate.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus back to the original topic of discussion, which is Messi's leadership and the team's performance. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages constructive discussion without taking sides or making judgments, which aligns with the goal of mediation.",
+        "score": 5
+    }
+}

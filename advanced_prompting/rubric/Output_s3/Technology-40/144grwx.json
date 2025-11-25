@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the API changes being intended to eliminate third-party apps and consolidate user data is more defensible. This is supported by multiple comments in the conversation that suggest the API changes were a strategic move to eliminate third-party apps and increase data harvesting. The mediation also acknowledges the criticism of the official Reddit app, which is a nuanced take. However, the mediation does not fully address the broader concerns about the direction of Reddit as a platform and the potential negative impacts on users. The message is conciliatory and relevant, but it could have been more specific in addressing the underlying issues.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards more constructive actions. It acknowledges the community's passion and suggests focusing on supporting alternative platforms and advocating for user data protection. However, the message is somewhat vague and not directly relevant to the specific issues discussed in the conversation, which revolve around the shutdown of RIF and the AMA. The message lacks specificity and does not directly address the concerns raised about the leadership's actions. While it is natural in tone, it could be more targeted to guide positive dialogue.",
+        "score": 3
+    }
+}

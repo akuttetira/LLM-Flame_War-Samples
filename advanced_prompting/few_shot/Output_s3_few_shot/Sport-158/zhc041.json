@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about broader societal implications is more nuanced and relevant to the discussion. It acknowledges the validity of the perspective that unsportsmanlike behavior reflects deeper issues in society, rather than simply dismissing it as 'stupid' or 'unfair'. However, it does not fully address the specific points made by the other side or provide a balanced analysis of the situation. This fits a score of 4 as it shows a clear understanding of the argument but could have been more comprehensive.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, as it addresses the need for civility and focuses on the actual incident rather than personal attacks or assumptions. It is well-worded and natural in context, with a good chance of guiding positive dialogue. This fits well with a score of 5.",
+        "score": 5
+    }
+}

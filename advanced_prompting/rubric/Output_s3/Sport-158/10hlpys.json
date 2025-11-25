@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to judge the conversation by asserting that the person defending the Argentine goalkeeper is more in the right than those mocking his mental health. However, this judgement is not based on solid evidence or objective morality. The conversation contains deleted posts and potentially inflammatory remarks, but there is no clear evidence that the defender is correct or that the mockers are wrong. The judgement is also somewhat biased, as it assumes the defender is 'defending the honor' without clear context. The mediation lacks neutrality and fails to provide a balanced or evidence-based assessment of the situation.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the original topic of the conversation, which is the legendary dance of Dibu Mart\u00ednez, and suggests a positive direction for the discussion by encouraging the sharing of clips or stories. The message is natural in context and would be appropriate for a user to generate, as it focuses on maintaining the conversation's main theme while discouraging off-topic or personal attacks. It effectively guides the conversation towards a more constructive and engaging direction.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the emotional moment and the response defending it are more in line with empathy and context-awareness, while the troll's reaction is dismissive and lacks consideration for the situation. The judgement is nuanced, acknowledging the complexity of the situation and the importance of context. It does not take an absolute stance but rather evaluates the responses based on fairness and morality. The reasoning is supported by the context of the conversation, which involves a sensitive moment in a sports event. The judgement is fair and well-reasoned, though it could have been more explicit in stating that the emotional response is the more appropriate one.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus back to the main topic of discussion (the FIFA shot) and encourages participants to share their own perspectives rather than engage in personal attacks. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user aiming to foster constructive discussion.",
+        "score": 5
+    }
+}

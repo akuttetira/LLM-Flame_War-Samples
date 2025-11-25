@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly identifies the 'right' side by focusing on the experiences of those who were met with kindness, while ignoring the context and intent of the other participants. It fails to acknowledge that some users, like the deleted comment, were being dismissive or mocking, which is not in line with the supportive and understanding tone of the majority of the conversation. This misrepresentation of the discussion leads to an incorrect judgement, resulting in a low score.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging participants to learn from each other's experiences and support one another. It acknowledges the diversity of comfort levels with mistakes and criticism, which aligns with the conversation's theme. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

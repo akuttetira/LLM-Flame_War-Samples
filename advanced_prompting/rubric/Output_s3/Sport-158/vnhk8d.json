@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the nuanced and valid discussion around Camavinga's potential creativity and the implicit racial bias in evaluating players of color. It acknowledges the complexity of the issue and the valid concerns raised about stereotyping based on race. The judgement is neutral and does not take a definitive side but highlights the importance of considering both the player's abilities and the broader context of racial bias in football. The argument is well-supported by the conversation, which includes references to racial stereotypes and the development of young players.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the conversation's evolution and suggests a focus on specific examples of Camavinga's playmaking, which is directly relevant to the discussion. The message is natural in context and could conceivably be written by a user, as it encourages a more constructive and evidence-based dialogue. It avoids taking sides and promotes a neutral, fact-focused approach, which is appropriate for a steering message in this context.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the US dominating sports in the Olympics is more convincing than the counter-argument. It acknowledges the complexity of the discussion and provides a clear judgment based on the evidence presented in the conversation. The reasoning is grounded in the specific examples and data from the conversation, which supports a higher score.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the participants to focus on specific sports and their global popularity rather than broad claims about dominance. It helps guide the conversation towards more constructive and factual discussion. While it is slightly generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

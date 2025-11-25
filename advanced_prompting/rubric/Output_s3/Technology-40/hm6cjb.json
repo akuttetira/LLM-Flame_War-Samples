@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a judgment that the Republican Party is more interested in corporate interests than the general public, which is supported by the voting records mentioned. However, the mediation does not provide specific evidence or references to the voting records, making it somewhat vague. The judgment is somewhat nuanced and acknowledges the complexity of political parties, but lacks concrete support. The score is a 3 because the judgment is not fully substantiated and does not clearly specify a correct side with strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the divisive nature of political labels and encourages a focus on specific policies and voting records. The message is directly relevant to the conversation, which is filled with discussions about political parties, legislation, and their impact on everyday people. The message is natural in context and could conceivably be written by a user, as it seeks to guide the conversation toward more constructive dialogue about policies rather than partisan bickering. It effectively steers the conversation toward a more neutral and fact-based discussion.",
+        "score": 5
+    }
+}

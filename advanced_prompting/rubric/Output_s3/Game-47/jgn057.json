@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the discussion, acknowledging both the value of accessibility features and the criticisms they may face. It correctly identifies that the value of accessibility options is more in the right than the criticism that they might make the game too easy. However, the mediation does not clearly specify which side is correct or provide detailed arguments for its position. It is a neutral stance that acknowledges the complexity of the issue but lacks the depth needed for a 5. The message is somewhat vague and does not directly address the core of the debate, which is whether accessibility features are beneficial or overly simplistic.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It addresses the current focus of the conversation by redirecting it towards discussing accessibility features and their benefits to everyone. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

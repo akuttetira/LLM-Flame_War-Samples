@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person who highlights the Bible's problematic content and advocates for a nuanced understanding of its historical context is more in the right. This is supported by the conversation where the other side makes personal attacks and dismisses the issue with blanket statements. The mediation is fair, neutral, and provides a clear judgment based on the arguments presented. This aligns well with a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly addresses the conversation's focus on specific issues in the Bible, such as its treatment of women, slaves, and LGBTQ+ individuals. It encourages a more constructive dialogue by asking for discussion without personal attacks. However, it is somewhat generic and could come off as overly prescriptive or like a parent's guidance. It is relevant and has a good chance of guiding positive dialogue, which aligns with a score of 4.",
+        "score": 4
+    }
+}

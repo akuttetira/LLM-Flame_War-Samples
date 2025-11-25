@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the Dutch team being unfairly penalized and the referee's questionable calls is more defensible than the blanket claim that Dutch fans are the only ones being unfair. It acknowledges the complexity of the situation and provides a balanced perspective, which is in line with common morality and fairness. However, it could have provided more specific arguments or evidence to support its position, which slightly lowers the score from 5 to 4.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to de-escalate the heated discussion by focusing on the game itself rather than fan behavior. It invites a constructive discussion about specific incidents and their impact, which aligns with the goal of guiding positive dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of improving the conversation. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

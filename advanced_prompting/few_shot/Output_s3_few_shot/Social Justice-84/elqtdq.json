@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about the Democratic Party's shift to the center being detrimental is more compelling than the dismissive claim about all critics of Trump being right-wing fanatics. It acknowledges the validity of the left's concerns and the potential consequences of the DNC's strategy, which shows a nuanced understanding of the discussion. However, it does not fully engage with the specific claims made in the conversation or provide detailed reasoning for its position. This fits a score of 3, as it offers a partially supported take on which side is more in the right.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to de-escalate the conversation by focusing on the substance of issues rather than personalities or labels. It is somewhat generic and could sound a bit like an AI, but it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

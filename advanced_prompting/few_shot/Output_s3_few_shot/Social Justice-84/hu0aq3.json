@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that engaging with harassment brigades is counterproductive and can be rewarding for the harassers, which aligns with the discussion in the conversation where users discuss the futility of arguing with trolls and the effectiveness of deplatforming. It provides a clear stance that is supported by the conversation's context and the arguments made by the participants. This fits a high score as it directly addresses the core issue and offers a defensible position based on the conversation's content.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation suggests focusing on specific behaviors rather than people, which is a constructive and conciliatory approach. It addresses the issue of escalation by encouraging a more targeted response, which aligns with the conversation's context about harassment brigades and online tactics. While the message is somewhat generic, it is still relevant and has a good chance of guiding positive dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

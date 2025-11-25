@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance both sides of the argument, acknowledging that the claim of a benevolent deity demanding submission is more defensible than the claim of an evil lord. However, it lacks clear, specific arguments and fails to decisively determine which perspective is more in line with common morality and fairness. The reasoning is somewhat vague and does not provide strong support for either side, which is why it earns a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation suggests focusing on the implications of a hypothetical afterlife on moral frameworks, which is a constructive and neutral approach. It encourages a shift from emotional reactions and labels to a more analytical discussion. While it is somewhat generic, it is still relevant and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the argument against Muhammad's marriage to Aisha is more flawed than the claim that it was a marriage to a minor. This judgment is based on the critique of presentist interpretations and selective use of historical evidence. However, the judgment is somewhat vague and does not clearly specify which side is more correct or provide sufficient backing arguments. The mediation does not directly address the historical and evidential claims made by both sides in the conversation, making it less effective in resolving the dispute. The judgment is neutral in tone but lacks the specificity and depth needed to be a strong judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the deep investment of both sides and encourages a focus on historical context and evidence, which is directly relevant to the conversation. The message is natural in context and could conceivably be written by a user, as it aims to guide positive dialogue without taking sides. It effectively steers the conversation towards a more balanced and evidence-based discussion.",
+        "score": 5
+    }
+}

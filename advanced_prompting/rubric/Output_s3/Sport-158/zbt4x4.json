@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the conversation, acknowledging that some participants are defending the post while others are being aggressive and dismissive. It correctly identifies that the more constructive approach is to defend the post rather than attack others. The judgement is fair and neutral, recognizing the difference between defending an opinion and being overly aggressive. However, it does not provide specific arguments or examples to back up its position, which slightly reduces its strength. Overall, the judgement is correct but lacks detailed support.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more respectful and constructive direction. It acknowledges the potential for disagreement while encouraging civility and open dialogue. The message is relevant to the context of the conversation, which includes heated exchanges and personal attacks, and it naturally fits within the framework of a mediation attempt. However, it is somewhat vague in its specific guidance and does not offer concrete steps for improving the conversation. It is not overly parental or generated, but it lacks the specificity needed to directly address the issues present in the original conversation. Overall, it is a productive and natural message that encourages positive dialogue.",
+        "score": 4
+    }
+}

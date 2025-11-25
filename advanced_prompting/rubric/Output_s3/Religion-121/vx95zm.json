@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced perspective on the discussion, acknowledging the complexity of the debate around supernatural phenomena. It avoids taking a definitive stance on which side is correct, instead highlighting the interest and nuance of the conversation. However, it does not offer a clear judgment on the correctness of either side, nor does it provide specific arguments to support its position. The message is somewhat neutral and acknowledges the complexity of the issue, but it lacks the depth and clarity needed to be a high-scoring judgment. It is not overly vague or unproductive, but it does not fully meet the criteria for a 5. It is more aligned with a 3 or 4, but given its balanced and thoughtful approach without a clear verdict, it is closer to a 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the ongoing nature of scientific understanding and suggests exploring specific examples to add depth to the conversation. The message is relevant to the discussion about supernatural versus scientific understanding and encourages a more nuanced exploration of the topic. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

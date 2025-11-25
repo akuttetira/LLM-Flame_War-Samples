@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation correctly identifies the nuanced context around the phrase 'all men are created equal' and acknowledges that it is not a direct statement of equality but rather a concept that has been interpreted and debated. It addresses the misunderstanding and provides a more balanced perspective than a simple claim of equality. However, it does not clearly state which side is more in the right in the context of the original discussion about police conduct and systemic issues. This fits with a score of 3, as it offers a partially supported take without a clear verdict.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a respectful discussion about historical context rather than using the Declaration of Independence as a divisive tool. It acknowledges the complexity of the issue and aims to foster understanding. However, it is somewhat generic and could come across as overly formal or AI-generated, which slightly reduces its naturalness. This fits well with a score of 4.",
+        "score": 4
+    }
+}

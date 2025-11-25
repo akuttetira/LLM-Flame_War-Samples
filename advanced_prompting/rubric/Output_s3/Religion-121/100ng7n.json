@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges the complexity of the issue. It recognizes that while some argue the marriage to Aisha was not a serious issue, the claim that it was predatory and abusive is more problematic. This reflects a balanced approach, neither fully endorsing nor completely dismissing either side. The judgement is based on the context of historical practices and the ethical implications of such a marriage. However, it does not provide a clear-cut determination of right or wrong, which could be seen as a neutral position. The reasoning is logical and grounded in the discussion, but it does not offer explicit support for its position as strongly as a 5 would require.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It addresses the key issues in the conversation by focusing on the age of consent and power dynamics, while also acknowledging the historical context and evolution of Islamic teachings. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message avoids taking a definitive stance on the morality of the issue, which maintains neutrality and encourages further discussion.",
+        "score": 5
+    }
+}

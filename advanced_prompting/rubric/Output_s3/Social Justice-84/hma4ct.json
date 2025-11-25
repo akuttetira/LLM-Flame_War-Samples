@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced perspective that acknowledges the complexities of the issue without taking a clear stance on which side is correct. It points out that the argument against allowing minors to transition without parental consent is more problematic due to issues of informed consent and paternalistic control, which is a fair and balanced assessment. However, it does not fully address the emotional and psychological harm that trans youth may face if they are denied the opportunity to transition, which is a significant concern in the discussion. The mediation is somewhat neutral but could have been more comprehensive in considering the ethical implications of both sides' arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and suggests focusing on respectful discussion around key topics like puberty blockers, informed consent, and parental involvement. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message avoids taking sides and instead encourages a balanced, fact-based discussion, which aligns with the goal of mediation.",
+        "score": 5
+    }
+}

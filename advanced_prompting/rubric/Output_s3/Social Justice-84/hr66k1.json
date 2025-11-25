@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced judgment that acknowledges the complexity of the issue. It correctly identifies that the argument against trans women being women is more fundamentally flawed than the broader dismissal of trans people. This aligns with common morality and fairness principles, as it recognizes the validity of trans identities and the importance of inclusive feminism. The judgment is supported by the context of the conversation, which highlights the harmful effects of exclusionary rhetoric and the need for inclusive dialogue. However, the mediation does not fully specify a correct side or a neutral position, which slightly reduces its score. The message is also not entirely neutral, as it leans towards supporting a particular viewpoint rather than maintaining complete impartiality.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion of all parties while focusing on the common goal of protecting trans people's rights. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages collaboration despite disagreements, which is a key step in resolving conflicts. It avoids taking sides and instead promotes a neutral, collaborative approach.",
+        "score": 5
+    }
+}

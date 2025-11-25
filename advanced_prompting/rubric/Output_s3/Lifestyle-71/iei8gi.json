@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging the importance of treating children with respect and kindness, while also recognizing that not all parental behavior constitutes abuse. It avoids taking a rigid stance on whether all parents who order their children around are abusive, which is a more nuanced and fair approach. However, it does not clearly specify which side is correct in the debate, and the reasoning is somewhat vague. The message is somewhat conciliatory but lacks the directness and specificity needed to guide the conversation effectively.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the shared experiences and perspectives in the conversation and encourages a collaborative approach to finding strategies for teaching kids good manners and respect. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the argument about the US team's performance against England, but it is vague and lacks clear support from the conversation. It does not clearly determine which side is more in the right, nor does it provide strong or specific arguments to back its position. The statement is somewhat neutral but does not fully address the nuances of the debate, which makes it a mid-level score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and attempts to find common ground by acknowledging the 0-0 draw as a decent result for the US and recognizing England's solid performance. It is relevant to the conversation and aims to guide the discussion toward a more constructive direction. However, it is somewhat generic and lacks the specificity needed to effectively steer the dialogue toward a more meaningful exchange. This aligns with a score of 3.",
+        "score": 3
+    }
+}

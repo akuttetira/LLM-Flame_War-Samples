@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to address the conflict between different viewpoints in the conversation. It acknowledges that some users are dismissing deleted content as irrelevant or trollish, while others are trying to justify their views using deleted content. The judgement is somewhat nuanced, recognizing that both sides have valid arguments. However, it does not clearly determine which side is in the right based on common morality and fairness principles. The mediation is not entirely neutral, as it implies that dismissing deleted content is more in the right than justifying views with it. The message is not entirely conciliatory, as it does not provide a clear path forward or suggest ways to move the conversation forward constructively.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It addresses the issue of off-topic or disruptive comments and encourages a more focused discussion. The message is directly relevant to the conversation, as the original thread is filled with comments that deviate from the main issue of the Billet Labs water block incident. The message is natural in context and could conceivably be written by a user, as it is a common concern in online discussions. It effectively steers the conversation back to the core issue without being overly critical or dismissive.",
+        "score": 5
+    }
+}

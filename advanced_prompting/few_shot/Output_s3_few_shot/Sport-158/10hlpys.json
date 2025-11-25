@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly assumes that defending the Argentine goalkeeper's mental health is the 'right' position without providing substantial evidence or context. It also fails to address the broader context of the conversation, which includes jokes and comments about the goalkeeper's performance. The statement is biased and does not fairly represent the discussion, which is more about humor and commentary than a serious debate about mental health. This fits a low score due to the lack of fairness and neutrality.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The mediation directly addresses the original topic of the conversation (Dibu Mart\u00ednez's dance) and encourages a more constructive focus on sharing clips or stories rather than personal attacks. It is relevant, conciliatory, and helps guide the conversation back to a positive direction. While it is slightly generic, it is still natural and has a good chance of improving the dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

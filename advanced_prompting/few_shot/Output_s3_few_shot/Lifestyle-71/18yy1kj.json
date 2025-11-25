@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the critique of giving flowers to an 8-year-old for her period is more in line with the discussion, as it acknowledges the emotional significance of the gesture and the potential for it to be a supportive and meaningful action. However, it does not provide strong, concrete arguments to support this position, nor does it clearly address the opposing view. This fits with a score of 3, as there is some nuance but the supporting arguments are not sufficiently strong or detailed.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and acknowledges the thoughtful gesture of giving flowers as a supportive action. It recognizes the emotional significance of the moment while also allowing for differing perspectives on how to approach it. The message is relevant to the discussion and invites a constructive dialogue without imposing a specific viewpoint. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This fits a score of 4.",
+        "score": 4
+    }
+}

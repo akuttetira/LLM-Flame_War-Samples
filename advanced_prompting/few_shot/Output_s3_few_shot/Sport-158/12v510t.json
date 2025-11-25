@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about England's past performance is more reasonable than the absolute claim that they will never win the World Cup again. It provides a nuanced assessment that acknowledges the validity of one perspective while critiquing the other. This fits a high score as it clearly addresses the issue with appropriate reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, as it shifts the focus to a positive aspect of the conversation (the England women\u2019s team) and encourages support for all teams. It is reasonably natural and has a good chance of guiding positive dialogue. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This aligns with a score of 4.",
+        "score": 4
+    }
+}

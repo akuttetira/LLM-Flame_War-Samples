@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both perspectives without taking a definitive stance. It recognizes that both the claim that Daily Stormer is a satirical site and the claim that it is a genuine propaganda outlet have merit. However, it does not clearly determine which side is more correct based on common morality and fairness principles. The judgment is reasonable but lacks strong supporting arguments to decisively back up either position. The mediation is neutral and avoids taking a sides, which is appropriate given the complexity of the issue.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and encourages both sides to provide evidence for their positions. By asking for specific examples, it promotes a more informed and respectful dialogue. The message is directly relevant to the conversation and natural in context, as it addresses the disagreement without taking sides. It avoids being overly parental or generated, and instead fosters a collaborative approach to understanding the topic.",
+        "score": 5
+    }
+}

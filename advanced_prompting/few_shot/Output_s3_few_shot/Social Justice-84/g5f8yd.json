@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument defending non-binary identity as genuine is more defensible than the dismissive view that non-binary individuals are fakes. It acknowledges the validity of the non-binary perspective while critiquing the other side's approach. However, it does not provide strong, specific arguments to back up its position, and the reasoning is somewhat vague. This fits a score of 3, as it offers a nuanced take but lacks the clarity and strength needed for a 4 or 5.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging participants to focus on understanding each other rather than labeling or attacking. It invites a respectful conversation about a complex topic, which is appropriate given the context. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

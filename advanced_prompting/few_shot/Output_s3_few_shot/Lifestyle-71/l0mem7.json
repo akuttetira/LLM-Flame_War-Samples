@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the experiences shared by those who describe being controlled or manipulated by their parents are more valid and in the right. It acknowledges the emotional and psychological impact of such control, which aligns with common morality and fairness. However, it does not provide strong, specific arguments or evidence from the conversation to support this conclusion, which slightly reduces its score. This fits with a 4, as it correctly identifies the more right side but could benefit from stronger support.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages a supportive, non-judgmental environment for sharing experiences. It acknowledges the commonality of the experiences shared and aims to foster a safe space for dialogue. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. It is reasonably natural but could be more specific to effectively guide the conversation towards a more positive direction. This aligns with a score of 3.",
+        "score": 3
+    }
+}

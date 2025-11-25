@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the World Cup is more representative of the global football landscape, acknowledging the participation of teams from various regions. It effectively counters the claim of European superiority by emphasizing the diversity of teams in the tournament. The argument is well-supported by the conversation, where multiple users discuss the quality of teams from different regions. This fits the criteria for a 5, as it clearly ascertains the right side based on common morality and fairness, with strong arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages focusing on the tournament itself rather than regional superiority. It acknowledges the diversity of teams and styles without endorsing blanket statements or personal attacks. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the conversation, recognizing the author's self-awareness and willingness to discuss their experiences with narcissistic abuse, while also pointing out the dismissive and condescending attitude of the other user. It does not take a definitive side but acknowledges the nuances of the situation, which is appropriate given the complexity of the issue. The judgement is fair and considers the context of the conversation, though it does not explicitly state which side is correct in a moral sense. The message is neutral and does not impose a specific viewpoint, making it a reasonable and fair assessment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to foster a more respectful and open dialogue. It acknowledges the shared experience and encourages mutual learning rather than judgment. However, it is somewhat vague in its guidance and does not directly address the specific concerns raised in the conversation. The message is natural in context but could have been more specific in steering the conversation towards a productive direction. It avoids taking sides and promotes a neutral, collaborative approach, which is appropriate for the context.",
+        "score": 4
+    }
+}

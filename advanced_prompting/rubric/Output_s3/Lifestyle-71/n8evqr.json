@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person defending Jameela Jamil against ableist accusations is more in the right. The argument acknowledges the issue of ableism and the unfounded medical claims, which aligns with common morality and fairness principles. The judgement is clear and provides a nuanced take by distinguishing between valid concerns about ableism and unfounded health claims. However, it does not fully elaborate on the specific medical or ethical grounds for this conclusion, which could have strengthened the supporting arguments. Overall, the judgement is accurate but lacks detailed backing.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation back to its intended purpose of supporting Jameela Jamil and others with similar experiences. It acknowledges the original focus of the thread and gently redirects the discussion away from controversial or potentially harmful topics. The message is natural in context, avoids taking sides, and encourages a positive, supportive dialogue. However, it is somewhat vague in its guidance and does not explicitly address the specific issues raised in the conversation. It is productive but could have been more specific in its direction.",
+        "score": 4
+    }
+}

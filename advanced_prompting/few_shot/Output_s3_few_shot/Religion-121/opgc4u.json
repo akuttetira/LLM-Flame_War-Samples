@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person presenting evidence and criticizing others for not taking it seriously is more in the right, as they are engaging with the discussion in a more substantive and critical manner. However, the mediation is somewhat vague in its reasoning and does not provide strong, concrete arguments to back up its position. It also fails to address the broader issue of what constitutes valid evidence or scientific scrutiny. This fits with a score of 3, as it correctly identifies the more reasonable side but lacks strong, nuanced support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging the participants to look into the scientific consensus and reputable researchers rather than relying on debunked sources. It provides a clear direction for more constructive dialogue by suggesting specific steps (researching scientific consensus and reputable researchers). While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a general acknowledgment of the complexity and nuance in the discussion, but it does not clearly determine which side is more in the right. It also lacks specific, strong arguments to support its position, making it more of a neutral observation than a clear judgment. This fits with a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on keeping the discussion focused on ideas rather than personal attacks. It is relevant to the conversation's topic and encourages a constructive dialogue by emphasizing the exploration of ideas. However, it is somewhat generic and could be more specific in guiding the conversation towards productive discussion. This aligns with a score of 3.",
+        "score": 3
+    }
+}

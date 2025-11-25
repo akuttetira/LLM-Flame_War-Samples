@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges the emotional impact of the 2018 and 2022 World Cup matches on some individuals, while also recognizing that not everyone shares the same level of trauma. It correctly identifies that those who still feel pain and try to justify it are more in the right than those who dismiss it as irrelevant. The argument is reasonable and grounded in the idea that emotional responses to significant events can vary, and that some people may still feel the impact of past events even years later. The judgement is not overly dismissive of either side but acknowledges the validity of different emotional responses. However, it does not provide a clear-cut answer or strong, concrete evidence to support its position, which slightly reduces its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to shift the conversation towards shared experiences rather than entrenched emotions. It acknowledges the strong feelings in the conversation and suggests a more constructive direction by focusing on shared memories. The message is relevant to the context of the discussion about football matches and their emotional impact. It is natural in tone and could conceivably be written by a user, as it avoids taking sides and encourages mutual understanding. However, it is somewhat vague in its suggestion and does not provide specific guidance on how to proceed, which could limit its effectiveness in guiding positive dialogue. Overall, it scores well in terms of neutrality and conciliation but could be more direct in its steering.",
+        "score": 4
+    }
+}

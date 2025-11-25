@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both sides of the argument. It recognizes that Linus's past behavior and current actions suggest genuine care for his former employees, which is supported by the conversation where Linus comments on Brandon's success. This is more convincing than the claims of malicious intent or PR stunts, which are less substantiated by the evidence in the conversation. The judgment is fair and balanced, considering the context of the conversation and the evidence provided. However, it does not explicitly state which side is entirely correct, which is acceptable given the complexity of the issue.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and productive. It acknowledges the positive aspects of the conversation and encourages focusing on the relationship between Linus and Brandon. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. However, it is somewhat vague in its specific guidance and does not directly address the underlying tensions or conflicting viewpoints in the conversation.",
+        "score": 4
+    }
+}

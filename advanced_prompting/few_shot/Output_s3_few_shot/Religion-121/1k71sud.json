@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation does not clearly state which side is more in the right or provide concrete arguments to support a position. It merely acknowledges the complexity of the discussion without offering a definitive judgment. This fits with a score of 3, as it shows some nuance but fails to clearly determine who is in the right or provide strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the conversation to focus on shared goals of peace and unity, which is relevant to the discussion. It suggests a constructive direction by inviting specific steps to promote understanding and cooperation. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

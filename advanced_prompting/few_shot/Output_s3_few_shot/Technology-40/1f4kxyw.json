@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges the complexity of Emily's situation, distinguishing between personal choice and deliberate avoidance, while also addressing the presence of transphobic comments. It provides a balanced view that is more defensible than blanket accusations of transphobia. However, it does not fully address the broader context of the community's reaction or provide strong, specific arguments to support its position. This fits with a score of 3, as it offers a nuanced take but lacks the depth and clarity needed for a higher score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on supporting Emily and respecting her boundaries, which aligns with the conversation's context. It avoids making assumptions or accusations and encourages empathy. However, it is somewhat generic and could feel a bit like a standard AI response rather than a naturally generated one. It still has a good chance of guiding positive dialogue, which fits a score of 4.",
+        "score": 4
+    }
+}

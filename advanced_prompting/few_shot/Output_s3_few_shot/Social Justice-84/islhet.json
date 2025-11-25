@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument defending inflammatory language as legitimate debate is more defensible than the blanket accusation of being a Nazi. It acknowledges the complexity of the discussion and provides a nuanced perspective. However, it does not clearly state which side is more in the right or provide strong, concrete arguments to support its position. This fits a score of 3, as it offers some nuance but lacks strong backing or a clear verdict.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly addresses the issue of personal attacks in the conversation. It encourages a shift towards discussing the actual content of the posts rather than engaging in hostile rhetoric. While it is somewhat generic and could be seen as overly prescriptive, it is still relevant and has a good chance of guiding the conversation towards a more constructive direction. This fits a score of 4.",
+        "score": 4
+    }
+}

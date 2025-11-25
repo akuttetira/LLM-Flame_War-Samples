@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to balance the arguments presented in the conversation. It acknowledges the medical and cultural arguments for infant male circumcision while also recognizing the concerns about permanent damage and psychological trauma. However, it does not clearly determine which side is correct based on common morality and fairness principles. The mediation is somewhat neutral but lacks strong supporting arguments for either side. It does not fully resolve the conflict or provide a clear judgment, which is necessary for a fair and effective mediation. The message is somewhat conciliatory but not highly productive as it does not directly address the core issues or provide a clear path forward.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the strong emotions on both sides and suggests a more objective approach by focusing on facts and consequences. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

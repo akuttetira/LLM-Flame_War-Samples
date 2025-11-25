@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the claim BLM is inherently Marxist is more flawed than the claim of co-optation by socialist and anarchist groups. It acknowledges the complexity of the issue, distinguishing between the founder's background and the movement's current direction. However, it does not provide strong, concrete arguments to back up this distinction, and the reasoning is somewhat vague. This fits with a score of 3, as it offers some nuance but lacks strong, clear support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the participants to focus on the common goal of promoting equality and justice, which is relevant to the discussion. It is somewhat generic and could sound a bit like an AI, but it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

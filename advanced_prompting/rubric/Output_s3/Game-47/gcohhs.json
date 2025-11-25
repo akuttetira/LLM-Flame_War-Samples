@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the situation. It recognizes that the leaks and controversy are influenced by both the game's direction and the leaker's actions, rather than taking a one-sided stance. This approach is more balanced and aligns with the conversation's context, which is filled with debates about the game's direction, the leaks, and the subsequent reactions from the gaming community. The judgment is not overly confident but is supported by the discussion around the game's direction and the role of the leaker. It also avoids taking a clear-cut position on whether the game is ruined, which is appropriate given the varied opinions in the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion of the participants and encourages a respectful conversation focused on the game's impact rather than personal attacks. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message effectively steers the conversation towards a more constructive direction without taking sides or imposing a specific viewpoint.",
+        "score": 5
+    }
+}

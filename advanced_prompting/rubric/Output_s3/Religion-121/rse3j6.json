@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgement that evaluates the positions of the two parties. It states that AwarenessOutrageous1's assertion is more extreme and unfounded compared to _TheMoralist's_ view. This judgement acknowledges the differing perspectives and suggests that one side is more extreme. However, it does not provide a clear, morally grounded determination of which side is correct, nor does it fully back up its position with arguments rooted in common morality and fairness. The judgement is somewhat neutral but lacks the depth and clarity needed for a 5. It does not fully specify a correct side or a neutral position with sufficient justification.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to foster a more nuanced discussion. It acknowledges the complexity of the topic and encourages mutual learning. The message is relevant to the conversation and natural in context, as it does not take sides but instead invites a more thoughtful exchange. However, it is somewhat vague in its guidance and does not directly address the specific points of contention between the participants. It is well-intentioned but lacks the specificity needed to effectively steer the conversation towards a more constructive direction.",
+        "score": 4
+    }
+}

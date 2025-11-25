@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge both perspectives but fails to clearly determine which side is more in the right. It is somewhat vague and does not provide strong arguments or a clear stance, which is necessary for a judgement. This fits a mid-level score where there is some recognition of valid points but no clear resolution or strong support.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages the participants to focus on the main issue rather than getting bogged down in potential misinterpretations. It is relevant to the ongoing discussion and invites a constructive approach. However, it is somewhat generic and could sound a bit like an AI-generated response. This fits well with a score of 4, as it is reasonably natural and has a good chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

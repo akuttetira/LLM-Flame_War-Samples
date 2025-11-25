@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that using Arbery's past actions as justification for his murder is morally wrong and not supported by evidence. The judgement is clear and aligns with common morality and fairness principles. It effectively criticizes the argument that past criminal behavior justifies violence against an individual, which is a key point in the conversation. The message is concise and directly addresses the issue at hand without unnecessary elaboration.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of making assumptions about people's character based on their past actions, which is a key point in the conversation. The message encourages focus on facts and respectful dialogue, which aligns with the context of the discussion. The tone is natural and would be appropriate for a user to generate in this context.",
+        "score": 5
+    }
+}

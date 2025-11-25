@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced judgment that acknowledges the argument for Rangers signing a right-wing player like Mussolini, while criticizing the personal attacks and mischaracterizations in the conversation. It correctly identifies the more defensible position as the one supporting Mussolini's right-wing affiliation, while dismissing the other side's claims as based on personal attacks and incorrect assumptions about Scottish politics. The judgment is fair, neutral, and backed by reasoning related to the content of the conversation. However, it does not fully resolve the underlying political debate but instead focuses on the tone and conduct of the participants.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The generated mediation message is a clear example of a steering message that aims to redirect the conversation towards a more constructive and neutral direction. It acknowledges the previous contentious exchange and suggests a shift in focus to the football aspect, which is more neutral and less politically charged. The message is concise, respectful, and directly relevant to the conversation. It does not take sides but rather encourages a discussion about the player's skills and impact on the team, which is a natural and productive way to steer the dialogue. The message is not overly parental or computer-generated, and it is likely to be perceived as genuine by the users involved in the conversation.",
+        "score": 5
+    }
+}

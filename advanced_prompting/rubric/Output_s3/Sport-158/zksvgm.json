@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the discussion, acknowledging that the argument is nuanced and that both sides have valid points. It does not take a definitive stance on which side is correct, which aligns with the complexity of the issue. However, it does not fully explore the nuances of the rules or the referee's role in depth, and it lacks specific examples or references to the actual rules being discussed. While it is fair and neutral, it could have been more informative in guiding the conversation towards a clearer resolution.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the conversation by redirecting the focus back to the game and rules. It acknowledges the tension without taking sides and encourages a more constructive dialogue. However, it is somewhat vague in its guidance and does not provide specific direction on how to proceed. While it is natural in context and has a good chance of guiding positive dialogue, it lacks the specificity needed to be a 5. It is effective in its intent but could be more direct in its suggestions.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Mbappe's nationality and ethnicity being used to mock him is more aligned with racism than the claim about his talent. It addresses the core issue of prejudice and provides a clear judgment on which perspective is more morally correct. The reasoning is sound and backed by the context of the conversation. This fits a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly addresses the issue of personal attacks and racism in the conversation. It redirects the focus back to the topic of football and Mbappe's skills, which is relevant to the context. While it is slightly generic and could be seen as overly prescriptive, it is still effective in guiding the conversation toward a more constructive direction. This fits well with a score of 4.",
+        "score": 4
+    }
+}

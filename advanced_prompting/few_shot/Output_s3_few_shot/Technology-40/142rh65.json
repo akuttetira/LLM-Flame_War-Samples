@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge the validity of both sides' perspectives but fails to clearly determine which side is more in the right. It also does not provide strong or specific arguments to support its position, making it a mid-level judgment. The statement is somewhat vague and does not fully address the moral or ethical dimensions of the debate.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the devolution into personal attacks by redirecting the conversation back to the core issue: the API changes and their impact on the community. It is conciliatory, relevant, and invites constructive dialogue by asking for specific thoughts on the proposed changes. While it is slightly generic and could benefit from more tailored language, it still aligns well with a 4 score as it has a good chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

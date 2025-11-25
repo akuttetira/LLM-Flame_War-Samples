@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced judgment that acknowledges the scientific consensus on the universe's origin as a cosmic event rather than a divine creation. It correctly identifies that the scientific evidence supports the Big Bang theory as the origin of the universe, which is more widely accepted than the claim of intelligent design. The judgment is based on common morality and fairness principles, recognizing the scientific method as a more reliable framework for understanding the universe's origins. The argument is well-supported by the discussion in the conversation, where scientific explanations are repeatedly contrasted with claims of intelligent design. The judgment is clear and specific, and it does not attempt to take a neutral position when one side is clearly more supported by evidence.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It encourages a more respectful and focused discussion by suggesting a collaborative approach to examining evidence. The message is directly relevant to the conversation, as it addresses the core issue of differing viewpoints on the origin of the universe and evolution. The message is natural in context and could conceivably be written by a user seeking to guide the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

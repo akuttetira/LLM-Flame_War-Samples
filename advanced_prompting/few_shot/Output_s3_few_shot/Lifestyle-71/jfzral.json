@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that those calling out toxic behavior and advocating for boundaries are more in the right, aligning with common moral and ethical standards. It clearly supports the position of those seeking to address and limit harmful behavior, which is consistent with the conversation's context. The argument is straightforward and backed by the shared experience of abuse and the need for self-respect. This fits well with a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the conversation, as it acknowledges the shared experiences and offers practical suggestions like therapy or support groups. However, it is somewhat generic and could come across as overly prescriptive or not deeply tailored to the specific emotional and psychological challenges described. It has a decent chance of guiding positive dialogue but lacks the personal touch and specificity that would make it more effective. This aligns with a score of 3.",
+        "score": 3
+    }
+}

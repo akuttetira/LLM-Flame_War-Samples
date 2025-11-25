@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the stronger argument regarding the referee's potential bias due to bribery and external influence, which is a significant concern in the context of the discussion. However, it does not fully address the opposing viewpoint that the event is being viewed as a minor aspect of football. The argument is clear but lacks the nuance to fully resolve the conflict, which is why it receives a 4 instead of a 5.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, as it encourages the conversation to stay focused on the game while acknowledging the broader issue of corruption in sports. It provides a clear direction for the discussion and is somewhat natural in context. However, it is somewhat generic and could be more specific in guiding the dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

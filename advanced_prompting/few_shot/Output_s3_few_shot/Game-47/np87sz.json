@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly identifies the person defending the right to delete friends without explanation as being more in the right, while failing to acknowledge the emotional impact of the situation. It also dismisses the lighter tone of the conversation as 'making light of the situation' without proper context. The mediation is overly simplistic and does not provide strong or nuanced arguments for its position, which is a significant flaw. This fits a low score as it is clearly wrong about who is in the right and lacks strong supporting arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages mutual consideration and learning from each other's experiences. It is relevant to the conversation, which includes personal struggles and discussions about online interactions. However, it is somewhat generic and lacks specific suggestions for constructive dialogue. This aligns with a score of 3.",
+        "score": 3
+    }
+}

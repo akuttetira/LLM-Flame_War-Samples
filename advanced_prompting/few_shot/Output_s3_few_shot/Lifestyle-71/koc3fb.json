@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the advocacy for the OP to report their parents and seek help from authorities is more in the right, as it aligns with the principle of protecting individuals from harm. It acknowledges the severity of the situation and the importance of taking action, which is supported by the context of the conversation. However, the mediation is somewhat vague in its reasoning and does not provide strong, specific arguments to back up its position. This fits with a score of 3, as it correctly identifies the more right side but lacks the depth and clarity of a 5.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on supporting the OP, which is appropriate given the context of potential abuse. It encourages sharing stories anonymously, which is a respectful and supportive approach. However, it is somewhat generic and lacks specific guidance on actionable steps. It is not as directly relevant to the ongoing debate about reporting or responding to abuse as it could be. This fits a score of 3, as it is conciliatory but somewhat vague and not deeply tailored to the conversation's context.",
+        "score": 3
+    }
+}

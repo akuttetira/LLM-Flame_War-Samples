@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the critics are more in the right by highlighting their valid concerns about Caroline\u2019s inconsistency, lack of clear identity, and questionable business practices. The argument is supported by the conversation where multiple users point out her erratic behavior, lack of authenticity, and potential financial exploitation. However, the mediation does not fully address the complexity of the situation or provide a balanced perspective, which slightly reduces its score. This fits a 4, as it correctly identifies the more right side with good arguments but could be more nuanced.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and aims to redirect the conversation towards constructive dialogue by asking for specific actions or statements being discussed. It encourages participants to focus on the content of the discussion rather than personal attacks or background judgments. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

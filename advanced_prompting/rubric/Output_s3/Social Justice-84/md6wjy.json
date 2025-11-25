@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the people defending the admin's hiring and the subsequent backlash against her are more in the right than those attacking her based on personal associations and perceived biases. The argument acknowledges the complexity of the situation, recognizing that the admin's personal associations and past actions are significant factors, but also highlights the broader context of Reddit's decision-making process and the subsequent backlash. The mediation does not take a definitive stance on whether the admin was unfit for the role, but rather emphasizes the importance of context and the potential for misinterpretation. This nuanced approach aligns with the principles of fairness and morality, acknowledging the complexity of the issue without oversimplifying it.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the ongoing emotional tension in the conversation and encourages a more nuanced, fact-based discussion. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context, as it reflects a fair and balanced approach to resolving the conflict without taking sides. The message effectively invites participants to focus on learning from the situation rather than reiterating grievances.",
+        "score": 5
+    }
+}

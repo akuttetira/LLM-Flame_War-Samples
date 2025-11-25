@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging that the Capitol invasion was not a peaceful protest but also recognizing that not all Trump supporters are violent. It correctly identifies that the argument about the invasion being a 'peaceful protest' is more defensible than the blanket condemnation of all Trump supporters. However, the mediation does not clearly specify which side is entirely correct, and the supporting arguments are somewhat vague. It avoids taking a definitive stance on the morality of the situation, which is appropriate given the complexity of the issue. The message is neutral and does not attempt to assign blame, which is fair given the context of the discussion.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the emotional state of the participants and encourages a focus on facts and respectful dialogue. The message is directly relevant to the conversation, which involves heated discussions about police brutality, political violence, and subreddit policies. The tone is natural and could conceivably be written by a user aiming to foster positive dialogue. However, it is somewhat vague in its specific guidance and does not directly address the contentious issues raised in the conversation. It provides a general framework for improvement but lacks concrete steps or examples to guide the discussion effectively.",
+        "score": 4
+    }
+}

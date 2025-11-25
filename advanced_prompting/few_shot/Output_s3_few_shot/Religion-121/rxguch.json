@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges a nuanced position by distinguishing between contexts where facts and feelings matter, which shows some understanding of the discussion. However, it does not clearly state which side is more in the right, nor does it provide strong arguments to support its position. The statement is somewhat vague and does not fully address the core philosophical debate about the nature of truth, contradiction, and the role of facts in discussions. This fits best with a mid-level score where there is some nuance but no clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is somewhat generic and lacks the specific, constructive guidance needed to improve the dialogue. While it acknowledges the difficulty of agreement and suggests focusing on shared values, it doesn't offer concrete steps or a clear direction for the conversation. This makes it less effective as a steering message compared to more specific and actionable guidance. It fits a score of 2 because it is not truly conciliatory or relevant in a way that would significantly improve the dialogue.",
+        "score": 2
+    }
+}

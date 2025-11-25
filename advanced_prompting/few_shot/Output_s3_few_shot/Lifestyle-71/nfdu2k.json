@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the individuals expressing their health-related opinions and defending their right to make informed decisions are more in the right, aligning with common moral and ethical standards. It acknowledges the diversity of perspectives on vaccination while emphasizing the importance of respecting individual choice. However, it does not provide strong, specific arguments or evidence to back up its position, which slightly reduces its score. This fits with a 4, as it is correct but could be more substantiated.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages respectful disagreement, which is appropriate for the context. It sets a clear boundary for respectful dialogue without being overly prescriptive. However, it is somewhat generic and could come off as more like a standard moderation guideline rather than a tailored mediation. It has a moderate chance of guiding positive dialogue and fits well within the steering score range. This aligns with a score of 3.",
+        "score": 3
+    }
+}

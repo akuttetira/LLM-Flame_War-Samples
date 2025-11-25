@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a balanced view, acknowledging the validity of Madison's allegations while also recognizing the complexity of the situation. It does not outright dismiss the allegations but also does not uncritically accept them. The mediation correctly ascertains that the argument for considering Madison's allegations is more defensible, which aligns with common morality and fairness principles. The argument is supported by the context of the conversation, where there are discussions about the potential seriousness of the allegations and the need for careful consideration. However, the mediation does not fully resolve the debate but rather presents a nuanced position that acknowledges the complexity of the situation. This makes it a 4 in the judgement metric.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more balanced and constructive direction. It acknowledges the high emotions in the thread and suggests focusing on supporting both Madison and LMG. However, the message is somewhat vague and does not directly address the specific issues or arguments presented in the conversation. It lacks specificity in terms of what steps can be taken to separate facts from emotions and does not provide clear guidance on how to move forward. The message is natural in context but could be more direct and actionable.",
+        "score": 3
+    }
+}

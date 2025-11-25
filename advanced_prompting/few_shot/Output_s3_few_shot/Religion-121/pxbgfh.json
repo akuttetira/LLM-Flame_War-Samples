@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion is primarily about Christian theology, specifically the nature of the Trinity, and that the person engaging in personal attacks and refusing to engage constructively is not in the right. The statement acknowledges the complexity of the theological debate and the importance of respectful dialogue, which aligns with the principles of fairness and neutrality. However, it does not provide detailed arguments or references to specific theological texts to support its position, which slightly reduces its score. This fits a score of 4 as it correctly identifies the more reasonable party but could have been more thorough in its reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation politely redirects the conversation from personal attacks to the specific topic of the Christian trinity, which is relevant and constructive. It is clear, respectful, and encourages the participants to engage in a more focused and productive discussion. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

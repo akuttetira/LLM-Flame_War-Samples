@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output correctly identifies that the claim about hate groups distributing child exploitation material is more concerning and deserving of condemnation than the claim that some users are hateful or dishonest. The mediation acknowledges the severity of the issue of hate groups using child exploitation material as a tool for harassment and false flagging, which is a serious and alarming practice. However, the mediation does not clearly specify which side is in the right in terms of the original debate between the AHS subreddit and the hate groups. It focuses more on the severity of the hate group actions rather than directly addressing the moral or factual correctness of the claims made by either side. The mediation is informative and highlights the dangers of hate groups, but it does not fully resolve the debate or provide a clear moral judgment on which side is more correct based on common morality and fairness principles.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the core issue of hate groups using Reddit to spread child exploitation material, which is relevant to the conversation. The message encourages a focus on the actual harm being done rather than speculative motivations, which is natural in the context of the conversation. It avoids taking sides and instead promotes a constructive dialogue around the real issue. The message is not overly parental or computer-generated and has a high chance of guiding positive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that the person defending the referee's kindness and impartiality is more in the right. This assessment is based on the argument that the defender is advocating for respect and kindness, which aligns with common morality and fairness principles. The other posters are described as aggressive and inflammatory, which undermines their credibility. However, the mediation does not provide detailed supporting arguments for why the defender is correct, and it is somewhat vague in its characterization of the other posters. The judgment is clear but lacks the depth needed for a 5. It correctly identifies the more reasonable side but does not fully back up its position with specific reasoning.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more respectful and constructive discussion. It acknowledges the need for civility and shifts the focus to the referee's performance, which is a relevant topic in the conversation. The message is natural in context and could conceivably be written by a user, making it productive and likely to guide positive dialogue. However, it is somewhat vague in its approach and does not explicitly address the underlying tensions between the participants. It successfully steers the conversation away from personal attacks but does not offer a clear path forward or encourage deeper discussion.",
+        "score": 4
+    }
+}

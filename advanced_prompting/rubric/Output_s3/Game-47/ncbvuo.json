@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the users pointing out the suspicious behavior of certain users defending Epic are more in the right. The argument is supported by the conversation where multiple users discuss the presence of coordinated or paid advocates for Epic, and the frustration with the lack of moderation against such behavior. The mediation acknowledges the concern about potential shill activity without dismissing the legitimacy of the concerns. However, it does not fully address the counterargument that some users may genuinely support Epic for valid reasons. The judgment is fair and based on the evidence presented in the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the tension in the conversation and encourages a more focused discussion on specific behaviors and evidence rather than generalizations. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

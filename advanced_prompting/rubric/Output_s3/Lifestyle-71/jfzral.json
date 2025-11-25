@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that individuals who are calling out their mother's toxic behavior and advocating for setting boundaries are in the right. This is supported by the conversation where multiple users describe their mothers' toxic behavior, including emotional manipulation, gaslighting, and invalidation of their feelings. The mediation acknowledges the importance of standing up for oneself and setting boundaries, which aligns with common morality and fairness principles. However, it does not fully address the complexity of the situation, such as the potential mental health issues underlying the mother's behavior or the difficulty of enforcing boundaries in such situations. The judgement is clear and supported by the context of the conversation.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the shared experiences and offers helpful suggestions for dealing with toxic family members. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the defenders of the original poster are more in the right than those dismissing the roast. The argument is based on the context of the conversation, where the roast is being discussed in a humorous and relatable way, and the defenders are addressing the behavior of a troll. The mediation acknowledges the humor and relevance of the roast while criticizing the troll's behavior. However, the mediation does not fully address the underlying issues of online behavior and the potential for harassment, which could have been more clearly articulated. The judgement is reasonable and supported by the context of the conversation, though it could have been more nuanced in its analysis.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards the main topic of discussion, which is the roast. It acknowledges the existing conversation and suggests focusing on the jokes rather than the drama. The message is relevant and natural in the context of the conversation, encouraging participants to engage with the content rather than the controversy. However, it is somewhat vague in its guidance and does not explicitly address the underlying issues or provide a clear direction for the discussion. It is not overly parental or computer-generated, but it lacks the specificity needed for a 5. Overall, it scores a 4 for being conciliatory and relevant, but with some vagueness.",
+        "score": 4
+    }
+}

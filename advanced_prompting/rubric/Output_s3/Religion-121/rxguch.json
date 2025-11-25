@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output attempts to evaluate the argument about the importance of facts versus feelings in discussions. It suggests that the position that facts don't matter in certain contexts, but feelings do, is more defensible than the blanket dismissal of facts. However, this evaluation is somewhat vague and does not clearly establish which side is more correct based on common morality and fairness principles. The mediation does not provide strong supporting arguments for its position and lacks a clear resolution of the underlying debate. It also does not specify a neutral position, which is necessary for a fair mediation. The message is somewhat conciliatory but lacks the specificity and clarity needed to effectively guide the conversation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The steering message is conciliatory and acknowledges the difficulty of reaching agreement. It suggests a respectful approach by agreeing to disagree and focusing on matters that matter to each participant. The message is natural in context and could conceivably be written by a user. However, it is somewhat vague and does not provide specific guidance on how to move forward in the conversation. It avoids taking a strong stance but also does not offer a clear path for constructive dialogue.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the valid concerns about the online mode's issues while also recognizing that dismissing the game entirely is not the right approach. It correctly identifies that the lack of meaningful content and grind-heavy gameplay are significant issues, which is supported by multiple user comments. However, it does not fully specify a clear right or wrong side but rather offers a balanced perspective. The judgment is reasonable and fair, but it could have been more explicit in its conclusion. The score is a 4 because the judgment correctly ascertains which side is in the right and has strong supporting arguments, but it does not fully specify a correct side or neutral position with complete confidence.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the frustration expressed in the conversation and shifts the focus towards discussing specific changes that could improve the game. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message encourages a constructive discussion rather than reinforcing negative sentiments, which is appropriate for a mediation scenario.",
+        "score": 5
+    }
+}

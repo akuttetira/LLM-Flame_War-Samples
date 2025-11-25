@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to clarify that the employee who reminded the colleague about the parents' relationship is more in the right, but it does so in a somewhat vague and unconvincing manner. It does not provide clear, supported reasoning for why one side is more justified than the other, and the argument is not well-constructed. This fits a score of 3, as it partially addresses the issue but lacks strong support and nuance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, aiming to redirect the conversation towards the specific behaviors that led to the warning rather than personal opinions or underlying issues. It encourages a more constructive dialogue by focusing on actionable points. While it is somewhat generic, it is still natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

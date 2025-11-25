@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges a nuanced perspective by recognizing that Billet Labs may have been coerced or unaware of the implications of lending a prototype without an NDA, which is a more balanced and reasonable stance compared to the blanket accusation against LTT. However, it still does not clearly determine which side is more in the right and lacks strong, concrete arguments to support its position. This fits with a score of 3, as it offers some nuance but does not fully address the core issue with sufficient clarity or strength.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a more nuanced discussion about the situation, which is appropriate given the complex nature of the conversation. It acknowledges the possibility that Billet Labs may have been taken advantage of, which shows some understanding of the opposing viewpoints. However, the message is somewhat generic and could be seen as overly simplistic or even paternalistic. It does not directly address the specific legal and ethical concerns raised in the conversation. This fits with a score of 3, as it is conciliatory but lacks the specificity and naturalness needed for a higher score.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly acknowledges the nuanced nature of the debate around whether Messi intentionally kicked a French jersey, recognizing that both sides present valid points and evidence. It does not take a clear stance on the issue, which is appropriate given the complexity of the situation. However, it lacks a clear determination of who is more in the right, which is necessary for a judgement. This fits a score of 3 as it offers some nuance but does not clearly state which side is more correct.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, as it encourages focusing on the actual facts and context of the incident rather than personal attacks. It suggests a constructive direction by asking about the context and impact on the game. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

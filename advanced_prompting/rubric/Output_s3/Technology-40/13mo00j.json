@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output provides a nuanced analysis of the leadership structure debate, acknowledging the complexity of the situation and the potential issues with authority blurring. It correctly identifies that allowing Linus to overrule Terren as CEO is more problematic than the reverse, as it undermines Terren's role and creates ambiguity in authority. The reasoning is sound and reflects an understanding of the dynamics at play. However, it does not explicitly determine which side is entirely correct, which might be seen as a slight lack of clarity in the final judgment. Overall, the mediation is fair, balanced, and provides a reasonable perspective on the issue.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the situation and suggests a balanced approach. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. The message is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

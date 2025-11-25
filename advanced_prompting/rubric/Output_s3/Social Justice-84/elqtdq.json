@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the argument presented. It recognizes the critique of the Democratic Party's shift towards the center as a significant issue and contrasts it with the more simplistic characterization of all critics of Trump as right-wing fanatics. This approach reflects a balanced view, acknowledging valid concerns on both sides without taking a definitive stance on which is entirely correct. The judgment is supported by the context of the conversation, which includes discussions about political polarization and the Democratic Party's strategy. However, it does not fully resolve the underlying tensions or provide a clear resolution to the conflict, which could be improved with more concrete analysis of the specific claims made. The score reflects a middle ground between a clear judgment and a more neutral stance.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the conversation by focusing on the substance rather than personalities or labels. It is relevant to the conversation, which involves heated political discourse and accusations of stereotyping. The message is naturally phrased and could conceivably be written by a user seeking to foster more constructive dialogue. However, it is somewhat vague in its guidance and does not offer specific direction on how to move forward in the discussion. It is neutral and avoids taking sides, which aligns with the goal of steering the conversation productively.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly attempts to judge the conversation but fails to address the actual content. The conversation is about the psychological impact of phrases like 'we need to talk' and the manipulation by narcissistic parents, not about video games or monetization. The mediation is irrelevant to the discussion and does not provide any meaningful judgment or analysis of the conversation. This fits with a low score as it is completely off-topic and fails to engage with the actual issues presented.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The generated mediation is not relevant to the conversation, which revolves around anxiety-inducing phrases and their psychological impact. It shifts the focus to predatory monetization, which is completely off-topic. This makes it highly unlikely to guide positive dialogue and feels completely foreign to the conversation. This fits with a score of 1.",
+        "score": 1
+    }
+}

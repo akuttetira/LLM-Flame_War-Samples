@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person attempting to clarify the original post's intent and avoid misinterpretation is more in the right. The argument is nuanced, acknowledging that the original post could be interpreted in different ways, and that the other party is pushing the discussion into political territory. The mediation provides a balanced view, recognizing the validity of both perspectives without taking a definitive stance on the interpretation of the hand gesture and text. It also emphasizes the importance of avoiding political implications, which aligns with the original conversation's context. The reasoning is fair and supports the side that is trying to clarify the intent rather than misinterpret it as a political statement.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of the conversation veering off-topic and into personal attacks, encouraging a return to the original post and its intended meaning. The message is natural in context, clearly aimed at guiding the conversation back to a respectful and focused discussion. It does not take sides but instead emphasizes the need for civility and relevance, which aligns well with the conversation's dynamics.",
+        "score": 5
+    }
+}

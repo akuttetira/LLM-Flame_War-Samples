@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the global popularity and financial viability of soccer while addressing the specific context of the US. It correctly identifies that the argument about soccer's global status is more compelling than the dismissive stance toward it. The judgment is neutral but acknowledges the broader context, which is appropriate given the discussion. However, it does not clearly specify which side is entirely correct, which could be more definitive. The reasoning is sound but lacks the strongest possible support for a clear-cut conclusion.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to steer the conversation towards a more balanced perspective. It acknowledges the emotional aspect of the debate while highlighting the global appeal of soccer. However, it is somewhat vague and does not directly address the specific arguments made in the conversation, such as the economic comparisons between sports. The message is natural in context but lacks specificity in guiding the dialogue towards a constructive direction. It does not strongly challenge the points made by either side but instead suggests a more neutral stance, which is appropriate given the nature of the discussion.",
+        "score": 4
+    }
+}

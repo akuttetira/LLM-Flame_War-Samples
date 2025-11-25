@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges both the skill and age factors affecting Messi's performance. It correctly identifies that while Messi is generally well-marked, the situation in the game involved specific tactical and physical factors (age and fatigue of defenders) that contributed to the goal. The judgment is reasonable and balanced, acknowledging the complexity of the situation without taking an overly simplistic stance. The argument is supported by the comments in the conversation, which mention both Messi's skill and the defensive challenges faced by Mexico. The mediation does not impose a clear 'right' answer but instead offers a more sophisticated analysis of the factors at play.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more balanced discussion. It acknowledges Messi's skill while also suggesting a more strategic perspective on team tactics. The message is relevant to the conversation and natural in context, as it addresses the technical aspects of soccer strategy without taking sides. It encourages a productive dialogue by shifting the focus from just praising Messi to discussing team strategies. The message is not overly parental or computer-generated, and it has a high chance of guiding positive dialogue.",
+        "score": 5
+    }
+}

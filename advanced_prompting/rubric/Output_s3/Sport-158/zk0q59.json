@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output incorrectly determines which side is in the right. BuckChintheRealtor's comments are inflammatory and off-topic, while CopyPetPet's responses are more constructive and fact-based. The mediation incorrectly claims BuckChintheRealtor is more in the right, which is not supported by the conversation's content or principles of fairness. The judgement fails to acknowledge the inappropriate nature of BuckChintheRealtor's remarks and does not provide a balanced or neutral assessment.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the issue of the conversation drifting off-topic and encourages a return to the main subject of discussion. The message is natural in context and would be believable as a user-generated response. It aims to guide the conversation back to a positive and respectful dialogue about the golden glove winner without imposing any specific viewpoint.",
+        "score": 5
+    }
+}

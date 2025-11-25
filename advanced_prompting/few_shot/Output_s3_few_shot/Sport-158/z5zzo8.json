@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the comments by suggesting that the commenters are more in the right for offering support and solutions. However, it does not clearly define what is morally or ethically correct in the situation, nor does it provide strong or nuanced arguments to support its position. The assessment is somewhat vague and lacks the depth needed for a strong judgement.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the conversation, encouraging a more supportive and less judgmental approach. It suggests focusing on the person in a tough spot and offering encouragement rather than making assumptions. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

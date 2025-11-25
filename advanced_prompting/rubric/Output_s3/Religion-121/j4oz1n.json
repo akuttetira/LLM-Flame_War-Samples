@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the analysis of the video's audio and visual elements by users who point out the potential audio cut and frame-by-frame analysis is more accurate than those dismissing it as a morph cut without evidence. The mediation acknowledges the technical aspects of video editing and the visible inconsistencies in the video, which are supported by multiple users in the conversation. However, the mediation does not clearly specify which side is entirely correct or provide a neutral position, but it does offer a balanced view by recognizing the merits of both sides. The score is a 4 because the mediation correctly ascertains which side is more in the right and has strong supporting arguments, but it does not fully specify a correct side or neutral position with complete confidence.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It encourages a civil and fact-based discussion, acknowledging the concern about Trump's health without taking sides. It redirects the conversation towards the implications of a president's health on the country, which is relevant and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

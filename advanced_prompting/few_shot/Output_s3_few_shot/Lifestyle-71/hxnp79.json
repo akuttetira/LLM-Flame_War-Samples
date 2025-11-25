@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The judgement correctly identifies that the experiences shared by the users are valid and more in line with the reality of being emotionally manipulated and controlled by narcissistic parents. It acknowledges the harm caused by such dynamics and contrasts it with the dismissive or minimizing perspectives. However, it does not provide strong, specific arguments or evidence from the conversation to back up this claim. This fits a mid-level score where there is some correctness but lacks the depth and support needed for a higher score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages a positive reframing of the experiences shared, which is relevant to the conversation. It acknowledges the pain of the participants while promoting healing and mutual support. However, it is somewhat generic and could sound more like an AI-generated response rather than a genuine, natural steering message. It has a good chance of guiding positive dialogue but falls slightly short of being as natural or specific as a 5. This aligns with a score of 4.",
+        "score": 4
+    }
+}

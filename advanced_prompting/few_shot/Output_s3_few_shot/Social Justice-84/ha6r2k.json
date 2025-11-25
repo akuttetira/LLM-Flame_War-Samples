@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the claim 'most of those mods are white' is more defensible than the blanket statement that all mods are white. It acknowledges the complexity of the issue and provides a nuanced perspective, which is appropriate for a judgement. However, it does not clearly state which side is more in the right, nor does it provide strong, concrete arguments to back up its position. This fits with a score of 3, as it offers some nuance but lacks a clear verdict or strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and aims to guide the conversation towards more specific examples and experiences rather than general accusations. It is relevant to the discussion and encourages a more constructive approach. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This fits a score of 3, as it is conciliatory but lacks the specificity and naturalness needed for a higher score.",
+        "score": 3
+    }
+}

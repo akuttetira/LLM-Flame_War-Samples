@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person explaining Christian theology is more in the right, as they are engaging in a detailed discussion about religious concepts and scripture, while the other person is making personal attacks and refusing to engage constructively. The judgement acknowledges the complexity of the theological discussion and the lack of constructive dialogue from the other side. The supporting arguments are strong and based on the content of the conversation, making this a valid and fair judgement.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the conversation by shifting the focus to the actual topic of the Christian trinity while discouraging personal insults. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively steers the conversation towards a more constructive and respectful discussion.",
+        "score": 5
+    }
+}

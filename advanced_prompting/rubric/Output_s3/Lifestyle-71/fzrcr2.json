@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a judgment that acknowledges the parent's perspective as a necessary and humorous response to a child's accident, while critiquing the attackers for using harsh language. This judgment is based on common morality and fairness principles, recognizing the parent's situation as a challenging and relatable scenario. The supporting arguments are reasonable and contextually appropriate, though they could be more explicitly grounded in specific ethical or practical considerations. The judgment is clear and specifies a correct side, with reasonable backing arguments.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to redirect the conversation towards a more constructive and positive direction. It acknowledges the potentially offensive nature of the original comments and suggests a more productive topic for discussion. The message is natural in context, as it encourages participants to focus on shared experiences rather than personal attacks. However, it is somewhat vague in its guidance and does not directly address the specific issue at hand. While it has a high chance of guiding positive dialogue, it lacks specific direction and could be seen as overly generic in its approach.",
+        "score": 4
+    }
+}

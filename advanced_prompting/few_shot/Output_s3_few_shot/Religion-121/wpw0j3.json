@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly asserts that the argument over Aisha's marriage is more flawed than the claim that it was a marriage to a minor. This is a clear misjudgment as both sides present strong historical and textual arguments. The mediation fails to provide a balanced analysis and instead leans on a biased conclusion without sufficient support. This fits with a low score as it incorrectly determines which side is more in the right and lacks strong, neutral arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the core issue of presentist biases and encourages a focus on historical context and evidence. It acknowledges the deep investment of both sides while steering the conversation towards a more objective analysis. The message is relevant, conciliatory, and has a good chance of guiding positive dialogue. However, it is somewhat generic and could benefit from more specific references to the conversation's content. This aligns with a score of 4.",
+        "score": 4
+    }
+}

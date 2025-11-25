@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about France's training programs and diverse population is more defensible than the claim that the team's players are inherently African. It provides a clear judgment and supports it by acknowledging the role of France's football infrastructure. However, it could have been more nuanced in addressing the complexity of identity and heritage in sports. This fits a 4, as it correctly identifies the more defensible position with good arguments, though not perfect.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation directly addresses the main topic of Mbappe's achievement and encourages the conversation to stay focused on that, while avoiding distractions related to nationality and ethnicity. It is concise, relevant, and aims to guide the discussion in a more constructive direction. However, it is somewhat generic and lacks the specific context or nuance of the conversation. This fits a score of 4, as it is effective in steering the conversation but could be more tailored to the specific dynamics of the discussion.",
+        "score": 4
+    }
+}

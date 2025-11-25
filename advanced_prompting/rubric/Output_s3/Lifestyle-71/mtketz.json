@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the perspectives of both the original comment author and the critics. It acknowledges the original comment's intent to offer support and encouragement, which is a positive aspect. However, it also recognizes the criticism about the comment's approach being flawed and potentially triggering. The judgement is somewhat neutral, suggesting the original author is 'more in the right' but without strong supporting arguments. The reasoning is reasonable but lacks depth in explaining why the original author is considered more right, and it doesn't fully address the concerns raised by the critics about the comment's potential harm. The judgement is not entirely clear-cut and doesn't provide a strong justification for its position.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more supportive direction. It acknowledges the current tone of the discussion and suggests a more constructive approach by encouraging the sharing of personal experiences. The message is relevant to the context of the conversation, which revolves around empathy, healing, and support for abuse victims. However, it is somewhat vague in its specific guidance and does not directly address the issues raised in the original comment or the concerns about generalizations. The message is natural in context but could be more specific in its steering to effectively guide the conversation towards a more positive and supportive dialogue.",
+        "score": 3
+    }
+}

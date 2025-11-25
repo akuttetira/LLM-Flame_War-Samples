@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument acknowledging both countries' fans have racist tendencies is more reasonable than the blanket accusation against all Argentine fans. It addresses the issue of generalization and fairness, which is important in the context of the conversation. However, it doesn't go far enough to clearly state which side is more in the right or provide stronger support for its position. This fits a score of 3 as it offers a nuanced perspective but lacks strong, concrete arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively addresses the issue of generalizing racism across entire nations and encourages a focus on the positive aspects of the sport. It is conciliatory, relevant, and has a good chance of guiding positive dialogue. However, it is somewhat generic and could feel a bit like a standard AI response. This fits with a score of 4.",
+        "score": 4
+    }
+}

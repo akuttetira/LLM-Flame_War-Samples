@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about Linus's genuine care for his former employees is more convincing than the claims of malicious intent or PR stunts. It acknowledges the complexity of the situation and provides a balanced assessment based on the conversation. However, it does not fully address the nuances of the debate, such as the role of internet cynicism and the possibility of past behavior influencing current perceptions. This fits with a score of 4, as it offers a reasonable and balanced judgment with some supporting reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, encouraging a focus on positive aspects of the relationship and Linus's willingness to learn from past mistakes. It avoids taking sides and promotes a constructive dialogue by shifting the focus to positive elements. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

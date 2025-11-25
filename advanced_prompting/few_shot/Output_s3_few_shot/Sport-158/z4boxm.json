@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the argument by recognizing that supporting a national team does not necessarily equate to supporting the government, which shows some nuance. However, it does not clearly state which side is more in the right or provide strong, concrete arguments to support its position. This fits better with a mid-level score where there is some nuance but no clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, aiming to shift focus away from political disagreements and toward the event itself. It acknowledges the possibility of disagreeing with the government while still supporting the team, which is a balanced and reasonable approach. However, it feels somewhat generic and could come off as overly prescriptive, lacking the natural tone of a human mediator. This fits with a score of 4, as it is effective in guiding the conversation but not entirely natural or tailored to the specific context.",
+        "score": 4
+    }
+}

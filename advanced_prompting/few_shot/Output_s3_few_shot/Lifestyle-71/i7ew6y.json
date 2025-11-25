@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument for single motherhood being inherently admirable is more problematic than the counterpoint about some fathers not being worthy of recognition. It acknowledges the complexity of the issue and provides a nuanced perspective, though it does not fully engage with the specific arguments presented in the conversation. This fits a score of 3 as it offers a partially supported take but lacks the depth and clarity of a 5.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the discussion, aiming to focus on supporting single parents without stigmatizing or praising one group over another. It acknowledges the challenges and celebrates resilience, which aligns with the conversation's themes. However, it is somewhat generic and could feel more like a standard parental advice rather than a nuanced response to the specific discussion. This fits a score of 4 as it is relevant and has a good chance of guiding positive dialogue.",
+        "score": 4
+    }
+}

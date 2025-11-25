@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the dispute over who sent the email and to whom is a matter of process and accountability, not the email itself. Both sides have valid points, with the key issue being the misunderstanding and the subsequent actions taken. The mediation acknowledges the complexity of the situation and the need for accountability without taking a definitive stance on who is entirely right or wrong. This approach is fair and balanced, recognizing the nuances of the situation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the frustration and redirects the conversation towards improving processes rather than assigning blame. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message encourages collaboration and problem-solving, which aligns with the goal of resolving the communication issues discussed in the conversation.",
+        "score": 5
+    }
+}

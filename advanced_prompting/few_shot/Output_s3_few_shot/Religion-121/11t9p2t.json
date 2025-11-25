@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation attempts to acknowledge the complexity of the discussion but fails to clearly determine which side is more in the right. It incorrectly contrasts the argument about patriarchal societies with the argument about modern games, which is irrelevant to the topic. The mediation does not provide strong or clear arguments to support its position, and it misrepresents the debate. This fits with a score of 2, as it does not correctly determine which side is in the right and lacks strong supporting arguments.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation encourages a more factual and less generalized discussion by focusing on specific examples of patriarchal societies and their impact on women's rights. It acknowledges the passion of both sides but steers the conversation towards constructive, fact-based dialogue. However, it is somewhat generic and could be more tailored to the specific context of the conversation. This fits a score of 4 as it is relevant and conciliatory but could be more specific and natural.",
+        "score": 4
+    }
+}

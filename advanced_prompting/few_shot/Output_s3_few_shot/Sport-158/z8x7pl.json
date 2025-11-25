@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to address the debate by suggesting that the claim about human rights being non-negotiable is more problematic. However, it does not clearly determine which side is more in the right, nor does it provide strong or nuanced arguments to support its position. The statement is somewhat vague and does not fully engage with the complexity of the discussion. This aligns with a score of 3.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation directly addresses the issue of hate speech and personal attacks, which are central to the conversation. It encourages a constructive discussion about defining and addressing hate speech without escalating tensions. While it is slightly generic and could be more specific, it is still relevant and likely to guide positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

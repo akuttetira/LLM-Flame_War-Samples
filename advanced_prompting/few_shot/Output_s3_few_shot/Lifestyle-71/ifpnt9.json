@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the advocates for immediate action and seeking help from authorities are more in the right, as they prioritize the OP's safety and well-being. The argument is based on the severity of the situation and the legal protections in place. However, the mediation does not fully address the nuances of the situation, such as the legal aspects and the potential for legal recourse after escaping. It also lacks detailed support for its position, which slightly reduces its score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the situation, offering clear, actionable steps for the person in danger. It provides specific resources and emphasizes reaching out to authorities or trusted adults, which is crucial in this context. While it is somewhat generic, it is still natural and practical, making it a good guide for positive dialogue. This aligns with a score of 4.",
+        "score": 4
+    }
+}

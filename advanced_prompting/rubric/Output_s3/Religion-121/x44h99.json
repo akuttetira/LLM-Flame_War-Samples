@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person questioning the definition of evolution is more in the right, as the conversation revolves around the definition and understanding of evolution. The mediator acknowledges the complexity of the concept and the importance of clear definitions, which is fair and neutral. However, the judgement does not fully back up its position with detailed arguments, as it is more of an observation than a comprehensive analysis. The mediator also does not explicitly state that one side is entirely correct, which aligns with a neutral position. The score is a 3 because the judgement correctly ascertains which side is in the right but does not have solid backing arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion and invites the participants to focus on specific aspects of evolution. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message encourages clarity and focus without dismissing any perspectives, which is appropriate given the ongoing debate.",
+        "score": 5
+    }
+}

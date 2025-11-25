@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the user who pointed out eBay sellers as the real victims is in the right, while the other user's personal attack is inappropriate. It provides a clear judgment and supports it by referencing the content of the conversation. This aligns well with the criteria for a 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages a more respectful dialogue by addressing the issue of name-calling. It shifts the focus to the PS5 launch and its impact on the gaming community, which is relevant to the conversation. While it is slightly generic and could come across as overly formal, it effectively guides the discussion toward a more constructive direction. This aligns with a score of 4.",
+        "score": 4
+    }
+}

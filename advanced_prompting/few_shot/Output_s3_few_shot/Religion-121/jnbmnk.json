@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument emphasizing the importance of every vote is more defensible than the blanket claim that voting is pointless. It acknowledges the validity of the concern about voter suppression but shifts the focus to the broader significance of voting. However, it does not fully address the nuanced debate around the impact of voting in different contexts or the systemic issues in the electoral process. This makes it a mid-level score where there is some nuance but not a clear, well-supported verdict.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation acknowledges the issue of voter suppression but shifts the focus to making voting more accessible and inclusive, which is a constructive and neutral approach. It avoids reinforcing the idea that not voting is a valid response to voter suppression and instead encourages a positive direction. The message is relevant to the conversation and has a good chance of guiding positive dialogue. However, it is somewhat generic and could be more specific in its suggestions. This fits well with a score of 4.",
+        "score": 4
+    }
+}

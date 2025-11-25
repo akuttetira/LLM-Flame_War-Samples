@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to acknowledge the complexity of the email dispute, recognizing that both sides have valid points. However, it fails to clearly determine which side is more in the right or provide strong, concrete arguments to support its position. The statement is somewhat vague and does not fully address the core issue of accountability and communication failures. This fits a mid-level score where there is some nuance but no clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages the participants to focus on improving processes rather than assigning blame, which is relevant to the ongoing discussion about communication failures and workplace issues. It invites specific, constructive ideas for improvement and is reasonably natural in context. However, it is somewhat generic and could sound a bit like an AI-generated response. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

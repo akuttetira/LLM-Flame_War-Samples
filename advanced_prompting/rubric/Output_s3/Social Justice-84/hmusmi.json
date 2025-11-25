@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging the complexity of the issue. It recognizes that both sides have valid points but emphasizes the concerning behavior of the latter group, which is more aligned with the discussion's context. The judgement does not take a clear side but highlights the problematic actions of the group that downvotes and brags. This approach is fair and nuanced, though it could have provided more specific reasoning for why the latter group's actions are more concerning. Overall, the judgement is well-reasoned and aligns with the conversation's context.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation output is a steering message that encourages the participants to focus on specific examples and evidence. It is conciliatory, asking for clarification and specific instances rather than making definitive judgments. The message is relevant to the conversation, as it seeks to move the discussion towards factual examples rather than emotional or polarizing language. It is natural in context and could conceivably be written by a user aiming to facilitate a more productive dialogue. The message does not take a side but instead guides the conversation towards more concrete information, which is a positive approach for mediation.",
+        "score": 5
+    }
+}

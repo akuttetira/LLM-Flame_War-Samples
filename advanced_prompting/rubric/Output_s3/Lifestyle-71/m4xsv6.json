@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output does not directly judge which side is correct in the discussion but instead acknowledges the complexity of the topic. It recognizes the nuanced perspective of the original post and the concerns of the moderators about toxic positivity. However, it does not clearly specify a correct side or a neutral position, which is necessary for a proper judgment. The message is somewhat neutral but lacks the clarity and conviction needed for a 5. It is more of a 3 because it acknowledges the complexity but does not definitively determine which side is right or wrong.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the intent to support each other while encouraging focus on specific issues and avoiding assumptions. The message is directly relevant to the conversation, which involves differing viewpoints on unconditional love and forgiveness in the context of abusive parenting. It is natural in context and could conceivably be written by a user, as it promotes respectful dialogue without taking sides. The message effectively steers the conversation towards a more constructive and empathetic direction.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the underdog status and team spirit of Croatia while also addressing the criticism of their tactics. It recognizes that some users are unfairly malming Croatia's performance, which is a fair assessment of the conversation. However, the mediation does not fully resolve the broader debate about the merits of both teams' performances or the fairness of the match outcome. It also does not clearly specify which side is entirely correct, which is a limitation in a judgment context. The judgment is reasonable but lacks the strong backing arguments needed for a 5. It is more aligned with a 4 because it correctly identifies a defensible position but with some uncertainty.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion in the conversation and shifts the focus to positive aspects of the match, which can help de-escalate tensions. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The tone is respectful and aims to foster a more constructive discussion.",
+        "score": 5
+    }
+}

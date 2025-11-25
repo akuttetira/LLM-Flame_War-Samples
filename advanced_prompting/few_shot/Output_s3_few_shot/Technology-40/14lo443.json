@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to determine which side is more in the right by favoring the defenders of the official Reddit app. However, it lacks a balanced analysis of the conversation, which includes multiple perspectives on app performance, user experiences, and the broader context of the situation. The mediation does not adequately address the validity of the criticisms about the app's performance on Android or the concerns of users who feel the app is not meeting their needs. This makes the judgement somewhat one-sided and not fully supported by the conversation's content.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages participants to share personal experiences, which is relevant to the discussion about the Reddit app. It avoids taking sides and focuses on understanding different perspectives, which aligns with the goal of constructive dialogue. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

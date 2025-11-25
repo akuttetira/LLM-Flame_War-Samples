@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the nuanced discussion around accessibility features and correctly identifies that the value of accessibility options is more in the right than the criticism that they might make the game too easy. It provides a clear stance in favor of accessibility while addressing the counterargument. This fits well with a score of 5 as it correctly ascertains the right side based on common morality and fairness, and clearly backs up its position with strong arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages the participants to focus on the actual features and their benefits, which is relevant to the discussion about accessibility in gaming. It invites specific, constructive ideas about favorite features and improvements, which could guide positive dialogue. However, it is somewhat generic and could sound a bit like an AI, though it is still reasonably natural and has a good chance of improving the dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the discussion around hell and biblical interpretations, which is accurate given the conversation. However, it does not clearly state which side is more in the right, nor does it provide strong arguments to support its position. The statement is somewhat vague and lacks the depth needed to convincingly assert a position on the matter. This fits with a score of 3, as it offers some nuance but does not clearly determine who is more correct or provide strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message is conciliatory and encourages respectful dialogue by focusing on the content of the posts rather than personal attacks. It addresses the issue of insults and assumptions, which are present in the conversation, and suggests a more constructive approach. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

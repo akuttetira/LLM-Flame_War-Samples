@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the moral wrongness of using Arbery's past actions as justification for his murder and states that this is not supported by evidence. It provides a clear, principled stance against the unjustified use of past actions to legitimize violence. The argument is strong and aligns with common morality and fairness, making this a 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the discussion, encouraging a focus on facts and respectful dialogue. It directly addresses the issue of making assumptions based on past actions and promotes civil discourse. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

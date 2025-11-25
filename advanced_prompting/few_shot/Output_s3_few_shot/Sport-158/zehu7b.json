@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about France's squad quality and England's weaknesses is more convincing than the claim that England can easily win. It acknowledges the strengths of both sides but clearly favors the former argument with a reasonable explanation. This fits a score of 4 as it provides a nuanced assessment with some supporting reasoning.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant, as it shifts the focus from national pride and hypotheticals to the actual teams and players. It invites specific, constructive thoughts about England\u2019s chances, which aligns with the conversation's context. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

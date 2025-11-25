@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation output does not clearly ascertain which side is correct or provide a neutral position. It acknowledges the complexity of the situation but does not offer a definitive judgment on whether the original poster's approach was appropriate or not. The output is somewhat neutral but lacks the clarity and directness needed for a strong judgment. It does not fully engage with the arguments presented in the conversation, such as the distinction between honesty and diplomacy, or the context of workplace communication. As a result, it falls short of the 5-point standard for a judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation output is a steering message that encourages constructive dialogue by suggesting the exploration of communication strategies and the impact of personality and environment on conflict resolution. It is conciliatory, relevant to the conversation, and natural in context. The message does not take a side but instead invites the participants to reflect and discuss, which aligns with the goal of fostering positive dialogue. The message is vague in its specific suggestions but remains productive and supportive.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to judge which side is correct by asserting that the person who called the OP's opinion 'blatant hatred' is more right than the OP. However, this conclusion is not well-supported by the conversation. The conversation is filled with back-and-forth accusations, misunderstandings, and personal attacks, with neither side clearly presenting a morally or factually stronger argument. The mediation does not provide clear reasoning for why the initial claim of 'blatant hatred' is considered correct, and it fails to address the nuances of the discussion. While it does specify a correct side, the supporting arguments are weak and not fully justified by the content of the conversation.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It directly addresses the conversation by asking for clarification and encouraging empathy. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively steers the conversation towards understanding and clarification without taking sides or being overly prescriptive.",
+        "score": 5
+    }
+}

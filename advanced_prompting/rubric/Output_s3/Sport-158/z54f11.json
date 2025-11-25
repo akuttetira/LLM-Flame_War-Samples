@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a neutral and balanced perspective, acknowledging that the argument over the popularity and profitability of soccer in the US is nuanced. It correctly identifies that there are valid points on both sides without taking a definitive stance. The message is fair, impartial, and does not favor either side, which aligns with the principles of fairness and common morality. However, it does not fully resolve the underlying debate but instead steers the conversation toward a more balanced understanding. This makes it a 4 in terms of judgement metrics, as it correctly identifies the complexity of the issue without asserting a definitive answer. The message is also conciliatory and relevant to the conversation, making it a 4 in terms of steering metrics.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It shifts the focus to factual discussion about MLS growth and progress, which is relevant to the conversation. The message is natural in context and encourages a constructive dialogue by inviting the participants to share specific examples. It avoids taking sides and promotes a neutral, fact-based discussion, which aligns with the goal of mediation. The message is not overly parental or generated, and it has a high chance of guiding positive dialogue.",
+        "score": 5
+    }
+}

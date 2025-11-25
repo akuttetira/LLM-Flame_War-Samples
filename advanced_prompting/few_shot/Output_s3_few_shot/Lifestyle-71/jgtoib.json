@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation incorrectly assumes that the people sharing their traumatic experiences are 'more in the right' than those who dismiss or make light of their situations. However, the conversation does not provide a clear moral or factual basis to determine who is 'more in the right'. The mediation also fails to address the complexity of the issue, such as the role of cultural norms, parental responsibility, and the impact of shame on young women. This makes the judgement flawed and not supported by the conversation.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages mutual learning and support, which is relevant to the shared experiences discussed. It invites constructive dialogue by focusing on being more supportive and understanding. However, it is somewhat generic and lacks specific suggestions for how to improve support or address the issues raised. This makes it a bit less natural and slightly less effective than a 5, fitting a score of 3.",
+        "score": 3
+    }
+}

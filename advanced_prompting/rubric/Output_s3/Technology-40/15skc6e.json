@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced perspective that acknowledges the complexity of the situation, recognizing that Linus's past actions, while problematic, don't automatically make him a villain. It challenges the simplistic 'pile on' approach and suggests a more balanced view. However, the mediation does not clearly determine which side is entirely correct, and it leans more towards a neutral position rather than a definitive judgment. While it offers a reasonable argument for complexity, it doesn't fully back up its position with concrete evidence or moral principles, which could be seen as a weakness in a judgment. The message is somewhat neutral and not overly aggressive, but it doesn't fully resolve the conflict or provide a clear verdict.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to guide the conversation towards a more constructive direction. It suggests separating past discussions from the current situation, which is a reasonable approach to prevent the conversation from becoming polarized. The message emphasizes the importance of supporting the accuser and avoiding premature conclusions, which aligns with the principles of fairness and respect. However, the message is somewhat vague in its guidance and does not directly address the specific issues raised in the conversation. It could be more specific in suggesting how to proceed or what to focus on. Overall, the message is productive and relevant but could be more direct and actionable.",
+        "score": 4
+    }
+}

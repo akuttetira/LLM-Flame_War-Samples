@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the issue by highlighting the systemic challenges faced by marginalized groups, which is a more nuanced approach. However, it does not clearly determine which side is more in the right, nor does it provide strong supporting arguments. The statement is somewhat vague and could be seen as overly simplistic, which fits a mid-level score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to address the complex and multifaceted discussion by acknowledging two distinct issues: institutional trust and systemic challenges faced by marginalized groups. It encourages exploring common ground, which is a positive approach. However, the mediation is somewhat vague and does not clearly guide the conversation towards a constructive path. It lacks specificity in how to address the issues mentioned, making it a bit generic and less effective in steering the conversation forward.",
+        "score": 3
+    }
+}

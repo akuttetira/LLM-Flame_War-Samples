@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies the more nuanced and morally grounded argument, which critiques the conflation of government actions with citizenship and highlights the hypocrisy of those who dismiss criticism of China while ignoring other human rights issues. The argument is based on clear moral reasoning and addresses the core issue of double standards. This fits a high score as it correctly identifies the more just position with strong, principled reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages focusing on specific examples rather than broad labels, which is relevant to the discussion about human rights and condemnation of atrocities. It invites learning from each other's perspectives and finding common ground, which is constructive. However, it is somewhat generic and could come off as overly idealistic or not deeply tailored to the specific context of the conversation. This fits a score of 4 as it is relevant and constructive but has some generic elements.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that aggressive behavior to deal with a difficult family member is more problematic than the suggestion to not use past trauma as an excuse. It provides a clear judgment about which approach is more ethical and constructive, and it addresses the core issue of handling family dynamics with empathy rather than hostility. This fits the criteria for a 5, as it clearly ascertains the right course of action based on common morality and fairness, and backs up its position with strong arguments.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and encourages participants to focus on supporting each other and sharing experiences, which is relevant to the discussion about family dynamics and toxic relationships. It invites constructive dialogue but is somewhat generic and could come across as overly prescriptive. It has a moderate chance of guiding positive dialogue, which aligns with a score of 3.",
+        "score": 3
+    }
+}

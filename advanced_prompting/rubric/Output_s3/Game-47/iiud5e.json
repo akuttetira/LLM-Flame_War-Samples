@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging that both sides have valid points. It correctly identifies that the argument for prioritizing console sales is more defensible than the claim that PC ports are inherently better. The mediation does not take a definitive stance on which side is entirely correct but offers a nuanced perspective that reflects the complexity of the debate. However, it could have been more specific in explaining why console sales might be more defensible, and it lacks a clear conclusion that would guide the conversation more effectively. The message is somewhat neutral and could be seen as overly vague in its guidance.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the issue and encourages a balanced discussion without taking sides. The message is directly relevant to the conversation, as it addresses the tension between console exclusives and PC ports. It avoids overly technical or biased language and instead promotes a more open dialogue. The message is natural in the context of the conversation and could conceivably be written by a user, as it reflects a neutral and thoughtful approach to the topic.",
+        "score": 5
+    }
+}

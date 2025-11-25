@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the suggestion of wearing a dildo on one's head to identify their team is absurd and inappropriate, while the others are simply expressing team preferences. This judgment is clear and directly addresses the issue, making it a strong 5. The argument is backed by the context of the conversation and the nature of the suggestion.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging respectful team spirit over inappropriate or offensive behavior. It is naturally phrased and could plausibly be written by a user, making it a strong candidate for a high score. However, it is slightly generic and could be more specific in its guidance. This fits well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the accuser is more in the right by pointing out that the original account is based on a selective and inaccurate interpretation of historical facts. The mediation acknowledges the complexity of the historical context and the potential for selective interpretation, which is a nuanced and fair approach. It does not outright dismiss the other side's arguments but instead focuses on the accuracy of the historical account. The score reflects the mediation's ability to correctly ascertain which side is in the right based on historical accuracy and fairness.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion and disagreement on the topic while suggesting a more factual and respectful approach. The message directly addresses the conversation by asking for a focus on facts and sharing sources, which is relevant and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user.",
+        "score": 5
+    }
+}

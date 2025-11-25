@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the debate around Bono\u2019s nationality and cultural identity, recognizing that both Canadian and Moroccan perspectives have valid elements. However, it does not clearly determine which side is more in the right or provide strong, concrete arguments to support its position. This fits a score of 3, as it offers some nuance but lacks a clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation effectively shifts the focus to Bono's cultural background and his involvement with Morocco's team, which is relevant to the conversation. It avoids the divisive debate about nationality and encourages a more constructive discussion about cultural influence. However, it is somewhat generic and could be more specific in its guidance. This fits a score of 4 as it is conciliatory and relevant but not as natural or tailored as a 5.",
+        "score": 4
+    }
+}

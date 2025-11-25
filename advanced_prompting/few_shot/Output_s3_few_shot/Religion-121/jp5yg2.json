@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument against church funding is more defensible than the blanket claim of church corruption. It acknowledges the complexity of the issue and provides a balanced perspective, which is important given the strong opinions on both sides. However, it does not fully engage with the specific arguments presented in the conversation, such as the role of churches in community service and the debate over tax exemptions. This makes it a mid-level score where there is some nuance but not a full exploration of the arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The message attempts to steer the conversation towards a more constructive direction by focusing on the common goal of aiding those in need. It acknowledges the passion of the participants while encouraging a separation of facts from emotions. However, it is somewhat generic and lacks specific guidance on how to achieve this goal. It is reasonably natural and has a good chance of guiding positive dialogue, but it could be more effective with more concrete suggestions. This aligns with a score of 3.",
+        "score": 3
+    }
+}

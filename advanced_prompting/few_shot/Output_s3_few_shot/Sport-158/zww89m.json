@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation acknowledges the complexity of the debate around Neuer\u2019s action, recognizing that both sides present valid points. It avoids taking a clear stance on whether the action was a foul or not, which is appropriate given the lack of clear evidence. However, it does not fully resolve the issue or provide a strong, clear judgment, which is necessary for a high score. This fits a 3, as it shows some nuance but does not clearly determine the right side or provide strong supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the discussion, encouraging the participants to focus on the actual incident rather than personal opinions or past celebrations. It invites a constructive dialogue about a specific issue (clean tackle vs. foul), which is relevant to the conversation. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

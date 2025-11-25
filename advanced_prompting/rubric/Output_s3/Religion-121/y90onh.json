@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgment that acknowledges the complexity of the issue, recognizing that while some Christians may hold oppressive views, the majority do not. It correctly identifies that the argument about active oppression by a significant portion of Christians is more defensible than the blanket claim that all Christians are persecuted. The judgment is fair and balanced, acknowledging the diversity within Christianity and the systemic issues faced by the LGBTQ community. However, it does not fully specify a clear-cut right or wrong side but rather presents a more nuanced perspective, which aligns with a 4 score in the judgment metric.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion and invites the participants to consider common ground. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message encourages understanding and dialogue without taking sides, which is appropriate for the topic.",
+        "score": 5
+    }
+}

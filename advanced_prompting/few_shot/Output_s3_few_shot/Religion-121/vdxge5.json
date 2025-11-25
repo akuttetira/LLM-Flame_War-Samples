@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The judgement suggests that the person accusing the other of rewriting history and lying is more in the right, based on the idea that the original account is selectively and inaccurately interpreted. However, the conversation contains a complex mix of historical claims, religious interpretations, and personal opinions. The judgement does not clearly establish which side is more in the right, nor does it provide strong supporting arguments. It is a somewhat vague and ambiguous assessment that does not fully meet the criteria for a high score.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to redirect the conversation towards a more constructive path by acknowledging the passion of the participants and suggesting a focus on facts and sources. It is relevant to the discussion and invites a more objective approach by suggesting shared references. However, the message feels somewhat generic and lacks the specific nuance needed to effectively guide the conversation. It does not clearly address the underlying tensions or provide a more tailored approach to the discussion. This aligns with a score of 3.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the argument about a game's performance on older hardware not affecting its quality is more defensible than the blanket claim that all cross-platform games are inferior. It provides a nuanced assessment that acknowledges the validity of one side's argument while critiquing the other. This aligns well with a score of 5 as it clearly states which side is more in the right and backs up the position with strong, relevant reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, encouraging participants to focus on the games themselves rather than the platforms. It invites constructive discussion about the PS5 launch titles and what people are excited about, which aligns well with the context. While it is slightly generic and could be more tailored, it still feels natural and has a good chance of guiding positive dialogue. This fits a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the conversation, acknowledging that the Netherlands may have provoked the Argentine players and that the referee's performance was a factor. However, it does not clearly determine which side is entirely correct, as both teams have been accused of misconduct in past matches. The mediation is fair and acknowledges the complexity of the situation, but it does not fully resolve the dispute or provide a clear judgment on who is more at fault. The message is somewhat neutral and could be seen as a fair attempt to balance the arguments, though it lacks the strength to definitively assign blame to one side.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and attempts to steer the conversation towards a more respectful and constructive direction. It acknowledges the Dutch team's behavior and the referee's role, which are key points in the discussion. The message is relevant to the conversation and has a high chance of guiding positive dialogue. However, it is somewhat vague in its approach and does not directly address the specific arguments made by both sides. The message is natural in context but could be more specific in its guidance to help the conversation move forward effectively.",
+        "score": 4
+    }
+}

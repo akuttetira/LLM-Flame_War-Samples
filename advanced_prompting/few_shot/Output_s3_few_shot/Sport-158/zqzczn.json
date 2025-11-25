@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to present both sides of the argument but does not clearly determine which side is more in the right. It fails to provide strong, concrete arguments to support its position and instead offers a vague, balanced statement that does not fully engage with the nuances of the debate. This fits with a score of 3, as it acknowledges some nuance but lacks clear judgment or strong supporting reasoning.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly addresses the issue of loaded language and personal attacks in the conversation. It encourages a focus on specific issues rather than assumptions, which is relevant to the discussion. While it is somewhat generic and could sound a bit like an AI, it is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person engaging in a respectful discussion about the verses and their implications is more in the right, despite the hostility and personal attacks. It acknowledges the respectful approach and criticizes the other side for using ad hominems and cherry-picking verses. This fits a score of 5 as it clearly ascertains which side is in the right based on common morality and fairness, and provides strong arguments to support this position.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages respectful dialogue, which aligns with the steering type. It directly addresses the issue of attacking each other and focuses on learning and discussing the topic. However, it is somewhat generic and could sound a bit like an AI-generated response. It is still reasonably natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}

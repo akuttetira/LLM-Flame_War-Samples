@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the person calling out the referee for stopping a player from celebrating is more in the right, as they are raising a valid concern about a possible rule violation. However, it does not provide sufficient explanation or support for this conclusion, and the reasoning is somewhat superficial. This fits a score of 3, as it correctly identifies the more right side but lacks depth in supporting arguments.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the discussion, encouraging participants to refer to the actual rulebook to resolve the misunderstanding. It helps guide the conversation toward a more constructive and factual direction. While it is slightly generic, it is still natural and has a good chance of improving the dialogue. This fits well with a score of 4.",
+        "score": 4
+    }
+}

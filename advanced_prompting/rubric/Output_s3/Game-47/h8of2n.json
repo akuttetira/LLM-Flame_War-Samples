@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges the complexity of the debate. It recognizes that some critics may be motivated by a desire to see others fail, which is a common issue in online discourse, while also acknowledging the presence of criticism rooted in social justice concerns. The judgement is balanced and does not outright dismiss either perspective, instead suggesting that the former is more defensible. However, it does not fully address the broader context of online toxicity or the specific arguments made by the users in the conversation. The mediation is fair and neutral, but could have been more comprehensive in its analysis.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the tension in the conversation without taking sides, and encourages a respectful dialogue. The message is directly relevant to the conversation, as it addresses the issue of toxic online discourse and the need for constructive discussion. It is natural in context and could conceivably be written by a user, as it reflects a balanced and empathetic approach to resolving conflict. The message does not impose a specific viewpoint but instead focuses on fostering a more positive and respectful conversation.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view, acknowledging the person's experience while also recognizing the skepticism. It does not definitively declare one side as correct but acknowledges the compelling nature of the experience. However, it lacks concrete evidence or clear reasoning to support the claim, which is a key aspect of a fair judgment. The mediation is somewhat neutral but does not fully address the lack of empirical evidence or the need for verification. It is not entirely neutral as it leans slightly towards the experiencer's side.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the discussion and suggests a nuanced approach to understanding different experiences. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user, as it avoids taking sides and encourages open-mindedness.",
+        "score": 5
+    }
+}

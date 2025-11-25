@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of the conversation, acknowledging the validity of concerns about religious exploitation while criticizing the dehumanizing language used to dismiss religious individuals. It correctly identifies that the concern about vulnerable people being exploited by religion is more defensible than the blanket labels of 'addict' or 'mentally ill' applied to religious individuals. The judgement is nuanced and fair, recognizing the complexity of the issue without taking an extreme stance. However, it does not explicitly state that one side is entirely correct, which is acceptable for a neutral judgement. The reasoning is sound and aligns with common morality and fairness principles.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and attempts to guide the conversation back to a more neutral and balanced discussion. It acknowledges the shift in focus from addiction to faith and suggests separating personal experiences from philosophical debates. However, the message is somewhat vague and does not directly address the specific points of contention between the participants. It lacks specificity in suggesting how to proceed or what the next steps should be, which reduces its effectiveness as a steering message. While it is natural in context and has a decent chance of guiding positive dialogue, it falls short of being highly effective due to its lack of concrete guidance.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that those questioning the validity of Madison's allegations with a focus on timing and context are more in the right than those dismissing her claims without evidence. The argument acknowledges the complexity of the situation, the potential for delayed reporting, and the need for evidence before jumping to conclusions. It balances the need for skepticism with the seriousness of the allegations, which is appropriate given the lack of concrete evidence. However, the mediation does not fully address the potential for genuine sexual harassment and the importance of taking such allegations seriously, which could be seen as a slight oversight. Overall, the judgement is well-reasoned and fair, though it could have been more explicit about the need for a balanced approach.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the complexity of the situation and encourages a nuanced discussion. The message is relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user. The message avoids taking sides and instead focuses on the broader implications of the situation, which is appropriate given the sensitive nature of the allegations. It also highlights the importance of supporting survivors and considering power dynamics, which are key aspects of the discussion.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies StillNoNumb as the more credible party by pointing out that they provide evidence (images and a video) to support their claim that the Bible was not held upside down. This aligns with common principles of fairness and morality, as it acknowledges the importance of presenting evidence and not dismissing it without scrutiny. The judgement is specific and backed by the arguments presented in the conversation, making it a clear and fair assessment of the situation.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and aims to de-escalate the conversation by focusing on the actual argument rather than attacking credibility. It is relevant to the conversation, as the discussion revolves around a factual dispute about how the Bible was held in a photo. The message is natural in context and encourages constructive dialogue. However, it is somewhat vague in its guidance, as it does not provide specific direction on how to proceed or what the actual argument is. It could have been more specific to guide the conversation towards resolving the factual dispute rather than just general de-escalation.",
+        "score": 4
+    }
+}

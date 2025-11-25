@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion about having a plan for dealing with a potentially vindictive ex-partner is more nuanced and valid than a simplistic dismissal of the situation. It acknowledges the complexity of the issue and the need for practical strategies, which aligns with a higher score. However, it does not clearly state which side is more in the right, nor does it provide strong, specific arguments to support its position. This fits a score of 3, as it offers a partially supported take rather than a clear, well-argued judgment.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and encourages the group to focus on shared goals of safety and planning, which aligns with the conversation's context. It avoids getting bogged down in arguments about who is right or wrong, and instead promotes constructive dialogue. While it is somewhat generic, it is still relevant and has a good chance of guiding positive dialogue. This fits well with a score of 4.",
+        "score": 4
+    }
+}

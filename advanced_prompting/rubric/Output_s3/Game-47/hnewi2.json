@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced view of the discussion, acknowledging that the conversation involves nuanced perspectives on the COVID-19 pandemic compared to past pandemics. It correctly identifies that the debate is not a simple matter of right or wrong, but rather a complex discussion with valid points on both sides. The mediation does not take a clear stance but instead highlights the complexity of the issue, which aligns with the nuanced nature of the conversation. However, it does not fully specify which side is correct or provide a clear resolution, which could be improved. The message is neutral and fair, but could be more definitive in its assessment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It encourages a focus on facts and avoids personal attacks, which is appropriate given the context of the discussion about pandemics. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context and could conceivably be written by a user. The message effectively steers the conversation toward a more constructive and respectful discussion.",
+        "score": 5
+    }
+}

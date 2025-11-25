@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the comment about Sony having too many high-quality games is more reasonable than the personal attack on someone\u2019s literacy level. It addresses the issue by pointing out the more constructive comment and implicitly rejects the less respectful one. This shows a clear understanding of the situation and provides a fair assessment, which aligns with a score of 5.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and directly relevant to the conversation, as it addresses the potential for disrespectful language in the discussion. It encourages respectful disagreement and promotes a more constructive dialogue. While it is slightly generic and could be more tailored to the specific context of the conversation, it still effectively guides the discussion in a positive direction. This aligns with a score of 4.",
+        "score": 4
+    }
+}

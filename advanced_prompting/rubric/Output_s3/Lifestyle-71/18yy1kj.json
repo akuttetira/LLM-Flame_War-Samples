@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to balance the perspectives of both sides. It acknowledges that giving flowers to an 8-year-old for her first period is a subjective gesture, and that some people may view it as overemphasizing the event, while others see it as a supportive and compassionate act. However, the mediation does not clearly determine which side is more correct based on objective morality or fairness. It leans towards the side that questions the value of the gesture but does not provide strong, specific arguments to support this stance. The mediation is somewhat neutral but lacks the depth to fully resolve the disagreement.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and productive. It acknowledges the thought behind the gesture and suggests that a simple gesture like flowers can be supportive. It allows for the possibility that different people may have different views on how to handle a milestone in a child's life. The message is relevant to the conversation and has a high chance of guiding positive dialogue. The message is natural in context of the conversation and could conceivably be written by a user.",
+        "score": 5
+    }
+}

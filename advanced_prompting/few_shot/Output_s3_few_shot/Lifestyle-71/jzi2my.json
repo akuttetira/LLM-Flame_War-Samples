@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that defending the original poster's right to express themselves without judgment is the more just position. It acknowledges the validity of the poster's experience and the importance of not invalidating their expression. The argument is clear and aligns with common principles of free speech and empathy. This fits a high score as it clearly supports the right side with relevant reasoning.",
+        "score": 5
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and relevant to the conversation about venting and open discussion. It acknowledges the value of expressing oneself and encourages agreement on the importance of open dialogue. However, it is somewhat generic and could sound more like a generic AI response rather than a natural, human-like mediation. This fits a score of 4 as it is relevant and has a good chance of guiding positive dialogue, though it lacks the specific context and nuance of the conversation.",
+        "score": 4
+    }
+}

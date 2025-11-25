@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around the release date of Kena and the disappointment of fans, with some users expressing valid concerns about the delay and others dismissing the game or making unfounded assumptions. The mediation acknowledges the shared sentiment of anticipation and the frustration with the release timeline, which is a fair and balanced assessment of the situation. However, it does not clearly state which side is more in the right, but rather focuses on the shared experience of anticipation and disappointment. This fits a score of 3 as it provides a partially supported take without clearly determining who is more in the right.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation attempts to find common ground by acknowledging both excitement and frustration, which is a positive start. However, it is somewhat generic and lacks specific guidance on how to move forward constructively. It doesn't directly address the underlying issues of delay or the differing opinions about Kena's release. This makes it less effective in guiding positive dialogue compared to a more tailored approach. The score reflects this moderate effectiveness.",
+        "score": 3
+    }
+}

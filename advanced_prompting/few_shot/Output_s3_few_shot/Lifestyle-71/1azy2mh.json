@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The generated mediation fails to address the core issue of the conversation, which is about a man's inability to bond with his child and his unreasonable request for minimal child support. Instead, it incorrectly shifts the focus to a completely unrelated topic about video games and microtransactions. This demonstrates a clear lack of relevance and understanding of the conversation's context. The mediation does not provide any meaningful judgment or analysis of the situation at hand, making it highly ineffective and unfair. This fits with a score of 1.",
+        "score": 1
+    },
+    "steering_score": {
+        "rationale": "The message is somewhat generic and doesn't directly address the specific issues in the conversation. It suggests a broader topic but doesn't provide clear guidance or actionable steps for the participants. The tone is vague and doesn't effectively steer the conversation towards a more constructive direction. This fits with a lower score as it lacks the specificity and relevance needed to guide the dialogue positively.",
+        "score": 2
+    }
+}

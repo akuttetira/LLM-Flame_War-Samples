@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a balanced assessment of both sides' arguments, acknowledging the strengths of France's squad and the weaknesses of England's team. It correctly identifies that France's overall quality and England's defensive and managerial issues make a 3-1 or higher scoreline more likely. The reasoning is based on common sense and football knowledge, and it does not take an overly biased stance. The judgement is clear and supports the conclusion with relevant points about team composition and performance. However, it does not fully resolve the disagreement but rather presents a more convincing case for France's likely victory.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is a good example of a steering message that encourages the conversation to focus on factual analysis of the teams rather than subjective opinions or national pride. It shifts the discussion toward a more constructive and objective direction by asking for specific thoughts on England's chances against Portugal or Brazil. The message is conciliatory, relevant, and natural in the context of the conversation. It does not take sides but instead guides the conversation toward a more productive and analytical path. However, it could be slightly more direct in its request for analysis, but overall it scores highly in the steering metrics.",
+        "score": 5
+    }
+}

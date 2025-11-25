@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation provides a nuanced judgement that acknowledges the behavior of both parties. It correctly identifies that the person who attempts to shame others for their intelligence is more in the right than the one who uses personal attacks and insults. This aligns with common morality and fairness principles, as it recognizes the importance of respectful dialogue over personal attacks. The judgement is clear and backed by the context of the conversation, where one side is engaging in shaming and the other in insults. However, it does not fully specify which side is entirely correct, leaving room for nuance. The judgement is fair and reasonable, though it could have been more explicit in its assessment.",
+        "score": 4
+    },
+    "steering_score": {
+        "rationale": "The mediation message is a mild steering suggestion that encourages the participants to refocus on the original post rather than the emotional reactions. It is conciliatory and acknowledges the potential for defensiveness in the conversation. The message is relevant and natural in the context of the conversation, as it suggests a constructive way to approach the discussion. However, it is somewhat vague and does not offer specific guidance on how to proceed. It is not overly parental or computer-generated, but it lacks the specificity needed to be highly effective. Overall, it meets the criteria for a 4 in the steering metric.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation attempts to evaluate the sides of the conversation, but it is vague and lacks clear, concrete arguments. It does not provide a strong or nuanced justification for why one side is more 'in the right' than the other. The assessment is too generic and does not engage with the specific content of the conversation or the ethical implications of the claims made. This fits a lower score due to the lack of clarity and depth in the judgement.",
+        "score": 2
+    },
+    "steering_score": {
+        "rationale": "The mediation is conciliatory and focuses on the facts presented in the conversation, which is a positive approach. It encourages a more constructive discussion by urging participants to focus on the settlement and Ronaldo's admission rather than engaging in personal attacks or inflammatory language. While it is somewhat generic and could be seen as a bit too neutral, it is still relevant and has a good chance of guiding the conversation towards a more productive direction. This aligns with a score of 4.",
+        "score": 4
+    }
+}

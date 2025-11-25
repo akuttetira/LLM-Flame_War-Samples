@@ -1,0 +1,10 @@
+{
+    "judgement_score": {
+        "rationale": "The mediation correctly identifies that the discussion revolves around the motivations behind the Ghanaian fans' actions, acknowledging that some may be driven by social validation rather than pure altruism. It provides a nuanced perspective that challenges the simplistic dismissal of the fans' behavior. However, it does not clearly state which side is more in the right or provide strong, concrete arguments to support its position. This aligns with a score of 3, as it offers some nuance but lacks a clear verdict or strong backing.",
+        "score": 3
+    },
+    "steering_score": {
+        "rationale": "The mediation message is conciliatory and encourages a focus on understanding the complexities behind actions rather than calling out others. It is relevant to the discussion about good deeds and motivations, and invites a more constructive dialogue. While it is somewhat generic, it is still natural and has a good chance of guiding positive dialogue. This aligns well with a score of 4.",
+        "score": 4
+    }
+}
