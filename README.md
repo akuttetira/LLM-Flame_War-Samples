@@ -1,6 +1,6 @@
 Project Overview: Flame-War LLM-Based Mediation & Comparative Analysis
 
-Anish Kuttetira and Kumar Chaudhary
+Anish Kuttetira and Kumar Satvik Chaudhary
 
 All .ipynb files can be run using the A100 GPU on Google Collaboratory.
 
