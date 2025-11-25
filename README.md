@@ -2,6 +2,10 @@ Project Overview: Flame-War LLM-Based Mediation & Comparative Analysis
 
 Anish Kuttetira and Kumar Chaudhary
 
+All .ipynb files can be run using the A100 GPU on Google Collaboratory.
+
+**IMPORTANT** requirements.txt was provided as required by the submission requirements. Any scripts executed locally utilize only the python standard library and do not need any installations. For the .ipynb files, utilize Google Collaboratory instead of local execution, and no requirements.txt file will be necessary.
+
 This repository contains all the samples and LLM outputs for each section of the project, divided into subfolders.
 
 Start by section number:
