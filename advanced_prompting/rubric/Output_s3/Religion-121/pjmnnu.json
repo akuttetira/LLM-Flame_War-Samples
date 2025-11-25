@@ -1,10 +1,7 @@
 {
     "judgement_score": {
         "rationale": "The mediation provides a judgement that acknowledges the complexity of the issue and suggests that the pro-life stance is more defensible. However, it does not clearly specify which side is correct based on common morality and fairness principles. The argument for fetal rights is nuanced and depends on subjective moral considerations, while the pro-choice argument also has strong moral foundations. The mediation does not fully back up its position with clear reasoning or evidence, and it does not clearly specify a correct side or neutral position. Therefore, it earns a 3 in the judgement metric. The message is somewhat conciliatory but lacks direct relevance to the conversation and does not effectively guide positive dialogue. It is somewhat natural in context but could be seen as overly parental or generated. Therefore, it earns a 3 in the steering metric.",
-        "score": {
-            "judgement": 3,
-            "steering": 3
-        }
+        "score": 3
     },
     "steering_score": {
         "rationale": "The mediation message is conciliatory and productive. It acknowledges the passion of both sides and suggests focusing on nuances rather than sweeping statements. The message is directly relevant to the conversation and has a high chance of guiding positive dialogue. It is natural in context of the conversation and could conceivably be written by a user.",

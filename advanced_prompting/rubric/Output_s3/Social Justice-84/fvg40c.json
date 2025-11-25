@@ -1,10 +1,7 @@
 {
     "judgement_score": {
         "rationale": "The mediation provides a balanced view by acknowledging the complexity of the situation. It recognizes that while the Chinese government's handling of the pandemic has been criticized for initial cover-ups and harsh measures, the argument that they handled it better than many Western countries is presented as more defensible. However, the mediation does not fully address the ethical concerns raised about the Chinese government's actions, such as the cover-up and brutal methods. The judgement is somewhat neutral but lacks strong supporting arguments for either side, making it a 3 in the judgement metric. The message is conciliatory but vague, as it does not directly address the core issues of transparency, human rights, and the effectiveness of pandemic response. It could be seen as overly parental or computer-generated in tone, which affects the steering metric. Therefore, it receives a 3 in the steering metric.",
-        "score": {
-            "judgement": 3,
-            "steering": 3
-        }
+        "score": 3
     },
     "steering_score": {
         "rationale": "The mediation message is conciliatory and productive. It addresses the core issue of the Chinese government's initial cover-up and the human cost of their actions, which are central to the discussion. The message encourages a nuanced discussion without resorting to racist or xenophobic language, which is appropriate given the context. It is directly relevant to the conversation and has a high chance of guiding positive dialogue. The message is natural in context and could conceivably be written by a user.",
