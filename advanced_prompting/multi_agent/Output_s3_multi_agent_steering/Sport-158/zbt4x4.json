@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of the conversation and highlights the difference between defending a post and being overly aggressive. It provides a balanced perspective without taking sides, which is effective in steering the conversation towards a more constructive direction. The message is clear, neutral, and conveys a positive intent to encourage more respectful dialogue.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to improve the conversation. It makes a general statement about who is in the right without offering actionable steps or addressing the specific issues in the conversation, such as aggressive language and dismissiveness. The message also fails to provide a clear path forward for participants to engage more constructively.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the tension in the conversation and highlights the difference between defending a post and being aggressive. It provides a balanced perspective without taking sides, which is helpful in guiding the conversation towards more respectful dialogue. However, it could be more specific in offering actionable steps to improve the interaction.",
+        "score": 3
+    }
+}

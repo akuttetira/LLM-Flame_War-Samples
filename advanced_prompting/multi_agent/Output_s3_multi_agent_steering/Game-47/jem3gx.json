@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively encourages kindness and suggests a more positive approach to online interactions. It acknowledges the potential for snarky comments and proposes a more constructive alternative, which is both fair and supportive. The tone is warm and approachable, aligning with the goal of fostering a kinder online environment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to improve the conversation. It makes a general statement about being kinder but does not address the specific issue of snarky comments or provide actionable steps for the participants to take. The message also fails to acknowledge the negative tone of the original comments and does not offer a clear path forward for constructive dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message successfully acknowledges the negative tone of the comments and suggests a more positive approach to online interactions. It promotes kindness and offers a constructive alternative without being overly prescriptive. The tone is warm and approachable, making it sound like a genuine attempt to foster better communication. However, it could have been more specific in addressing the snarky comments directly.",
+        "score": 4
+    }
+}

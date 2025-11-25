@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is positive and acknowledges the value of the shared experiences. It encourages a supportive community and learning from each other's stories, which is appropriate and effective. The message is neutral and does not take sides, making it fair and effective for the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific guidance for the conversation. It is generic and does not address the specific dynamics or issues present in the discussion, such as the emotional struggles and past trauma mentioned by users. The message fails to provide clear direction or actionable steps to foster a more constructive and supportive dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is positive and acknowledges the value of the shared experiences. It encourages a supportive community and learning from each other's stories, which is appropriate and effective. The message is neutral and does not take sides, making it fair and effective for the conversation.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the conflict between the two parties, recognizing that one is trying to clarify the original post's intent while the other is interpreting it as a reference to war. It highlights the importance of avoiding misinterpretation and emphasizes the need for clarity in communication. The message is neutral, fair, and steers the conversation toward understanding the original intent without taking sides.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat vague and lacks specific guidance on how to address the underlying conflict. It makes a general claim about who is more 'in the right' without addressing the specific issues of misinterpretation, political implications, or the need for neutrality. The message is too abstract and does not provide clear steps or principles to guide the conversation towards resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the conflict between the two parties, recognizing that one is trying to clarify the original post's intent while the other is interpreting it as a reference to war. It highlights the importance of avoiding misinterpretation and emphasizes the need for clarity in communication. The message is neutral, fair, and steers the conversation toward understanding the original intent without taking sides.",
+        "score": 5
+    }
+}

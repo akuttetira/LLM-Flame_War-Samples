@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively shifts the focus back to the main topic of discussion, which is the roast. It acknowledges the existing conversation and invites participants to engage with the content rather than the drama. The message is concise, neutral, and steers the conversation in a positive direction by encouraging reflection on the jokes themselves. It also avoids taking sides and remains impartial, which is appropriate for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and fails to address the core issues in the conversation. It suggests focusing on the roast but does not clarify what specific aspects of the roast should be discussed. Additionally, it references [deleted] without providing context, which could be misleading or confusing. The mediation also does not address the underlying tension or the repeated removals of comments, which may indicate a deeper issue within the subreddit's moderation policies.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively shifts the focus back to the main topic of discussion, which is the roast. It acknowledges the existing conversation and invites participants to engage with the content rather than the drama. The message is concise, neutral, and steers the conversation in a positive direction by encouraging reflection on the jokes themselves. It also avoids taking sides and remains impartial, which is appropriate for a mediation context.",
+        "score": 5
+    }
+}

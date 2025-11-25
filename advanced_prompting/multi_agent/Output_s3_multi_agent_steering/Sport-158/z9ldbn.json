@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate and recognizes the validity of both perspectives. It highlights the argument for a single, universally accepted term while also acknowledging the importance of linguistic diversity. This balanced approach shows understanding of the discussion and does not take a definitive stance, which is appropriate in a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to resolve the debate. It fails to address the core issue of linguistic diversity versus a single term, and does not provide a clear path forward for the conversation. The statement is overly general and does not effectively steer the discussion toward a resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate and recognizes the validity of both perspectives. It highlights the argument for a single, universally accepted term while also acknowledging the importance of linguistic diversity. This balanced approach shows understanding of the discussion and does not take a definitive stance, which is appropriate in a mediation context.",
+        "score": 5
+    }
+}

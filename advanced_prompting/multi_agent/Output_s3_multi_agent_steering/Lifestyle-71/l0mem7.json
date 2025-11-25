@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the shared experiences among the users and promotes a supportive environment. It encourages empathy and understanding, which are crucial in a discussion about personal challenges and family dynamics. The message is concise, positive, and aligns with the tone of the conversation, making it feel genuine and user-like.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is overly vague and lacks specific guidance on how to proceed or address the issues raised in the conversation. It does not provide actionable steps or clear direction for the participants to move forward in a constructive manner. The message is general and does not address the specific concerns or dynamics present in the discussion, which includes themes of parental control, privacy, and emotional trauma. As a result, it fails to effectively steer the conversation towards a more productive and supportive direction.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experiences among the users and promotes a supportive environment. It encourages empathy and understanding, which are crucial in a discussion about personal challenges and family dynamics. The message is concise, positive, and aligns with the tone of the conversation, making it feel genuine and user-like.",
+        "score": 5
+    }
+}

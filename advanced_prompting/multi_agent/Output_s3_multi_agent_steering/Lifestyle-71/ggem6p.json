@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in providing support and guidance to the user. It acknowledges the user's situation and encourages them to seek help from trusted adults, which is a practical and appropriate step. The message is neutral, empathetic, and avoids any judgment or bias. It also emphasizes that the user doesn't have to face the situation alone, which is a positive and encouraging approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific, actionable steps for the user. It suggests talking to a trusted adult but does not provide clear guidance on how to proceed, what to say, or what resources to seek. The message is also too general and does not address the immediate need for safety, reporting abuse, or seeking professional help. It fails to acknowledge the severity of the situation and the user's right to safety and protection.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the user's situation and provides empathetic support. It encourages seeking help from trusted adults, which is a practical and appropriate step. However, it could have been more specific about the need for safety, reporting abuse, and seeking professional help. The message is neutral and supportive but could have been more direct in addressing the urgency of the situation.",
+        "score": 3
+    }
+}

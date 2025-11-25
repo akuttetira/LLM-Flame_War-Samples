@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around soccer's popularity and profitability in the US, highlighting that there are valid points on both sides. It avoids taking a definitive stance and instead encourages a more nuanced perspective, which is appropriate for a mediation context. The tone is neutral and respectful, avoiding any biased language or direct intervention.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the underlying tensions in the conversation. It fails to address the personal attacks and the lack of constructive dialogue, and instead offers a general statement that does not steer the conversation towards a more productive or neutral direction. The message is too broad and does not provide actionable steps to resolve the conflict or improve the tone of the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around soccer's popularity and profitability in the US, highlighting that there are valid points on both sides. It avoids taking a definitive stance and instead encourages a more nuanced perspective, which is appropriate for a mediation context. The tone is neutral and respectful, avoiding any biased language or direct intervention.",
+        "score": 5
+    }
+}

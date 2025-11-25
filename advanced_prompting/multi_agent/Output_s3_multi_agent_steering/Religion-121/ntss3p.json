@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and presents a balanced view by recognizing valid points on both sides. It avoids taking a definitive stance while highlighting the more defensible argument that Islam may have absorbed similarities from Zoroastrianism rather than copying it. The message is neutral, fair, and steers the conversation towards a more constructive and balanced perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion and offers a balanced perspective by suggesting that Islam may have absorbed similarities from Zoroastrianism rather than copying it. However, it lacks specific guidance on how to move forward in the conversation, and the language is somewhat vague. It does not clearly define the key issues or provide actionable steps for resolving the debate.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and presents a balanced view by recognizing valid points on both sides. It avoids taking a definitive stance while highlighting the more defensible argument that Islam may have absorbed similarities from Zoroastrianism rather than copying it. The message is neutral, fair, and steers the conversation towards a more constructive and balanced perspective.",
+        "score": 5
+    }
+}

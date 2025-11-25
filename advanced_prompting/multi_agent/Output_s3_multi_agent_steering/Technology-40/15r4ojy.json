@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively highlights the need for focus on actual arguments rather than discrediting participants. It addresses the core issue of the conversation being derailed by personal attacks and emphasizes the importance of constructive dialogue. The message is neutral, respectful, and directly addresses the problem without taking sides or making assumptions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat relevant but lacks specificity and actionable guidance. It points out a general issue with the conversation but doesn't provide clear direction on how to focus the discussion or address the specific concerns raised. The message is vague and doesn't effectively guide participants towards a more productive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively calls out the lack of focus on actual arguments and the prevalence of personal attacks, which is a critical issue in the conversation. It is respectful, neutral, and directly addresses the problem without taking sides. The message encourages a more constructive and productive dialogue, which is essential in a heated online discussion.",
+        "score": 5
+    }
+}

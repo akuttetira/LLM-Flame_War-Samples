@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively encourages the conversation to focus on specific examples rather than making broad generalizations. It acknowledges the discussion around marketing and supply chain issues while guiding the conversation towards more concrete examples. The tone is neutral and constructive, aiming to steer the discussion towards actionable insights rather than reinforcing negative stereotypes. It also invites personal experiences, which can help in creating a more meaningful and productive dialogue.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to address the conversation's issues. It suggests focusing on 'specific examples of marketing decisions' but does not provide clear direction on what those examples should be or how to identify them. Additionally, the message is too general and does not address the underlying conflict or provide a structured approach to move the conversation forward. The lack of specificity makes it ineffective in guiding the discussion towards a resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively encourages the conversation to focus on specific examples rather than making broad generalizations. It acknowledges the discussion around marketing and supply chain issues while guiding the conversation towards more concrete examples. The tone is neutral and constructive, aiming to steer the discussion towards actionable insights rather than reinforcing negative stereotypes. It also invites personal experiences, which can help in creating a more meaningful and productive dialogue.",
+        "score": 4
+    }
+}

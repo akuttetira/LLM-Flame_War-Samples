@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation back to supporting Jameela Jamil and others with similar experiences, while addressing the focus on media portrayal of people with disabilities. It is concise, respectful, and maintains the thread's purpose without being overly prescriptive. The message is clear and aligns with the community guidelines mentioned in the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and fails to address the specific issues in the conversation. It does not clearly define what constitutes 'derailing' or provide actionable guidance on how to keep the focus on supporting Jameela Jamil. The message is too general and does not effectively steer the conversation towards the intended purpose of providing emotional support. Additionally, it does not acknowledge the valid concerns raised about ableism and the need for accountability in the discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively steers the conversation back to supporting Jameela Jamil and others with similar experiences, while addressing the focus on media portrayal of people with disabilities. It is concise, respectful, and maintains the thread's purpose without being overly prescriptive. The message is clear and aligns with the community guidelines mentioned in the conversation.",
+        "score": 4
+    }
+}

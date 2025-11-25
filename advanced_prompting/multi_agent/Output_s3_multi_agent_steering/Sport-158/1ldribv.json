@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key issue in the conversation\u2014Mussolini's right-wing affiliation and its relevance to Rangers' identity\u2014while calling out the personal attacks and mischaracterizations. It maintains a neutral tone, focuses on the core argument, and steers the conversation back to the main point without taking sides. The message is clear, concise, and aligns with the goal of facilitating a more constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message fails to address the core issues in the conversation. It does not clearly steer the conversation towards a more constructive or neutral discussion. Instead, it reinforces the polarized positions of the participants without offering a balanced perspective or suggesting ways to move the dialogue forward. The message is vague and does not provide specific guidance on how to handle the personal attacks or the political mischaracterizations.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the core issue\u2014Mussolini's right-wing affiliation and its relevance to Rangers' identity\u2014while calling out the personal attacks and mischaracterizations. It maintains a neutral tone, focuses on the core argument, and steers the conversation back to the main point without taking sides. The message is clear, concise, and aligns with the goal of facilitating a more constructive dialogue.",
+        "score": 5
+    }
+}

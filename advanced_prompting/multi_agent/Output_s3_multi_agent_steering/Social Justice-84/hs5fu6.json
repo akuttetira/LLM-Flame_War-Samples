@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and shifts the focus towards the common goal of promoting equality and justice. It avoids taking sides and encourages a more constructive dialogue by emphasizing shared values rather than ideological labels. The tone is neutral and respectful, which is appropriate for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat effective in suggesting a focus on common goals rather than ideological labels. However, it is vague and lacks specific guidance on how to redirect the conversation. It does not address the underlying tensions or provide clear steps to move the discussion towards a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and shifts the focus towards the common goal of promoting equality and justice. It avoids taking sides and encourages a more constructive dialogue by emphasizing shared values rather than ideological labels. The tone is neutral and respectful, which is appropriate for a mediation context. However, it could have been more specific in its guidance to help redirect the conversation towards a more constructive direction.",
+        "score": 4
+    }
+}

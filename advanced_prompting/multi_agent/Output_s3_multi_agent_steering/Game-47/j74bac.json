@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the positive aspect of the conversation and suggests a direction for further discussion that aligns with the topic of custom PS5 accessories. It is neutral, encouraging, and opens up a constructive path for the conversation to evolve. However, it is somewhat vague and does not directly address the technical or practical challenges discussed in the conversation.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is too vague and lacks specific guidance on how to address the technical and practical challenges discussed in the conversation. It does not directly address the concerns about 3D printing limitations, cost, and the feasibility of custom PS5 panels. The message is overly general and does not steer the conversation toward a constructive resolution or clarification of the issues at hand.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the positive energy in the conversation and suggests a constructive direction for discussion about community-driven projects or marketplaces. However, it is somewhat vague and does not directly address the technical challenges and practical concerns raised about 3D printing and custom PS5 panels. It lacks specific guidance on how to resolve the issues discussed, such as printer limitations, cost, and feasibility. The message is neutral and encouraging but falls short in providing actionable next steps.",
+        "score": 2
+    }
+}

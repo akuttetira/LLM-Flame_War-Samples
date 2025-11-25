@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation away from partisan labels and towards specific policies and voting records. It encourages a more focused discussion on the actual impact of legislation on everyday people, which is a positive and constructive approach. The message is neutral, user-like, and avoids taking sides, making it effective in guiding the conversation towards a more informed and balanced discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message attempts to steer the conversation towards discussing specific policies and voting records rather than party labels. However, it is somewhat vague in its guidance and does not explicitly address the underlying issues of corporate influence, polarization, and the need for systemic change. The message is fair in its intent but lacks specificity in addressing the complexities of the political landscape discussed in the conversation.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively encourages a focus on policies and voting records rather than partisan labels, which is a constructive approach. It is neutral, user-like, and avoids taking sides, making it effective in guiding the conversation towards a more informed discussion. However, it could have been more specific in addressing the complexities of corporate influence and systemic issues present in the conversation.",
+        "score": 4
+    }
+}

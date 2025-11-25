@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key point of the discussion, emphasizing the team's strategy over the criticism of their playing style. It addresses the core of the debate without taking a side, maintaining neutrality and encouraging a more constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the conversation, which revolves around the perception of Croatia's playing style and the fairness of their success. It also does not provide a clear path for resolving the disagreement between the participants. The message is vague and does not effectively guide the conversation towards a more constructive direction.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the main points of contention in the conversation, highlighting the difference between team strategy and the criticism of playing style. It provides a balanced perspective without taking sides, which helps to de-escalate the argument. The message is clear and concise, and it sounds like it could genuinely come from a user rather than an AI.",
+        "score": 4
+    }
+}

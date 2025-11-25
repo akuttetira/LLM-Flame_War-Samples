@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards more specific and constructive discussion. It avoids generalizations and encourages focusing on specific issues within the Libertarian community, which aligns with the goal of fostering a more productive dialogue. The message is neutral, respectful, and aims to guide the conversation in a more constructive direction without imposing personal views.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and does not directly address the problematic generalizations and insults present in the conversation. It suggests focusing on specific behaviors or ideologies but does not clearly define what those should be or how to do so respectfully. The message is neutral in tone but lacks specificity in guiding the conversation towards a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively addresses the issue of generalizations by suggesting a focus on specific behaviors or ideologies. It encourages a more constructive discussion without imposing personal views, maintaining neutrality and respect. The message is well-worded and aligns with the goal of fostering productive dialogue, making it a suitable steering message.",
+        "score": 4
+    }
+}

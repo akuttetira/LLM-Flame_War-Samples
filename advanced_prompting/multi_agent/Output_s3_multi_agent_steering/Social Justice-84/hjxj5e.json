@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the passion in the conversation and suggests a more constructive approach by focusing on specific examples and facts. It also proposes finding common ground by discussing the nuances of gun control and its effects on different communities. This approach is effective in steering the conversation towards a more productive direction while maintaining neutrality and fairness.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message attempts to encourage focus on examples and facts while seeking common ground. However, it is somewhat vague in its guidance and does not clearly address the specific issues of bias, polarization, or the need for neutrality in the discussion. The message is too general and does not provide concrete steps to move the conversation forward in a constructive manner.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the passionate nature of the conversation and suggests a constructive approach by focusing on specific examples and facts. It also proposes finding common ground by discussing the nuances of gun control and its effects on different communities. The message is neutral, fair, and provides a clear direction for the conversation to become more productive. However, it could be more specific in addressing the issues of bias and polarization that are evident in the discussion.",
+        "score": 4
+    }
+}

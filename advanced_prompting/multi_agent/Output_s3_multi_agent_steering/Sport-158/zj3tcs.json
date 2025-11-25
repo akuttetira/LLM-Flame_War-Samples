@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the justification of Khunzar-ri's stance while addressing the inflammatory and racist nature of Legoleamela's comments. It provides a clear, balanced perspective that acknowledges the user's right to support their country while also calling out inappropriate behavior. The message is concise, fair, and maintains a neutral tone, which is appropriate for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the specific issues in the conversation, such as the racist and inflammatory comments made by Legoleamela. It also does not provide a clear path for resolution or guidance on how to move forward in a constructive manner. The statement is vague and does not effectively steer the conversation towards a more respectful and neutral discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges Khunzar-ri's right to support their country and enjoy rivalries while clearly calling out Legoleamela's inflammatory and racist comments. It maintains a balanced and neutral tone, providing a fair assessment of the conversation without being overly confrontational. The message is concise and directly addresses the key issues in the exchange.",
+        "score": 4
+    }
+}

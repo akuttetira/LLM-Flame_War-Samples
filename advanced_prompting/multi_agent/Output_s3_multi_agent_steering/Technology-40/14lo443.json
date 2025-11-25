@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges differing experiences and encourages mutual understanding. It promotes a constructive dialogue by focusing on shared goals of finding common ground and understanding perspectives, rather than confrontation. The tone is neutral and encouraging, which aligns well with the conversation's context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to move forward in the conversation. It suggests sharing stories and finding common ground, but does not provide clear steps or structure for doing so. The message also fails to address the underlying tensions and opposing viewpoints in the conversation, which could hinder productive dialogue. Additionally, it does not clearly define what 'common ground' means or how to identify it, making it ineffective in steering the conversation towards resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges differing experiences and encourages mutual understanding. It promotes a constructive dialogue by focusing on shared goals of finding common ground and understanding perspectives, rather than confrontation. The tone is neutral and encouraging, which aligns well with the conversation's context. However, it could be slightly more specific in suggesting actionable steps to move the conversation forward.",
+        "score": 4
+    }
+}

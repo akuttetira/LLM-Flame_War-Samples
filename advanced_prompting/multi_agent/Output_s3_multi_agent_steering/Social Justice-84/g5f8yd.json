@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation toward respect and understanding, emphasizing the importance of avoiding toxic behavior and focusing on perspectives. It is neutral, respectful, and aims to guide the discussion in a constructive direction without taking sides. The message is clear and aligns with the goal of fostering a respectful dialogue about non-binary identity.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specificity in addressing the toxic behaviors mentioned in the conversation, such as labeling, attacking, and gatekeeping. It fails to directly address the root issues of identity confusion and conflict in the discussion. The message is too general and does not provide clear guidance on how to engage in respectful dialogue about non-binary identity.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the toxic behaviors present in the conversation by emphasizing respect, understanding, and avoiding labeling or attack. It directly tackles the issues of gatekeeping and instigation while guiding the discussion toward a more constructive focus on non-binary identity. The message is clear, neutral, and aligns with the goal of fostering respectful dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output effectively highlights the key issue of whataboutism in the conversation, pointing out that dismissing the World Cup due to Qatar's labor practices while ignoring similar issues in Western countries is more defensible. It acknowledges the complexity of the debate while steering the conversation towards a more balanced perspective. The tone is neutral and factual, avoiding emotional language and focusing on the core argument.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and fails to address the core issues of the conversation. It does not clearly define what 'defensible' means in the context of the debate, nor does it provide a structured approach to resolve the conflict. The message is too generic and does not guide the conversation towards a constructive resolution. It also does not address the specific points raised about worker exploitation in different contexts, which are central to the discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation output effectively addresses the core issue of whataboutism by highlighting the imbalance in the argument. It clearly points out that dismissing the World Cup due to Qatar's labor practices while ignoring similar issues in Western countries is more defensible. The message is neutral, factual, and focuses on the key debate point without taking sides. It provides a clear direction for the conversation to become more balanced and constructive.",
+        "score": 5
+    }
+}

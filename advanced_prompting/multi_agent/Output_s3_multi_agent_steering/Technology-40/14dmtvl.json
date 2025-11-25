@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation back to the core issue of sustainability while acknowledging the complexity of the topic. It encourages a balanced discussion by asking for potential benefits and considerations, which promotes a constructive dialogue. The message is clear, neutral, and avoids taking sides, making it suitable for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in redirecting the discussion towards sustainability, but it lacks specificity and fails to address key concerns raised by the participants. It does not clearly define what 'user-replaceable batteries' means in the context of the regulation, nor does it acknowledge the trade-offs between design, safety, and environmental impact. The message is too vague and does not provide a clear framework for discussing the regulation's implications.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively steers the conversation back to the core issue of sustainability while acknowledging the complexity of the topic. It encourages a balanced discussion by asking for potential benefits and considerations, which promotes a constructive dialogue. The message is clear, neutral, and avoids taking sides, making it suitable for a mediation context.",
+        "score": 5
+    }
+}

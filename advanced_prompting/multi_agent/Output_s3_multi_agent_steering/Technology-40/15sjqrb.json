@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively encourages a focus on facts and specific evidence, which is crucial in a discussion with strong opinions and potential misinformation. It steers the conversation towards constructive problem-solving by asking about specific evidence and improvement strategies. The tone is neutral and respectful, avoiding any biased language or assumptions. The question is open-ended and invites participants to think critically about the situation, which is a positive approach for a mediation conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging participants to focus on facts rather than speculation. However, it is vague in its guidance, as it does not clearly define what specific evidence is needed or how to balance financial improvement with values. The message also lacks a clear directive on how to proceed or what the next steps should be, which reduces its effectiveness in steering the conversation towards a constructive resolution.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively encourages a focus on facts and specific evidence, which is crucial in a discussion with strong opinions and potential misinformation. It steers the conversation towards constructive problem-solving by asking about specific evidence and improvement strategies. The tone is neutral and respectful, avoiding any biased language or assumptions. The question is open-ended and invites participants to think critically about the situation, which is a positive approach for a mediation conversation.",
+        "score": 5
+    }
+}

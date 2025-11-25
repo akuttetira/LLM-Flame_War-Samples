@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the defensive tone and suggests focusing on the original post, which is relevant and helpful. It is concise, neutral, and provides a clear direction without taking sides. The message is appropriate for guiding the conversation back to the main topic.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is vague and lacks specific guidance on how to address the conflict. It suggests focusing on the original post but does not provide actionable steps or address the underlying issues of defensiveness and personal attacks. The message is too general and fails to offer a clear path forward, which reduces its effectiveness in resolving the conflict.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively addresses the defensive tone and suggests focusing on the original post, which is relevant and helpful. It is concise, neutral, and provides a clear direction without taking sides. However, it could be more specific in suggesting how to address the conflict and reduce personal attacks. The message is appropriate for guiding the conversation but could use more actionable steps.",
+        "score": 3
+    }
+}

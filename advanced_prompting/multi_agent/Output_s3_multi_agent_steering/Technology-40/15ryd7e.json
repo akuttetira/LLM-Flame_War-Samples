@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the subjective nature of tool value and opens the discussion to specific scenarios where the LTT screwdriver might be a good investment or not. It steers the conversation towards practical examples rather than abstract debates, which is helpful in a discussion about product value and usability. The message is neutral, respectful, and encourages a constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the subjective nature of tool value and the debate around the LTT screwdriver's pricing. It does not provide clear direction on how to navigate the discussion around the product's value, performance, and price, which are central to the conversation. The message is too general and does not effectively steer the conversation towards a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the subjective nature of tool value and opens the discussion to specific scenarios where the LTT screwdriver might be a good investment or not. It steers the conversation towards practical examples rather than abstract debates, which is helpful in a discussion about product value and usability. The message is neutral, respectful, and encourages a constructive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output is off-topic and does not address the core issue of the conversation, which revolves around the anxiety-inducing nature of phrases like 'I need to talk to you' and their impact on individuals. The suggested topic of predatory monetization is unrelated to the discussion and fails to provide any guidance or support for the participants' experiences. The message also lacks empathy and fails to acknowledge the emotional weight of the conversation.",
+        "score": 1
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and off-topic. It does not address the core issue of the conversation, which is the anxiety and trauma caused by phrases like 'I need to talk to you' in the context of narcissistic abuse. The suggestion to 'call out specific games or systems you think are fair vs abusive' is unrelated to the discussion and does not provide any useful guidance or direction for the conversation. The mediation fails to acknowledge the emotional impact of the phrases discussed and does not offer any constructive feedback or support.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation output is completely off-topic and irrelevant to the conversation, which is focused on the anxiety and trauma caused by phrases like 'I need to talk to you' in the context of narcissistic abuse. The suggestion to discuss predatory monetization is unrelated to the discussion and does not address the emotional and psychological impact of the phrases in question. The mediation fails to provide any support or guidance for the participants' experiences and does not acknowledge the severity of the issue.",
+        "score": 1
+    }
+}

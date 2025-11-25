@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the nuanced discussion around supernatural phenomena and acknowledges the complexity of the debate. It steers the conversation towards a more thoughtful and balanced perspective without taking sides, which is appropriate for a mediation context. The message is clear, concise, and encourages a deeper exploration of the topic rather than a binary conclusion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on the key issues in the conversation. It fails to address the core debate about the definition of 'supernatural' and the distinction between what is beyond current scientific understanding and what is beyond all scientific understanding. The message is too general and does not provide clear direction for participants to move the discussion forward effectively.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the nuanced discussion around supernatural phenomena and encourages a more thoughtful exploration of the topic. It avoids taking sides and highlights the complexity of the debate, which is appropriate for a mediation context. However, it could have been more specific in addressing the core debate about the definition of 'supernatural' and the distinction between current scientific understanding and absolute unprovability.",
+        "score": 4
+    }
+}

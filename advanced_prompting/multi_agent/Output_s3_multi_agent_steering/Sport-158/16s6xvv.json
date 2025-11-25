@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key point of contention in the conversation, acknowledging the complexity of the situation and the differing perspectives. It addresses the core issue without taking a definitive side, maintaining a balanced and neutral tone. The message is clear, concise, and steers the conversation toward a more constructive discussion by recognizing the merits of both viewpoints.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the debate between the two perspectives on the 2006 World Cup match. It is vague and does not clearly guide the conversation towards a resolution or clarification of the facts. The statement is too general and does not provide a balanced or effective steer for the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation and the differing perspectives, while steering the conversation towards a more constructive discussion. It recognizes the merits of both viewpoints without taking a definitive side, which helps to calm the conversation and encourage a more balanced exchange. The message is clear and concise, and it sounds like it could be from a user rather than an AI.",
+        "score": 4
+    }
+}

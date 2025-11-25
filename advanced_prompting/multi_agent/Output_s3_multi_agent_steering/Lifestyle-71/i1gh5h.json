@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the shared experience of parental hurt and shifts the focus to mutual support rather than competition. It promotes a positive, constructive tone that aligns with the community's emotional context. The message is neutral, empathetic, and encourages a collaborative approach, which is appropriate for the conversation's themes.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to support each other in their journeys. It does not address the core issues of the conversation, which revolve around dealing with parental expectations and finding personal success. The message is too general and does not provide actionable steps or clear direction for the participants.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the shared experience of parental hurt and shifts the focus to mutual support rather than competition. It promotes a positive, constructive tone that aligns with the community's emotional context. The message is empathetic and encourages a collaborative approach, which is appropriate for the conversation's themes. However, it could be more specific in offering actionable steps for dealing with parental expectations and finding personal success.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards supporting the OP and focusing on self-care and boundaries. It acknowledges the complexity of the situation and encourages a constructive dialogue. The message is neutral, empathetic, and avoids taking sides, which is appropriate for a mediation context. It also aligns with the positive bias by promoting a supportive and helpful environment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging focus on supporting the OP and providing helpful advice. However, it lacks specificity and fails to address the underlying issues of manipulation and boundary-setting that are central to the conversation. The message is vague and does not provide clear guidance on how to navigate the complex dynamics presented in the discussion. It also does not acknowledge the potential for harmful language or the need for critical reflection on the behavior described.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards supporting the OP and focusing on self-care and boundaries. It acknowledges the complexity of the situation and encourages a constructive dialogue. The message is neutral, empathetic, and avoids taking sides, which is appropriate for a mediation context. However, it could have been more specific in addressing the underlying issues of manipulation and boundary-setting that are central to the conversation.",
+        "score": 4
+    }
+}

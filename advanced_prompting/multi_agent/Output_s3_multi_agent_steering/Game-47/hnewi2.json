@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards a more factual and respectful discussion. It encourages participants to focus on the realities of pandemics without personal attacks, which is appropriate given the context of the conversation. The message is neutral, clear, and aligns with the goal of maintaining a constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the discussion of pandemic risks and realities. It mentions avoiding personal attacks and focusing on facts, but does not clearly define what constitutes a fact or how to handle the differing perspectives presented. The message is too general and does not provide actionable steps to steer the conversation towards a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively encourages a focus on facts and respectful discussion, which is appropriate given the context of the conversation. It addresses the potential for personal attacks and promotes a constructive dialogue. The message is clear, neutral, and aligns with the goal of maintaining a respectful conversation about pandemic risks. While it is slightly general, it provides a solid foundation for more specific discussion.",
+        "score": 4
+    }
+}

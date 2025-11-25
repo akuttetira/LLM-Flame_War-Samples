@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the emotional context and calls out the troll, while acknowledging the importance of context before making judgments. It maintains a fair and balanced perspective, steering the conversation towards understanding the situation rather than immediate condemnation. The message is well-worded, neutral, and aligns with the conversation's tone.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to address the conflict by acknowledging different perspectives but is somewhat vague in its guidance. It doesn't clearly explain why one perspective is more valid than the other or provide a framework for understanding the context. The message is somewhat neutral but lacks specific direction on how to move forward in the conversation, which reduces its effectiveness in resolving the disagreement.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the emotional context of the moment, calls out the troll's harsh judgment, and provides a balanced perspective by recognizing the validity of different viewpoints. It clearly states that the emotional moment and those defending it are more in the right, which helps to calm the conversation and steer it towards understanding rather than immediate condemnation. The message is well-worded, neutral, and aligns with the conversation's tone, making it effective in resolving the disagreement.",
+        "score": 5
+    }
+}

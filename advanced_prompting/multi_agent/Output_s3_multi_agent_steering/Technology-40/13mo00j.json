@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the leadership structure and the balance needed between Linus' creative role and Terren's business role. It is neutral, concise, and encourages a collaborative approach without taking sides. The message is well-suited for the context of the discussion and promotes a constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to achieve the balance between Linus' creative vision and Terren's business acumen. It does not address the underlying concerns about power dynamics, authority, or the potential for conflict between the two leaders. The message is too general and does not provide actionable steps or clear direction for the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the leadership structure and the balance needed between Linus' creative role and Terren's business role. It is neutral, concise, and encourages a collaborative approach without taking sides. The message is well-suited for the context of the discussion and promotes a constructive dialogue.",
+        "score": 5
+    }
+}

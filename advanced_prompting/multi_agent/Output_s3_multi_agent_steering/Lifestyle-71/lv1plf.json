@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation towards the specific behaviors that led to the warning, which is crucial for understanding the context of the nursing home's policy. It acknowledges the complexity of the situation without taking sides, and it encourages a more focused discussion on the actions rather than personal opinions. The message is neutral, clear, and helpful in guiding the conversation towards a more constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specificity in addressing the core issue. It suggests focusing on 'specific behaviors' but does not clearly define what those behaviors are or how they relate to the warning. The message also fails to address the underlying conflict between the individuals' perspectives on appropriate behavior in the workplace. This vagueness reduces its effectiveness in guiding the conversation toward a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively addresses the core issue by focusing on the specific behaviors that led to the warning, which is essential for understanding the context of the nursing home's policy. It acknowledges the complexity of the situation without taking sides and encourages a more focused discussion on the actions rather than personal opinions. The message is neutral, clear, and helpful in guiding the conversation towards a more constructive direction, similar to the positive judge's response.",
+        "score": 5
+    }
+}

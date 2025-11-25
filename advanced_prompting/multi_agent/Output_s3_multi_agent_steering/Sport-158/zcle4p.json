@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the importance of considering historical performance in high-pressure matches when evaluating team dynamics. It acknowledges the complexity of the situation by suggesting that France's past results against England may be a more reliable indicator than a dismissive attitude towards England's potential. The message is well-worded, balanced, and avoids taking a definitive stance, which aligns with a fair and neutral perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and does not clearly address the specific issues in the conversation. It attempts to balance perspectives but lacks concrete guidance on how to move forward or resolve the disagreement. The message is not specific enough to be effective in steering the conversation towards a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core of the discussion by acknowledging the complexity of predicting match outcomes based on historical performance and high-pressure scenarios. It provides a balanced perspective without taking a definitive stance, which is appropriate for a neutral and fair mediation. The message is well-structured and aligns with the context of the conversation, making it sound like a genuine user response rather than an AI-generated one.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of the ideologies discussed and suggests a constructive approach by emphasizing learning from each other and finding common ground. It avoids taking sides and promotes understanding, which is appropriate for a neutral and fair mediation. The message is well-worded and aligns with the goal of facilitating a more productive conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific guidance for the conversation. It suggests finding common ground and learning from each other, but does not address the specific issues or biases present in the conversation. The message is too general and does not provide a clear path for constructive dialogue. It also fails to acknowledge the negative aspects of both MGTOW and incel ideologies, which are central to the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the ideologies discussed and suggests a constructive approach by emphasizing learning from each other and finding common ground. It avoids taking sides and promotes understanding, which is appropriate for a neutral and fair mediation. The message is well-worded and aligns with the goal of facilitating a more productive conversation. However, it could have been more specific in addressing the underlying tensions and biases present in the conversation.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation toward a more constructive focus by addressing the issue of personal attacks and suggesting a discussion on the implications of inflammatory language. It is clear, concise, and aims to promote a more respectful and productive dialogue. The message also maintains a neutral tone and does not take sides, which is appropriate for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and does not effectively address the specific issues in the conversation. It suggests focusing on 'actual content' and discussing 'implications of inflammatory language,' but it lacks concrete guidance on how to do so. The message is too general and does not directly address the personal attacks and inflammatory rhetoric present in the posts. It also fails to provide a clear path for constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation toward a more constructive focus by addressing the issue of personal attacks and suggesting a discussion on the implications of inflammatory language. It is clear, concise, and aims to promote a more respectful and productive dialogue. The message also maintains a neutral tone and does not take sides, which is appropriate for a mediation context.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives in the conversation, recognizing that some view the action as a minor annoyance while others see it as disrespectful. It provides a balanced view without taking a definitive stance, which is fair and neutral. The message is concise and steers the conversation toward understanding different viewpoints rather than escalating the debate.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is vague and lacks specific guidance for resolving the conflict. It fails to address the core issue of whether using a photographer's bib to dry hands is disrespectful or not, and it does not provide a clear path for the conversation to move forward. The statement is overly subjective and does not offer a balanced or neutral perspective that would help facilitate a constructive discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives in the conversation, recognizing that some view the action as a minor annoyance while others see it as disrespectful. It provides a balanced view without taking a definitive stance, which is fair and neutral. The message is concise and steers the conversation toward understanding different viewpoints rather than escalating the debate.",
+        "score": 4
+    }
+}

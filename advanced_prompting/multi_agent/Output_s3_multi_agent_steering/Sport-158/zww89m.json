@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around Neuer's celebration, highlighting that both sides have valid points. It avoids taking a definitive stance and instead presents the discussion as nuanced, which is appropriate for a mediation context. The message is neutral, fair, and steers the conversation towards a more balanced understanding.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the nuanced debate between the two sides. It fails to clearly define the issue or suggest steps to move the conversation forward in a constructive manner. The statement is too general and does not offer a clear path for resolution or clarification.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around Neuer's celebration, highlighting that both sides have valid points. It avoids taking a definitive stance and instead presents the discussion as nuanced, which is appropriate for a mediation context. The message is neutral, fair, and steers the conversation towards a more balanced understanding.",
+        "score": 5
+    }
+}

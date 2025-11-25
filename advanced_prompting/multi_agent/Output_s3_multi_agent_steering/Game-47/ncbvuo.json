@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output effectively steers the conversation towards focusing on specific behaviors and evidence rather than making blanket statements. It encourages a more constructive and fact-based discussion by asking for specific examples of actions or comments that raise concerns. The tone is neutral and does not appear to be influenced by an AI, making it a good mediation message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the concerns raised in the conversation. It suggests focusing on specific behaviors and evidence but does not provide clear steps or criteria for evaluating the claims made. This vagueness may lead to a lack of direction in the discussion, making it difficult to effectively address the issues at hand.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively steers the conversation towards focusing on specific behaviors and evidence, which is crucial for a constructive discussion. It asks for specific examples, which encourages participants to provide concrete instances rather than making broad claims. The tone is neutral and appropriate for a user, avoiding the robotic or overly formal tone sometimes associated with AI-generated content. It addresses the concerns raised in the conversation by prompting a more analytical approach.",
+        "score": 5
+    }
+}

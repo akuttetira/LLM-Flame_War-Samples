@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation back to supporting the OP and focusing on constructive strategies for future situations. It is neutral, respectful, and encourages a positive, solution-oriented dialogue. The message does not take sides or impose opinions, making it fair and suitable for a support group context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to handle the situation described. It fails to address the underlying issues of the conversation, such as the inappropriate behavior of users and the need for a more supportive and constructive dialogue. The message is too general and does not effectively steer the conversation towards a more productive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation back to supporting the OP and focusing on constructive strategies for future situations. It is neutral, respectful, and encourages a positive, solution-oriented dialogue. The message does not take sides or impose opinions, making it fair and suitable for a support group context.",
+        "score": 5
+    }
+}

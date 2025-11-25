@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing both the Netherlands' potential provocations and the referee's possible failures. It also challenges the simplistic claim that Argentina is the only team behaving respectfully, which is a key point in the ongoing debate. The message is balanced, fair, and steers the conversation towards a more nuanced understanding of the events rather than reinforcing a one-sided narrative.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issues of the conversation, which revolves around accusations of provocation and disrespect between teams. It does not effectively guide the discussion towards a more neutral or constructive path. The statement is vague and does not clearly define what constitutes respectful behavior or how to address the accusations of provocation. It also does not acknowledge the complexity of the situation or the different perspectives presented by the participants.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing both the Netherlands' potential provocations and the referee's possible failures. It also challenges the simplistic claim that Argentina is the only team behaving respectfully, which is a key point in the ongoing debate. The message is balanced, fair, and steers the conversation towards a more nuanced understanding of the events rather than reinforcing a one-sided narrative.",
+        "score": 5
+    }
+}

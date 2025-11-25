@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the conversation by acknowledging the validity of concerns about England's past performance while challenging the absolute statement that they will never win the World Cup again. It provides a balanced perspective that encourages a more nuanced discussion rather than reinforcing a definitive claim. The tone is fair and neutral, aligning with the conversation's context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to address the debate around England's chances in the World Cup by distinguishing between a reasonable argument about past performance and a blanket claim. However, it is vague and lacks specific guidance on how to move forward in the conversation. It does not clearly define the terms 'poor past performance' or 'future success' or provide a framework for constructive dialogue. The message is somewhat neutral but lacks the specificity needed to effectively guide the conversation towards a more productive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the validity of concerns about England's past performance while challenging the absolute statement that they will never win the World Cup again. It provides a balanced perspective that encourages a more nuanced discussion. The tone is fair and neutral, and the message sounds like it could be from a user rather than an AI. However, it could be more specific in its guidance on how to move forward in the conversation.",
+        "score": 4
+    }
+}

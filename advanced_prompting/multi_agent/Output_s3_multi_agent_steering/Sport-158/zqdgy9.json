@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the cultural context of Argentina's playful mocking in football, acknowledging it as a form of sportsmanship rather than disrespect. It balances the perspectives of both sides, recognizing the validity of the cultural expression while avoiding a one-sided judgment. The message is neutral, fair, and steers the conversation towards understanding cultural differences rather than personal offense.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the cultural differences in sportsmanship. It fails to clearly distinguish between playful banter and potential disrespect, which is crucial in this context. Additionally, the phrase 'blanket criticism' is too general and does not offer actionable steps or a balanced perspective that would help resolve the underlying tension between the participants.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the cultural context of Argentina's playful mocking in football, presenting it as a form of sportsmanship rather than disrespect. It offers a balanced perspective by recognizing the validity of both viewpoints without taking a clear side. The message is well-worded, neutral, and provides a reasonable framework for understanding the cultural differences in sportsmanship.",
+        "score": 4
+    }
+}

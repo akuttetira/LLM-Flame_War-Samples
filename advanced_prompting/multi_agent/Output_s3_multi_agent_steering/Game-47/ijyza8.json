@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the diverse perspectives and emotions expressed in the conversation. It highlights the frustration people feel when their game is ruined but also encourages a focus on the game itself rather than the players. The message is neutral, empathetic, and steers the conversation towards a more constructive direction without taking sides. It sounds like a genuine user trying to facilitate a positive interaction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the frustration expressed in the conversation. It attempts to redirect focus to the game but does not clearly address the underlying issues or provide actionable steps for participants to manage their emotions or interactions. The message is also somewhat dismissive of the frustration felt by some players, which could be seen as not fully neutral or effective in addressing the concerns raised.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the frustration and diverse perspectives in the conversation while encouraging a focus on the game itself. It maintains a neutral tone and provides a constructive direction without taking sides. The message is well-worded and sounds like a genuine user effort to facilitate a positive interaction, though it could have been more specific in addressing the underlying issues.",
+        "score": 4
+    }
+}

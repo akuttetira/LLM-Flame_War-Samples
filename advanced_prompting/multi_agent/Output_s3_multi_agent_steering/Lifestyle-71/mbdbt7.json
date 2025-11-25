@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message attempts to shift the focus from conflict to support and coping strategies. It is neutral and encourages constructive dialogue by suggesting sharing personal experiences. However, it could be more effective by directly addressing the emotional conflict and offering more concrete strategies for handling toxic family dynamics. The message is somewhat neutral but lacks the specificity needed to effectively steer the conversation towards a more constructive direction.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and fails to address the core issues in the conversation. It does not directly confront the harmful language used, such as calling someone a 'little bitch' or 'pussy,' and does not provide a clear path for constructive dialogue. The message is overly general and does not guide the conversation towards a more neutral, supportive, and effective direction.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message attempts to redirect the conversation towards support and coping strategies, which is a positive approach. However, it is somewhat vague and does not directly address the harmful language or the underlying conflict in the conversation. It could have been more effective by acknowledging the intensity of the emotions involved and providing clearer guidance on how to handle toxic family dynamics in a constructive way. The message is neutral but lacks the specificity needed to effectively steer the conversation towards a more constructive direction.",
+        "score": 3
+    }
+}

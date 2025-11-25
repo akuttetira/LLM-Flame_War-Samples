@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion, highlighting that there are valid points on both sides of the debate. It avoids taking a simplistic stance and instead encourages a more nuanced understanding of the issues raised. The message is well-crafted, neutral, and steers the conversation towards a more balanced perspective without favoring any particular viewpoint.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the nuanced discussion around Ronaldo's personal issues and arrogance. It fails to provide clear direction on how to handle the sensitive topics raised, such as allegations and personal preferences, which could lead to further division. The message is too general and does not effectively steer the conversation towards a more constructive or neutral path.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion, highlighting that there are valid points on both sides of the debate. It avoids taking a simplistic stance and instead encourages a more nuanced understanding of the issues raised. The message is well-crafted, neutral, and steers the conversation towards a more balanced perspective without favoring any particular viewpoint.",
+        "score": 5
+    }
+}

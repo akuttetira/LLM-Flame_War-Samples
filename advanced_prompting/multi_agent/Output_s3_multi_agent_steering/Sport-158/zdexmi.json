@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around Yugoslavia's potential team, highlighting that the conversation involves nuanced perspectives and valid points on both sides. It avoids taking a definitive stance and instead encourages a more balanced view, which is appropriate for a mediation context. The message is clear, concise, and maintains a neutral tone without appearing biased or overly technical.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the contentious historical and political issues raised in the conversation. It fails to provide clear direction on how to handle the biased and inflammatory comments, particularly those involving nationalistic and discriminatory views. The message is too general and does not effectively steer the conversation towards a more constructive or neutral discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around Yugoslavia's potential team, highlighting that the conversation involves nuanced perspectives and valid points on both sides. It avoids taking a definitive stance and instead encourages a more balanced view, which is appropriate for a mediation context. The message is clear, concise, and maintains a neutral tone without appearing biased or overly technical.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the conversation, recognizing that both sides have valid points. It highlights the perspective of those who believe Argentina displayed class and respect, which is a fair and balanced approach. The message is neutral, does not take sides, and encourages a more constructive dialogue by focusing on the positive aspects of the interaction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is overly simplistic and fails to address the complex nature of the debate. It presents a one-sided conclusion without acknowledging the nuances of the discussion, such as the context of past interactions between Argentina and Croatia, the role of cultural expectations, and the differing interpretations of 'class' in sports. The statement does not encourage constructive dialogue or provide a balanced view of the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation provides a balanced view by acknowledging that both sides have valid perspectives. It recognizes the complexity of the debate around 'class' in sports and does not take an outright side. However, it could have been more specific in addressing the context of past interactions and the cultural nuances involved. The message is neutral and encourages a constructive dialogue, which is appropriate for the situation.",
+        "score": 4
+    }
+}

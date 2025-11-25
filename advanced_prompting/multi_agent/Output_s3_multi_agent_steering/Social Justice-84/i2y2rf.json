@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and encourages a more collaborative approach. It recognizes the tendency towards oversimplification and binary thinking on both sides, which is a key insight in the conversation. The message is neutral, encouraging, and promotes finding common ground without taking sides. It also invites reflection and learning from each other, which is a positive and constructive approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to move forward. It suggests learning from each other and finding common ground, but does not address the underlying issues of binary thinking, oversimplification, or the need for more nuanced dialogue. The message is too general and does not provide actionable steps or clear direction for the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and encourages a more collaborative approach. It recognizes the tendency towards oversimplification and binary thinking on both sides, which is a key insight in the conversation. The message is neutral, encouraging, and promotes finding common ground without taking sides. It also invites reflection and learning from each other, which is a positive and constructive approach.",
+        "score": 5
+    }
+}

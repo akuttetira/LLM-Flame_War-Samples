@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the reasonable argument that the goal was impressive despite the team's overall loss, which aligns with the conversation's context. It acknowledges the goal's quality without dismissing the team's performance, maintaining a balanced perspective. The message is concise, fair, and steers the conversation towards a more constructive interpretation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and does not clearly address the specific issues or dynamics in the conversation. It attempts to steer the discussion towards a more reasonable interpretation of the goal but lacks specificity and fails to provide actionable guidance for the participants. The message is neutral in tone but does not effectively resolve or guide the conversation towards a constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the conversation by acknowledging the value of the goal while recognizing the team's overall performance. It provides a balanced perspective that aligns with the context of the discussion, steering the conversation towards a more constructive interpretation without being overly vague or dismissive. The message is well-structured and maintains a neutral, fair tone.",
+        "score": 4
+    }
+}

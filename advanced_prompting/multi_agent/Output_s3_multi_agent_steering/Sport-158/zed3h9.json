@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the issue of attributing violence to ethnicity rather than team performance, promoting a more nuanced and defensible perspective. It acknowledges the complexity of the situation without endorsing or dismissing the violence, which is a positive approach. The message is clear, neutral, and steers the conversation towards a more constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to address the underlying issue of racialized violence and generalization. It only partially acknowledges the complexity of the situation by distinguishing between team skill and ethnicity, but does not adequately challenge the racist stereotypes or the broader pattern of violence linked to Moroccan success. The message is vague and does not provide a clear path for constructive dialogue or accountability.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the issue of attributing violence to ethnicity rather than team performance, promoting a more nuanced perspective. It clearly distinguishes between the team's skill and the broader issue of racialized violence, which is a constructive approach. The message is neutral and steers the conversation towards a more constructive direction without endorsing the violence.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the shared experiences and the need for support in healing journeys. It is positive and encourages community support, which is effective in guiding the conversation towards a more empathetic and supportive direction. However, it could be more specific in addressing the emotional and psychological aspects discussed in the conversation.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is too vague and lacks specific guidance on how to support each other in healing journeys. It does not address the emotional and psychological complexities discussed in the conversation, nor does it offer actionable steps or a clear direction for the discussion. The message is overly general and does not effectively steer the conversation towards meaningful dialogue or mutual support.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the shared experiences and the need for support in healing journeys. It is positive and encourages community support, which is effective in guiding the conversation towards a more empathetic and supportive direction. However, it could be more specific in addressing the emotional and psychological aspects discussed in the conversation.",
+        "score": 3
+    }
+}

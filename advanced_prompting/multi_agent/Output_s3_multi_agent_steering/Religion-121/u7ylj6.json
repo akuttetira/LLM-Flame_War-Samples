@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the discussion and provides a balanced perspective by recognizing the defensibility of the argument that consciousness may not be solely material. It avoids taking a clear side and instead highlights the nuance in the debate, which is appropriate for a mediation context. The message is well-crafted and maintains a neutral tone, steering the conversation towards a more balanced and thoughtful discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance for resolving the debate. It fails to address the core issues of consciousness, materialism, and the soul in a clear or effective manner. The statement is overly general and does not provide a structured approach to reconcile the opposing viewpoints. It also does not clearly define terms or offer a path forward for the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion and provides a balanced perspective by recognizing the defensibility of both sides without taking a clear stance. It steers the conversation towards a more nuanced and thoughtful discussion, which is appropriate for a mediation context. The message is well-crafted, maintains a neutral tone, and encourages a deeper exploration of the topic.",
+        "score": 5
+    }
+}

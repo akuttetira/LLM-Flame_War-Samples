@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the value of open discussion and validates the participants' right to express themselves, which is crucial in a context where people might feel invalidated. It maintains a neutral tone, encourages agreement on the importance of open dialogue, and does not take sides in the specific disagreement. The message is concise, respectful, and aligns with the conversation's tone.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the conflict in the conversation. It suggests openness to discussion but doesn't address the underlying issues or provide clear steps for resolving the disagreement. The message is too general and doesn't effectively steer the conversation towards a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the value of open discussion and validates the participants' right to express themselves, which is crucial in a context where people might feel invalidated. It maintains a neutral tone, encourages agreement on the importance of open dialogue, and does not take sides in the specific disagreement. The message is concise, respectful, and aligns with the conversation's tone.",
+        "score": 5
+    }
+}

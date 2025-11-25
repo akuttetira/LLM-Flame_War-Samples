@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument by recognizing that Ange's Europa League win could be seen as a redeeming factor despite his poor league form. It avoids taking a definitive stance and instead presents a balanced perspective, which is appropriate for a mediation context. The message is concise, neutral, and steers the conversation towards a more constructive discussion of the arguments presented.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the opposing viewpoints. It fails to clearly define the criteria for evaluating Ange's performance or provide a structured approach to reconcile the differing opinions about his management. The statement is too general and does not effectively steer the conversation towards a more balanced or constructive discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument by recognizing that Ange's Europa League win could be seen as a redeeming factor despite his poor league form. It avoids taking a definitive stance and instead presents a balanced perspective, which is appropriate for a mediation context. The message is concise, neutral, and steers the conversation towards a more constructive discussion of the arguments presented.",
+        "score": 5
+    }
+}

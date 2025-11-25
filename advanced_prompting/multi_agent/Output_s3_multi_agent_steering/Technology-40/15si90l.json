@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of the situation, highlights the importance of considering power dynamics and the potential consequences of speaking out against powerful figures, and emphasizes the need for a nuanced discussion. It also touches on the importance of supporting survivors of workplace harassment, which is a key aspect of the conversation. The message is well-structured, balanced, and provides a fair and neutral perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to approach the discussion. It mentions skepticism and power dynamics but does not provide clear steps or considerations for handling the situation effectively. The response is too general and does not address the complexities of legal and ethical implications, which are central to the conversation. The mediation fails to offer actionable advice or a structured approach to the debate.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the situation, addresses the power dynamics involved, and emphasizes the importance of supporting survivors of workplace harassment. It provides a balanced perspective and encourages a nuanced discussion, which is appropriate given the sensitive nature of the conversation. The message is well-structured and offers a fair, neutral viewpoint without being overly vague or dismissive.",
+        "score": 4
+    }
+}

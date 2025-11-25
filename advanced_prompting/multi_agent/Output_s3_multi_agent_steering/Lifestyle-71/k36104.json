@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards a more respectful and collaborative approach. It acknowledges the shared experience and encourages mutual learning without making assumptions or judgments. The tone is empathetic and neutrally guides the discussion to focus on understanding rather than confrontation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and does not directly address the specific issues raised in the conversation. It suggests avoiding assumptions but does not provide clear guidance on how to approach the discussion more effectively. The message is neutral in tone but lacks specificity in addressing the concerns about the accuracy of the characterization of narcissism and the potential for misjudgment. It does not clearly steer the conversation towards a more constructive or informed dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experience and encourages a respectful, collaborative approach. It avoids making assumptions and promotes mutual learning, which aligns with the positive judge's feedback. The tone is empathetic and neutrally guides the conversation towards understanding rather than confrontation, making it a suitable and effective mediation.",
+        "score": 5
+    }
+}

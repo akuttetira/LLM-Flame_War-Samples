@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the traumatic experiences shared in the conversation and redirects the focus towards supporting each other and seeking resources. It addresses the recurring theme of comparing experiences and invalidating each other's pain, which is a key issue in the discussion. The message is empathetic, neutral, and encourages constructive engagement without fostering competition or deflection.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message acknowledges the traumatic experiences and suggests focusing on support rather than competition. However, it is somewhat vague in its guidance and does not clearly address the specific issues of gaslighting, invalidation, and the cycle of abuse that are central to the conversation. The message is somewhat effective in promoting a supportive environment but lacks specificity in addressing the core concerns raised by the participants.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the traumatic experiences shared in the conversation and redirects the focus towards supporting each other and seeking resources. It addresses the recurring theme of comparing experiences and invalidating each other's pain, which is a key issue in the discussion. The message is empathetic, neutral, and encourages constructive engagement without fostering competition or deflection.",
+        "score": 5
+    }
+}

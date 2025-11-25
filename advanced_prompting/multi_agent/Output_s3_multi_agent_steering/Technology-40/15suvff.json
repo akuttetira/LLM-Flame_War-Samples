@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the frustration and focuses on improving processes, which is effective in steering the conversation towards constructive solutions. It avoids assigning blame and instead suggests a practical approach to prevent future issues. The message is neutral and user-like, avoiding overly technical language and staying focused on the core issue of communication breakdown.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific strategies for improving communication processes. It doesn't address the underlying issues of corporate responsibility, accountability, or the need for systemic change. The focus on email processes is too narrow and doesn't tackle the broader concerns raised in the conversation about company culture, employee well-being, and public perception. The message also fails to acknowledge the severity of the issues discussed, such as the potential harm caused by the company's actions and the need for real, meaningful change.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the frustration and focuses on improving communication processes, which is a constructive approach. It avoids assigning blame and suggests a practical solution to prevent future issues. The message is neutral, user-like, and stays focused on the core issue of communication breakdown. However, it could have addressed the broader concerns about company culture and systemic change mentioned in the conversation.",
+        "score": 4
+    }
+}

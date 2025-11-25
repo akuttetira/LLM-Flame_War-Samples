@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives of Canadians, Americans, and Europeans regarding the term 'soccer.' It highlights the indifference of some groups and the correcting behavior of others, which aligns with the conversation's content. The message is neutral, fair, and steers the conversation towards a balanced understanding without taking sides. It correctly identifies the key points of contention and provides a concise summary that reflects the discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the underlying tensions between the groups. It fails to clearly define the issue or provide a structured approach to resolving the conflict. The statement is somewhat neutral but does not effectively steer the conversation towards a constructive resolution. It also does not address the specific points of contention, such as the historical use of terms and the cultural differences in attitudes towards the sport.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives of Canadians, Americans, and Europeans regarding the term 'soccer.' It highlights the indifference of some groups and the correcting behavior of others, which aligns with the conversation's content. The message is neutral, fair, and steers the conversation towards a balanced understanding without taking sides. It correctly identifies the key points of contention and provides a concise summary that reflects the discussion.",
+        "score": 5
+    }
+}

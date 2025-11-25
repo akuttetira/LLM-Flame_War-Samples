@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the emotional value of the heaven concept and recognizes the differing perspectives, which is effective in steering the conversation towards understanding and respect. It avoids taking sides and instead highlights the validity of both viewpoints, promoting a balanced discussion.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is vague and fails to address the core issues in the conversation. It does not clearly define what is 'right' or 'wrong' in the debate about heaven and belief, nor does it provide a neutral framework for resolving the conflict. The statement is overly subjective and does not offer a balanced perspective that acknowledges both sides of the argument. It also lacks specific guidance on how to move forward in the discussion, making it ineffective as a mediation tool.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the emotional and ideological aspects of the debate about heaven, recognizing that both sides have valid points. It avoids taking a definitive stance and instead emphasizes the importance of understanding different perspectives, which is effective in de-escalating the tension. However, it could have been more specific in addressing the core conflict between literal interpretation and dismissive commentary.",
+        "score": 3
+    }
+}

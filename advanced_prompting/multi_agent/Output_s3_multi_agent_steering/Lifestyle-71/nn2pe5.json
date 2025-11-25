@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the positive aspects of the conversation and suggests a constructive direction by focusing on creating a safe space for discussion. It is neutral, respectful, and encourages further dialogue without imposing a specific viewpoint. The message is well-crafted and sounds like a genuine user trying to foster a more inclusive and supportive environment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on addressing the conversation's focus on victim-blaming and self-criticism. It suggests creating a safe space but does not provide actionable steps or clarify the discussion's direction. The message is too general and does not effectively steer the conversation towards the key issues at hand, which include the distinction between healthy self-criticism and the inner critic, as well as the impact of narcissistic abuse. The mediation fails to address the underlying concerns and does not offer a clear path forward for the participants.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the positive aspects of the conversation and suggests a constructive direction by focusing on creating a safe space for discussion. It is neutral, respectful, and encourages further dialogue without imposing a specific viewpoint. The message is well-crafted and sounds like a genuine user trying to foster a more inclusive and supportive environment.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively shifts the focus to the actual content and behavior of the mods, avoiding speculation about their motivations. It encourages a constructive discussion about specific actions or statements, which is fair and neutral. The message is clear, concise, and steers the conversation toward a more productive direction without imposing personal opinions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in directing the conversation towards the specific actions or statements of the mods, but it is somewhat vague in its approach. It does not clearly address the underlying issue of the mods being seen as victims or as right-wingers, and it lacks a neutral, objective tone that would help guide the discussion without bias. The message is somewhat vague in its instruction and does not clearly define what specific actions or statements are considered problematic.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively shifts the focus to the actual content and behavior of the mods, avoiding speculation about their motivations. It encourages a constructive discussion about specific actions or statements, which is fair and neutral. The message is clear, concise, and steers the conversation toward a more productive direction without imposing personal opinions.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives in the conversation, highlighting that those defending Costa Rica's win are more accurate in their assessment. It provides a balanced view without taking sides, which is fair and neutral. The message is concise and steers the conversation towards a more constructive discussion of the game's outcome.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat vague and lacks specific guidance on how to address the differing opinions about Costa Rica's performance. It does not clearly distinguish between the criticism of Japan's performance and the evaluation of Costa Rica's effort, which can lead to confusion. The statement is more of a general assertion than a concrete steering message.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the differing perspectives in the conversation, providing a balanced view that recognizes the validity of both sides' arguments. It does not take a clear side but instead highlights that those defending Costa Rica's win are more accurate in their assessment. The message is concise and steers the conversation towards a more constructive discussion of the game's outcome, which is fair and neutral.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around the Casemiro goal and the deflection claim, recognizing that both parties have valid points. It highlights the importance of considering context rather than dismissing the ranking outright, which is a fair and balanced approach. The message is concise, respectful, and steers the conversation towards a more constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to clearly address the specific points of contention in the conversation. It suggests that the person questioning the ranking and the SportsRadioAnnouncer are more correct, but does not provide a clear explanation or reasoning for this conclusion. The statement is vague and does not effectively guide the conversation towards a resolution or understanding. It also does not address the specific arguments about the deflection of the Casemiro goal or the ranking of other goals.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around the Casemiro goal and the deflection claim, recognizing that both parties have valid points. It highlights the importance of considering context rather than dismissing the ranking outright, which is a fair and balanced approach. The message is concise, respectful, and steers the conversation towards a more constructive dialogue.",
+        "score": 5
+    }
+}

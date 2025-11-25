@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation towards a more constructive direction by focusing on the husband's behavior and suggesting strategies for managing anger. It avoids assigning blame and encourages a solution-oriented approach, which is both fair and helpful in resolving the conflict.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific strategies for managing anger. It shifts focus to the husband's behavior but does not provide actionable steps or address the underlying issue of blame. The message is too general and does not effectively guide the conversation towards constructive problem-solving.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards a more constructive direction by focusing on the husband's behavior and suggesting strategies for managing anger. It avoids assigning blame and encourages a solution-oriented approach, which is both fair and helpful in resolving the conflict. The message is clear, concise, and sounds like a natural user response rather than an AI-generated one.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the community's passion and shifts the focus to supporting victims and advocating for better workplace practices. It is empathetic and suggests a constructive direction without directly criticizing LMG. The message is neutral and aims to foster a more positive and supportive conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific, actionable steps to address the issues raised. It suggests a general shift in focus but does not provide clear guidance on how to support victims or advocate for better workplace practices. The response is too broad and does not effectively address the specific concerns of workplace harassment, anti-worker practices, and the need for accountability. It also fails to acknowledge the severity of the issues being discussed.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the community's passion and suggests a more supportive direction by focusing on victims and workplace practices. However, it is somewhat vague and lacks specific, actionable steps to address the issues raised. While it is empathetic and aims to foster a more positive conversation, it does not fully address the severity of the issues or provide clear guidance on how to advocate for change. The score reflects a balance between the positive aspects of the message and its shortcomings in providing concrete solutions.",
+        "score": 3
+    }
+}

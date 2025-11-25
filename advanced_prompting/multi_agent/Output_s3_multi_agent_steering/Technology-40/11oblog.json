@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively promotes respect, understanding, and avoids personal attacks. It acknowledges the complexity of language and culture, which is crucial in a discussion involving sensitive topics. The message is neutral, respectful, and encourages a constructive dialogue without making assumptions. It aligns well with the conversation's context and aims to steer the discussion towards a more inclusive and respectful direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the contentious discussion around the N-word. It emphasizes respect and avoiding personal attacks, which is good, but it does not address the core issue of the debate around the N-word's usage, cultural context, and the differing viewpoints on its appropriateness. The message is too general and does not provide clear direction on how to navigate the complex and sensitive topic at hand.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively promotes respect, understanding, and avoids personal attacks. It acknowledges the complexity of language and culture, which is crucial in a discussion involving sensitive topics. The message is neutral, respectful, and encourages a constructive dialogue without making assumptions. It aligns well with the conversation's context and aims to steer the discussion towards a more inclusive and respectful direction.",
+        "score": 5
+    }
+}

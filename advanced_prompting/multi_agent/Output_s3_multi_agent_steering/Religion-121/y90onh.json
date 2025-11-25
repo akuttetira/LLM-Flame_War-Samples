@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the distinction between the actions of a minority of Christians and the broader Christian community. It acknowledges the complexity of the issue and the existence of both oppressive and compassionate Christians, which is crucial for a fair discussion. The message is balanced, avoids taking sides, and steers the conversation towards a more nuanced understanding of the topic.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the issue and recognizes that not all Christians actively oppress LGBTQ individuals. However, it lacks specificity in addressing the nuances of the debate, such as the role of political influence, systemic discrimination, and the distinction between individual actions and collective beliefs. The message is somewhat vague and does not clearly guide the conversation towards a more constructive or evidence-based discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the complexity of the issue by distinguishing between the actions of a minority of Christians and the broader Christian community. It acknowledges the existence of both oppressive and compassionate Christians, which is crucial for a fair discussion. The message is balanced, avoids taking sides, and steers the conversation towards a more nuanced understanding of the topic.",
+        "score": 5
+    }
+}

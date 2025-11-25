@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key issue in the conversation by acknowledging the conflicting perspectives. It correctly identifies that the person defending DiverMary is more accurate in calling out AdLucky2882's toxic and emotionally abusive behavior. The message is balanced, fair, and provides a clear steer without taking a sides, which is appropriate for a mediation context. It also uses neutral language and avoids overly judgmental terms.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is vague and lacks specific guidance on how to address the toxic behavior. It does not clearly define what constitutes emotionally abusive behavior or provide a framework for constructive dialogue. The statement is overly subjective and does not offer actionable steps to resolve the conflict effectively.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core issue by acknowledging the conflict between the two perspectives. It correctly identifies that the person defending DiverMary is more accurate in calling out AdLucky2882's toxic and emotionally abusive behavior. The message is balanced, fair, and provides a clear steer without taking a side, which is appropriate for a mediation context. It also uses neutral language and avoids overly judgmental terms.",
+        "score": 5
+    }
+}

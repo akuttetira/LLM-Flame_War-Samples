@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the shared experience of the users and suggests a positive direction by focusing on learning from each other and being more supportive. It is neutral, empathetic, and aims to steer the conversation towards a more constructive and understanding tone. However, it could have been more specific in addressing the issues raised in the conversation, such as the lack of support from parents and the traumatic experiences described. The message is somewhat vague in its guidance and does not directly address the key concerns of the users.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is overly vague and lacks specific guidance on how to address the issues raised in the conversation. It fails to acknowledge the specific trauma and lack of support experienced by the user, and instead offers a general, unhelpful suggestion about learning from each other. The message is too broad and does not provide any actionable steps or direction for the conversation to move forward effectively.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the shared experience and suggests a positive direction by focusing on learning from each other and being more supportive. It is empathetic and aims to steer the conversation towards a more constructive tone. However, it is somewhat vague and does not directly address the specific trauma and lack of support mentioned in the conversation. It could have been more specific in its guidance to address the key concerns raised by the users.",
+        "score": 3
+    }
+}

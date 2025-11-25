@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in promoting a civil and supportive conversation. It acknowledges the potential for triggering content and emphasizes mutual support, which aligns with the context of the discussion. The tone is neutral and encouraging, and it does not come across as artificial or overly formal. It successfully guides the conversation towards a more respectful and constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the content and tone of the conversation. It mentions keeping the discussion civil and focused, but does not address the specific issues raised in the conversation, such as the use of emojis, the context of abuse, or the potential for triggering content. The message is general and does not provide clear direction on what constitutes appropriate behavior in this context.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively promotes a civil and supportive conversation by acknowledging the potential for triggering content and emphasizing mutual support. It aligns with the context of the discussion and maintains a neutral, encouraging tone. While it is slightly general, it successfully guides the conversation towards a more respectful direction without being overly formal or artificial.",
+        "score": 4
+    }
+}

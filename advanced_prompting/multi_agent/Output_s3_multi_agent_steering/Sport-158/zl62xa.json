@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the simplistic and inflammatory language used in the original conversation, highlighting the nuance in the argument about European fans. It acknowledges the sentiment without endorsing the derogatory terms, which is fair and constructive. The message is well-worded and serves as a good guide to redirect the conversation towards a more respectful and balanced discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the nuance in the argument but still uses derogatory terms like 'putos' and 'hijdps', which are offensive and not neutral. While it attempts to address the issue of blanket claims, the inclusion of such terms undermines the neutrality and effectiveness of the mediation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the simplistic and inflammatory language used in the original conversation, highlighting the nuance in the argument about European fans. It acknowledges the sentiment without endorsing the derogatory terms, which is fair and constructive. The message is well-worded and serves as a good guide to redirect the conversation towards a more respectful and balanced discussion.",
+        "score": 5
+    }
+}

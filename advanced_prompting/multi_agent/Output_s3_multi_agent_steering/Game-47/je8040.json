@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the differing opinions and encourages a more constructive conversation by focusing on shared experiences and strategies rather than defensive arguments. It maintains a neutral tone and guides the discussion toward a more positive and collaborative direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and lacks specific guidance on how to move forward constructively. It suggests sharing favorite parts or strategies but doesn't address the underlying issue of differing opinions or the defensive tone in the conversation. The message fails to provide clear direction on how to handle the disagreement in a respectful and productive manner, which is necessary for effective mediation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the differing opinions and encourages a more constructive conversation by suggesting sharing favorite parts or strategies. It maintains a neutral tone and guides the discussion toward a more positive and collaborative direction, which is appropriate given the context of the conversation.",
+        "score": 4
+    }
+}

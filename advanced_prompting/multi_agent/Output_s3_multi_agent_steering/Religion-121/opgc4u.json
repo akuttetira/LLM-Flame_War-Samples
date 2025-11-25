@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate by recognizing that the person presenting evidence is more in the right than the one dismissing supernatural events without evidence. It highlights the importance of evidence and the potential for bias in the discussion, which is a fair and balanced approach. The message is clear, concise, and maintains a neutral tone without taking sides explicitly.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat effective in acknowledging the complexity of the discussion, but it lacks clarity and neutrality. It leans towards supporting the side that presents evidence, which introduces a bias. The statement is vague in its assessment and does not clearly address the issues of evidence, pseudoscience, or the legitimacy of parapsychology. It also fails to provide a balanced perspective on the debate between evidence-based claims and the interpretation of supernatural events in the Bible.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate by recognizing the value of evidence while also pointing out the lack of evidence on the other side. It maintains a neutral tone and avoids taking sides explicitly, which is appropriate for a mediation context. The message is clear and concise, and it addresses the key issues in the conversation.",
+        "score": 4
+    }
+}

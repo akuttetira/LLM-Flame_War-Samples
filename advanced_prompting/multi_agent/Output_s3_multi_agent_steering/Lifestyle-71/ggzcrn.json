@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the situation and encourages a focus on supporting OP. It avoids taking sides and promotes a more constructive dialogue by emphasizing mutual understanding and empathy. The tone is respectful and aligns with the supportive nature of the subreddit, making it a fair and effective steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to move forward constructively. It mentions focusing on supporting OP and acknowledging complexity, but it doesn't address the underlying conflict or provide clear steps to de-escalate the situation. The message also fails to directly address the personal attacks and the need for mutual respect in the discussion. While it is somewhat neutral, it lacks the specificity and actionable steps needed to be effective in this context.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the situation and encourages a focus on supporting OP. It avoids taking sides and promotes a more constructive dialogue by emphasizing mutual understanding and empathy. The tone is respectful and aligns with the supportive nature of the subreddit, making it a fair and effective steering message.",
+        "score": 5
+    }
+}

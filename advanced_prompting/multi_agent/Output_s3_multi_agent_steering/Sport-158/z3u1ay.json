@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around the type of goal scored by Richarlison, highlighting that the discussion is more nuanced than a simple disagreement. It avoids taking sides and maintains a neutral tone, which is appropriate for a mediation context. The message is concise, respectful, and encourages a more informed discussion rather than a confrontational one.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to resolve the disagreement. It fails to address the core issue of terminology confusion and does not offer a clear path for the participants to move forward in a constructive manner. The message is overly general and does not provide the necessary structure or direction for a productive discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around the type of goal scored by Richarlison, highlighting that the discussion is more nuanced than a simple disagreement. It avoids taking sides and maintains a neutral tone, which is appropriate for a mediation context. The message is concise, respectful, and encourages a more informed discussion rather than a confrontational one.",
+        "score": 5
+    }
+}

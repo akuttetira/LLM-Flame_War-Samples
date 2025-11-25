@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively emphasizes the importance of listening and believing each other, which is crucial in a trauma support context. It highlights the need for a safe space to share stories, which aligns with the purpose of the discussion. The message is positive, supportive, and encourages mutual support, making it appropriate for the conversation's tone and content.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and lacks specific guidance on how to handle the complex emotions and experiences being shared. It fails to address the specific issues of validation, trauma, and the need for a supportive environment. The message is general and does not provide actionable steps or clear direction for the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively emphasizes the importance of listening and believing each other, which is crucial in a trauma support context. It highlights the need for a safe space to share stories, which aligns with the purpose of the discussion. The message is positive, supportive, and encourages mutual support, making it appropriate for the conversation's tone and content.",
+        "score": 5
+    }
+}

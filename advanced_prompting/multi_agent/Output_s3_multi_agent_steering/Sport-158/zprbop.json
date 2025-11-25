@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the global appeal of soccer while addressing the specific point about its financial viability in the US. It provides a balanced perspective that allows for further discussion without taking a definitive stance, which is appropriate in a mediation context. The message is neutral, concise, and steers the conversation towards a more nuanced discussion of the topic.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to move the conversation forward. It fails to address the core points of contention, such as the financial comparison between soccer and American sports, the popularity of soccer in other countries, and the subjective value of different sports. The statement is too general and does not provide a clear path for resolving the disagreement or encouraging more constructive dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the global appeal of soccer while addressing the specific point about its financial viability in the US. It provides a balanced perspective that allows for further discussion without taking a definitive stance, which is appropriate in a mediation context. The message is neutral, concise, and steers the conversation towards a more nuanced discussion of the topic.",
+        "score": 4
+    }
+}

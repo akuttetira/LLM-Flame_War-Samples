@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively supports the OP by acknowledging the severity of the situation and emphasizes empathy and consideration. It avoids escalating the conversation by not calling out others for not knowing the OP's age, which is appropriate given the context. The message is neutral, supportive, and aims to guide the conversation towards a more constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message acknowledges the severity of the situation and supports the OP, which is positive. However, it fails to address the specific issue of the harmful comment about the OP's family and the need for accountability. The message is somewhat vague in its call for consideration in the future and does not clearly condemn the inappropriate comment made by 'adollarmight'. It also lacks a direct call to action for the community to respond appropriately.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the severity of the situation and supports the OP, which is crucial given the emotional weight of the story. It addresses the issue of not knowing the OP's age in a constructive way, avoiding escalation. However, it could have been more direct in condemning the harmful comment about the OP's family and provided clearer guidance on how to respond appropriately. The message is supportive and neutral, but could use more specificity in addressing the problematic comment.",
+        "score": 4
+    }
+}

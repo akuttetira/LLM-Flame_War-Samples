@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards a more civil and fact-based discussion. It acknowledges the potential for disagreement while encouraging focus on specific financial points. The message is neutral, respectful, and aims to guide the conversation constructively without taking sides.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in promoting a civil discussion, but it lacks specificity and fails to address the underlying issues in the conversation. The message is vague and does not clearly guide the discussion towards the specific financial points that are being debated. It also does not acknowledge the controversial nature of the discussion around Tesla and GameStop, which could lead to further polarization.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards a more civil and fact-based discussion by encouraging participants to focus on specific financial points. It maintains a neutral tone, acknowledges the potential for disagreement, and promotes respectful dialogue. The message is well-structured and provides a clear direction for the discussion without taking sides.",
+        "score": 5
+    }
+}

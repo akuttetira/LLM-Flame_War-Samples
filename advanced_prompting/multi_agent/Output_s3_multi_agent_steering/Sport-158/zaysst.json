@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion by highlighting the corruption allegations against Qatar while also recognizing the disappointment of teams that underperformed. It provides a balanced perspective without taking sides, which is appropriate given the sensitive nature of the topic. The message is well-worded and maintains a neutral tone, steering the conversation towards a more constructive and balanced discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance for the conversation. It does not address the underlying issues or provide a clear path for the discussion to move forward. The statement is also somewhat dismissive of the fans' perspectives on teams that performed poorly, which could be seen as biased. Additionally, the mediation does not offer a balanced view of the topics discussed, such as the corruption allegations against Qatar and the disappointment with underperforming teams.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively balances the discussion by acknowledging both the corruption allegations against Qatar and the disappointment with underperforming teams. It provides a neutral perspective without taking sides, which is appropriate given the sensitive nature of the topic. The message is well-worded and maintains a balanced tone, steering the conversation towards a more constructive direction.",
+        "score": 5
+    }
+}

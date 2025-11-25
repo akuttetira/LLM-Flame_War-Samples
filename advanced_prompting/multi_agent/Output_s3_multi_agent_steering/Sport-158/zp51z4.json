@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key point of the discussion, acknowledging the legitimacy of Di Maria's penalty and the referee's potential mistake with Thuram's incident. It also addresses the inappropriate personal attacks and insults between the users, which is crucial for maintaining a respectful and constructive conversation. The message is clear, concise, and steers the conversation back to the main topic without being overly prescriptive or biased.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issues in the conversation. It does not clearly define what constitutes a legitimate penalty or provide a neutral framework for evaluating the referee's decisions. Additionally, it does not effectively address the personal attacks and insults, which are central to the conflict. The mediation is vague and does not offer specific guidance on how to move forward constructively.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the key point of contention regarding the penalties and referee decisions, while also addressing the personal attacks and insults between the users. It provides a balanced perspective by acknowledging the legitimacy of Di Maria's penalty and the potential mistake with Thuram's incident, which is crucial for maintaining a respectful conversation. The message is clear, concise, and steers the conversation back to the main topic without being overly prescriptive or biased.",
+        "score": 5
+    }
+}

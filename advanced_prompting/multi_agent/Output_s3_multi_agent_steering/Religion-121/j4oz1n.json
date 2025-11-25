@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the validity of the analysis regarding the audio and visual cuts in the video, which is crucial for steering the conversation towards a more informed discussion. It highlights the importance of evidence-based analysis over dismissive opinions, which promotes a more constructive dialogue. The message is clear, concise, and maintains a neutral tone, encouraging a balanced view of the issue without taking sides.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in acknowledging the debate around the video's authenticity, but it lacks specificity and fails to address the core issues of evidence and methodology. It does not provide a clear framework for evaluating the claims, nor does it address the concerns about the video's editing and potential manipulation. The message is vague and does not steer the conversation towards a more constructive or evidence-based discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the validity of the analysis regarding the audio and visual cuts in the video, which is crucial for steering the conversation towards a more informed discussion. It highlights the importance of evidence-based analysis over dismissive opinions, which promotes a more constructive dialogue. The message is clear, concise, and maintains a neutral tone, encouraging a balanced view of the issue without taking sides.",
+        "score": 5
+    }
+}

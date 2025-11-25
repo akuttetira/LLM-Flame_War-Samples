@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output effectively shifts the focus to supporting the OP and emphasizes the importance of sharing the story anonymously if comfortable. It maintains a supportive and non-judgmental tone, which is appropriate for a mediation context. The message is clear, empathetic, and encourages the OP to seek support without advocating for specific actions. It does not take sides in the debate between reporting and staying safe, which is a positive aspect of the mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is too vague and lacks specific guidance on how to handle the situation described. It fails to address the core issue of the OP's parents potentially poisoning them, and instead focuses on general support without offering actionable steps. The message is overly broad and does not provide clear direction or practical advice for the OP in a dangerous situation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively shifts the focus to supporting the OP and emphasizes the importance of sharing the story anonymously if comfortable. It maintains a supportive and non-judgmental tone, which is appropriate for a mediation context. The message is clear, empathetic, and encourages the OP to seek support without advocating for specific actions. It does not take sides in the debate between reporting and staying safe, which is a positive aspect of the mediation.",
+        "score": 4
+    }
+}

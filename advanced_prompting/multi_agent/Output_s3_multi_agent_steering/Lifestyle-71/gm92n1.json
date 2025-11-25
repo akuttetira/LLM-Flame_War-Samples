@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation and encourages a discussion on recognizing and supporting individuals in toxic relationships. It addresses the emotional aspects of the conversation while promoting a balanced perspective. The message is empathetic and does not oversimplify the issues at hand, making it a fair and effective steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to support individuals leaving toxic relationships. It does not clearly address the nuances of abuse, the difference between healthy conflict and abuse, or provide actionable steps for supporting someone in such a situation. The message is too general and does not effectively steer the conversation towards a constructive and supportive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the emotional complexity of the situation and encourages a discussion on recognizing and supporting individuals in toxic relationships. It balances empathy with a call for constructive dialogue, avoiding oversimplification of the issues. The message is well-worded and sounds like a genuine user concern rather than an AI-generated response.",
+        "score": 5
+    }
+}

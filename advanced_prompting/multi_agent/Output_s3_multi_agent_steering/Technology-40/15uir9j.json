@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the frustration and concern in the conversation and shifts the focus to the current actions of the company. It avoids getting entangled in past disputes and emphasizes the present steps being taken, which is a positive and constructive approach. The message is neutral, fair, and aims to steer the conversation towards a more productive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity in addressing the core issues of the conversation. It fails to acknowledge the specific concerns raised about the lack of investigation two years ago and the potential for misinformation. The message is overly general and does not provide a clear path forward or address the underlying tensions in the discussion. It also does not take a neutral stance but rather shifts the focus to the company's current actions without fully addressing the criticisms of past actions.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the frustration and concern in the conversation and shifts the focus to the company's current actions of investigating and addressing the allegations. It provides a constructive approach by emphasizing the present steps being taken, which helps to calm the conversation. The message is neutral and fair, aiming to steer the discussion towards a more productive direction without dismissing the past concerns.",
+        "score": 4
+    }
+}

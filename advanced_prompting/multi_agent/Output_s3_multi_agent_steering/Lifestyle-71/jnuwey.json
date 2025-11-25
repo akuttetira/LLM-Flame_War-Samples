@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the toxic cycle and the manipulation present in the conversation. It encourages focus on supporting each other and breaking free from the cycle, which is a positive and constructive approach. The message is neutral, empathetic, and provides a clear direction for the conversation to become more supportive and less harmful.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to break the toxic cycle or support each other. It fails to address the specific issues discussed in the conversation, such as the manipulation and invalidation of feelings by narcissistic parents. The message is too general and does not offer actionable steps or clear direction for the participants to move forward positively.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the toxic dynamics and encourages a focus on support and breaking the cycle. It is empathetic, neutral, and provides a clear direction for the conversation to become more constructive. However, it could have been more specific in addressing the issues discussed, such as the manipulation and invalidation of feelings by narcissistic parents. Overall, it strikes a good balance between being supportive and offering a clear path forward.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the thoughtful gesture of giving flowers as a supportive action while recognizing that it may not be the most conventional approach. It maintains a neutral tone, avoids taking sides in the debate about whether periods should be treated as significant events, and emphasizes the importance of the intention behind the gesture. The message is concise, respectful, and encourages a constructive discussion without imposing a specific viewpoint.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to approach the discussion. It fails to address the core issues of whether a period is a significant life event and the appropriateness of giving flowers as a gesture. The message is overly general and does not provide a clear path for resolving the disagreement between the participants.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the thoughtful gesture of giving flowers as a supportive action while recognizing that it may not be the most conventional approach. It maintains a neutral tone, avoids taking sides in the debate about whether periods should be treated as significant events, and emphasizes the importance of the intention behind the gesture. The message is concise, respectful, and encourages a constructive discussion without imposing a specific viewpoint.",
+        "score": 5
+    }
+}

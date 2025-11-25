@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key points of contention in the conversation, acknowledging the debate around the Hand of God goal's feasibility and the argument about team deservingness. It balances the discussion by recognizing the validity of the questions raised while steering the conversation away from overly simplistic or biased claims. The tone is neutral and fair, which aligns with the goal of mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat effective in acknowledging the validity of the Hand of God goal and the likelihood of a repeat match, but it is vague in its critique of blanket claims about team deservingness or player greatness. The message does not clearly define what constitutes a 'blanket claim' or provide specific guidance on how to approach the discussion more constructively. This vagueness may leave the participants unsure of how to proceed or what exactly is being criticized.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the key points of contention by acknowledging the debate around the Hand of God goal's feasibility and the argument about team deservingness. It provides a balanced perspective, steering the conversation away from overly simplistic or biased claims without being overly vague. The tone is neutral and fair, which is appropriate for a mediation message.",
+        "score": 4
+    }
+}

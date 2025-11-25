@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the tension in the conversation and suggests a more empathetic approach. It avoids taking sides, remains neutral, and encourages understanding rather than confrontation. The message is well-worded, respectful, and aligns with the goal of de-escalating the situation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat vague and lacks specific guidance on how to improve the conversation. It suggests being 'more understanding and less quick to judge,' which is too general and doesn't address the specific issues in the conversation, such as the use of derogatory language and the lack of empathy. The message is also somewhat dismissive, as it implies that the participants are 'millennials' and 'cheeky kids,' which can be seen as condescending and not neutral. The mediation does not provide actionable steps or clear direction on how to move forward in a constructive manner.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the tension in the conversation and suggests a more empathetic approach. It avoids taking sides, remains neutral, and encourages understanding rather than confrontation. The message is well-worded, respectful, and aligns with the goal of de-escalating the situation. However, it could have been more specific in addressing the use of derogatory language and the lack of empathy in the conversation.",
+        "score": 4
+    }
+}

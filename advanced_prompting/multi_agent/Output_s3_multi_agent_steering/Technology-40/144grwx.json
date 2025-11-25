@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the community's passion and suggests a constructive alternative to the current conflict. It encourages focusing on positive actions like supporting alternative platforms and advocating for user data protection, which aligns with the community's concerns. The message is neutral, respectful, and offers a path forward without escalating the conflict.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity in addressing the community's concerns. It suggests focusing on alternative platforms and user data protection, but does not directly address the issues of Reddit's API changes, the AMA, or the potential for astroturfing. The message is too general and fails to provide actionable steps or clear guidance for the community to move forward constructively.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the community's passion and suggests a constructive alternative to the current conflict. It encourages focusing on positive actions like supporting alternative platforms and advocating for user data protection, which aligns with the community's concerns. The message is neutral, respectful, and offers a path forward without escalating the conflict.",
+        "score": 5
+    }
+}

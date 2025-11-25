@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the diverse experiences shared in the conversation and emphasizes healing and coping rather than confrontation. It maintains a neutral and supportive tone, encouraging mutual learning and understanding without imposing a specific solution. The message is empathetic and aligns with the themes of the discussion, making it relevant and respectful to the participants' experiences.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is overly vague and lacks specific guidance on how to handle narcissistic parents. It focuses on finding common ground and coping, but does not provide actionable steps or clear strategies for dealing with the specific issues discussed. The tone is too general and does not address the serious nature of the situation, which includes emotional abuse and potential physical danger. The message also fails to acknowledge the complexity of the issue and the need for individualized approaches.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the shared experiences and emphasizes healing and coping, which aligns with the discussion. It maintains a neutral and supportive tone, encouraging mutual understanding without imposing a specific solution. However, it could have provided more concrete strategies given the serious nature of the issues discussed, such as emotional abuse and potential physical danger. The message is empathetic and relevant but could be more specific.",
+        "score": 3
+    }
+}

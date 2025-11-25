@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the underlying issue by pointing out the oversimplification of the argument that Germany's performance was due to political focus. It correctly identifies the strawman fallacy in the critique and highlights the complexity of team performance. The message is neutral, fair, and provides a clear steer towards more nuanced discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to address the core issues in the conversation effectively. It dismisses a specific argument but does not provide a clear, constructive alternative or explanation. The message is vague and lacks specific guidance on how to move forward in the discussion, which is necessary for a meaningful mediation. It also does not adequately address the underlying tensions or provide a balanced perspective.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the oversimplification of the argument against Germany's performance and correctly points out the strawman fallacy. It provides a neutral, fair, and constructive steer towards a more nuanced discussion without dismissing the concerns raised. The message is well-crafted and sounds like it could genuinely come from a user seeking to de-escalate the conversation.",
+        "score": 4
+    }
+}

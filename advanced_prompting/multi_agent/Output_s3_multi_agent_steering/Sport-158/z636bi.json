@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the core issue by distinguishing between the definition of an 'upset' in sports and the broader accusations of racism. It acknowledges the debate around the term 'upset' while calling out the personal attacks and racial accusations that have taken over the discussion. The message is clear, fair, and aims to steer the conversation back to the original topic without being dismissive of either side's perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the debate around the term 'upset' and addresses the issue of racism and personal attacks. However, it is somewhat vague in its guidance, not clearly outlining steps to move the conversation forward or resolve the underlying conflict. It fails to provide specific strategies for addressing the accusations of racism and the personal attacks, which are central to the discussion.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core issue by distinguishing between the definition of an 'upset' in sports and the broader accusations of racism. It clearly calls out the personal attacks and racial accusations while acknowledging the debate around the term 'upset'. The message is fair, concise, and aims to steer the conversation back to the original topic without being dismissive of either side's perspective.",
+        "score": 5
+    }
+}

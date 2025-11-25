@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output acknowledges the initial participant's perspective and suggests they are more correct than the others who continued arguing despite the initial person's disinterest. This highlights the mediator's recognition of the initial participant's stance and the lack of engagement from others. The message is clear and concise, focusing on the key point of who is more right in the discussion. It does not introduce new information or arguments but rather points out the imbalance in the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to address the core issues of the discussion effectively. It does not provide a clear, neutral, or constructive guide for the conversation. Instead, it makes a subjective judgment about who is 'more in the right,' which is not a valid or fair approach in a mediation context. The mediation lacks objectivity and fails to encourage a balanced, respectful dialogue between the parties involved.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation output attempts to address the imbalance in the conversation by suggesting the initial participant is more correct. However, it does not effectively guide the conversation towards a constructive resolution. It makes a subjective judgment rather than offering a neutral, balanced approach. While it acknowledges the initial participant's stance, it fails to encourage a respectful and objective discussion between all parties.",
+        "score": 2
+    }
+}

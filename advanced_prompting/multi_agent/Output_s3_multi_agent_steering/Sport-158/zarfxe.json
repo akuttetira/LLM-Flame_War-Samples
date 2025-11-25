@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the core of the debate by acknowledging Uruguay's historical significance while highlighting the argument that their current status as a top-tier team is debatable. It provides a balanced perspective that allows for further discussion without taking sides, which is fair and conducive to a constructive conversation. The message is well-worded and maintains a neutral tone, making it a good steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the debate around Uruguay's current status as a top-tier team, but it lacks specific guidance on how to resolve the disagreement. It is somewhat vague in its statement and does not directly address the points made by both sides in the conversation. The mediation fails to provide a clear path forward or encourage more constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around Uruguay's current status as a top-tier team, balancing historical significance with current performance. It provides a neutral stance that allows for further discussion without taking sides, which is fair and conducive to a constructive conversation. The message is well-worded and maintains a neutral tone, making it a good steering message.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the validity of the argument that FIFA World Cup titles may be influenced by oil money, while also addressing the broader financial and social implications of the tournament. It strikes a balance between acknowledging the concerns raised and not dismissing them outright, which is fair and neutrally worded. The message is concise and steers the conversation toward a more constructive and empathetic discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and fails to address the specific concerns raised in the conversation. It does not clearly define what 'oil money' refers to or provide a balanced perspective on the financial and social implications of the World Cup. The statement is too broad and does not effectively steer the conversation towards a more constructive or neutral discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the concern about oil money influencing the World Cup title while also addressing the broader financial and social implications. It provides a balanced perspective without dismissing the concerns outright, which is fair and neutrally worded. The message is concise and steers the conversation toward a more constructive discussion.",
+        "score": 4
+    }
+}

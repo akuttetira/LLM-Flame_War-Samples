@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the passionate nature of the discussion and suggests a more factual approach. It encourages focusing on specific incidents rather than general accusations, which is a constructive way to steer the conversation towards a more objective analysis. The message is neutral, respectful, and aims to foster a more productive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging a more factual and neutral discussion, but it lacks specificity and fails to address the core issues of harassment, brigading, and the community's behavior. The message is vague and does not provide clear guidance on how to handle the specific concerns raised in the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the passionate nature of the discussion and suggests a more factual approach. It encourages focusing on specific incidents rather than general accusations, which is a constructive way to steer the conversation towards a more objective analysis. The message is neutral, respectful, and aims to foster a more productive dialogue.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue by distinguishing between the defensibility of arguing against church funding and the broader claim of corruption. It highlights the nuance in the debate, which is important given the polarized nature of the conversation. The message is neutral, avoids taking sides, and encourages a more balanced perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message acknowledges the defensibility of the argument against church funding but fails to address the broader context of the conversation. It does not provide a clear, neutral path for resolving the debate, nor does it effectively steer the conversation towards a more constructive or balanced discussion. The message is vague and does not clearly articulate the need for a more nuanced approach that considers both the ethical and practical aspects of the issue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue by distinguishing between the defensibility of arguing against church funding and the broader claim of corruption. It highlights the nuance in the debate, which is important given the polarized nature of the conversation. The message is neutral, avoids taking sides, and encourages a more balanced perspective.",
+        "score": 5
+    }
+}

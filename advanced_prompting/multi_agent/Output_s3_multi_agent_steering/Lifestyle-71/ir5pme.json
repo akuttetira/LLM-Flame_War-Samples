@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the diverse experiences shared in the conversation and emphasizes learning and support. It is neutral, positive, and encourages mutual understanding without taking sides. The message is concise and aligns with the overall tone of the discussion, making it a suitable steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and lacks specific guidance on how to support each other or address the underlying issues in the conversation. It does not provide clear direction on how to handle mistakes, criticism, or the emotional responses to them. The message is overly general and does not address the specific concerns or experiences shared in the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experiences of making mistakes and the varied reactions to them, while promoting a supportive and understanding tone. It is neutral, positive, and encourages mutual learning without taking sides. The message is concise and aligns with the overall supportive tone of the discussion, making it a suitable steering message. However, it could be slightly more specific in its guidance on how to support each other in the context of the conversation.",
+        "score": 4
+    }
+}

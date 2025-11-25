@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the ongoing emotional turmoil and encourages a more nuanced, fact-based discussion. It promotes a constructive approach to moving forward, which is positive and aligns with the goal of resolving the situation. The message is clear, empathetic, and aims to guide the conversation towards a more productive direction without being overly prescriptive.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging a more nuanced discussion, but it lacks specific guidance on how to separate facts from emotions and does not address the underlying issues or complexities of the conversation. The message is too vague and does not provide clear steps or direction for the participants to follow, which reduces its effectiveness in guiding the conversation towards a constructive outcome.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the emotional state of the participants and encourages a more nuanced, fact-based discussion. It is empathetic and aims to guide the conversation towards a constructive direction. However, it is somewhat vague and lacks specific guidance on how to separate facts from emotions or address the underlying issues. The message is clear but could be more actionable to effectively calm the conversation and guide it towards a productive resolution.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the concern for supporting each other and offers a balanced approach by acknowledging trauma while encouraging seeking help. It is empathetic, neutral, and provides a constructive middle ground without taking sides.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the contentious issues in the conversation. It fails to clearly define what constitutes invalidating or normalizing abusive behavior, and it does not provide a structured approach to balancing empathy with rule enforcement. The message is too general and does not effectively address the need for neutrality, clarity, or boundary-setting in the context of abuse discussions.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the emotional context of the conversation and offers a balanced approach by recognizing the importance of processing trauma while encouraging seeking help. It is empathetic and provides a constructive middle ground, though it could be more specific in addressing the issues of invalidation and normalization of abuse. The message sounds like it could be from a user rather than an AI, as it is thoughtful and considers the emotional dynamics of the discussion.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is neutral and acknowledges the importance of considering others' feelings. It encourages mutual learning and finding common ground, which is appropriate for the context of the conversation. The message is well-worded and does not come off as artificial or overly formal, making it effective in steering the conversation towards a more considerate and constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to be more considerate or find common ground. It does not address the specific issues in the conversation, such as the emotional impact of friend deletions or the discussion around online relationships. The message is too general and does not provide actionable steps or clear direction for the participants to follow.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is effective in promoting a considerate and constructive conversation. It acknowledges the importance of empathy and mutual learning, which aligns with the emotional tone of the discussion. The message is well-worded, neutral, and does not come off as artificial, making it appropriate for the context. It successfully steers the conversation towards a more positive and understanding direction without being overly prescriptive.",
+        "score": 4
+    }
+}

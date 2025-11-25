@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the diverse experiences shared in the conversation and emphasizes the value of support and understanding. It encourages mutual learning and highlights the importance of empathy, which aligns well with the tone and content of the discussion. The message is neutral, respectful, and promotes a positive, supportive environment.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat vague and lacks specific guidance on how to move forward in the conversation. It suggests offering support and understanding but does not address the need for more structured or directed interaction. The message is too general and does not provide clear steps or focus on the specific dynamics of the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the diverse experiences shared in the conversation and emphasizes the value of support and understanding. It encourages mutual learning and highlights the importance of empathy, which aligns well with the tone and content of the discussion. The message is neutral, respectful, and promotes a positive, supportive environment.",
+        "score": 5
+    }
+}

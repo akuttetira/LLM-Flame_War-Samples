@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the emotional tone of the conversation and encourages a focus on factual discussion. It addresses the issue of personal attacks and seeks to steer the conversation towards understanding the reasons behind the exodus and future actions. The tone is neutral and constructive, which aligns well with the goal of mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to address the issues raised. It mentions focusing on facts and avoiding personal attacks, which is good, but it does not provide clear steps or direction on how to discuss the mass exodus or what should happen next. The message is too general and does not effectively steer the conversation towards a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the emotional tone of the conversation and encourages a focus on factual discussion. It addresses the issue of personal attacks and seeks to steer the conversation towards understanding the reasons behind the exodus and future actions. The tone is neutral and constructive, which aligns well with the goal of mediation.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key points of the conversation, focusing on the strengths of France's squad and England's weaknesses. It acknowledges the validity of both sides' arguments but leans towards the more compelling point about France's advantage. The tone is balanced and does not sound like an AI, but rather a human mediator trying to guide the discussion towards a more informed conclusion.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat effective in acknowledging the strengths of France and weaknesses of England, but it is vague and lacks specific guidance on how to move forward in the discussion. It does not clearly address the need for more balanced perspectives or encourage a more constructive dialogue. The score is moderate because while it identifies a valid point, it fails to provide clear direction or structure for the conversation.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the key points of the conversation, acknowledging both France's squad advantages and England's weaknesses. It provides a clear, balanced perspective without being overly biased, and the tone is natural and human-like, suggesting it could genuinely come from a user rather than an AI. However, it could be slightly more specific in guiding the discussion forward.",
+        "score": 4
+    }
+}

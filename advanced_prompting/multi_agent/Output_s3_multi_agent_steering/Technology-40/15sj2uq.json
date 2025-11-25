@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the conflict and encourages a more nuanced discussion about workplace behavior. It addresses the underlying issue of acceptable behavior in the workplace and suggests a more constructive approach to addressing it. The message is neutral and does not take sides, which is appropriate given the context.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the issues raised. It fails to acknowledge the severity of the sexual harassment allegations and the role of HR in the company. The message is too general and does not provide a clear path for constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the conflict and encourages a more nuanced discussion about workplace behavior, which is appropriate. However, it is somewhat vague and does not directly address the specific issues of sexual harassment and the failure of HR. It could have been more specific in addressing the concerns raised by the users.",
+        "score": 3
+    }
+}

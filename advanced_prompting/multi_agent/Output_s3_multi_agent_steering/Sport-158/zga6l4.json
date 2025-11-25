@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the opposing viewpoints in the conversation, acknowledging both the criticism of Moroccan fans and the defense of fan behavior across teams. It balances the discussion by pointing out the one-sided nature of the argument against Moroccan fans while recognizing the legitimacy of their win. The message is neutral, fair, and steers the conversation towards a more balanced perspective without taking sides.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the conversation, which is the accusation of arrogance and racism towards Moroccan fans. It is vague and does not provide a clear, balanced perspective that would help de-escalate the conflict. The mediation does not acknowledge the specific claims made by the users or offer a constructive path forward.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges both perspectives in the conversation, recognizing the criticism of Moroccan fans while also addressing the defense of fan behavior across teams. It provides a balanced view by pointing out the one-sided nature of the argument against Moroccan fans and the legitimacy of their win. The message is neutral and fair, steering the conversation towards a more balanced perspective without taking sides.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation towards personal experiences and shared understanding, which can foster empathy and deeper connection. It maintains a neutral and supportive tone, encouraging participants to reflect on their own experiences rather than focusing on judgment. The message is well-crafted and sounds like a genuine user trying to facilitate a meaningful dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance for the conversation. It does not address the core issue of why a father might find his daughter's need for underwear embarrassing, nor does it provide a clear path for the participants to move the discussion forward. The suggestion to share personal anecdotes is too general and does not encourage constructive dialogue or resolution of the underlying concerns.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively encourages participants to reflect on their personal experiences and shared understanding, which can foster empathy and deeper connection. It maintains a neutral and supportive tone, steering the conversation towards more meaningful dialogue rather than judgment. The suggestion to share personal anecdotes is appropriate and sounds like a genuine user trying to facilitate a constructive conversation.",
+        "score": 4
+    }
+}

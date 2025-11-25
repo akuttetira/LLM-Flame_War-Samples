@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation back to the main topic by addressing the need for focus and civility. It is clear, concise, and directly addresses the issue of personal attacks and tangents in the conversation. The tone is neutral and appropriate for a mediation context, and it encourages constructive dialogue without imposing personal opinions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in asking the group to focus on the actual content of the post and discussion. However, it is somewhat vague in its guidance and lacks specific direction on how to address the personal attacks or tangents mentioned in the conversation. The message is neutral in tone but does not provide clear steps or examples of what constitutes appropriate behavior, which could reduce its effectiveness in guiding the conversation towards a more constructive direction.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively addresses the need to focus on the actual content of the post and discussion, while encouraging civility and constructive dialogue. It is clear, concise, and appropriately neutral, without imposing personal opinions. The message directly targets the issues of personal attacks and tangents mentioned in the conversation, making it effective in steering the conversation back on track. However, it could benefit from slightly more specific guidance on how to address these issues, which the negative rationale points out. Overall, it is a strong mediation message that successfully calms the conversation and promotes a more productive discussion.",
+        "score": 4
+    }
+}

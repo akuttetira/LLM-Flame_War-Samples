@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively acknowledges the tension in the conversation and encourages a more respectful and constructive dialogue. It addresses the issue of noise and focus without being dismissive of the participants' feelings. The message is neutral, empathetic, and steers the conversation towards a more positive and productive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the toxic and polarizing discussions. It mentions separating 'signal from the noise' and having a 'respectful conversation,' but it does not address the underlying issues like hate speech, conspiracy theories, or the need for more constructive dialogue. The message is too general and does not provide actionable steps to improve the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the tension in the conversation and encourages a more respectful and constructive dialogue. It addresses the issue of noise and focus without being dismissive of the participants' feelings. The message is neutral, empathetic, and steers the conversation towards a more positive and productive direction. It also provides a clear call to action for participants to focus on the game itself rather than personal attacks or conspiracy theories.",
+        "score": 5
+    }
+}

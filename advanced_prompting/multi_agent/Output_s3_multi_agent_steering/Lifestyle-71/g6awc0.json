@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is positive, supportive, and encourages mutual learning and personal growth. It acknowledges the shared experiences of the participants and promotes a sense of community and support. The message is well-worded, empathetic, and aligns with the tone of the conversation. It effectively steers the conversation towards a more constructive and supportive direction without being overly directive.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is overly vague and lacks specific guidance for the conversation. It emphasizes positivity and shared growth but does not address the core issues or provide actionable steps for the participants. The message is general and does not encourage deeper reflection or constructive dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experiences of the participants and encourages a supportive, constructive dialogue around personal growth and self-discovery. It is empathetic, positive, and aligns well with the tone of the conversation. While it is slightly vague, it provides a good foundation for further discussion and mutual learning without being overly directive.",
+        "score": 4
+    }
+}

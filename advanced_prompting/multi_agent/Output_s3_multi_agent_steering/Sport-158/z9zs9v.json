@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the more compelling argument regarding the offside rule and VAR's impact on fan experience, while acknowledging the sentiment of the German fan. It maintains a neutral tone and steers the conversation towards a more constructive discussion by emphasizing the frustration with the rule rather than making a blanket judgment about Germany's performance. The message is well-structured and aligns with the goal of facilitating a fair and effective dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the specific concerns raised about the offside rule and VAR effectively. It also does not provide a balanced perspective on the Germany team's performance, instead favoring one side of the argument. The message is vague and does not clearly guide the conversation towards a more constructive or neutral discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the offside rule concerns and the impact of VAR on fan experience, while also recognizing the sentiment of the German fan. It provides a balanced perspective without taking sides, steering the conversation towards a more constructive discussion. The message is well-structured and maintains a neutral tone, which is appropriate for a mediation effort.",
+        "score": 4
+    }
+}

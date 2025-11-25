@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation towards focusing on facts and the investigation, encouraging participants to seek credible sources rather than speculate. It maintains a neutral tone, avoids taking sides, and promotes a more constructive dialogue by emphasizing the need for information before making conclusions. The message is clear, concise, and aligns with the goal of facilitating a more informed and respectful discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the discussion. It suggests focusing on facts and credible sources but does not address the specific issues of potential lynching, lack of defensive wounds, and the implications of the events described. The message is too general and does not provide clear direction on how to move forward in a constructive manner.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards focusing on facts and the investigation, encouraging participants to seek credible sources rather than speculate. It maintains a neutral tone, avoids taking sides, and promotes a more constructive dialogue by emphasizing the need for information before making conclusions. The message is clear, concise, and aligns with the goal of facilitating a more informed and respectful discussion.",
+        "score": 5
+    }
+}

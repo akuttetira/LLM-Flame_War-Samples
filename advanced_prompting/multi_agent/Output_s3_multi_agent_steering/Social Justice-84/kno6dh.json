@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation towards focusing on the specific meme and distinguishes between making fun of the police and making fun of Floyd\u2019s death. It maintains neutrality, encourages separation of topics, and promotes a constructive dialogue. The message is clear, concise, and aligns with the conversation's context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message attempts to clarify the distinction between making fun of the police and making fun of George Floyd's death. However, it is somewhat vague in its guidance and does not explicitly address the nuances of the discussion. It also lacks specific direction on how to separate the two topics or what the focus should be on the specific meme. The message is neutral but could have been more precise in steering the conversation toward a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core issue by distinguishing between making fun of the police and making fun of George Floyd's death, which is crucial for the conversation. It encourages a focused discussion on the specific meme without being overly prescriptive. The message is clear, neutral, and aligns well with the context of the conversation, making it effective in guiding the dialogue toward a more constructive direction.",
+        "score": 4
+    }
+}

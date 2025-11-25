@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation towards a constructive and empathetic direction by focusing on helping men with social anxiety improve their dating lives without objectifying women. It acknowledges the complexity of the issue and suggests actionable steps like sharing resources, which is both effective and neutral. The tone is supportive and aligns with a user's perspective rather than an AI's, making it feel genuine.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity in addressing the core issues presented in the conversation. It fails to acknowledge the harmful rhetoric and potential misogyny present in the discussion about incels and the objectification of women. The message is overly general and does not provide clear guidance or resources for addressing the specific concerns raised. It also does not effectively steer the conversation towards a more constructive or neutral direction.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the conversation by focusing on constructive support for men with social anxiety while avoiding objectification of women. It acknowledges the complexity of the issue and suggests actionable steps like sharing resources, which is both effective and neutral. The tone is supportive and aligns with a user's perspective rather than an AI's, making it feel genuine.",
+        "score": 5
+    }
+}

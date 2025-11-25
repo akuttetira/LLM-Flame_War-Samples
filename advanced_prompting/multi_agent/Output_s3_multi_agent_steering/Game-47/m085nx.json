@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the tension in the conversation, recognizing that some participants are genuinely interested in understanding Women's Day while others may be dismissive or trying to shift focus. It encourages respectful dialogue and learning, which is appropriate for a mediation context. The message is neutral, fair, and aims to steer the conversation towards constructive engagement rather than defensiveness or hostility. It does not take sides but instead promotes a balanced approach.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to handle the contentious discussions around Women's Day. It mentions focusing on respectful conversations but does not address the underlying issues of defensiveness, anger, or the shift of focus to men's rights. The message is too general and does not provide actionable steps to de-escalate the conflict or encourage constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the tension in the conversation, recognizing that some participants are genuinely interested in understanding Women's Day while others may be dismissive or trying to shift focus. It encourages respectful dialogue and learning, which is appropriate for a mediation context. The message is neutral, fair, and aims to steer the conversation towards constructive engagement rather than defensiveness or hostility. It does not take sides but instead promotes a balanced approach.",
+        "score": 5
+    }
+}

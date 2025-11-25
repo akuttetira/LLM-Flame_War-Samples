@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the complexity of the argument by acknowledging the Dutch's trash talking and dirty play while also recognizing Argentina's response as a form of retaliation. It avoids taking a definitive stance on whether Argentina is the villain, which maintains neutrality and fairness. The message is concise, clear, and steers the conversation towards a more balanced perspective without imposing a specific viewpoint.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in acknowledging the complexity of the argument but lacks specificity and fails to address the broader context of the discussion. It does not clearly define what makes one side's argument more defensible, nor does it provide a balanced perspective that acknowledges the multiple viewpoints presented. The message is somewhat vague and could be seen as favoring one side over the other by implying that Argentina's actions are more justifiable.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument by recognizing the Dutch's trash talking and dirty play while also validating Argentina's response as a form of retaliation. It maintains neutrality by not taking a definitive stance on whether Argentina is the villain, which is important in a conversation with opposing viewpoints. The message is clear, concise, and steers the conversation towards a more balanced perspective without imposing a specific viewpoint.",
+        "score": 5
+    }
+}

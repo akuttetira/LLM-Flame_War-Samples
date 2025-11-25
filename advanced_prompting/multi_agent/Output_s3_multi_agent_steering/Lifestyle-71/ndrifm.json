@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively highlights the importance of safety and planning, which aligns with the conversation's context. It encourages constructive discussion without focusing on who is right or wrong, promoting a neutral and supportive tone. The message is concise, positive, and steers the conversation towards collaboration rather than conflict. It also acknowledges the user's efforts and the shared goal of safety, which is appropriate and well-suited to the conversation's dynamics.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the conversation's content. It suggests focusing on safety and planning but does not offer concrete strategies or address the underlying tension in the discussion. The message also fails to acknowledge the negative tone in the conversation and does not provide a clear path for constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the conversation's focus on safety and planning while encouraging a collaborative approach. It avoids getting entangled in disputes and promotes a positive, supportive tone. The message is well-worded, concise, and aligns with the conversation's context, making it feel natural and user-like rather than robotic. It successfully steers the discussion towards constructive dialogue without dismissing the underlying concerns.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the pain and darkness in the conversation while encouraging support and resources. It offers practical steps like reaching out to a trusted adult, therapist, or support hotline, and emphasizes creating a safe space to share. The message is empathetic, non-judgmental, and provides clear, actionable steps for someone in distress. It maintains a neutral and supportive tone without overstepping or being overly prescriptive.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message acknowledges the pain and offers support, which is positive. However, it lacks specific, actionable steps and resources, making it vague and less effective. It also does not address the toxic dynamics mentioned in the conversation, such as the impact of parental behavior on the individual's mental health. The message is well-intentioned but lacks the specificity and directness needed to be truly effective in this context.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the pain and darkness in the conversation while encouraging support and resources. It offers practical steps like reaching out to a trusted adult, therapist, or support hotline, and emphasizes creating a safe space to share. The message is empathetic, non-judgmental, and provides clear, actionable steps for someone in distress. It maintains a neutral and supportive tone without overstepping or being overly prescriptive.",
+        "score": 5
+    }
+}

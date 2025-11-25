@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around Bono's nationality and cultural identity, recognizing that both Canadian and Moroccan perspectives have valid elements. It avoids taking a definitive stance and instead highlights the nuance in the conversation, which is appropriate given the topic. The message is well-crafted, fair, and steering the conversation towards a more balanced understanding.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges the nuanced nature of the argument but fails to address the specific points made by the users. It is vague and does not provide a clear direction for the conversation, leaving the discussion without resolution or guidance. The lack of specificity makes it ineffective in steering the conversation towards a more constructive or neutral outcome.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the discussion around Bono's nationality and cultural identity, recognizing that both Canadian and Moroccan perspectives have valid elements. It avoids taking a definitive stance and instead highlights the nuance in the conversation, which is appropriate given the topic. The message is well-crafted, fair, and steering the conversation towards a more balanced understanding.",
+        "score": 5
+    }
+}

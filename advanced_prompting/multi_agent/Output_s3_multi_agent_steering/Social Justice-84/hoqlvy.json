@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the main issues in the conversation by encouraging focus on the mods' handling of the post and the lack of admin support. It also acknowledges the frustration and confusion present, while promoting a more constructive dialogue by discouraging personal attacks and jumping to conclusions. The tone is neutral and supportive, which aligns with the goal of facilitating a fair and productive conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the issues raised. It mentions focusing on 'specific issues at hand' but does not clearly outline what those issues are or how to approach them. Additionally, it avoids directly addressing the concerns about the mods' handling of the post and the lack of admin support, which are central to the discussion. The message also does not encourage a constructive dialogue or provide actionable steps for resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the frustration and confusion in the conversation while encouraging a focus on the specific issues: the mods' handling of the post and the lack of admin support. It discourages personal attacks and jumping to conclusions, promoting a more constructive dialogue. The tone is neutral and supportive, which aligns with the goal of facilitating a fair and productive conversation. However, it could have provided more specific guidance on how to address these issues.",
+        "score": 4
+    }
+}

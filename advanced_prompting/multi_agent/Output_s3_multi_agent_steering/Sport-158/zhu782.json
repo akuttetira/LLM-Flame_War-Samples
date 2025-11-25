@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key point of emotional maturity in the conversation, steering the discussion towards a more positive and nuanced interpretation of the situation. It acknowledges the different perspectives but emphasizes the stronger argument about emotional maturity, which is a key theme in the discussion. The message is clear, concise, and maintains a neutral, user-like tone without being overly directive or biased.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the underlying issues in the conversation and is overly one-sided. It dismisses the perspective that the situation might be seen as pathetic or bitter without providing a balanced analysis. The statement is vague and does not effectively guide the conversation towards a more constructive or neutral discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the key theme of emotional maturity while addressing the opposing viewpoint about the situation being 'pathetic' or 'bitter'. It provides a balanced steer by highlighting the stronger argument without dismissing the other perspective entirely. The tone is neutral and user-like, avoiding overly directive language. It successfully guides the conversation towards a more constructive interpretation of the situation.",
+        "score": 4
+    }
+}

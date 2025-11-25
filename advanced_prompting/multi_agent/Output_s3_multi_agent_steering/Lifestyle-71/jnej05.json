@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of people's experiences with abuse and loss, and emphasizes the importance of individual journeys. It promotes a supportive environment without imposing one perspective over another, which is crucial in a discussion with such sensitive topics. The message is neutral, empathetic, and encourages mutual respect, making it a fair and effective steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message acknowledges the uniqueness of individual experiences and emphasizes supporting each other's journeys. However, it is somewhat vague in its guidance and does not explicitly address the need for empathy or the complexity of grief and trauma. The message is neutral but lacks specific direction on how to handle the emotional and psychological aspects of the conversation, which could be more effective in a negative bias context.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of people's experiences with abuse and loss, and emphasizes the importance of individual journeys. It promotes a supportive environment without imposing one perspective over another, which is crucial in a discussion with such sensitive topics. The message is neutral, empathetic, and encourages mutual respect, making it a fair and effective steering message.",
+        "score": 5
+    }
+}

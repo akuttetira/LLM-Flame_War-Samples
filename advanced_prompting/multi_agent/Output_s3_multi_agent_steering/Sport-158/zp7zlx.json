@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges both sides of the argument, recognizing that Martinez's actions were classless but also noting that the criticism was overly harsh. It maintains a balanced perspective without taking a clear side, which is appropriate given the context of the conversation. The message is concise, fair, and does not come across as artificial or overly scripted.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation acknowledges that both sides have partial validity, which is a positive aspect. However, it lacks specific guidance on how to move forward constructively, and it does not clearly address the tone of the conversation or the need for more respectful communication. The message is somewhat vague and does not provide actionable steps for improving the dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that both parties have valid points. It points out that Martinez's actions were classless while also noting that the criticism was harsh. The message is balanced, fair, and maintains a neutral tone, which is appropriate for the context. It does not come across as artificial and provides a clear, concise summary of the key issues without taking a definitive side.",
+        "score": 4
+    }
+}

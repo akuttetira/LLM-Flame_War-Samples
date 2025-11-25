@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the shared experiences of dealing with controlling family members and encourages a focus on support and kindness. It is neutral, acknowledges the complexity of the situation, and encourages constructive interaction. However, it could have been more specific in addressing the ABA therapy discussion and the emotional impact of living with a controlling parent. The message is generally effective in steering the conversation towards a more supportive and understanding direction.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specific guidance on how to handle the complex issues discussed, such as ABA therapy, family dynamics, and personal experiences with controlling relatives. It suggests focusing on supporting each other and being kind, but does not provide clear steps or direction on how to move forward constructively. The message is too general and does not address the underlying tensions or provide a framework for respectful dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experiences of dealing with controlling family members and encourages a focus on support and kindness. It is neutral, acknowledges the complexity of the situation, and encourages constructive interaction. However, it could have been more specific in addressing the ABA therapy discussion and the emotional impact of living with a controlling parent. The message is generally effective in steering the conversation towards a more supportive and understanding direction.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the debate around luck versus skill in Morocco's victory and provides a balanced perspective by highlighting that the argument for luck is more defensible than the outright claim that Morocco is a lucky team. It maintains a neutral tone and steers the conversation towards a more nuanced discussion rather than taking sides.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and lacks specificity in addressing the core issues in the conversation. It attempts to balance the arguments about luck versus skill but does not clearly guide the conversation towards a more constructive or neutral discussion. The statement is too general and does not effectively address the specific points made by the users, such as the role of penalties, team performance, and the argument about Morocco's potential in future matches. As a result, it fails to provide a clear direction or resolution for the discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the debate around luck versus skill in Morocco's victory and provides a balanced perspective by highlighting that the argument for luck is more defensible than the outright claim that Morocco is a lucky team. It maintains a neutral tone and steers the conversation towards a more nuanced discussion rather than taking sides.",
+        "score": 4
+    }
+}

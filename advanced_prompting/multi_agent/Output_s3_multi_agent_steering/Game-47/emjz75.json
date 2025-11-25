@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation back to the topic of the game, WWE 2K17, while maintaining a respectful and neutral tone. It encourages constructive dialogue by asking for personal memories or moments that made the game enjoyable, which is a natural and user-friendly way to redirect the conversation. The message is concise, empathetic, and avoids taking sides, making it a good example of a neutral and effective mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging focus on the game, but it lacks specificity and fails to address the underlying issue of personal insults and inappropriate language. The message is vague and does not clearly state the desired behavior or provide a clear path for the conversation to move forward. It also does not directly address the negative language used in the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation back to the topic of WWE 2K17 while maintaining a respectful and neutral tone. It encourages constructive dialogue by asking for personal memories or moments that made the game enjoyable, which is a natural and user-friendly way to redirect the conversation. The message is concise, empathetic, and avoids taking sides, making it a good example of a neutral and effective mediation.",
+        "score": 5
+    }
+}

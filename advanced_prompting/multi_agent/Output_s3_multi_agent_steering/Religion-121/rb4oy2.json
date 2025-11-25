@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively captures the key themes of the discussion, including free will, morality, and the human condition. It acknowledges the complexity of the arguments presented and the differing perspectives among the participants. The message is neutral, concise, and provides a clear overview of the conversation's main points without taking sides or imposing a particular viewpoint.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the complex arguments presented. It does not provide clear direction on how to navigate the discussion, handle differing viewpoints, or ensure fairness. The output is overly general and does not address the specific issues of free will, morality, and the role of evidence in the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively captures the key themes of the discussion, including free will, morality, and the human condition. It acknowledges the complexity of the arguments presented and the differing perspectives among the participants. The message is neutral, concise, and provides a clear overview of the conversation's main points without taking sides or imposing a particular viewpoint.",
+        "score": 5
+    }
+}

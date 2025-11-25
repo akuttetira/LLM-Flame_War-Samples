@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is positive and inclusive, acknowledging the shared experiences and encouraging mutual learning. It is neutral and does not take sides, which is appropriate for a mediation context. The message is concise and effectively steers the conversation towards a more collaborative and understanding direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the issues raised in the conversation. It is overly general and does not provide clear direction on how to handle the dynamics of over-explaining, invalidation, and the impact of family expectations on behavior. The message fails to acknowledge the specific concerns raised by users and does not offer a constructive path forward.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is positive and inclusive, acknowledging the shared experiences and encouraging mutual learning. It is neutral and does not take sides, which is appropriate for a mediation context. The message is concise and effectively steers the conversation towards a more collaborative and understanding direction. However, it could have been more specific in addressing the core issues of over-explaining and invalidation mentioned in the conversation.",
+        "score": 4
+    }
+}

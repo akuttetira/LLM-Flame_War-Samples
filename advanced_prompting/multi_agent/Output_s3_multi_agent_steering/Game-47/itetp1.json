@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards a more civil and fact-based discussion. It clearly sets a positive tone, encourages respectful disagreement, and emphasizes the importance of focusing on actual news rather than speculation or rumors. The message is well-worded, neutral, and aligns with the context of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is generally effective in promoting civility and focusing on facts. However, it is somewhat vague in its guidance and does not specifically address the context of the conversation, which involves stock market speculation and rumors. The message is neutral and fair, but its lack of specificity in addressing the particular dynamics of the discussion could be seen as a flaw in efficacy.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards a more civil and fact-based discussion. It clearly sets a positive tone, encourages respectful disagreement, and emphasizes the importance of focusing on actual news rather than speculation or rumors. The message is well-worded, neutral, and aligns with the context of the conversation. While it is slightly general, it successfully addresses the core issue of maintaining civility in a discussion involving stock market speculation.",
+        "score": 4
+    }
+}

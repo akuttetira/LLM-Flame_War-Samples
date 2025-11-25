@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the emotional tone of the conversation and encourages a focus on facts and civil dialogue. It avoids taking sides and promotes a respectful approach, which is appropriate for a discussion with strong opinions and potential hostility. The message is clear, concise, and aligns with the goal of fostering a more constructive conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to address the content in the conversation. It makes a general statement about avoiding generalizations and promoting civil dialogue, but does not directly address the specific issues raised in the discussion, such as the debate around police brutality, the legitimacy of the Capitol riot, and the role of various subreddits. The message is too broad and does not offer actionable steps to steer the conversation in a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the emotional tone of the conversation and encourages a focus on facts and civil dialogue. It avoids taking sides and promotes a respectful approach, which is appropriate for a discussion with strong opinions and potential hostility. The message is clear, concise, and aligns with the goal of fostering a more constructive conversation. However, it could have been more specific in addressing the complex issues raised, such as the debate around police brutality and the legitimacy of the Capitol riot. Overall, it strikes a good balance between being neutral and providing guidance.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is effective in steering the conversation towards a more constructive and empathetic direction. It acknowledges the ongoing discussion and encourages a focus on specific hurtful behaviors rather than making assumptions about individuals' motivations. The message is neutral, respectful, and aims to foster a more productive dialogue. It avoids taking sides and instead promotes understanding and empathy, which aligns well with the goal of mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to address the harmful content and behaviors discussed in the conversation. It focuses on making assumptions about motivations rather than directly addressing the explicit homophobia and transphobia present. The message does not clearly outline steps to de-escalate the discussion or promote constructive dialogue around the issues raised.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively steers the conversation towards a more constructive direction by emphasizing the importance of focusing on specific hurtful behaviors rather than making assumptions about individuals' motivations. It is respectful, neutral, and encourages empathy and understanding, which are key components of effective mediation. While it does not provide explicit steps to address the harmful content, it sets a positive tone and invites a more productive dialogue.",
+        "score": 4
+    }
+}

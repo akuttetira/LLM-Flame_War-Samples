@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the core disagreement in the conversation by acknowledging the argument about referee bias while challenging the blanket claim of an obvious dive. It provides a balanced perspective that steers the conversation toward a more nuanced discussion of the referee's decision and the context of the match. The message is clear, fair, and maintains a neutral tone without taking sides.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity. It fails to address the core issues of the debate, such as the fairness of the referee's decisions, the role of VAR, and the context of the match. The statement is too general and does not provide a clear direction for the conversation to move forward in a constructive manner.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the debate around referee bias while challenging the blanket claim of an obvious dive. It provides a balanced perspective that encourages a more nuanced discussion without taking sides. The message is clear and maintains a neutral tone, which is appropriate for a mediation context.",
+        "score": 4
+    }
+}

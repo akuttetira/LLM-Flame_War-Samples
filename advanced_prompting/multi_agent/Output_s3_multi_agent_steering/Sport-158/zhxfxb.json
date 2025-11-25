@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the underlying issue in the conversation by highlighting the difference between attributing a team's loss to external factors (like a stronger opponent) versus blaming the fans for their reaction. It provides a balanced perspective that acknowledges the validity of both sides but leans towards a more constructive interpretation. The message is clear, concise, and maintains a neutral tone without being overly critical or dismissive of either side.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the conversation's toxic and confrontational tone. It fails to provide clear direction on how to move the discussion towards a more constructive or neutral path. The statement is also somewhat misleading by suggesting that blaming fans for being salty is less defensible, which may not be the most effective way to steer the conversation towards a more balanced perspective.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the competitive nature of the discussion and provides a balanced perspective by distinguishing between attributing a team's loss to external factors versus blaming fans for their reaction. It offers a neutral, constructive approach without taking sides, which helps to de-escalate the confrontational tone. The message is well-worded and sounds like it could be from a user rather than an AI.",
+        "score": 4
+    }
+}

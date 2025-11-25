@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the compelling argument about the referee's impartiality being compromised by external factors, which is a key point in the conversation. It acknowledges the concern about corruption and its impact on the game, which aligns with the discussion. The message is clear, concise, and steers the conversation towards a more constructive and relevant discussion about the issue at hand.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat vague and does not directly address the specific concerns raised about the referee's impartiality or the potential corruption involved. It fails to provide a clear path forward or acknowledge the validity of the criticism against the referee. The statement is too general and does not effectively steer the conversation towards a resolution or mutual understanding.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the concern about referee impartiality and the potential for corruption, which is a key issue in the conversation. It provides a balanced perspective by highlighting the compelling argument about external influences on the game, while also steering the discussion towards a more constructive focus on the broader implications of corruption in sports. The message is clear and aligns with the participants' concerns, making it effective in calming the conversation and guiding it towards a more meaningful dialogue.",
+        "score": 4
+    }
+}

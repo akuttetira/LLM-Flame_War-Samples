@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is empathetic and acknowledges the bravery of sharing personal experiences. It emphasizes support and community, which is appropriate given the context of the conversation. The message is neutral, avoids judgment, and provides a clear message of solidarity. It effectively steers the conversation towards a supportive and understanding tone without introducing new information or opinions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat positive and supportive, but it lacks specificity and fails to address the complex dynamics of the conversation. It is vague in its guidance and does not provide clear direction on how to handle the sensitive topics discussed. The message could have been more effective by acknowledging the specific issues raised and offering more concrete advice on how to support each other without reinforcing harmful patterns.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is empathetic and acknowledges the bravery of sharing personal experiences. It emphasizes support and community, which is appropriate given the context of the conversation. The message is neutral, avoids judgment, and provides a clear message of solidarity. It effectively steers the conversation towards a supportive and understanding tone without introducing new information or opinions.",
+        "score": 5
+    }
+}

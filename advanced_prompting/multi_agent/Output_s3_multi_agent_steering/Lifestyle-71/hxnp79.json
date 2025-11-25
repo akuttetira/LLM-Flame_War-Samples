@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the shared experiences of the users and reframes the issue in a way that promotes self-worth and healing. It encourages community support and validates the users' strength in speaking out, which is crucial for those dealing with narcissistic parenting. The message is empathetic, supportive, and aligns with the positive bias by emphasizing healing and community.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific strategies for addressing the issues discussed. It makes a general statement about reframing upbringing but does not provide actionable steps or guidance for the individuals experiencing abuse. The message is too abstract and does not address the emotional pain or the need for support in healing processes. It also fails to acknowledge the severity of the situations described and does not offer practical advice for moving forward.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the shared experiences of the users and reframes the issue in a way that promotes self-worth and healing. It encourages community support and validates the users' strength in speaking out, which is crucial for those dealing with narcissistic parenting. The message is empathetic, supportive, and aligns with the positive bias by emphasizing healing and community.",
+        "score": 5
+    }
+}

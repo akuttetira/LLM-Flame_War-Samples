@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively encourages reflection on the core issue of balancing quality and quantity in content creation. It acknowledges the community's engagement with the specific content and invites a broader discussion about priorities, which is fair and neutral. The message is concise, avoids taking sides, and promotes constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specificity in addressing the core issues of the conversation. It does not directly address the concerns about journalistic integrity, the handling of conflicts of interest, or the accuracy of the content. The message is too general and does not guide the conversation towards a constructive resolution. It also fails to acknowledge the complexity of the situation and the differing perspectives presented by the users.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is somewhat vague and does not directly address the core issues of journalistic integrity, conflicts of interest, or the accuracy of the content. While it encourages reflection on content creation priorities, it lacks specificity and fails to acknowledge the complexity of the situation or the differing perspectives presented. The message is too general and does not guide the conversation towards a constructive resolution.",
+        "score": 3
+    }
+}

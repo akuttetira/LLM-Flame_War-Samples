@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the conversation, recognizing that the phrase 'rocking the boat' can have different meanings depending on context. It validates LadyCashier's emotional experience and respectfully addresses Barhandar's perspective without dismissing it. The tone is neutral, empathetic, and encourages mutual understanding, which is appropriate for a mediation setting.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation attempts to acknowledge both perspectives but lacks specificity and fails to address the core issue of the abusive relationship. It is vague in its guidance and does not effectively encourage constructive dialogue or resolution. The response is overly general and does not provide clear direction on how to move forward in a way that respects the emotional and psychological impact of the situation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the conversation and validates both parties' perspectives. It recognizes the emotional weight of LadyCashier's experience while also addressing Barhandar's explanation of the phrase 'rocking the boat.' The tone is empathetic and neutral, encouraging mutual understanding without dismissing either viewpoint. However, it could have been more specific in addressing the core issue of the abusive relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation output effectively promotes a supportive and non-judgmental environment, encouraging users to focus on emotional support rather than policing each other. It acknowledges the sensitivity of the discussion and suggests a respectful way to handle triggering content. The message is clear, concise, and aligns with the goal of the subreddit to provide emotional support. It avoids taking sides and maintains neutrality, which is appropriate given the context of the conversation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in promoting a supportive environment, but it lacks specificity and fails to address the core issues in the conversation. It is vague in its guidance and does not clearly outline what constitutes policing or how to handle triggering content. Additionally, it does not provide actionable steps for participants to follow, which reduces its effectiveness in guiding the conversation towards a more supportive and empathetic direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively promotes a supportive and non-judgmental environment by encouraging users to focus on emotional support rather than policing each other. It acknowledges the sensitivity of the discussion and suggests a respectful way to handle triggering content. The message is clear, concise, and aligns with the goal of the subreddit to provide emotional support. It avoids taking sides and maintains neutrality, which is appropriate given the context of the conversation. However, it could be slightly more specific in its guidance on how to handle triggering content and what constitutes policing.",
+        "score": 4
+    }
+}

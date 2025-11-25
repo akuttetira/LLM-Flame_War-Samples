@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively encourages a constructive dialogue by acknowledging the passion around Reddit while urging participants to focus on facts and concerns rather than personal attacks or hypotheticals. It maintains a neutral tone and promotes a more productive conversation, which aligns with the goal of mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging a constructive conversation, but it lacks specificity and fails to address the core issues in the conversation. It is vague in its guidance and does not provide clear direction on how to separate personal opinions from factual discussions. The message is too general and does not effectively steer the conversation toward a more neutral or fact-based discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the passion around Reddit and encourages a constructive dialogue by focusing on facts and concerns rather than personal attacks or hypotheticals. It maintains a neutral tone and provides a clear direction for the conversation to be more productive. The message is well-crafted and sounds like it could be from a user rather than an AI.",
+        "score": 5
+    }
+}

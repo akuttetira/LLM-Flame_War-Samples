@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the complexity of the debate around supporting different teams and recognizes the validity of both sides' perspectives. It highlights the difference between rooting for a team and being against another, which is a key point in the discussion. The message is balanced and does not take a clear side, which aligns with the goal of mediation. It also avoids using overly strong language and maintains a neutral tone.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat vague and lacks specific guidance on how to address the underlying issue of differing opinions on team performance. It fails to clearly distinguish between supporting a team and criticizing another, and does not provide a balanced approach to handling the emotional aspects of the discussion. The statement is somewhat subjective and does not offer a clear path for constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the debate around supporting different teams and recognizes the validity of both sides' perspectives. It highlights the difference between rooting for a team and being against another, which is a key point in the discussion. The message is balanced, avoids taking a clear side, and maintains a neutral tone without using overly strong language. It also addresses the emotional aspect of the discussion by acknowledging the frustration and differing opinions present.",
+        "score": 5
+    }
+}

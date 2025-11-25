@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the more defensible argument in the conversation, focusing on the issue of Messi\u2019s handball being omitted from the animation. It also acknowledges the hurtful and dismissive responses, which is fair and constructive. The tone is neutral and steering the conversation towards a more productive discussion of the underlying issue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the core issue of the conversation, which revolves around the omission of Messi\u2019s handball in the animation and the subsequent dismissive and hurtful responses. It also lacks clarity on how to move forward constructively, and instead focuses on a partial acknowledgment of one side's point without offering a balanced or neutral perspective. The message is vague and does not provide clear guidance on how to improve the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the more defensible argument regarding Messi\u2019s handball being omitted and acknowledges the hurtful responses, which is fair and constructive. It steers the conversation towards a more productive discussion of the underlying issue without being overly prescriptive. The tone is neutral and appropriate for a user-generated mediation message.",
+        "score": 4
+    }
+}

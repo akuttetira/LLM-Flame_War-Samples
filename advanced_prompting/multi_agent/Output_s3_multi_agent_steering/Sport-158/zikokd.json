@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the difference between genuine remorse and hurtful accusations, which is key to resolving the conflict. It acknowledges the emotional weight of the situation while also addressing the inappropriate and baseless nature of the other comment. The message is clear, respectful, and steers the conversation towards a more constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat effective in acknowledging the remorseful message but fails to address the harmful and baseless accusation made by the user. It does not clearly condemn the offensive statement or provide a neutral, balanced perspective. The response is somewhat vague in its guidance and does not clearly steer the conversation toward a more constructive and respectful direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the genuine remorse and respect shown by one participant while subtly addressing the harmful and baseless accusation made by another. It provides a balanced perspective without being overly critical, which helps to calm the conversation and steer it towards a more respectful direction. The message is clear and appropriately neutral.",
+        "score": 4
+    }
+}

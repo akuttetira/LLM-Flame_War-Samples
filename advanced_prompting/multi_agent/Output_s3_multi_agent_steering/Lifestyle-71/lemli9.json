@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message effectively steers the conversation back to supporting OP and keeping the focus on their situation. It encourages constructive participation while maintaining a neutral and supportive tone. The message is clear, concise, and aligns with the goal of facilitating a respectful and helpful discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat effective in encouraging focus on supporting OP and keeping the conversation centered. However, it is somewhat vague in its guidance and lacks specific direction on how to engage constructively. It does not clearly address the need for empathy or provide actionable steps for participants to contribute meaningfully. The message is neutral but lacks the specificity needed to ensure the conversation remains productive and supportive.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation message successfully guides the conversation back to supporting OP and maintaining focus on their situation. It is clear, concise, and maintains a neutral and supportive tone, which is appropriate for the context. While it could be more specific in its guidance, it effectively encourages constructive participation without judgment.",
+        "score": 4
+    }
+}

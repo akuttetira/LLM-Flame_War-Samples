@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that both teams showed poor sportsmanship, while also addressing the broader issue of potential racism and xenophobia. It avoids taking a one-sided stance and instead encourages a more balanced perspective, which is crucial in a discussion involving strong emotions and conflicting viewpoints. The message is clear, fair, and maintains a neutral tone.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output fails to adequately address the core issues in the conversation. It oversimplifies the complex dynamics between the teams and individuals involved, and does not effectively counter the claims of racism and xenophobia that are repeatedly made. The output is vague and does not provide a clear, balanced perspective that would help guide the conversation towards a more constructive direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the situation by recognizing that both teams showed poor sportsmanship, while also addressing the broader issue of potential racism and xenophobia. It avoids taking a one-sided stance and instead encourages a more balanced perspective, which is crucial in a discussion involving strong emotions and conflicting viewpoints. The message is clear, fair, and maintains a neutral tone.",
+        "score": 5
+    }
+}

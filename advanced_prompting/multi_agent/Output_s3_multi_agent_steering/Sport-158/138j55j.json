@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges the emotional impact of the 2018 and 2022 World Cup matches on some individuals, recognizing their continued distress. It also addresses the perspective of those who dismiss the trauma as irrelevant, showing a balanced view. The message is empathetic and acknowledges the validity of both sides' feelings without taking a clear stance, which is effective in steering the conversation towards understanding and empathy.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance for resolving the conflict in the conversation. It makes a general claim about who is 'more in the right' without addressing the specific points of contention or offering a path forward. The message is also biased, as it implies that those still upset are more justified than those who dismiss the trauma, which does not promote neutrality or effective resolution of the disagreement.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation acknowledges the emotional impact of the 2018 and 2022 World Cup matches on some individuals, recognizing their continued distress. It also addresses the perspective of those who dismiss the trauma as irrelevant, showing a balanced view. The message is empathetic and acknowledges the validity of both sides' feelings without taking a clear stance, which is effective in steering the conversation towards understanding and empathy.",
+        "score": 5
+    }
+}

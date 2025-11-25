@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the emotional tone of the conversation and encourages a focus on the game's direction and impact rather than personal attacks. It acknowledges the passion of the users and suggests a more respectful and fact-based discussion. The message is well-crafted, neutral, and aims to steer the conversation towards a more constructive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the issues discussed. It mentions separating facts from emotions and focusing on respectful conversation, but it does not provide clear steps or direction on how to do so. The message is also somewhat dismissive of the strong emotions and opinions expressed in the conversation, which could be seen as ineffective in addressing the underlying concerns. The mediation does not effectively address the specific issues of clickbait, misinformation, and the impact of the leaks on the gaming community.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the passionate nature of the conversation and encourages a focus on the game's direction and impact rather than personal attacks. It provides a neutral and constructive approach to steering the discussion towards a more respectful and fact-based dialogue. The message is well-crafted and aims to de-escalate the emotional tone of the conversation.",
+        "score": 4
+    }
+}

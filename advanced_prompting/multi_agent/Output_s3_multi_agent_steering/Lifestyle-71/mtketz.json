@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message is positive and encourages a supportive conversation. It acknowledges the importance of sharing experiences and healing, which aligns with the context of the discussion. The message is neutral, respectful, and aims to guide the conversation towards mutual support rather than conflict. It does not impose a specific viewpoint but rather invites a more constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to support each other without tearing each other down. It suggests focusing on sharing experiences of overcoming adversity, but does not address the specific concerns raised in the conversation, such as the need for empathy, validation, and avoiding generalizations. The message is too general and does not provide clear direction on how to move forward constructively.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively encourages a supportive and empathetic conversation by focusing on shared experiences of overcoming adversity and healing. It acknowledges the importance of mutual support without imposing specific viewpoints, which aligns with the context of the discussion. The message is respectful, neutral, and aims to guide the conversation towards constructive dialogue, making it appropriate for the context.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges differing opinions and encourages a collaborative approach by asking about priorities and budget. It is neutral, fair, and steers the conversation towards finding common ground, which is appropriate for a discussion about gaming chairs. The message is well-worded and sounds like a genuine user trying to facilitate a constructive dialogue.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to proceed. It suggests sharing experiences and finding a middle ground but does not provide clear direction on how to do so. The message is also overly general and does not address the specific concerns or priorities mentioned in the conversation, such as durability, comfort, and back support. As a result, it fails to effectively guide the conversation towards a constructive resolution.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges differing opinions and encourages a collaborative approach by asking about priorities and budget. It is neutral, fair, and steers the conversation towards finding common ground, which is appropriate for a discussion about gaming chairs. The message is well-worded and sounds like a genuine user trying to facilitate a constructive dialogue.",
+        "score": 5
+    }
+}

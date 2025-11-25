@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the historical context of conservative parties co-opting marginalized groups and suggests a constructive approach by focusing on building coalitions and inclusivity. It avoids taking a definitive stance on the issue while encouraging a more nuanced and positive perspective, which aligns with the goal of steering the conversation towards collaboration rather than conflict.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to address the conversation's contentious themes. It suggests a general idea of building coalitions and inclusivity but fails to provide concrete steps or address the underlying biases and assumptions in the discussion. The message is too abstract and does not effectively steer the conversation toward a more constructive or neutral direction.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the historical context of conservative parties and suggests a constructive approach by focusing on building coalitions and inclusivity. It provides a balanced perspective without taking a definitive stance, which helps to calm the conversation and encourage a more nuanced discussion. The message is well-worded and sounds like it could be from a user rather than an AI.",
+        "score": 4
+    }
+}

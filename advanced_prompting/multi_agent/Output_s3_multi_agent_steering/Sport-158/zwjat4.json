@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the nuanced debate between individual brilliance and team efforts in football goals, acknowledging both perspectives without taking a definitive stance. It frames the discussion in a way that is fair and balanced, encouraging a more thoughtful consideration of the arguments presented. The message is concise, clear, and steers the conversation towards a more constructive and analytical discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the debate between individual brilliance and team efforts in goals. It does not clearly define terms like 'valuable' or 'defensible' in the context of the discussion, nor does it provide a structured approach to resolving the disagreement. The message is somewhat neutral but fails to offer concrete steps or criteria for evaluating the arguments presented.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively captures the core of the debate between individual brilliance and team efforts in football goals, acknowledging both sides without taking a definitive stance. It provides a clear, balanced framework for the discussion, encouraging a more analytical and respectful exchange. The message is well-structured and conveys a neutral, thoughtful perspective that aligns with the conversation's tone.",
+        "score": 4
+    }
+}

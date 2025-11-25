@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the shared experience of dealing with abuse and emphasizes supporting each other without judgment or blame. It is empathetic, neutral, and aims to create a safe space for discussion. The message is well-worded and effectively steers the conversation towards a more constructive and supportive direction.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and lacks specific guidance on how to support each other without re-traumatizing. It does not address the specific issues of abuse, judgment, or the need for empathy in the conversation. The message is general and does not offer actionable steps or clear boundaries for respectful dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the shared experience of dealing with abuse and emphasizes the importance of supporting each other without judgment or blame. It is empathetic, neutral, and aims to create a safe space for discussion. The message is well-worded and provides a clear, constructive direction for the conversation. However, it could be slightly more specific in offering actionable steps to prevent re-traumatization.",
+        "score": 4
+    }
+}

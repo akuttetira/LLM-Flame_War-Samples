@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument and highlights the nuanced discussion around rule interpretation and referee decisions. It avoids taking a definitive stance and instead encourages a balanced view, which aligns with the conversation's nature. The message is neutral, fair, and steers the conversation toward understanding the broader context rather than a simple binary answer.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity, failing to address the core issue of the debate. It does not provide clear guidance on how to resolve the disagreement between the parties, nor does it address the specific points raised about the interpretation of the rules and the referee's role. The message is too general and does not offer a path forward for the discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the argument and highlights the nuanced discussion around rule interpretation and referee decisions. It avoids taking a definitive stance and instead encourages a balanced view, which aligns with the conversation's nature. The message is neutral, fair, and steers the conversation toward understanding the broader context rather than a simple binary answer.",
+        "score": 5
+    }
+}

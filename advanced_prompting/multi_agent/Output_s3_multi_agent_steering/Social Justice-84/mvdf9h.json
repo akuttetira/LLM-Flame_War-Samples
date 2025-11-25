@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the passionate nature of the discussion and encourages focusing on facts and avoiding personal attacks. It also suggests learning from each other's perspectives and finding common ground, which is a fair and effective approach to steering the conversation towards a more constructive direction. The message is neutral and does not take sides, making it suitable for a mediation context.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is too vague and lacks specific guidance on how to address the contentious issues at hand. It fails to acknowledge the complexity of the topic, the presence of conflicting evidence, and the need for a more structured approach to discussion. The message is also too general and does not provide clear direction on how to handle the specific arguments being made, such as the credibility of sources like Adrian Zenz or the testimonies of Uighur individuals. As a result, it does not effectively steer the conversation towards a more constructive and neutral discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the passionate nature of the discussion and encourages focusing on facts and avoiding personal attacks. It also suggests learning from each other's perspectives and finding common ground, which is a fair and effective approach to steering the conversation towards a more constructive direction. The message is neutral and does not take sides, making it suitable for a mediation context. However, it could be more specific in addressing the complex issues of evidence, credibility of sources, and testimonies.",
+        "score": 4
+    }
+}

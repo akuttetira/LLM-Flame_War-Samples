@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue by highlighting the hurtfulness of dismissing the emotional impact of suicidal ideation and blaming the person for not being able to cope. It also addresses the initial claim about the church\u2019s response without taking a definitive stance, which maintains neutrality and fairness. The message is concise, relevant, and steers the conversation towards a more empathetic and informed discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and fails to address the core issues effectively. It does not clearly explain why dismissing the emotional impact of suicidal ideation is harmful, nor does it provide a constructive path forward. The statement is overly general and does not guide the conversation towards a more empathetic or helpful discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the complexity of the issue by highlighting the hurtfulness of dismissing the emotional impact of suicidal ideation and blaming the person for not being able to cope. It also addresses the initial claim about the church\u2019s response without taking a definitive stance, which maintains neutrality and fairness. The message is concise, relevant, and steers the conversation towards a more empathetic and informed discussion.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the key point that football culture and development are more significant factors in a country's success than ethnic heritage. It steers the conversation towards a more nuanced and balanced discussion, acknowledging the complexity of the issue without dismissing the role of Italian heritage entirely. The message is clear, concise, and aligns with the conversation's context, making it a fair and effective steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat effective in addressing the main point of contention between the arguments about football culture versus Italian heritage. However, it is vague and lacks specificity in explaining why football culture is more convincing. It does not directly address the counterarguments or provide a clear, neutral perspective on the issue. The mediation also fails to acknowledge the complexity of the debate, such as the role of coaching, player development, and historical context. As a result, it is not sufficiently detailed or neutral to fully resolve the conversation.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the main point of contention by emphasizing the importance of football culture and development over ethnic heritage. It provides a clear, balanced perspective that steers the conversation towards a more nuanced discussion without dismissing the role of Italian heritage. The message is well-worded, concise, and aligns with the conversation's context, making it a fair and effective steering message.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message attempts to steer the conversation towards focusing on facts and rules rather than personal attacks. It acknowledges the complexity of the situation and suggests a constructive approach. However, it is somewhat vague and does not specifically address the issues of moderation, censorship, or the subreddits' purposes. The message is neutral and tries to encourage a collaborative approach, but it lacks concrete steps or guidance on how to achieve this.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specific guidance on how to address the issues raised in the conversation. It does not clearly define what constitutes inappropriate behavior, nor does it provide actionable steps for the participants to follow. The message is also overly general and does not address the specific concerns about moderation, hate speech, and the subreddits' purposes. As a result, it fails to effectively steer the conversation towards a constructive resolution.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message is somewhat neutral and attempts to encourage focus on facts and rules, but it lacks specific guidance on addressing the issues of moderation, hate speech, and the subreddits' purposes. It is vague and does not provide actionable steps or clear direction for the participants to follow, which limits its effectiveness in steering the conversation towards a constructive resolution.",
+        "score": 2
+    }
+}

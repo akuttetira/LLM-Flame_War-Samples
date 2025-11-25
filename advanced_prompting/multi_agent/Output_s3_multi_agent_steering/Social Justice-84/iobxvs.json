@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation towards discussing the content and behavior that led to bans, rather than focusing on blanket accusations or political affiliations. It encourages a constructive discussion about community improvement, which is appropriate and neutral. The message is well-worded, clear, and avoids taking sides, making it a fair and effective mediation.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is vague and lacks specificity. It fails to address the core issue of the controversy around the sub being a ban evasion sub. It also does not directly address the accusations of purging left spaces or the tone of the discussions. The message is too general and does not provide a clear path for the conversation to move forward in a constructive manner.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the core issue by focusing on the content and behavior leading to bans, while avoiding political accusations. It encourages a constructive discussion about community improvement, which is appropriate and neutral. The message is clear, well-worded, and avoids taking sides, making it a fair and effective mediation.",
+        "score": 5
+    }
+}

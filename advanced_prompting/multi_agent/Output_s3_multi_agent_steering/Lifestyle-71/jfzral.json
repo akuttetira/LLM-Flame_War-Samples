@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the shared experiences and supports the community's emotional needs by suggesting resources like therapy or support groups. It is empathetic and encourages constructive dialogue, which is appropriate for the context of the conversation. However, it could be more specific in addressing the emotional and psychological impacts described in the conversation.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific guidance on how to address the toxic behavior described. It fails to acknowledge the severity of the issues and does not provide actionable steps or resources that are relevant to the situation. The message is too general and does not reflect the specific challenges faced by the individuals in the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the shared experiences and supports the community's emotional needs by suggesting resources like therapy or support groups. However, it is somewhat vague and does not specifically address the toxic behaviors described, such as the mother's emotional manipulation and the cycle of criticism and guilt. While it is empathetic, it could have provided more concrete guidance or recognition of the severity of the issues faced by the individuals.",
+        "score": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively steers the conversation towards a constructive discussion about the Q&A format and potential solutions. It acknowledges the drama without getting drawn into it and encourages a focused, problem-solving approach. The tone is neutral and user-like, avoiding the coldness of an AI response. It invites the participants to reflect on the mechanics of the sub and consider improvements, which is both fair and effective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is vague and lacks specificity in addressing the issues raised. It fails to acknowledge the specific concerns about the sub being a 'racist, transphobic ban evasion sub' and the negative experiences described. The mediation is too general and does not provide clear guidance on how to move forward or address the specific problems identified in the conversation.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively steers the conversation towards a constructive discussion about the Q&A format and potential solutions. It acknowledges the drama without getting drawn into it and encourages a focused, problem-solving approach. The tone is neutral and user-like, avoiding the coldness of an AI response. It invites the participants to reflect on the mechanics of the sub and consider improvements, which is both fair and effective.",
+        "score": 5
+    }
+}

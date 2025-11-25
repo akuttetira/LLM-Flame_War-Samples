@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the validity of both sides' arguments but leans towards the perspective that the new format may lead to more dead rubbers and less competitive games. It provides a balanced view by highlighting the counterpoint about more exciting matchups but ultimately sides with the argument that the new format could reduce competition. The tone is neutral and the message is clear, making it effective in steering the conversation towards a more balanced discussion.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation fails to address the complexity of the debate and the nuances presented by both sides. It does not adequately acknowledge the counterarguments or provide a balanced perspective. The statement is somewhat vague and does not clearly explain why one argument is more convincing than the other, which reduces its effectiveness and neutrality.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the validity of both sides' arguments but leans towards the perspective that the new format may lead to more dead rubbers and less competitive games. It provides a balanced view by highlighting the counterpoint about more exciting matchups but ultimately sides with the argument that the new format could reduce competition. The tone is neutral and the message is clear, making it effective in steering the conversation towards a more balanced discussion.",
+        "score": 4
+    }
+}

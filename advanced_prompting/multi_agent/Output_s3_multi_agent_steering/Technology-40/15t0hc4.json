@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the high emotions in the conversation and suggests focusing on supporting Madison and LMG. It is neutral and aims to steer the conversation towards a more constructive direction by emphasizing the need to separate facts from feelings. The message is well-worded and shows an understanding of the situation, making it effective in guiding the conversation towards a more balanced perspective.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specific guidance on how to separate facts from feelings or support Madison and LMG. It does not address the underlying issues of toxic community behavior, the need for objective discussion, or the importance of considering multiple perspectives. The message is too general and does not provide actionable steps to resolve the conflict or promote constructive dialogue.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the high emotions in the conversation and suggests focusing on supporting Madison and LMG as they navigate this difficult situation. It is neutral and aims to steer the conversation towards a more constructive direction by emphasizing the need to separate facts from feelings. However, it is somewhat vague and lacks specific guidance on how to achieve this, which could be improved with more concrete steps. The message is well-worded and shows an understanding of the situation, making it effective in guiding the conversation towards a more balanced perspective.",
+        "score": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively highlights the flaw in using past performance as a predictor of future success, which is a key point in the conversation. It also addresses the role of coaching decisions in a match outcome, which is another central theme. The message is neutral, concise, and steers the conversation towards a more balanced perspective without taking sides. It avoids reinforcing the extreme views expressed in the conversation and instead encourages a more nuanced discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and fails to address the specific issues in the conversation. It makes a general statement about the reliability of past performance and the influence of a coach, but does not provide clear guidance or steer the conversation towards a more constructive direction. The statement is also somewhat dismissive and does not acknowledge the emotional weight of the participants' comments, which is crucial in a mediated setting.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the key points in the conversation by highlighting the limitations of using past performance as a predictor and the complexity of coaching decisions. It provides a balanced perspective without taking sides, which is crucial in a mediated setting. The message is clear, concise, and aims to steer the conversation towards a more nuanced discussion rather than reinforcing extreme views.",
+        "score": 4
+    }
+}

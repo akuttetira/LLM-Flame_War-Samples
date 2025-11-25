@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of NDAs and suggests a more nuanced discussion, which is appropriate given the technical and legal nuances in the conversation. It avoids taking a clear side and encourages a broader perspective, which is fair and effective. However, it could have been more specific in guiding the conversation towards resolving the core issues of ownership and potential legal implications.",
+        "score": 4
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is vague and lacks specificity. It suggests considering the complexity of NDAs and the possibility that Billet Labs may have been taken advantage of, but it does not provide clear guidance on how to approach the discussion or address the specific concerns raised. The message is too general and does not effectively steer the conversation towards a more balanced or constructive discussion.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the complexity of NDAs and suggests a more nuanced discussion, which is appropriate given the technical and legal nuances in the conversation. It avoids taking a clear side and encourages a broader perspective, which is fair and effective. However, it could have been more specific in guiding the conversation towards resolving the core issues of ownership and potential legal implications.",
+        "score": 4
+    }
+}

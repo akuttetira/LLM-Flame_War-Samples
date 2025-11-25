@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively acknowledges the original comment's positive sentiment and highlights the troll's inappropriate response. It provides a balanced perspective by recognizing the defender's stance as more justified while addressing the dismissive attitude. The message is clear, fair, and steers the conversation towards a more constructive direction without appearing robotic or AI-generated.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation output is somewhat effective in acknowledging the complexity of the conversation but lacks clarity and specificity. It attempts to guide the conversation by suggesting that the person defending the original comment is more in the right, but it does not clearly explain why or provide a neutral framework for understanding the interaction. The message is vague in its reasoning and does not address the underlying issues or provide a balanced perspective. Additionally, the tone is somewhat biased towards one side of the argument, which may not be fair or neutral.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the original comment's positive sentiment and highlights the troll's inappropriate response. It provides a balanced perspective by recognizing the defender's stance as more justified while addressing the dismissive attitude. The message is clear, fair, and steers the conversation towards a more constructive direction without appearing robotic or AI-generated.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the inappropriate comment by highlighting the discrepancy between respectful team preferences and a distracting, humorous remark. It maintains a neutral tone, correctly identifies the inappropriate behavior, and guides the conversation back to the original topic without being overly critical or dismissive. The message is clear, concise, and serves as a useful steering mechanism.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation statement is somewhat effective in identifying the inappropriate comment as being more off-topic and disrespectful. However, it is somewhat vague in its criticism and does not clearly explain why the comment is wrong or how the conversation should proceed. The statement could be more specific in addressing the issue and guiding the conversation towards a more respectful and relevant direction.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively identifies the inappropriate comment and distinguishes it from respectful team preferences, which helps to redirect the conversation. It maintains a neutral tone and provides a clear reason for the criticism, making it a useful steering mechanism. However, it could be slightly more specific in explaining the issue and guiding the conversation forward.",
+        "score": 4
+    }
+}

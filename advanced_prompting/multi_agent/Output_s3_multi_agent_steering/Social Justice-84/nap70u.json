@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of the issue and encourages a more constructive dialogue by focusing on specific policies and avoiding generalizations. It is neutral, respectful, and aims to steer the conversation towards a more productive direction without taking sides. The message is well-worded and aligns with the goal of facilitating a fair and effective discussion.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to address the complex issues discussed. It suggests focusing on specific issues and policies but does not provide clear direction on how to do so. The message is also somewhat neutral but could be more effective by addressing the underlying concerns and providing a framework for constructive dialogue.",
+        "score": 3
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the complexity of the issue and encourages a constructive dialogue by focusing on specific policies and avoiding generalizations. It is neutral, respectful, and aims to steer the conversation towards a more productive direction without taking sides. The message is well-worded and aligns with the goal of facilitating a fair and effective discussion.",
+        "score": 5
+    }
+}

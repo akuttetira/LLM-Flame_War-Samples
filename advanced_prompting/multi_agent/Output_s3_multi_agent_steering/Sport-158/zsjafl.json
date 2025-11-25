@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation acknowledges that the original post had an off-topic and inflammatory title, and recognizes that the subsequent responses redirecting the conversation to other subreddits are more appropriate. It provides a balanced perspective without taking a strong stance, which is fair and neutral. The message is concise and effectively steers the conversation toward more relevant discussions.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation is somewhat effective in acknowledging that the original post had an off-topic and inflammatory title, but it fails to address the specific issue of the conversation being redirected to other subreddits in a constructive manner. The statement is vague and does not provide clear guidance on how to proceed or resolve the issue. It also uses a subjective comparison ('more in the right') which is not neutral or fair.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively acknowledges the original post's off-topic and inflammatory nature while recognizing the appropriateness of redirecting the conversation to other subreddits. It provides a balanced perspective without taking a strong stance, which is fair and neutral. The message is concise and effectively steers the conversation toward more relevant discussions.",
+        "score": 5
+    }
+}

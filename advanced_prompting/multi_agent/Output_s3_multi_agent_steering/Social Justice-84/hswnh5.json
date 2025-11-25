@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation effectively addresses the issue of the conversation devolving into personal attacks and suggests a return to the original topic. It is concise, clear, and directly addresses the problem without being overly prescriptive. The tone is neutral and constructive, which is appropriate for a mediation setting.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat relevant but lacks specificity and fails to address the core issues in the conversation. It mentions personal attacks but does not provide clear guidance on how to refocus the discussion. The message is vague and does not offer actionable steps to redirect the conversation towards the original topic. Additionally, it does not acknowledge the specific concerns raised by the participants, such as the Russian connection and the ideological views expressed. The message is too general and does not effectively address the underlying tensions in the discussion.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation effectively addresses the issue of the conversation devolving into personal attacks and suggests a return to the original topic. It is concise, clear, and directly addresses the problem without being overly prescriptive. The tone is neutral and constructive, which is appropriate for a mediation setting.",
+        "score": 5
+    }
+}

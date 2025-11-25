@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the community's concern and emphasizes the consequences of the company's actions, which is a positive approach. It encourages a more nuanced discussion and highlights the impact of actions on others, which is fair and effective. The message is well-worded and conveys a balanced perspective without taking sides, making it a good steering message.",
+        "score": 5
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is somewhat vague and lacks specific guidance on how to approach the discussion more effectively. It mentions being mindful of the impact of actions but doesn't offer concrete steps or address the nuances of the situation, such as the differing perspectives on responsibility and the role of social media. The message is too general and doesn't provide a clear path for constructive dialogue.",
+        "score": 2
+    },
+    "final_verdict": {
+        "rationale": "The mediation message effectively acknowledges the community's concerns and emphasizes the consequences of the company's actions, which is a positive approach. It encourages a more nuanced discussion and highlights the impact of actions on others, which is fair and effective. The message is well-worded and conveys a balanced perspective without taking sides, making it a good steering message.",
+        "score": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "positive_judgement": {
+        "rationale": "The mediation message acknowledges the complexity of the discussion around conspiracy theories and emphasizes the shared goal of truth and understanding. It is neutral, respectful, and encourages open dialogue. However, it is somewhat vague and does not directly address the specific concerns raised in the conversation about the nature of the subreddit and the definition of conspiracies. It could have been more specific in steering the conversation towards finding common ground.",
+        "score": 3
+    },
+    "negative_judgement": {
+        "rationale": "The mediation message is overly vague and lacks specific guidance for resolving the conflict. It fails to address the core issues in the conversation, such as the mislabeling of antifa as a group involved in voter suppression, the sub's history of racism and political extremism, and the debate over what constitutes a legitimate conspiracy sub. The message is too general and does not offer actionable steps or clear direction for the participants to move forward constructively.",
+        "score": 1
+    },
+    "final_verdict": {
+        "rationale": "The mediation message acknowledges the complexity of the discussion and emphasizes shared goals, which is positive. However, it is somewhat vague and does not directly address the specific concerns about the subreddit's nature, the mislabeling of antifa, or the definition of conspiracies. It could have been more specific in steering the conversation towards finding common ground and resolving the underlying tensions.",
+        "score": 3
+    }
+}
